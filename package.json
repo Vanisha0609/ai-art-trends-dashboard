@@ -2,6 +2,7 @@
   "name": "ai-art-news-dashboard",
   "version": "1.0.0",
   "main": "script.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -18,6 +19,7 @@
   "homepage": "https://github.com/Vanisha0609/ai-art-trends-dashboard#readme",
   "description": "",
   "dependencies": {
+    "dotenv": "^17.3.1",
     "rss-parser": "^3.13.0"
   }
 }
