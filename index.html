@@ -1,0 +1,342 @@
+<!DOCTYPE html>
+
+<html class="light" lang="en"><head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>Art Trends | Daily Curator</title>
+<!-- Fonts -->
+<link href="https://fonts.googleapis.com/css2?family=Epilogue:wght@400;600;700;800&amp;family=Inter:wght@300;400;500;600&amp;display=swap" rel="stylesheet"/>
+<!-- Icons -->
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet"/>
+<script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
+<script id="tailwind-config">
+      tailwind.config = {
+        darkMode: "class",
+        theme: {
+          extend: {
+            colors: {
+              "on-background": "#2e3339",
+              "tertiary-fixed-dim": "#fc9029",
+              "secondary-container": "#e8deff",
+              "on-primary-fixed-variant": "#8a131e",
+              "on-surface-variant": "#5a6066",
+              "on-primary-container": "#7d0617",
+              "tertiary-container": "#ffa357",
+              "tertiary-dim": "#814300",
+              "on-tertiary-fixed": "#361900",
+              "outline": "#767b82",
+              "primary-fixed-dim": "#ff9693",
+              "surface-container-high": "#e5e8ef",
+              "error-dim": "#821a01",
+              "primary-container": "#ffaba8",
+              "on-error-container": "#671200",
+              "secondary-dim": "#5b2fcd",
+              "background": "#f8f9fd",
+              "surface-container-low": "#f2f4f8",
+              "secondary-fixed-dim": "#dacdff",
+              "on-surface": "#2e3339",
+              "inverse-primary": "#ff6b6b",
+              "on-secondary-fixed": "#4707b9",
+              "primary": "#af3035",
+              "primary-dim": "#9e232a",
+              "on-secondary": "#fdf7ff",
+              "surface-container-lowest": "#ffffff",
+              "surface-container": "#ebeef4",
+              "on-primary": "#fff7f6",
+              "inverse-surface": "#0c0e11",
+              "surface": "#f8f9fd",
+              "on-tertiary-fixed-variant": "#643200",
+              "surface-dim": "#d5dae2",
+              "surface-bright": "#f8f9fd",
+              "on-secondary-container": "#5a2dcb",
+              "surface-tint": "#af3035",
+              "outline-variant": "#adb2b9",
+              "on-primary-fixed": "#58000b",
+              "primary-fixed": "#ffaba8",
+              "secondary": "#683ed9",
+              "surface-container-highest": "#dee3ea",
+              "error-container": "#fa7150",
+              "on-secondary-fixed-variant": "#643ad5",
+              "secondary-fixed": "#e8deff",
+              "tertiary": "#934d00",
+              "surface-variant": "#dee3ea",
+              "on-tertiary": "#fff7f4",
+              "on-error": "#fff7f6",
+              "tertiary-fixed": "#ffa357",
+              "on-tertiary-container": "#572b00",
+              "error": "#aa371c",
+              "inverse-on-surface": "#9b9da1"
+            },
+            fontFamily: {
+              "headline": ["Epilogue"],
+              "body": ["Inter"],
+              "label": ["Inter"]
+            },
+            borderRadius: {"DEFAULT": "1rem", "lg": "2rem", "xl": "3rem", "full": "9999px"},
+          },
+        },
+      }
+    </script>
+<style>
+        body {
+            background-color: #f8f9fd;
+            color: #2e3339;
+            font-family: 'Inter', sans-serif;
+        }
+        .soft-shadow {
+            box-shadow: 0 8px 30px rgb(0,0,0,0.04);
+        }
+        .glass {
+            background: rgba(255, 255, 255, 0.7);
+            backdrop-filter: blur(20px);
+            -webkit-backdrop-filter: blur(20px);
+        }
+        .hover-lift {
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+        }
+        .hover-lift:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 12px 40px rgba(46, 51, 57, 0.08);
+        }
+        .material-symbols-outlined {
+            font-variation-settings: 'FILL' 0, 'wght' 400, 'GRAD' 0, 'opsz' 24;
+        }
+    </style>
+</head>
+<body class="selection:bg-primary-container selection:text-on-primary-container">
+<!-- TopAppBar -->
+<nav class="fixed top-0 w-full z-50 bg-white/70 dark:bg-slate-900/70 backdrop-blur-xl shadow-[0_8px_30px_rgb(0,0,0,0.04)]">
+<div class="flex items-center justify-between px-8 py-4 max-w-[1440px] mx-auto w-full">
+<div class="flex flex-col">
+<span class="text-2xl font-bold tracking-tighter text-slate-900 dark:text-slate-50 font-['Epilogue']">Art Trends</span>
+<span class="text-[10px] uppercase tracking-[0.2em] font-medium text-slate-500 font-['Inter']">Daily art news &amp; creative trends</span>
+</div>
+<!-- Desktop Links -->
+<div class="hidden md:flex items-center space-x-8 font-['Epilogue'] text-sm tracking-tight">
+<a class="text-rose-600 dark:text-rose-400 font-semibold border-b-2 border-rose-500 pb-1" href="#">Explore</a>
+<a class="text-slate-500 dark:text-slate-400 hover:text-slate-900 dark:hover:text-slate-100 transition-colors" href="#">Insights</a>
+<a class="text-slate-500 dark:text-slate-400 hover:text-slate-900 dark:hover:text-slate-100 transition-colors" href="#">Archive</a>
+<a class="text-slate-500 dark:text-slate-400 hover:text-slate-900 dark:hover:text-slate-100 transition-colors" href="#">Newsletter</a>
+</div>
+<div class="flex items-center space-x-4">
+<div class="hidden lg:flex items-center bg-surface-container-low px-4 py-2 rounded-full border border-transparent focus-within:border-primary-fixed transition-all">
+<span class="material-symbols-outlined text-on-surface-variant text-sm mr-2">search</span>
+<input class="bg-transparent border-none focus:ring-0 text-sm text-on-surface placeholder-on-surface-variant w-48" placeholder="Search art news..." type="text"/>
+</div>
+<button class="p-2 hover:bg-slate-50/50 dark:hover:bg-slate-800/50 rounded-full transition-transform active:scale-95">
+<span class="material-symbols-outlined text-slate-600">notifications</span>
+</button>
+<div class="h-10 w-10 rounded-full bg-gradient-to-tr from-primary to-tertiary p-[2px] cursor-pointer active:scale-95 transition-transform">
+<div class="h-full w-full rounded-full overflow-hidden border-2 border-surface-container-lowest">
+<img alt="Profile" data-alt="close-up portrait of a stylish woman with modern glasses in soft studio lighting with a clean neutral background" src="https://lh3.googleusercontent.com/aida-public/AB6AXuDQZab_LyqGqsRNTbiSzM77q3yxbFigoQ8_H2jWUyapzIrVMIVOEGqmuRgqaVp79oYf0ypfCdq1UxZe1RMFRO6MBeall_Itcc0nkZDjMA8f0CLJIWMYfMg0ofv0y4IpXeyH53oqnfHOE-IPcfrPpdt72ACQrfhJ6ByUWZrehFdL3pRdV8YebLgkI2TP5SnbdwbBWHVYZByyYXZ-khQ-B5xlp_KTgBGru-rszWHORxsOOvTtk5ymkm-tM-cT4VJTSRQfvx7uLOaoOXo"/>
+</div>
+</div>
+</div>
+</div>
+</nav>
+<main class="pt-28 pb-12 px-6 lg:px-12 max-w-[1440px] mx-auto space-y-12">
+<!-- Hero / AI Insight Section -->
+<section class="relative w-full overflow-hidden rounded-xl lg:rounded-xl">
+<div class="relative z-10 p-8 md:p-12 bg-gradient-to-br from-[#e8deff] via-[#ffaba8] to-[#ffa357] min-h-[400px] flex flex-col justify-center">
+<div class="max-w-2xl space-y-6">
+<div class="inline-flex items-center space-x-2 bg-white/30 backdrop-blur-md px-4 py-1.5 rounded-full text-on-primary-fixed-variant text-xs font-bold tracking-widest uppercase">
+<span class="material-symbols-outlined text-sm" style="font-variation-settings: 'FILL' 1;">auto_awesome</span>
+<span>AI Insight of the Day</span>
+</div>
+<h1 class="text-4xl md:text-6xl font-headline font-extrabold text-on-primary-fixed tracking-tight leading-tight">
+                        The Rise of <span class="underline decoration-white/50 underline-offset-8">Tactile Digitalism</span>.
+                    </h1>
+<p class="text-lg md:text-xl text-on-primary-fixed-variant/80 font-body leading-relaxed max-w-xl">
+                        Today's algorithm observes a massive surge in 3D visuals utilizing soft pastel gradients. Creators are merging hyper-realistic textures with surrealist dreamscapes, blurring the lines between the tangible and the virtual.
+                    </p>
+<button class="bg-on-primary-fixed text-white px-8 py-4 rounded-full font-bold text-sm hover:opacity-90 transition-opacity flex items-center group">
+                        Read Full Analysis
+                        <span class="material-symbols-outlined ml-2 transition-transform group-hover:translate-x-1">arrow_forward</span>
+</button>
+</div>
+<!-- Decorative Abstract Elements -->
+<div class="absolute right-[-5%] top-[-10%] w-96 h-96 bg-white/20 rounded-full blur-3xl"></div>
+<div class="absolute right-[10%] bottom-[-5%] w-64 h-64 bg-tertiary-container/40 rounded-full blur-2xl"></div>
+</div>
+</section>
+<!-- Mini Analytics Section -->
+<section class="grid grid-cols-1 lg:grid-cols-3 gap-8">
+<div class="lg:col-span-2 bg-surface-container-lowest p-8 rounded-xl soft-shadow border border-white/40 flex flex-col justify-between">
+<div class="flex justify-between items-start mb-8">
+<div>
+<h3 class="font-headline text-xl font-bold text-on-surface">Trends This Week</h3>
+<p class="text-on-surface-variant text-sm">Engagement levels across digital platforms</p>
+</div>
+<div class="flex space-x-2">
+<span class="flex items-center text-xs font-bold text-rose-500 bg-primary-container/20 px-3 py-1 rounded-full">+12.4%</span>
+</div>
+</div>
+<!-- Simple SVG Graph -->
+<div class="relative h-48 w-full mt-4">
+<div class="flex items-end justify-between h-40 w-full px-2 gap-3">
+<!-- Mon -->
+<div class="flex-1 flex flex-col items-center gap-2 h-full justify-end group">
+<div class="w-full bg-primary/10 rounded-t-sm h-full relative">
+<div class="absolute bottom-0 w-full bg-[#FF6B6B] rounded-t-sm transition-all duration-500 group-hover:bg-[#FF6B6B]/80" style="height: 60%;"></div>
+</div>
+</div>
+<!-- Tue -->
+<div class="flex-1 flex flex-col items-center gap-2 h-full justify-end group">
+<div class="w-full bg-primary/10 rounded-t-sm h-full relative">
+<div class="absolute bottom-0 w-full bg-[#FF6B6B] rounded-t-sm transition-all duration-500 group-hover:bg-[#FF6B6B]/80" style="height: 45%;"></div>
+</div>
+</div>
+<!-- Wed -->
+<div class="flex-1 flex flex-col items-center gap-2 h-full justify-end group">
+<div class="w-full bg-primary/10 rounded-t-sm h-full relative">
+<div class="absolute bottom-0 w-full bg-[#FF6B6B] rounded-t-sm transition-all duration-500 group-hover:bg-[#FF6B6B]/80" style="height: 75%;"></div>
+</div>
+</div>
+<!-- Thu -->
+<div class="flex-1 flex flex-col items-center gap-2 h-full justify-end group">
+<div class="w-full bg-primary/10 rounded-t-sm h-full relative">
+<div class="absolute bottom-0 w-full bg-[#FF6B6B] rounded-t-sm transition-all duration-500 group-hover:bg-[#FF6B6B]/80" style="height: 55%;"></div>
+</div>
+</div>
+<!-- Fri -->
+<div class="flex-1 flex flex-col items-center gap-2 h-full justify-end group">
+<div class="w-full bg-primary/10 rounded-t-sm h-full relative">
+<div class="absolute bottom-0 w-full bg-[#FF6B6B] rounded-t-sm transition-all duration-500 group-hover:bg-[#FF6B6B]/80" style="height: 90%;"></div>
+</div>
+</div>
+<!-- Sat -->
+<div class="flex-1 flex flex-col items-center gap-2 h-full justify-end group">
+<div class="w-full bg-primary/10 rounded-t-sm h-full relative">
+<div class="absolute bottom-0 w-full bg-[#FF6B6B] rounded-t-sm transition-all duration-500 group-hover:bg-[#FF6B6B]/80" style="height: 70%;"></div>
+</div>
+</div>
+<!-- Sun -->
+<div class="flex-1 flex flex-col items-center gap-2 h-full justify-end group">
+<div class="w-full bg-primary/10 rounded-t-sm h-full relative">
+<div class="absolute bottom-0 w-full bg-[#FF6B6B] rounded-t-sm transition-all duration-500 group-hover:bg-[#FF6B6B]/80" style="height: 65%;"></div>
+</div>
+</div>
+</div>
+<div class="flex justify-between mt-4 text-[10px] font-bold text-on-surface-variant uppercase tracking-widest font-label">
+<span class="flex-1 text-center">Mon</span>
+<span class="flex-1 text-center">Tue</span>
+<span class="flex-1 text-center">Wed</span>
+<span class="flex-1 text-center">Thu</span>
+<span class="flex-1 text-center">Fri</span>
+<span class="flex-1 text-center">Sat</span>
+<span class="flex-1 text-center">Sun</span>
+</div>
+</div>
+</div>
+<div class="space-y-6">
+<div class="bg-surface-container-low p-8 rounded-xl border border-outline-variant/10">
+<span class="material-symbols-outlined text-primary mb-4 block" style="font-size: 32px; font-variation-settings: 'FILL' 1;">star</span>
+<h4 class="text-on-surface-variant uppercase text-[10px] tracking-[0.2em] font-bold mb-1">Most popular</h4>
+<p class="text-2xl font-headline font-bold text-on-surface">Illustration</p>
+<div class="mt-4 h-1.5 w-full bg-surface-container-high rounded-full overflow-hidden">
+<div class="h-full bg-primary w-[85%] rounded-full"></div>
+</div>
+</div>
+<div class="bg-surface-container-low p-8 rounded-xl border border-outline-variant/10">
+<span class="material-symbols-outlined text-secondary mb-4 block" style="font-size: 32px; font-variation-settings: 'FILL' 1;">trending_up</span>
+<h4 class="text-on-surface-variant uppercase text-[10px] tracking-[0.2em] font-bold mb-1">Rising Fast</h4>
+<p class="text-2xl font-headline font-bold text-on-surface">3D Art</p>
+<div class="mt-4 h-1.5 w-full bg-surface-container-high rounded-full overflow-hidden">
+<div class="h-full bg-secondary w-[62%] rounded-full"></div>
+</div>
+</div>
+</div>
+</section>
+<!-- Art News Feed -->
+<section class="space-y-8">
+<div class="flex items-end justify-between">
+<div>
+<h2 class="text-3xl font-headline font-extrabold text-on-surface tracking-tight">Curation Feed</h2>
+<p class="text-on-surface-variant">Hand-picked by our editors and AI trends analyzer.</p>
+</div>
+<div class="flex space-x-2">
+<button class="px-5 py-2.5 rounded-full bg-secondary text-on-secondary text-sm font-semibold">Latest</button>
+<button class="px-5 py-2.5 rounded-full bg-surface-container-highest text-on-surface text-sm font-semibold">Trending</button>
+</div>
+</div>
+<div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+<!-- News Card 1 -->
+<article class="group hover-lift bg-surface-container-lowest rounded-xl overflow-hidden soft-shadow">
+<div class="aspect-video w-full overflow-hidden bg-surface-container">
+<img alt="Digital Art" class="w-full h-full object-cover transition-transform duration-500 group-hover:scale-110" data-alt="abstract flowing fabric in vibrant pink and purple tones floating in a minimalist white studio space with soft shadows" src="https://lh3.googleusercontent.com/aida-public/AB6AXuBVWRemBhjqmD1jFcLudPG1qnlCjEaD2RToZkLWiZNNqZfOLcK48rhbfzA83sAb-tgBDTZFbOtOX-zDRRHM7ZA0PQ_KxEjn7CMHdjKegflpbTkGQeABgHGTi5dqUMolO_DfFqxNX0DRkdI7EmkxRkuYkjBTVyUE1j9KkP_dthYq5yR7YQlzHkfsefPbFZLrzZ5fmSmkBYPRooHVDQ715Is3ktGYGdmkq7RD4FGrAMQ-2TIl8zODWrjBjfAjGrjJLGOMVzZRzDfWSyY"/>
+</div>
+<div class="p-6 space-y-4">
+<div class="flex flex-wrap gap-2">
+<span class="px-3 py-1 rounded-full bg-secondary-container text-on-secondary-container text-[10px] font-bold uppercase tracking-wider">Minimalism</span>
+<span class="px-3 py-1 rounded-full bg-tertiary-container/20 text-on-tertiary-container text-[10px] font-bold uppercase tracking-wider">Calm</span>
+</div>
+<h3 class="text-xl font-headline font-bold leading-tight group-hover:text-primary transition-colors">The Serenity of Negative Space in Digital Sculpture</h3>
+<p class="text-on-surface-variant text-sm line-clamp-3 leading-relaxed">
+                            Recent exhibitions showcase a pivot towards extreme minimalism. Artists are using emptiness as a primary medium to challenge consumerist visual noise.
+                        </p>
+<div class="pt-2 flex items-center justify-between">
+<span class="text-[10px] font-bold text-outline uppercase tracking-widest">4 min read</span>
+<button class="material-symbols-outlined text-outline hover:text-primary transition-colors">bookmark</button>
+</div>
+</div>
+</article>
+<!-- News Card 2 -->
+<article class="group hover-lift bg-surface-container-lowest rounded-xl overflow-hidden soft-shadow">
+<div class="aspect-video w-full overflow-hidden bg-surface-container">
+<img alt="Cyberpunk Visual" class="w-full h-full object-cover transition-transform duration-500 group-hover:scale-110" data-alt="a futuristic neon-lit city street at night with glowing holographic advertisements and rainy reflective pavement in a cyberpunk aesthetic" src="https://lh3.googleusercontent.com/aida-public/AB6AXuDTtrGVN32VzGDFtJCSxr04IYLzQW0j3bfMoNVLUq8rtnCZjm-MGKlVd-_84x1y9PyeNbQDo3v_NeLO6TZlxkv4KgbwhOlf7cWzzhMakdzfZOIizPfV_XrYgQGJ0G9mC8FJk3C9JgoJGAxVUbiAoxea2u9rQaJ14rF9pTUvAhb0UITzAzfudcRZ-2yBBbl2r01zk5XUKzP5ygbUB6cIyth_rxCTNHf83fv6MbH6YwVmvptdMhi82NDfVr9n3Z134RpC-Q1DEEAT6a4"/>
+</div>
+<div class="p-6 space-y-4">
+<div class="flex flex-wrap gap-2">
+<span class="px-3 py-1 rounded-full bg-primary-container/30 text-on-primary-container text-[10px] font-bold uppercase tracking-wider">Cyberpunk</span>
+<span class="px-3 py-1 rounded-full bg-error-container/20 text-on-error-container text-[10px] font-bold uppercase tracking-wider">Vibrant</span>
+</div>
+<h3 class="text-xl font-headline font-bold leading-tight group-hover:text-primary transition-colors">Neon Resurgence: Why Cyberpunk 2.0 is Darker Than Ever</h3>
+<p class="text-on-surface-variant text-sm line-clamp-3 leading-relaxed">
+                            As urban centers evolve, the "Neo-Glow" aesthetic returns. This time, focusing on gritty realism and the intersection of biology and machinery.
+                        </p>
+<div class="pt-2 flex items-center justify-between">
+<span class="text-[10px] font-bold text-outline uppercase tracking-widest">7 min read</span>
+<button class="material-symbols-outlined text-outline hover:text-primary transition-colors">bookmark</button>
+</div>
+</div>
+</article>
+<!-- News Card 3 -->
+<article class="group hover-lift bg-surface-container-lowest rounded-xl overflow-hidden soft-shadow">
+<div class="aspect-video w-full overflow-hidden bg-surface-container">
+<img alt="Vaporwave Art" class="w-full h-full object-cover transition-transform duration-500 group-hover:scale-110" data-alt="surrealist composition featuring a classical roman bust with iridescent liquid gold dripping over pastel marble surfaces and palm trees" src="https://lh3.googleusercontent.com/aida-public/AB6AXuAraC8oVHIQh4GnfuUvCPWFxRf2Uv5G5SRGCX_0saDeEa5z5quZHlJgsdMdaWkKYo6mX8XYcUH73L4opkABAs3zJxss96kAMr3Bgjxyn_zV28K7hW5KyeaFMz6PoJnOEHcH2weots8LFkItJm5Js8J7BPLdchFsTqhXMnybERTfqCAq4ep7kKcFDTCj2OmDksZy2jZ4epvBb8gTYAMY8ncyE8tvAAENKKbQKzxecCo3PzRrwhsJpJSnlKt_z4NczF3v69GSK-NReYY"/>
+</div>
+<div class="p-6 space-y-4">
+<div class="flex flex-wrap gap-2">
+<span class="px-3 py-1 rounded-full bg-secondary-fixed text-on-secondary-fixed text-[10px] font-bold uppercase tracking-wider">Surrealism</span>
+<span class="px-3 py-1 rounded-full bg-surface-container-highest text-on-surface-variant text-[10px] font-bold uppercase tracking-wider">Ethereal</span>
+</div>
+<h3 class="text-xl font-headline font-bold leading-tight group-hover:text-primary transition-colors">Colliding Eras: Classical Statues in the Metaverse</h3>
+<p class="text-on-surface-variant text-sm line-clamp-3 leading-relaxed">
+                            Virtual architecture is being flooded with classical aesthetics. Why our digital future is increasingly looking like ancient Rome.
+                        </p>
+<div class="pt-2 flex items-center justify-between">
+<span class="text-[10px] font-bold text-outline uppercase tracking-widest">5 min read</span>
+<button class="material-symbols-outlined text-outline hover:text-primary transition-colors">bookmark</button>
+</div>
+</div>
+</article>
+</div>
+</section>
+</main>
+<!-- Footer -->
+<footer class="bg-slate-50 dark:bg-slate-950 w-full mt-20 rounded-t-[3rem] tonal-shift bg-slate-100 dark:bg-slate-900">
+<div class="flex flex-col md:flex-row justify-between items-center px-12 py-10 max-w-[1440px] mx-auto">
+<div class="mb-6 md:mb-0">
+<span class="text-lg font-bold text-slate-900 dark:text-slate-100 font-headline">Art Trends</span>
+<p class="text-[10px] uppercase tracking-widest font-medium text-slate-400 dark:text-slate-500 font-['Inter'] mt-1">© 2024 Art Trends. Curated with precision.</p>
+</div>
+<div class="flex space-x-8 font-['Inter'] text-xs uppercase tracking-widest font-medium">
+<a class="text-slate-400 dark:text-slate-500 hover:text-rose-500 transition-colors hover:underline decoration-rose-500 underline-offset-4" href="#">Privacy Policy</a>
+<a class="text-slate-400 dark:text-slate-500 hover:text-rose-500 transition-colors hover:underline decoration-rose-500 underline-offset-4" href="#">Terms of Service</a>
+<a class="text-slate-400 dark:text-slate-500 hover:text-rose-500 transition-colors hover:underline decoration-rose-500 underline-offset-4" href="#">Contact</a>
+<a class="text-slate-400 dark:text-slate-500 hover:text-rose-500 transition-colors hover:underline decoration-rose-500 underline-offset-4" href="#">Press Kit</a>
+</div>
+</div>
+</footer>
+</body></html>
