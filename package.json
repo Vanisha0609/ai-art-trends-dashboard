@@ -1,0 +1,23 @@
+{
+  "name": "ai-art-news-dashboard",
+  "version": "1.0.0",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vanisha0609/ai-art-trends-dashboard.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vanisha0609/ai-art-trends-dashboard/issues"
+  },
+  "homepage": "https://github.com/Vanisha0609/ai-art-trends-dashboard#readme",
+  "description": "",
+  "dependencies": {
+    "rss-parser": "^3.13.0"
+  }
+}
