@@ -90,7 +90,7 @@ async function run() {
     results.push(processed);
   }
 
-  const now = new Date().toLocaleString();
+ const now = new Date().toISOString();
 
   const finalData = {
     lastUpdated: now,

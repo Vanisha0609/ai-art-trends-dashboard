@@ -1,26 +1,29 @@
-[
-  {
-    "title": "Ex-Sotheby’s CEO Tad Smith Banks on NFTs, Agrees to Buy Collectibles Platform Candy Digital",
-    "image": "https://placehold.co/600x400",
-    "summary": "The deal has not closed, but Smith announced on X that he would serve as CEO.",
-    "style": "Unknown",
-    "mood": "Neutral",
-    "link": "https://www.artnews.com/art-news/news/ex-sothebys-ceo-tad-smith-banks-on-nfts-agrees-to-buy-collectibles-platform-candy-digital-1234779125/"
-  },
-  {
-    "title": "Manhattan D.A.’s Office Returns 17 Stolen Antiquities and Rare Books to Italy",
-    "image": "https://placehold.co/600x400",
-    "summary": "The recovered items were formally returned in a ceremony held this week",
-    "style": "Unknown",
-    "mood": "Neutral",
-    "link": "https://www.artnews.com/art-news/news/manhattan-d-a-s-office-returns-stolen-antiquities-to-italy-1234779115/"
-  },
-  {
-    "title": "Long-Lost Skeleton of D’Artagnan, the Fourth Musketeer, Discovered in Dutch Church",
-    "image": "https://placehold.co/600x400",
-    "summary": "The remains, along with a musket ball and a 17th-century French coin, were found under the floor of a church in Maastricht.",
-    "style": "Unknown",
-    "mood": "Neutral",
-    "link": "https://www.artnews.com/art-news/news/long-lost-skeleton-dartagnan-fourth-musketeer-discovered-dutch-church-maastricht-1234779070/"
-  }
-]
+{
+  "lastUpdated": "2026-03-27T07:06:35.042Z",
+  "articles": [
+    {
+      "title": "Ex-Sotheby’s CEO Tad Smith Banks on NFTs, Agrees to Buy Collectibles Platform Candy Digital",
+      "image": "https://placehold.co/600x400",
+      "summary": "The deal has not closed, but Smith announced on X that he would serve as CEO.",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://www.artnews.com/art-news/news/ex-sothebys-ceo-tad-smith-banks-on-nfts-agrees-to-buy-collectibles-platform-candy-digital-1234779125/"
+    },
+    {
+      "title": "Manhattan D.A.’s Office Returns 17 Stolen Antiquities and Rare Books to Italy",
+      "image": "https://placehold.co/600x400",
+      "summary": "The recovered items were formally returned in a ceremony held this week",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://www.artnews.com/art-news/news/manhattan-d-a-s-office-returns-stolen-antiquities-to-italy-1234779115/"
+    },
+    {
+      "title": "Long-Lost Skeleton of D’Artagnan, the Fourth Musketeer, Discovered in Dutch Church",
+      "image": "https://placehold.co/600x400",
+      "summary": "The remains, along with a musket ball and a 17th-century French coin, were found under the floor of a church in Maastricht.",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://www.artnews.com/art-news/news/long-lost-skeleton-dartagnan-fourth-musketeer-discovered-dutch-church-maastricht-1234779070/"
+    }
+  ]
+}
