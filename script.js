@@ -1,11 +1,30 @@
 async function loadNews() {
   try {
     const res = await fetch("news.json");
-    const articles = await res.json();
+    const data = await res.json();
+    const articles = data.articles;
+    const lastUpdated = new Date(data.lastUpdated);
 
+    // 🕒 Calculate "time ago"
+    const now = new Date();
+    const diffMs = now - lastUpdated;
+    const diffMins = Math.floor(diffMs / (1000 * 60));
+    const diffHours = Math.floor(diffMins / 60);
+
+    let timeAgo = "";
+    if (diffMins < 1) {
+      timeAgo = "Just now";
+    } else if (diffMins < 60) {
+      timeAgo = `${diffMins} min ago`;
+    } else {
+      timeAgo = `${diffHours} hr ago`;
+    }
     const container = document.getElementById("news-container");
     container.innerHTML = "";
 
+// ✅ SET LAST UPDATED HERE
+    document.getElementById("last-updated").innerText = `⏱️ Updated ${timeAgo}`;
+    
     articles.forEach(article => {
       const card = `
         <article class="group hover-lift bg-surface-container-lowest rounded-xl overflow-hidden soft-shadow">

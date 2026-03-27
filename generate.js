@@ -90,9 +90,14 @@ async function run() {
     results.push(processed);
   }
 
-  fs.writeFileSync("news.json", JSON.stringify(results, null, 2));
+  const now = new Date().toLocaleString();
 
-  console.log("✅ news.json generated!");
+  const finalData = {
+    lastUpdated: now,
+    articles: results
+  };
+
+  fs.writeFileSync("news.json", JSON.stringify(finalData, null, 2));
 }
 
 run();
