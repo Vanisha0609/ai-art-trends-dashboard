@@ -3,8 +3,11 @@ import dotenv from "dotenv";
 
 dotenv.config();
 
-const API_KEY = process.env.GEMINI_API_KEY;
-
+const API_KEY = process.env.API_KEY;
+if (!API_KEY) {
+  console.log("❌ Missing API KEY");
+  process.exit(1);
+}
 const articles = JSON.parse(fs.readFileSync("combined.json"));
 
 async function processArticle(article) {
