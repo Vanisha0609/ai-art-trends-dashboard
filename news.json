@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-03-29T09:19:52.180Z",
+  "lastUpdated": "2026-03-29T09:43:03.341Z",
   "articles": [
+    {
+      "title": " This weird Japanese ad has ruined the way I look at jelly beans forever ",
+      "image": "https://cdn.mos.cms.futurecdn.net/kHxSgEuHnKN88CexySXMDK-1280-80.jpg",
+      "summary": "I have no idea what’s going on, but I love it.",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://www.creativebloq.com/design/advertising/this-weird-japanese-ad-has-ruined-the-way-i-look-at-jelly-beans-forever"
+    },
+    {
+      "title": "Getting myself accustomed to drawing on my laptop!",
+      "image": "https://i.redd.it/ktttu7zrvxqg1.jpeg",
+      "summary": "I'm doing sketches on Krita to get accustomed to using my tablet recently. I started digital art on my phone, but I've come to the realization that drawing on my laptop may be more comfortable for my eyes, so I'm slowly moving to it!\n\nI want to share my new journey here and there so here's my most recent sketch!\n\n(Im not sketching any specific character here btw! idk if they look like anyone!)",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://reddit.com/r/DigitalArt/comments/1s26dj0/getting_myself_accustomed_to_drawing_on_my_laptop/"
+    },
     {
       "title": "Google Stitch, design maturity guide, livable products",
       "image": "https://placehold.co/600x400",
@@ -8,22 +24,6 @@
       "style": "Unknown",
       "mood": "Neutral",
       "link": "https://uxdesign.cc/google-stitch-design-maturity-guide-livable-products-f2c960170b07?source=rss----138adf9c44c---4"
-    },
-    {
-      "title": "The mirage of UX Design’s demise keeps coming back",
-      "image": "https://placehold.co/600x400",
-      "summary": "Why do we declare endings when we don’t understand transitions?\nContinue reading on UX Collective »",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://uxdesign.cc/the-mirage-of-ux-designs-demise-keeps-coming-back-42a070ba848f?source=rss----138adf9c44c---4"
-    },
-    {
-      "title": " Social media design is finally facing the reckoning it deserves ",
-      "image": "https://cdn.mos.cms.futurecdn.net/29iBvbSPJrFjwKCv2G2qyn-1280-80.jpg",
-      "summary": "Facebook and YouTube were just found liable in a social media addiction trial. But what comes next?",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://www.creativebloq.com/design/social-media/social-media-design-is-finally-facing-the-reckoning-it-deserves"
     },
     {
       "title": "Testing Font Scaling For Accessibility With Figma Variables",
@@ -34,20 +34,20 @@
       "link": "https://smashingmagazine.com/2026/03/testing-font-scaling-accessibility-figma-variables/"
     },
     {
-      "title": " Basketball Classics (Switch) review: it feels like an NES throwback, in a good way ",
-      "image": "https://cdn.mos.cms.futurecdn.net/wuYbihKadvB5Uh4sy4YbQ6-1280-80.png",
-      "summary": "Acclaim's back, and its pixel art sports revival is rebounding into the '80s.",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://www.creativebloq.com/entertainment/gaming/basketball-classics-switch-review-it-feels-like-an-nes-throwback-in-a-good-way"
-    },
-    {
       "title": "OVERPOPULATED / Drawing by Gary Wray (me) 1979",
       "image": "https://i.redd.it/grzuk8rmjvrg1.jpeg",
       "summary": "OVERPOPULATED / Drawing by Gary Wray (me) 1979",
       "style": "Unknown",
       "mood": "Neutral",
       "link": "https://reddit.com/r/Illustration/comments/1s6g15y/overpopulated_drawing_by_gary_wray_me_1979/"
+    },
+    {
+      "title": "A drawing of Akali's eyes that I made.",
+      "image": "https://i.redd.it/bkb1p8hxlvqg1.jpeg",
+      "summary": "A drawing of Akali's eyes that I made.",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://reddit.com/r/DigitalArt/comments/1s1wqa6/a_drawing_of_akalis_eyes_that_i_made/"
     }
   ]
 }

@@ -16,7 +16,7 @@ async function fetchNews() {
     try {
       const feed = await parser.parseURL(url);
 
-      const articles = feed.items.slice(0, 5).map(item => ({
+      const articles = feed.items.slice(0, 2).map(item => ({
         title: item.title,
         description: item.contentSnippet || item.content || "",
         link: item.link,
