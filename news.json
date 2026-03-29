@@ -1,53 +1,59 @@
 {
-  "lastUpdated": "2026-03-29T09:43:03.341Z",
+  "lastUpdated": "2026-03-29T11:15:44.006Z",
   "articles": [
-    {
-      "title": " This weird Japanese ad has ruined the way I look at jelly beans forever ",
-      "image": "https://cdn.mos.cms.futurecdn.net/kHxSgEuHnKN88CexySXMDK-1280-80.jpg",
-      "summary": "I have no idea what’s going on, but I love it.",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://www.creativebloq.com/design/advertising/this-weird-japanese-ad-has-ruined-the-way-i-look-at-jelly-beans-forever"
-    },
-    {
-      "title": "Getting myself accustomed to drawing on my laptop!",
-      "image": "https://i.redd.it/ktttu7zrvxqg1.jpeg",
-      "summary": "I'm doing sketches on Krita to get accustomed to using my tablet recently. I started digital art on my phone, but I've come to the realization that drawing on my laptop may be more comfortable for my eyes, so I'm slowly moving to it!\n\nI want to share my new journey here and there so here's my most recent sketch!\n\n(Im not sketching any specific character here btw! idk if they look like anyone!)",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://reddit.com/r/DigitalArt/comments/1s26dj0/getting_myself_accustomed_to_drawing_on_my_laptop/"
-    },
     {
       "title": "Google Stitch, design maturity guide, livable products",
       "image": "https://placehold.co/600x400",
       "summary": "",
+      "category": "UI/UX",
       "style": "Unknown",
       "mood": "Neutral",
       "link": "https://uxdesign.cc/google-stitch-design-maturity-guide-livable-products-f2c960170b07?source=rss----138adf9c44c---4"
     },
     {
-      "title": "Testing Font Scaling For Accessibility With Figma Variables",
-      "image": "http://files.smashing.media/articles/testing-font-scaling-accessibility-figma-variables/testing-font-scaling-accessibility-figma-variables.jpg",
-      "summary": "Accessibility works best when it blends into everyday design workflows. The goal isn’t a big transformation, but simple work processes that fit naturally into a team’s routine. With Figma variables, testing font size increases becomes part of the design flow itself, making accessibility feel almost inevitable rather than optional.",
+      "title": "Cute Girl , Kawa Lemon, Digital, 2026 [OC]",
+      "image": "https://i.redd.it/z00eo3x91yrg1.jpeg",
+      "summary": "Cute Girl , Kawa Lemon, Digital, 2026 [OC]",
+      "category": "Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://smashingmagazine.com/2026/03/testing-font-scaling-accessibility-figma-variables/"
+      "link": "https://reddit.com/r/Art/comments/1s6pk2a/cute_girl_kawa_lemon_digital_2026_oc/"
+    },
+    {
+      "title": " 'I don’t think about relevance, I think about doing good work': 5 questions with Laura Stein ",
+      "image": "https://cdn.mos.cms.futurecdn.net/5gmn4J2AvYL9Bku8RL9jmS-1280-80.jpg",
+      "summary": "Bruce Mau Design's chief creative officer discusses her journey as a \"lifelong learner\".",
+      "category": "Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://www.creativebloq.com/professional-development/creative-careers/i-dont-think-about-relevance-i-think-about-doing-good-work-5-questions-with-laura-stein"
     },
     {
       "title": "OVERPOPULATED / Drawing by Gary Wray (me) 1979",
       "image": "https://i.redd.it/grzuk8rmjvrg1.jpeg",
       "summary": "OVERPOPULATED / Drawing by Gary Wray (me) 1979",
+      "category": "Illustration",
       "style": "Unknown",
       "mood": "Neutral",
       "link": "https://reddit.com/r/Illustration/comments/1s6g15y/overpopulated_drawing_by_gary_wray_me_1979/"
     },
     {
-      "title": "A drawing of Akali's eyes that I made.",
-      "image": "https://i.redd.it/bkb1p8hxlvqg1.jpeg",
-      "summary": "A drawing of Akali's eyes that I made.",
+      "title": "The Site-Search Paradox: Why The Big Box Always Wins",
+      "image": "http://files.smashing.media/articles/site-search-paradox-why-big-box-always-wins/site-search-paradox-why-big-box-always-wins.jpg",
+      "summary": "Success in modern UX isn’t about having the most content. It’s about having the most findable content. Yet even with more data and better tools than ever, internal search often fails, leaving users to rely on global search engines to find a single page on a local site. Why does the “Big Box” still win, and how can we bring users back?",
+      "category": "UI/UX",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://reddit.com/r/DigitalArt/comments/1s1wqa6/a_drawing_of_akalis_eyes_that_i_made/"
+      "link": "https://smashingmagazine.com/2026/03/site-search-paradox-why-big-box-always-wins/"
+    },
+    {
+      "title": " This hand-drawn game looks like Cuphead meets Ducktales ",
+      "image": "https://cdn.mos.cms.futurecdn.net/qfcV5MEajZErh7wMDZegvM-1280-80.jpg",
+      "summary": "A free demo of The Eternal Life of Goldman is available to play now.",
+      "category": "AI Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://www.creativebloq.com/entertainment/movies-tv-shows/eternal-life-of-goldman-looks-like-cuphead-meets-ducktales"
     }
   ]
 }

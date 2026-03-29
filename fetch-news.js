@@ -9,6 +9,11 @@ const feeds = [
   "https://www.smashingmagazine.com/feed/"
 ];
 
+function cleanText(text) {
+  if (!text) return "";
+  return text.replace(/<[^>]*>/g, "").trim();
+}
+
 async function fetchNews() {
   let allArticles = [];
 
@@ -18,7 +23,12 @@ async function fetchNews() {
 
       const articles = feed.items.slice(0, 2).map(item => ({
         title: item.title,
-        description: item.contentSnippet || item.content || "",
+        description: cleanText(
+          item.contentSnippet ||
+          item.content ||
+          item.summary ||
+          item.title
+        ),
         link: item.link,
         image: item.enclosure?.url || "https://placehold.co/600x400"
       }));

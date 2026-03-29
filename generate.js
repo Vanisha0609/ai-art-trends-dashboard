@@ -55,6 +55,7 @@ async function processArticle(article) {
         title: article.title,
         image: article.image,
         summary: aiData.summary,
+        category: getCategory(article.title + " " + article.description),
         style: aiData.style,
         mood: aiData.mood,
         link: article.link
@@ -79,10 +80,24 @@ function fallback(article) {
     title: article.title,
     image: article.image,
     summary: article.description,
+    category: getCategory(article.title + " " + article.description),
     style: "Unknown",
     mood: "Neutral",
     link: article.link
   };
+}
+
+function getCategory(text) {
+  text = text.toLowerCase();
+
+  if (text.includes("ux") || text.includes("ui")) return "UI/UX";
+  if (text.includes("figma") || text.includes("adobe")) return "Tools";
+  if (text.includes("ai")) return "AI Design";
+  if (text.includes("3d")) return "3D Art";
+  if (text.includes("illustration") || text.includes("drawing")) return "Illustration";
+  if (text.includes("typography")) return "Typography";
+
+  return "Design";
 }
 
 async function run() {

@@ -64,6 +64,9 @@ async function loadNews() {
           <div class="p-6 space-y-4">
             
             <div class="flex flex-wrap gap-2">
+            <span class="px-3 py-1 rounded-full bg-secondary-container text-xs font-bold uppercase">
+                ${article.category || "Design"}
+              </span>
               <span class="px-3 py-1 rounded-full bg-secondary-container text-xs font-bold uppercase">
                 ${article.style || "Art"}
               </span>
