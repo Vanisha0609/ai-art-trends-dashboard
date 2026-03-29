@@ -25,6 +25,33 @@ async function loadNews() {
 // ✅ SET LAST UPDATED HERE
     document.getElementById("last-updated").innerText = `⏱️ Updated ${timeAgo}`;
     
+
+    if (articles.length > 0) {
+      const featured = articles[0];
+
+      document.getElementById("featured-news").innerHTML = `
+        <section class="relative overflow-hidden rounded-[3rem] p-10 lg:p-16 bg-gradient-to-br from-primary-container to-tertiary-container">
+          
+          <p class="text-xs font-bold uppercase tracking-widest mb-4">
+            Today's featured news
+          </p>
+
+          <h1 class="text-4xl lg:text-5xl font-extrabold mb-6">
+            ${featured.title}
+          </h1>
+
+          <p class="max-w-xl text-sm text-gray-700 mb-6">
+            ${featured.summary}
+          </p>
+
+          <a href="${featured.link}" target="_blank"
+            class="inline-block px-6 py-3 bg-primary text-white rounded-full text-sm font-semibold">
+            Read Full Article →
+          </a>
+
+        </section>
+      `;
+    }
     articles.forEach(article => {
       const card = `
         <article class="group hover-lift bg-surface-container-lowest rounded-xl overflow-hidden soft-shadow">
