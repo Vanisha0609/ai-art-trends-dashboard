@@ -1,29 +1,53 @@
 {
-  "lastUpdated": "2026-03-27T07:06:35.042Z",
+  "lastUpdated": "2026-03-29T09:19:52.180Z",
   "articles": [
     {
-      "title": "Ex-Sotheby’s CEO Tad Smith Banks on NFTs, Agrees to Buy Collectibles Platform Candy Digital",
+      "title": "Google Stitch, design maturity guide, livable products",
       "image": "https://placehold.co/600x400",
-      "summary": "The deal has not closed, but Smith announced on X that he would serve as CEO.",
+      "summary": "",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://www.artnews.com/art-news/news/ex-sothebys-ceo-tad-smith-banks-on-nfts-agrees-to-buy-collectibles-platform-candy-digital-1234779125/"
+      "link": "https://uxdesign.cc/google-stitch-design-maturity-guide-livable-products-f2c960170b07?source=rss----138adf9c44c---4"
     },
     {
-      "title": "Manhattan D.A.’s Office Returns 17 Stolen Antiquities and Rare Books to Italy",
+      "title": "The mirage of UX Design’s demise keeps coming back",
       "image": "https://placehold.co/600x400",
-      "summary": "The recovered items were formally returned in a ceremony held this week",
+      "summary": "Why do we declare endings when we don’t understand transitions?\nContinue reading on UX Collective »",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://www.artnews.com/art-news/news/manhattan-d-a-s-office-returns-stolen-antiquities-to-italy-1234779115/"
+      "link": "https://uxdesign.cc/the-mirage-of-ux-designs-demise-keeps-coming-back-42a070ba848f?source=rss----138adf9c44c---4"
     },
     {
-      "title": "Long-Lost Skeleton of D’Artagnan, the Fourth Musketeer, Discovered in Dutch Church",
-      "image": "https://placehold.co/600x400",
-      "summary": "The remains, along with a musket ball and a 17th-century French coin, were found under the floor of a church in Maastricht.",
+      "title": " Social media design is finally facing the reckoning it deserves ",
+      "image": "https://cdn.mos.cms.futurecdn.net/29iBvbSPJrFjwKCv2G2qyn-1280-80.jpg",
+      "summary": "Facebook and YouTube were just found liable in a social media addiction trial. But what comes next?",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://www.artnews.com/art-news/news/long-lost-skeleton-dartagnan-fourth-musketeer-discovered-dutch-church-maastricht-1234779070/"
+      "link": "https://www.creativebloq.com/design/social-media/social-media-design-is-finally-facing-the-reckoning-it-deserves"
+    },
+    {
+      "title": "Testing Font Scaling For Accessibility With Figma Variables",
+      "image": "http://files.smashing.media/articles/testing-font-scaling-accessibility-figma-variables/testing-font-scaling-accessibility-figma-variables.jpg",
+      "summary": "Accessibility works best when it blends into everyday design workflows. The goal isn’t a big transformation, but simple work processes that fit naturally into a team’s routine. With Figma variables, testing font size increases becomes part of the design flow itself, making accessibility feel almost inevitable rather than optional.",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://smashingmagazine.com/2026/03/testing-font-scaling-accessibility-figma-variables/"
+    },
+    {
+      "title": " Basketball Classics (Switch) review: it feels like an NES throwback, in a good way ",
+      "image": "https://cdn.mos.cms.futurecdn.net/wuYbihKadvB5Uh4sy4YbQ6-1280-80.png",
+      "summary": "Acclaim's back, and its pixel art sports revival is rebounding into the '80s.",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://www.creativebloq.com/entertainment/gaming/basketball-classics-switch-review-it-feels-like-an-nes-throwback-in-a-good-way"
+    },
+    {
+      "title": "OVERPOPULATED / Drawing by Gary Wray (me) 1979",
+      "image": "https://i.redd.it/grzuk8rmjvrg1.jpeg",
+      "summary": "OVERPOPULATED / Drawing by Gary Wray (me) 1979",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://reddit.com/r/Illustration/comments/1s6g15y/overpopulated_drawing_by_gary_wray_me_1979/"
     }
   ]
 }

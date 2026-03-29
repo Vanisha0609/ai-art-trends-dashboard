@@ -88,7 +88,7 @@ function fallback(article) {
 async function run() {
   const results = [];
 
-  for (let article of articles.slice(0, 3)) {
+  for (let article of articles.slice(0, 6)) {
     const processed = await processArticle(article);
     results.push(processed);
   }
