@@ -1,50 +1,14 @@
 {
-  "lastUpdated": "2026-03-31T10:24:10.147Z",
+  "lastUpdated": "2026-03-31T12:41:08.403Z",
   "articles": [
     {
-      "title": " How putting story first can inspire your art ",
-      "image": "https://cdn.mos.cms.futurecdn.net/wds2hSmGvh2Zez2mwq3VFo-1280-80.jpg",
-      "summary": "Concept artist Greg Danton shows how to let the story guide you.",
-      "category": "UI/UX",
+      "title": " Apple MacBook Air M5 13-inch review: more Mac than you might expect ",
+      "image": "https://cdn.mos.cms.futurecdn.net/waMnWWm97xXcJvQTiLNpmY-1280-80.jpg",
+      "summary": "There's definitely something in the Air tonight",
+      "category": "AI Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://www.creativebloq.com/art/digital-art/how-putting-story-first-can-inspire-your-art"
-    },
-    {
-      "title": "A drawing of Akali's eyes that I made.",
-      "image": "https://i.redd.it/bkb1p8hxlvqg1.jpeg",
-      "summary": "A drawing of Akali's eyes that I made.",
-      "category": "Illustration",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://reddit.com/r/DigitalArt/comments/1s1wqa6/a_drawing_of_akalis_eyes_that_i_made/"
-    },
-    {
-      "title": "The Site-Search Paradox: Why The Big Box Always Wins",
-      "image": "http://files.smashing.media/articles/site-search-paradox-why-big-box-always-wins/site-search-paradox-why-big-box-always-wins.jpg",
-      "summary": "Success in modern UX isn’t about having the most content. It’s about having the most findable content. Yet even with more data and better tools than ever, internal search often fails, leaving users to rely on global search engines to find a single page on a local site. Why does the “Big Box” still win, and how can we bring users back?",
-      "category": "UI/UX",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://smashingmagazine.com/2026/03/site-search-paradox-why-big-box-always-wins/"
-    },
-    {
-      "title": "Testing Font Scaling For Accessibility With Figma Variables",
-      "image": "http://files.smashing.media/articles/testing-font-scaling-accessibility-figma-variables/testing-font-scaling-accessibility-figma-variables.jpg",
-      "summary": "Accessibility works best when it blends into everyday design workflows. The goal isn’t a big transformation, but simple work processes that fit naturally into a team’s routine. With Figma variables, testing font size increases becomes part of the design flow itself, making accessibility feel almost inevitable rather than optional.",
-      "category": "Tools",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://smashingmagazine.com/2026/03/testing-font-scaling-accessibility-figma-variables/"
-    },
-    {
-      "title": " Adobe Firefly's custom AI models \"preserve the unique soul of your work\" ",
-      "image": "https://cdn.mos.cms.futurecdn.net/DWAoGuomQjrLPNFbT47wa9-1280-80.jpg",
-      "summary": "Deepa Subramaniam on what makes Firefly's latest AI advance so exciting for creatives.",
-      "category": "Tools",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://www.creativebloq.com/design/graphic-design-software/adobe-fireflys-custom-ai-models-preserve-the-unique-soul-of-your-work"
+      "link": "https://www.creativebloq.com/tech/laptops/apple-macbook-air-m5-13-inch-review-more-mac-than-you-might-expect"
     },
     {
       "title": "A human approach to Agentic AI. One person. One text file. Five agents.",
@@ -54,6 +18,42 @@
       "style": "Unknown",
       "mood": "Neutral",
       "link": "https://uxdesign.cc/a-human-approach-to-agentic-ai-one-person-one-text-file-five-agents-9e049fc0a612?source=rss----138adf9c44c---4"
+    },
+    {
+      "title": "The Joy Of A Fresh Beginning (April 2026 Wallpapers Edition)",
+      "image": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/58e505d3-2a5f-40ce-8be0-f284bacd9016/apr-19-inspiring-blossom-preview-opt.png",
+      "summary": "With the new month just around the corner, could there be a better occasion to freshen up your desktop? If you’re looking for some unique and inspiring wallpapers to accompany you on all those adventures that April may bring — and maybe spark some new ideas, too — well, this post has got you covered.",
+      "category": "Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://smashingmagazine.com/2026/03/desktop-wallpaper-calendars-april-2026/"
+    },
+    {
+      "title": "Design engineers, UX Design’s demise, forget your “lovable” products",
+      "image": "https://placehold.co/600x400",
+      "summary": "Design engineers, UX Design’s demise, forget your “lovable” products",
+      "category": "UI/UX",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://uxdesign.cc/design-engineers-ux-designs-demise-forget-your-lovable-products-e5ea71a15bad?source=rss----138adf9c44c---4"
+    },
+    {
+      "title": " Ryan Gosling just recreated the La La Land poster with an alien and I’m obsessed ",
+      "image": "https://cdn.mos.cms.futurecdn.net/PN9tmBia6Gam7WUNpxKJw-1280-80.jpg",
+      "summary": "Emma Stone looks different…",
+      "category": "Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://www.creativebloq.com/design/poster-design/ryan-gosling-just-recreated-the-la-la-land-poster-with-an-alien-and-im-obsessed"
+    },
+    {
+      "title": "The Site-Search Paradox: Why The Big Box Always Wins",
+      "image": "http://files.smashing.media/articles/site-search-paradox-why-big-box-always-wins/site-search-paradox-why-big-box-always-wins.jpg",
+      "summary": "Success in modern UX isn’t about having the most content. It’s about having the most findable content. Yet even with more data and better tools than ever, internal search often fails, leaving users to rely on global search engines to find a single page on a local site. Why does the “Big Box” still win, and how can we bring users back?",
+      "category": "UI/UX",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://smashingmagazine.com/2026/03/site-search-paradox-why-big-box-always-wins/"
     }
   ]
 }
