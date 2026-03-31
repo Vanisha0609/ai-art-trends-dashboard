@@ -11,7 +11,9 @@ if (!API_KEY) {
 const articles = JSON.parse(fs.readFileSync("combined.json"));
 
 async function processArticle(article) {
+  
   try {
+    const content = article.description || article.title;
     const prompt = `
     Analyze this art-related content.
 
@@ -21,9 +23,9 @@ async function processArticle(article) {
       "style": "...",
       "mood": "..."
     }
-
+    
     Content:
-    ${article.description}
+    ${content}
     `;
 
     const res = await fetch(
@@ -37,7 +39,20 @@ async function processArticle(article) {
       }
     );
 
-    const data = await res.json();
+
+    if (!res.ok) {
+      console.log("❌ API error:", res.status);
+      return fallback(article);
+    }
+
+    let data;
+
+    try {
+      data = await res.json();
+    } catch (err) {
+      console.log("❌ Invalid JSON response");
+      return fallback(article);
+    }
 
     // ✅ API-level fallback
     if (!data.candidates || data.candidates.length === 0) {
@@ -53,7 +68,7 @@ async function processArticle(article) {
 
       return {
         title: article.title,
-        image: article.image,
+        image: article.image || "https://placehold.co/600x400",
         summary: aiData.summary,
         category: getCategory(article.title + " " + article.description),
         style: aiData.style,
@@ -78,8 +93,8 @@ async function processArticle(article) {
 function fallback(article) {
   return {
     title: article.title,
-    image: article.image,
-    summary: article.description,
+    image: article.image || "https://placehold.co/600x400",
+    summary: article.description || article.title,
     category: getCategory(article.title + " " + article.description),
     style: "Unknown",
     mood: "Neutral",
