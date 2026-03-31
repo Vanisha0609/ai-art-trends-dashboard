@@ -15,21 +15,23 @@ function cleanText(text) {
 }
 
 async function fetchNews() {
+  try{
   let allArticles = [];
 
   for (let url of feeds) {
     try {
+      console.log("📡 Fetching:", url);
       const feed = await parser.parseURL(url);
 
-      const articles = feed.items.slice(0, 2).map(item => ({
-        title: item.title,
+      const articles = (feed.items || []).slice(0, 2).map(item => ({
+        title: item.title || "Untitled",
         description: cleanText(
           item.contentSnippet ||
           item.content ||
           item.summary ||
           item.title
         ),
-        link: item.link,
+        link: item.link || "",
         image: item.enclosure?.url || "https://placehold.co/600x400"
       }));
 
@@ -47,7 +49,15 @@ async function fetchNews() {
 
   fs.writeFileSync("raw-news.json", JSON.stringify(unique, null, 2));
 
-  console.log("✅ Design news fetched!");
+  console.log(`✅ Design news fetched! (${unique.length} articles)`);
+}catch (err) {
+    console.log("❌ fetchNews crashed:", err.message);
+
+    // ✅ fallback file (prevents pipeline crash)
+    fs.writeFileSync("raw-news.json", JSON.stringify([], null, 2));
+  }
 }
 
-fetchNews().then(() => process.exit());
+fetchNews()
+  .then(() => process.exit(0))
+  .catch(() => process.exit(1));

@@ -4,16 +4,27 @@ import dotenv from "dotenv";
 dotenv.config();
 
 const API_KEY = process.env.API_KEY;
+
+// ✅ Safe read function
+function safeRead(file) {
+  try {
+    if (!fs.existsSync(file)) return [];
+    const data = fs.readFileSync(file, "utf-8");
+    return data ? JSON.parse(data) : [];
+  } catch {
+    return [];
+  }
+}
 if (!API_KEY) {
   console.log("❌ Missing API KEY");
-  process.exit(1);
 }
-const articles = JSON.parse(fs.readFileSync("combined.json"));
+const articles = safeRead("combined.json");
 
 async function processArticle(article) {
   
   try {
     const content = article.description || article.title;
+    if (!API_KEY) return fallback(article);
     const prompt = `
     Analyze this art-related content.
 
@@ -61,8 +72,8 @@ async function processArticle(article) {
       return fallback(article);
     }
 
-    const text = data.candidates[0].content.parts[0].text;
-
+    let text = data.candidates[0].content.parts[0].text;
+    text = text.replace(/```json|```/g, "").trim();
     try {
       const aiData = JSON.parse(text);
 
@@ -116,6 +127,7 @@ function getCategory(text) {
 }
 
 async function run() {
+  try{
   const results = [];
 
   for (let article of articles.slice(0, 6)) {
@@ -131,6 +143,19 @@ async function run() {
   };
 
   fs.writeFileSync("news.json", JSON.stringify(finalData, null, 2));
+  console.log(`✅ Generated news (${results.length} articles)`);
+
+  process.exit(0);
+}catch (err) {
+    console.log("❌ generate.js crashed:", err.message);
+
+    fs.writeFileSync("news.json", JSON.stringify({
+      lastUpdated: new Date().toISOString(),
+      articles: []
+    }, null, 2));
+
+    process.exit(1);
+  }
 }
 
 run();
