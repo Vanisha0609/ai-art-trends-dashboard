@@ -50,4 +50,4 @@ async function fetchNews() {
   console.log("✅ Design news fetched!");
 }
 
-fetchNews();
+fetchNews().then(() => process.exit());
