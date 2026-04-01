@@ -1,24 +1,6 @@
 {
-  "lastUpdated": "2026-03-31T12:41:08.403Z",
+  "lastUpdated": "2026-04-01T02:33:27.040Z",
   "articles": [
-    {
-      "title": " Apple MacBook Air M5 13-inch review: more Mac than you might expect ",
-      "image": "https://cdn.mos.cms.futurecdn.net/waMnWWm97xXcJvQTiLNpmY-1280-80.jpg",
-      "summary": "There's definitely something in the Air tonight",
-      "category": "AI Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://www.creativebloq.com/tech/laptops/apple-macbook-air-m5-13-inch-review-more-mac-than-you-might-expect"
-    },
-    {
-      "title": "A human approach to Agentic AI. One person. One text file. Five agents.",
-      "image": "https://placehold.co/600x400",
-      "summary": "A human approach to Agentic AI. One person. One text file. Five agents.",
-      "category": "AI Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://uxdesign.cc/a-human-approach-to-agentic-ai-one-person-one-text-file-five-agents-9e049fc0a612?source=rss----138adf9c44c---4"
-    },
     {
       "title": "The Joy Of A Fresh Beginning (April 2026 Wallpapers Edition)",
       "image": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/58e505d3-2a5f-40ce-8be0-f284bacd9016/apr-19-inspiring-blossom-preview-opt.png",
@@ -29,22 +11,13 @@
       "link": "https://smashingmagazine.com/2026/03/desktop-wallpaper-calendars-april-2026/"
     },
     {
-      "title": "Design engineers, UX Design’s demise, forget your “lovable” products",
+      "title": "Agentic AI, design systems & Figma: a practical guide",
       "image": "https://placehold.co/600x400",
-      "summary": "Design engineers, UX Design’s demise, forget your “lovable” products",
+      "summary": "Agentic AI, design systems & Figma: a practical guide",
       "category": "UI/UX",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://uxdesign.cc/design-engineers-ux-designs-demise-forget-your-lovable-products-e5ea71a15bad?source=rss----138adf9c44c---4"
-    },
-    {
-      "title": " Ryan Gosling just recreated the La La Land poster with an alien and I’m obsessed ",
-      "image": "https://cdn.mos.cms.futurecdn.net/PN9tmBia6Gam7WUNpxKJw-1280-80.jpg",
-      "summary": "Emma Stone looks different…",
-      "category": "Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://www.creativebloq.com/design/poster-design/ryan-gosling-just-recreated-the-la-la-land-poster-with-an-alien-and-im-obsessed"
+      "link": "https://uxdesign.cc/agentic-ai-design-systems-figma-a-practical-guide-6ab0b681718d?source=rss----138adf9c44c---4"
     },
     {
       "title": "The Site-Search Paradox: Why The Big Box Always Wins",
@@ -54,6 +27,33 @@
       "style": "Unknown",
       "mood": "Neutral",
       "link": "https://smashingmagazine.com/2026/03/site-search-paradox-why-big-box-always-wins/"
+    },
+    {
+      "title": " Turn every tea break into a ritual with these beautiful matcha kits ",
+      "image": "https://cdn.mos.cms.futurecdn.net/FfwDG35VLxEz6cWj6uw76h-1280-80.jpg",
+      "summary": "Everything you need for a ceremonial grade brew.",
+      "category": "Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://www.creativebloq.com/design/turn-every-tea-break-into-a-ritual-with-these-beautiful-matcha-kits"
+    },
+    {
+      "title": " Evercade Nexus is the retro handheld upgrade I've been waiting for ",
+      "image": "https://cdn.mos.cms.futurecdn.net/hey9QjaVHPD2KjYtLaAwig-1280-80.jpg",
+      "summary": "Big, bold, and properly modern, 64-bit retro gaming on the go is here.",
+      "category": "AI Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://www.creativebloq.com/entertainment/gaming/evercade-nexus-is-the-retro-handheld-upgrade-ive-been-waiting-for"
+    },
+    {
+      "title": "DeepSeek and Grok cloud dancing data color schemes",
+      "image": "https://placehold.co/600x400",
+      "summary": "Data Visualization Studies with the 2026 Pantone Color of the Year.\nContinue reading on UX Collective »",
+      "category": "UI/UX",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://uxdesign.cc/deepseek-and-grok-cloud-dancing-data-color-schemes-56de4473f2e7?source=rss----138adf9c44c---4"
     }
   ]
 }
