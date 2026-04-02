@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2026-04-01T02:33:27.040Z",
+  "lastUpdated": "2026-04-02T02:12:06.599Z",
   "articles": [
+    {
+      "title": "Every designer on my team ships the same quality now",
+      "image": "https://placehold.co/600x400",
+      "summary": "That’s the problem. The skills you dismissed just became the most expensive ones on your team.\nContinue reading on UX Collective »",
+      "category": "UI/UX",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://uxdesign.cc/every-designer-on-my-team-ships-the-same-quality-now-e6fbc0c4feec?source=rss----138adf9c44c---4"
+    },
+    {
+      "title": " Think you're a true Apple fan? Try our 50th anniversary quiz ",
+      "image": "https://cdn.mos.cms.futurecdn.net/7bLWZBoMT4dJ2NN8Yeu3tb-1280-80.jpg",
+      "summary": "We quiz you on the Cupertino giant.",
+      "category": "UI/UX",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://www.creativebloq.com/tech/are-you-an-apple-aficionado-try-our-quiz"
+    },
+    {
+      "title": " The new Supergirl trailer is getting some surprising comparisons ",
+      "image": "https://cdn.mos.cms.futurecdn.net/crhD3MnfNgwFouXUTB6LAe-1280-80.jpg",
+      "summary": "John Wick with super powers?",
+      "category": "AI Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://www.creativebloq.com/entertainment/movies-tv-shows/the-new-supergirl-trailer-is-getting-some-surprising-comparisons"
+    },
+    {
+      "title": "AI is rewriting the rules. Language is following.",
+      "image": "https://placehold.co/600x400",
+      "summary": "AI is rewriting the rules. Language is following.",
+      "category": "AI Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://uxdesign.cc/ai-is-rewriting-the-rules-language-is-following-b811a1a91ced?source=rss----138adf9c44c---4"
+    },
+    {
+      "title": "A Practical Guide To Design Principles",
+      "image": "http://files.smashing.media/articles/stop-endless-debates-design-principles/practical-guide-design-principles.jpg",
+      "summary": "Design principles with references, examples, and methods for quick look-up. Brought to you by Design Patterns For AI Interfaces, **friendly video courses on UX** and design patterns by Vitaly.",
+      "category": "UI/UX",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://smashingmagazine.com/2026/04/practical-guide-design-principles/"
+    },
     {
       "title": "The Joy Of A Fresh Beginning (April 2026 Wallpapers Edition)",
       "image": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/58e505d3-2a5f-40ce-8be0-f284bacd9016/apr-19-inspiring-blossom-preview-opt.png",
@@ -9,51 +54,6 @@
       "style": "Unknown",
       "mood": "Neutral",
       "link": "https://smashingmagazine.com/2026/03/desktop-wallpaper-calendars-april-2026/"
-    },
-    {
-      "title": "Agentic AI, design systems & Figma: a practical guide",
-      "image": "https://placehold.co/600x400",
-      "summary": "Agentic AI, design systems & Figma: a practical guide",
-      "category": "UI/UX",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://uxdesign.cc/agentic-ai-design-systems-figma-a-practical-guide-6ab0b681718d?source=rss----138adf9c44c---4"
-    },
-    {
-      "title": "The Site-Search Paradox: Why The Big Box Always Wins",
-      "image": "http://files.smashing.media/articles/site-search-paradox-why-big-box-always-wins/site-search-paradox-why-big-box-always-wins.jpg",
-      "summary": "Success in modern UX isn’t about having the most content. It’s about having the most findable content. Yet even with more data and better tools than ever, internal search often fails, leaving users to rely on global search engines to find a single page on a local site. Why does the “Big Box” still win, and how can we bring users back?",
-      "category": "UI/UX",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://smashingmagazine.com/2026/03/site-search-paradox-why-big-box-always-wins/"
-    },
-    {
-      "title": " Turn every tea break into a ritual with these beautiful matcha kits ",
-      "image": "https://cdn.mos.cms.futurecdn.net/FfwDG35VLxEz6cWj6uw76h-1280-80.jpg",
-      "summary": "Everything you need for a ceremonial grade brew.",
-      "category": "Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://www.creativebloq.com/design/turn-every-tea-break-into-a-ritual-with-these-beautiful-matcha-kits"
-    },
-    {
-      "title": " Evercade Nexus is the retro handheld upgrade I've been waiting for ",
-      "image": "https://cdn.mos.cms.futurecdn.net/hey9QjaVHPD2KjYtLaAwig-1280-80.jpg",
-      "summary": "Big, bold, and properly modern, 64-bit retro gaming on the go is here.",
-      "category": "AI Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://www.creativebloq.com/entertainment/gaming/evercade-nexus-is-the-retro-handheld-upgrade-ive-been-waiting-for"
-    },
-    {
-      "title": "DeepSeek and Grok cloud dancing data color schemes",
-      "image": "https://placehold.co/600x400",
-      "summary": "Data Visualization Studies with the 2026 Pantone Color of the Year.\nContinue reading on UX Collective »",
-      "category": "UI/UX",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://uxdesign.cc/deepseek-and-grok-cloud-dancing-data-color-schemes-56de4473f2e7?source=rss----138adf9c44c---4"
     }
   ]
 }
