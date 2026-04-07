@@ -1,14 +1,14 @@
 {
-  "lastUpdated": "2026-04-06T02:29:09.250Z",
+  "lastUpdated": "2026-04-07T02:24:21.098Z",
   "articles": [
     {
-      "title": " Why this portfolio stands out in a world of samey 3D characters  ",
-      "image": "https://cdn.mos.cms.futurecdn.net/Q46ejms3bdW8TpYGnK3r4k-1280-80.jpg",
-      "summary": "Kevin Beckers channels his arch-viz know-how into character design.",
-      "category": "3D Art",
+      "title": " Download resources for ImagineFX 265 ",
+      "image": "https://cdn.mos.cms.futurecdn.net/4u8QXeLENPjELFeJZV84wK-1280-80.jpg",
+      "summary": "All the files, resources and videos to accompany issue 265 of ImagineFX magazine.",
+      "category": "Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://www.creativebloq.com/3d/3d-art/why-this-portfolio-stands-out-in-a-world-of-samey-3d-characters"
+      "link": "https://www.creativebloq.com/design/magazines/download-resources-for-imaginefx-265"
     },
     {
       "title": "The Joy Of A Fresh Beginning (April 2026 Wallpapers Edition)",
@@ -29,31 +29,31 @@
       "link": "https://smashingmagazine.com/2026/04/practical-guide-design-principles/"
     },
     {
-      "title": "The invisible layer of UX most designers ignore",
+      "title": "Data models: the shared language your AI and team are both missing",
       "image": "https://placehold.co/600x400",
-      "summary": "The invisible layer of UX most designers ignore",
+      "summary": "Data models: the shared language your AI and team are both missing",
+      "category": "AI Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://uxdesign.cc/data-models-the-shared-language-your-ai-and-team-are-both-missing-e36807c7f665?source=rss----138adf9c44c---4"
+    },
+    {
+      "title": " Be a comic artist with issue 265 of ImagineFX ",
+      "image": "https://cdn.mos.cms.futurecdn.net/4u8QXeLENPjELFeJZV84wK-1280-80.jpg",
+      "summary": "Discover key techniques to make a splash with comic art in our latest issue",
+      "category": "Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://www.creativebloq.com/professional-development/artistic-tips-techniques/be-a-comic-artist-with-issue-265-of-imaginefx"
+    },
+    {
+      "title": "The UX ground is shaking, synthetic users, building perspective",
+      "image": "https://placehold.co/600x400",
+      "summary": "The UX ground is shaking, synthetic users, building perspective",
       "category": "UI/UX",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://uxdesign.cc/the-invisible-layer-of-ux-most-designers-ignore-69272cda4468?source=rss----138adf9c44c---4"
-    },
-    {
-      "title": " Behind-the-scenes videos reveal the craft behind Ghibli-inspired Planet of Lana II ",
-      "image": "https://cdn.mos.cms.futurecdn.net/bJBrSUoWMsova45yoqVSy3-1280-80.jpg",
-      "summary": "An expanded art team created the game's breathtaking aesthetics.",
-      "category": "Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://www.creativebloq.com/3d/video-game-design/behind-the-scenes-videos-reveal-the-craft-behind-ghibli-inspired-planet-of-lana-ii"
-    },
-    {
-      "title": "“Vibe coding” is accelerating the erosion of design authority",
-      "image": "https://placehold.co/600x400",
-      "summary": "“Vibe coding” is accelerating the erosion of design authority",
-      "category": "Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://uxdesign.cc/vibe-coding-is-accelerating-the-erosion-of-design-authority-4dc21b233606?source=rss----138adf9c44c---4"
+      "link": "https://uxdesign.cc/the-ux-ground-is-shaking-synthetic-users-building-perspective-38635c3677e1?source=rss----138adf9c44c---4"
     }
   ]
 }
