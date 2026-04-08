@@ -1,23 +1,41 @@
 {
-  "lastUpdated": "2026-04-07T02:24:21.098Z",
+  "lastUpdated": "2026-04-08T02:25:17.650Z",
   "articles": [
     {
-      "title": " Download resources for ImagineFX 265 ",
-      "image": "https://cdn.mos.cms.futurecdn.net/4u8QXeLENPjELFeJZV84wK-1280-80.jpg",
-      "summary": "All the files, resources and videos to accompany issue 265 of ImagineFX magazine.",
-      "category": "Design",
+      "title": "Identifying Necessary Transparency Moments In Agentic AI (Part 1)",
+      "image": "http://files.smashing.media/articles/identifying-necessary-transparency-moments-agentic-ai-part1/identifying-necessary-transparency-moments-agentic-ai-part1.jpg",
+      "summary": "Designing for agentic AI requires attention to both the system’s behavior and the transparency of its actions. Between the black box and the data dump lies a more thoughtful approach. Victor Yocco explores how to map decision points and reveal the right moments to build trust through clarity, not noise.",
+      "category": "UI/UX",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://www.creativebloq.com/design/magazines/download-resources-for-imaginefx-265"
+      "link": "https://smashingmagazine.com/2026/04/identifying-necessary-transparency-moments-agentic-ai-part1/"
     },
     {
-      "title": "The Joy Of A Fresh Beginning (April 2026 Wallpapers Edition)",
-      "image": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/58e505d3-2a5f-40ce-8be0-f284bacd9016/apr-19-inspiring-blossom-preview-opt.png",
-      "summary": "With the new month just around the corner, could there be a better occasion to freshen up your desktop? If you’re looking for some unique and inspiring wallpapers to accompany you on all those adventures that April may bring — and maybe spark some new ideas, too — well, this post has got you covered.",
+      "title": "Careful, liable UX is a thing now",
+      "image": "https://placehold.co/600x400",
+      "summary": "The recent ruling against Meta signals a shift that’s been brewing for a minute. Deceptive or dark patterns are no longer just…\nContinue reading on UX Collective »",
+      "category": "UI/UX",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://uxdesign.cc/careful-liable-ux-is-a-thing-now-ff088a766de8?source=rss----138adf9c44c---4"
+    },
+    {
+      "title": " A Zelda: Ocarina of Time Remake on Switch 2 could be a mistake – here’s why ",
+      "image": "https://cdn.mos.cms.futurecdn.net/AeWrQrkZ8owoxUvGwc4qJg-1280-80.jpg",
+      "summary": "Nintendo faces an impossible choice.",
       "category": "Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://smashingmagazine.com/2026/03/desktop-wallpaper-calendars-april-2026/"
+      "link": "https://www.creativebloq.com/entertainment/gaming/a-zelda-ocarina-of-time-remake-on-switch-2-could-be-a-mistake-heres-why"
+    },
+    {
+      "title": "The old design workshop is dead. Long live design workshops.",
+      "image": "https://placehold.co/600x400",
+      "summary": "How new leaner design workshops are succeeding in 2026\nContinue reading on UX Collective »",
+      "category": "UI/UX",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://uxdesign.cc/the-old-design-workshop-is-dead-long-live-design-workshops-98f4ee58d9a7?source=rss----138adf9c44c---4"
     },
     {
       "title": "A Practical Guide To Design Principles",
@@ -29,31 +47,13 @@
       "link": "https://smashingmagazine.com/2026/04/practical-guide-design-principles/"
     },
     {
-      "title": "Data models: the shared language your AI and team are both missing",
-      "image": "https://placehold.co/600x400",
-      "summary": "Data models: the shared language your AI and team are both missing",
-      "category": "AI Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://uxdesign.cc/data-models-the-shared-language-your-ai-and-team-are-both-missing-e36807c7f665?source=rss----138adf9c44c---4"
-    },
-    {
-      "title": " Be a comic artist with issue 265 of ImagineFX ",
-      "image": "https://cdn.mos.cms.futurecdn.net/4u8QXeLENPjELFeJZV84wK-1280-80.jpg",
-      "summary": "Discover key techniques to make a splash with comic art in our latest issue",
+      "title": " Persona's legendary artist redesigns Devil May Cry's  characters for new Switch game ",
+      "image": "https://cdn.mos.cms.futurecdn.net/dmKneNpRopnZu3kwQy2Sze-1280-80.jpg",
+      "summary": "Kazuma Kaneko’s Tsukuyomi on Switch features new designs for Dante, Nero and Vergil.",
       "category": "Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://www.creativebloq.com/professional-development/artistic-tips-techniques/be-a-comic-artist-with-issue-265-of-imaginefx"
-    },
-    {
-      "title": "The UX ground is shaking, synthetic users, building perspective",
-      "image": "https://placehold.co/600x400",
-      "summary": "The UX ground is shaking, synthetic users, building perspective",
-      "category": "UI/UX",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://uxdesign.cc/the-ux-ground-is-shaking-synthetic-users-building-perspective-38635c3677e1?source=rss----138adf9c44c---4"
+      "link": "https://www.creativebloq.com/3d/video-game-design/this-game-drops-its-ai-art-experiment-for-devil-may-cry-redesigns-by-personas-legendary-artist"
     }
   ]
 }
