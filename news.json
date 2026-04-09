@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-04-08T02:25:17.650Z",
+  "lastUpdated": "2026-04-09T02:11:32.654Z",
   "articles": [
+    {
+      "title": "Social media on trial",
+      "image": "https://placehold.co/600x400",
+      "summary": "How design was used to target vulnerable children\nContinue reading on UX Collective »",
+      "category": "UI/UX",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://uxdesign.cc/social-media-on-trial-32be44a6434e?source=rss----138adf9c44c---4"
+    },
     {
       "title": "Identifying Necessary Transparency Moments In Agentic AI (Part 1)",
       "image": "http://files.smashing.media/articles/identifying-necessary-transparency-moments-agentic-ai-part1/identifying-necessary-transparency-moments-agentic-ai-part1.jpg",
@@ -9,24 +18,6 @@
       "style": "Unknown",
       "mood": "Neutral",
       "link": "https://smashingmagazine.com/2026/04/identifying-necessary-transparency-moments-agentic-ai-part1/"
-    },
-    {
-      "title": "Careful, liable UX is a thing now",
-      "image": "https://placehold.co/600x400",
-      "summary": "The recent ruling against Meta signals a shift that’s been brewing for a minute. Deceptive or dark patterns are no longer just…\nContinue reading on UX Collective »",
-      "category": "UI/UX",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://uxdesign.cc/careful-liable-ux-is-a-thing-now-ff088a766de8?source=rss----138adf9c44c---4"
-    },
-    {
-      "title": " A Zelda: Ocarina of Time Remake on Switch 2 could be a mistake – here’s why ",
-      "image": "https://cdn.mos.cms.futurecdn.net/AeWrQrkZ8owoxUvGwc4qJg-1280-80.jpg",
-      "summary": "Nintendo faces an impossible choice.",
-      "category": "Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://www.creativebloq.com/entertainment/gaming/a-zelda-ocarina-of-time-remake-on-switch-2-could-be-a-mistake-heres-why"
     },
     {
       "title": "The old design workshop is dead. Long live design workshops.",
@@ -47,13 +38,22 @@
       "link": "https://smashingmagazine.com/2026/04/practical-guide-design-principles/"
     },
     {
-      "title": " Persona's legendary artist redesigns Devil May Cry's  characters for new Switch game ",
-      "image": "https://cdn.mos.cms.futurecdn.net/dmKneNpRopnZu3kwQy2Sze-1280-80.jpg",
-      "summary": "Kazuma Kaneko’s Tsukuyomi on Switch features new designs for Dante, Nero and Vergil.",
+      "title": " The iconic Audio Pro speaker I use every day has £61 sliced off ",
+      "image": "https://cdn.mos.cms.futurecdn.net/j4psEqTjLETGVXtaY4pbuB-1280-80.jpg",
+      "summary": "I play the C10 MkII in my bedroom and with this deal I might get one for the mezzanine daaarling.",
       "category": "Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://www.creativebloq.com/3d/video-game-design/this-game-drops-its-ai-art-experiment-for-devil-may-cry-redesigns-by-personas-legendary-artist"
+      "link": "https://www.creativebloq.com/tech/headphones-earbuds/the-iconic-audio-pro-speaker-i-use-every-day-has-gbp61-sliced-off"
+    },
+    {
+      "title": " From trading cards to t-shirts, get goodies the Pokémon fan in your life REALLY wants ",
+      "image": "https://cdn.mos.cms.futurecdn.net/oXAHRnmKYs4q2uiyEryG7N-1280-80.jpg",
+      "summary": "Discover up to 40% off merch and accessories.",
+      "category": "Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://www.creativebloq.com/design/from-trading-cards-to-t-shirts-get-goodies-the-pokemon-fan-in-your-life-really-wants"
     }
   ]
 }
