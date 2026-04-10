@@ -1,14 +1,23 @@
 {
-  "lastUpdated": "2026-04-09T02:11:32.654Z",
+  "lastUpdated": "2026-04-10T02:30:58.357Z",
   "articles": [
     {
-      "title": "Social media on trial",
-      "image": "https://placehold.co/600x400",
-      "summary": "How design was used to target vulnerable children\nContinue reading on UX Collective »",
-      "category": "UI/UX",
+      "title": " Why this incredible photo makes it look like Super Mario is twerking on the moon ",
+      "image": "https://cdn.mos.cms.futurecdn.net/ZkdePaasSJnmoqzCNrVAEe-1280-80.jpg",
+      "summary": "It's the moon landing conspiracy we deserve in 2026.",
+      "category": "Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://uxdesign.cc/social-media-on-trial-32be44a6434e?source=rss----138adf9c44c---4"
+      "link": "https://www.creativebloq.com/creative-inspiration/optical-illusions/breaking-news-super-mario-spotted-twerking-on-the-moon"
+    },
+    {
+      "title": " Creative Bloq launches the Big Teq Review Show ",
+      "image": "https://cdn.mos.cms.futurecdn.net/ntfDC4CCMEtu2U3j43eyrP-1280-80.png",
+      "summary": "From mice and speakers to AI note-takers and haptic gaming vests(?), we cover all the creative tech you can imagine. On video!",
+      "category": "AI Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://www.creativebloq.com/tech/creative-bloq-launches-the-big-teq-review-show"
     },
     {
       "title": "Identifying Necessary Transparency Moments In Agentic AI (Part 1)",
@@ -20,13 +29,22 @@
       "link": "https://smashingmagazine.com/2026/04/identifying-necessary-transparency-moments-agentic-ai-part1/"
     },
     {
-      "title": "The old design workshop is dead. Long live design workshops.",
+      "title": "taste.md",
       "image": "https://placehold.co/600x400",
-      "summary": "How new leaner design workshops are succeeding in 2026\nContinue reading on UX Collective »",
+      "summary": "the new tech buzzword\nContinue reading on UX Collective »",
       "category": "UI/UX",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://uxdesign.cc/the-old-design-workshop-is-dead-long-live-design-workshops-98f4ee58d9a7?source=rss----138adf9c44c---4"
+      "link": "https://uxdesign.cc/taste-md-e4fb75d9096f?source=rss----138adf9c44c---4"
+    },
+    {
+      "title": "Social media on trial",
+      "image": "https://placehold.co/600x400",
+      "summary": "How design was used to target vulnerable children\nContinue reading on UX Collective »",
+      "category": "UI/UX",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://uxdesign.cc/social-media-on-trial-32be44a6434e?source=rss----138adf9c44c---4"
     },
     {
       "title": "A Practical Guide To Design Principles",
@@ -36,24 +54,6 @@
       "style": "Unknown",
       "mood": "Neutral",
       "link": "https://smashingmagazine.com/2026/04/practical-guide-design-principles/"
-    },
-    {
-      "title": " The iconic Audio Pro speaker I use every day has £61 sliced off ",
-      "image": "https://cdn.mos.cms.futurecdn.net/j4psEqTjLETGVXtaY4pbuB-1280-80.jpg",
-      "summary": "I play the C10 MkII in my bedroom and with this deal I might get one for the mezzanine daaarling.",
-      "category": "Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://www.creativebloq.com/tech/headphones-earbuds/the-iconic-audio-pro-speaker-i-use-every-day-has-gbp61-sliced-off"
-    },
-    {
-      "title": " From trading cards to t-shirts, get goodies the Pokémon fan in your life REALLY wants ",
-      "image": "https://cdn.mos.cms.futurecdn.net/oXAHRnmKYs4q2uiyEryG7N-1280-80.jpg",
-      "summary": "Discover up to 40% off merch and accessories.",
-      "category": "Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://www.creativebloq.com/design/from-trading-cards-to-t-shirts-get-goodies-the-pokemon-fan-in-your-life-really-wants"
     }
   ]
 }
