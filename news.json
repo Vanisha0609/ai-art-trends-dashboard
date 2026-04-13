@@ -1,24 +1,6 @@
 {
-  "lastUpdated": "2026-04-12T02:32:30.133Z",
+  "lastUpdated": "2026-04-13T02:38:01.595Z",
   "articles": [
-    {
-      "title": "Rethinking design critique",
-      "image": "https://placehold.co/600x400",
-      "summary": "Building design knowledge through a collaborative process\nContinue reading on UX Collective »",
-      "category": "UI/UX",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://uxdesign.cc/rethinking-design-critique-3d358a859304?source=rss----138adf9c44c---4"
-    },
-    {
-      "title": " I was expecting great ANC from these Bose headphones… but WOW! ",
-      "image": "https://cdn.mos.cms.futurecdn.net/eJSGYw48pjNxEsPSYs7pvV-1280-80.jpg",
-      "summary": "Cheaper than they were at launch, the Bose QuietComfort Ultra headphone offers cutting edge tech and outstanding value.",
-      "category": "UI/UX",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://www.creativebloq.com/tech/headphones-earbuds/i-was-expecting-great-anc-from-these-bose-headphones-but-wow"
-    },
     {
       "title": "Identifying Necessary Transparency Moments In Agentic AI (Part 1)",
       "image": "http://files.smashing.media/articles/identifying-necessary-transparency-moments-agentic-ai-part1/identifying-necessary-transparency-moments-agentic-ai-part1.jpg",
@@ -29,22 +11,31 @@
       "link": "https://smashingmagazine.com/2026/04/identifying-necessary-transparency-moments-agentic-ai-part1/"
     },
     {
-      "title": "Notes from the people building your future",
-      "image": "https://placehold.co/600x400",
-      "summary": "Notes from the people building your future",
-      "category": "UI/UX",
+      "title": " Sonos's new portable speaker is making me wish I threw more parties ",
+      "image": "https://cdn.mos.cms.futurecdn.net/5tFaeKZJ2qLM4rt6ttNe2e-1280-80.jpg",
+      "summary": "The stunning Sonos Play is my new favourite bluetooth speaker.",
+      "category": "Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://uxdesign.cc/notes-from-the-people-building-your-future-2a1c7a9dfbcd?source=rss----138adf9c44c---4"
+      "link": "https://www.creativebloq.com/design/product-design/sonoss-new-portable-speaker-is-making-me-wish-i-threw-more-parties"
     },
     {
-      "title": " This is the most boujee cat litter ad you've ever seen ",
-      "image": "https://cdn.mos.cms.futurecdn.net/Xk4mtCn9MuF3hUV2e7RTRo-1280-80.jpg",
-      "summary": "Catsan brings luxury to the world of moggy business.",
+      "title": "Most products don’t need tone of voice — they need a point",
+      "image": "https://placehold.co/600x400",
+      "summary": "Instead of BS rules that no one will open twice, focus on what’s useful (like plain English, active voice, and good timing).\nContinue reading on UX Collective »",
       "category": "UI/UX",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://www.creativebloq.com/design/advertising/this-is-the-most-boujee-cat-litter-ad-youve-ever-seen"
+      "link": "https://uxdesign.cc/most-products-dont-need-tone-of-voice-they-need-a-point-cf37f7c752ac?source=rss----138adf9c44c---4"
+    },
+    {
+      "title": "Designing adaptive teams",
+      "image": "https://placehold.co/600x400",
+      "summary": "Designing adaptive teams",
+      "category": "Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://uxdesign.cc/designing-adaptive-teams-cee73e55013d?source=rss----138adf9c44c---4"
     },
     {
       "title": "How To Improve UX In Legacy Systems",
@@ -54,6 +45,15 @@
       "style": "Unknown",
       "mood": "Neutral",
       "link": "https://smashingmagazine.com/2026/04/legacy-systems/"
+    },
+    {
+      "title": " \"Design isn’t something you look at, it’s something you live in\": 5 questions with Wybe Magermans ",
+      "image": "https://cdn.mos.cms.futurecdn.net/pwHRH5YbfScZuh3e2z3tuC-1280-80.jpg",
+      "summary": "WMH&I's director of strategy & growth discusses the flaws of design pretending to be strategy and the future of the creative industry.",
+      "category": "Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://www.creativebloq.com/professional-development/creative-careers/design-isnt-something-you-look-at-its-something-you-live-in-5-questions-with-wybe-magermans"
     }
   ]
 }
