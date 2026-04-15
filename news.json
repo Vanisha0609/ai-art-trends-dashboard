@@ -1,15 +1,6 @@
 {
-  "lastUpdated": "2026-04-14T02:31:25.878Z",
+  "lastUpdated": "2026-04-15T02:29:39.093Z",
   "articles": [
-    {
-      "title": " Pragmata review: innovative AA action with AAA sci-fi sheen shoots for the moon and scores ",
-      "image": "https://cdn.mos.cms.futurecdn.net/WdTStzE7GcCXkcLPH4L7WD-1280-80.jpg",
-      "summary": "One of the most original Capcom games I've played is refreshingly old-school.",
-      "category": "Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://www.creativebloq.com/3d/video-game-design/pragmata-review-innovative-aa-action-sensibilities-with-aaa-sci-fi-sheen-that-shoots-for-the-moon-and-scores"
-    },
     {
       "title": "Identifying Necessary Transparency Moments In Agentic AI (Part 1)",
       "image": "http://files.smashing.media/articles/identifying-necessary-transparency-moments-agentic-ai-part1/identifying-necessary-transparency-moments-agentic-ai-part1.jpg",
@@ -29,13 +20,31 @@
       "link": "https://uxdesign.cc/the-erosion-of-design-authority-burnout-problems-invisible-customers-98e75650e97d?source=rss----138adf9c44c---4"
     },
     {
-      "title": " Donald Trump's AI Jesus image could finally break his brand ",
-      "image": "https://cdn.mos.cms.futurecdn.net/LKrJPTiVnJSwQsVgoi8y7Z-1280-80.jpg",
-      "summary": "Is this the ultimate self-branding sin?",
-      "category": "AI Design",
+      "title": "How to turn your competitor’s worst reviews into your strongest design argument",
+      "image": "https://placehold.co/600x400",
+      "summary": "Competitive research isn’t for visuals. It’s for bringing evidence.\nContinue reading on UX Collective »",
+      "category": "UI/UX",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://www.creativebloq.com/ai/ai-art/donald-trumps-ai-jesus-image-could-break-his-brand"
+      "link": "https://uxdesign.cc/how-to-turn-your-competitors-worst-reviews-into-your-strongest-design-argument-6d216680693d?source=rss----138adf9c44c---4"
+    },
+    {
+      "title": " Hey designers, I bet you can spot what’s ‘wrong' with the new Esquire cover ",
+      "image": "https://cdn.mos.cms.futurecdn.net/YGf6kZGeG6bMYKonAYCecm-1280-80.jpg",
+      "summary": "\"Anti-design in Esquire makes about as much sense as bananas in a lasagna.\"",
+      "category": "UI/UX",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://www.creativebloq.com/design/magazines/hey-designers-i-bet-you-can-spot-whats-wrong-with-the-new-esquire-cover"
+    },
+    {
+      "title": " Save 75% on Spider-Man merch, from Lego to luxury watches ",
+      "image": "https://cdn.mos.cms.futurecdn.net/kwdWwuuf3qLtcme9cC7ZMD-1280-80.jpg",
+      "summary": "Don’t wait for a Brand New Day to snag these deals.",
+      "category": "UI/UX",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://www.creativebloq.com/entertainment/movies-tv-shows/save-75-percent-on-spider-man-merch-from-lego-to-luxury-watches"
     },
     {
       "title": "How To Improve UX In Legacy Systems",
@@ -45,15 +54,6 @@
       "style": "Unknown",
       "mood": "Neutral",
       "link": "https://smashingmagazine.com/2026/04/legacy-systems/"
-    },
-    {
-      "title": "Most products don’t need tone of voice — they need a point",
-      "image": "https://placehold.co/600x400",
-      "summary": "Instead of BS rules that no one will open twice, focus on what’s useful (like plain English, active voice, and good timing).\nContinue reading on UX Collective »",
-      "category": "UI/UX",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://uxdesign.cc/most-products-dont-need-tone-of-voice-they-need-a-point-cf37f7c752ac?source=rss----138adf9c44c---4"
     }
   ]
 }
