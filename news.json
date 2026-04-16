@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-04-15T02:29:39.093Z",
+  "lastUpdated": "2026-04-16T02:36:30.057Z",
   "articles": [
+    {
+      "title": "How To Improve UX In Legacy Systems",
+      "image": "http://files.smashing.media/articles/how-improve-ux-legacy-systems/legacy-systems.jpg",
+      "summary": "Practical guidelines for driving UX impact in organizations with legacy systems and broken processes. Brought to you by Measuring UX Impact, **friendly video course on UX** and design patterns by Vitaly.",
+      "category": "UI/UX",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://smashingmagazine.com/2026/04/legacy-systems/"
+    },
     {
       "title": "Identifying Necessary Transparency Moments In Agentic AI (Part 1)",
       "image": "http://files.smashing.media/articles/identifying-necessary-transparency-moments-agentic-ai-part1/identifying-necessary-transparency-moments-agentic-ai-part1.jpg",
@@ -9,6 +18,15 @@
       "style": "Unknown",
       "mood": "Neutral",
       "link": "https://smashingmagazine.com/2026/04/identifying-necessary-transparency-moments-agentic-ai-part1/"
+    },
+    {
+      "title": " Adobe is making bold claims about its new Firefly AI Assistant ",
+      "image": "https://cdn.mos.cms.futurecdn.net/kWwdkYzuQVKwkqe9YbhZea-1280-80.jpg",
+      "summary": "\"All of Adobe’s magic in a single wand.\"",
+      "category": "Tools",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://www.creativebloq.com/design/design-software/adobe-is-making-bold-claims-about-its-new-firefly-ai-assistant"
     },
     {
       "title": "The erosion of design authority, burnout problems, invisible customers",
@@ -29,31 +47,13 @@
       "link": "https://uxdesign.cc/how-to-turn-your-competitors-worst-reviews-into-your-strongest-design-argument-6d216680693d?source=rss----138adf9c44c---4"
     },
     {
-      "title": " Hey designers, I bet you can spot what’s ‘wrong' with the new Esquire cover ",
-      "image": "https://cdn.mos.cms.futurecdn.net/YGf6kZGeG6bMYKonAYCecm-1280-80.jpg",
-      "summary": "\"Anti-design in Esquire makes about as much sense as bananas in a lasagna.\"",
-      "category": "UI/UX",
+      "title": " Epic Godzilla Minus Zero trailer makes the iconic kaiju look ever beefier ",
+      "image": "https://cdn.mos.cms.futurecdn.net/Jidkbrn9JfCsiCYJr8HyPN-1280-80.jpg",
+      "summary": "Has the 252-million-year-old monster been working out?",
+      "category": "AI Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://www.creativebloq.com/design/magazines/hey-designers-i-bet-you-can-spot-whats-wrong-with-the-new-esquire-cover"
-    },
-    {
-      "title": " Save 75% on Spider-Man merch, from Lego to luxury watches ",
-      "image": "https://cdn.mos.cms.futurecdn.net/kwdWwuuf3qLtcme9cC7ZMD-1280-80.jpg",
-      "summary": "Don’t wait for a Brand New Day to snag these deals.",
-      "category": "UI/UX",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://www.creativebloq.com/entertainment/movies-tv-shows/save-75-percent-on-spider-man-merch-from-lego-to-luxury-watches"
-    },
-    {
-      "title": "How To Improve UX In Legacy Systems",
-      "image": "http://files.smashing.media/articles/how-improve-ux-legacy-systems/legacy-systems.jpg",
-      "summary": "Practical guidelines for driving UX impact in organizations with legacy systems and broken processes. Brought to you by Measuring UX Impact, **friendly video course on UX** and design patterns by Vitaly.",
-      "category": "UI/UX",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://smashingmagazine.com/2026/04/legacy-systems/"
+      "link": "https://www.creativebloq.com/entertainment/movies-tv-shows/epic-godzilla-minus-zero-trailer-makes-the-iconic-kaiju-look-ever-beefier"
     }
   ]
 }
