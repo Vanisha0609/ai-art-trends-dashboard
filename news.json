@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-04-16T02:36:30.057Z",
+  "lastUpdated": "2026-04-17T02:32:36.878Z",
   "articles": [
+    {
+      "title": "I watched the manosphere documentary; here is how design is making things worse.",
+      "image": "https://placehold.co/600x400",
+      "summary": "I watched the manosphere documentary; here is how design is making things worse.",
+      "category": "Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://uxdesign.cc/i-watched-the-manosphere-documentary-here-is-how-design-is-making-things-worse-771de2bad594?source=rss----138adf9c44c---4"
+    },
     {
       "title": "How To Improve UX In Legacy Systems",
       "image": "http://files.smashing.media/articles/how-improve-ux-legacy-systems/legacy-systems.jpg",
@@ -9,6 +18,24 @@
       "style": "Unknown",
       "mood": "Neutral",
       "link": "https://smashingmagazine.com/2026/04/legacy-systems/"
+    },
+    {
+      "title": " Canva AI 2.0 can create an entire brand campaign from a text prompt ",
+      "image": "https://cdn.mos.cms.futurecdn.net/yEu9KzMWQvYXaHj85ahwJJ-1280-80.jpg",
+      "summary": "No more starting with a blank page.",
+      "category": "AI Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://www.creativebloq.com/design/design-software/canva-ai-2-0-can-create-an-entire-brand-campaign-from-a-text-prompt"
+    },
+    {
+      "title": " Revealed: OFFF 2026's visual identity was secretly harvested from the bodies of actual people ",
+      "image": "https://cdn.mos.cms.futurecdn.net/yMxWMeFFoZDeabk35cpDcM-1280-80.png",
+      "summary": "I caught up with Nils Leonard (co-founder of Uncommon) about the \"magic trick\" that makes the branding so special.",
+      "category": "Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://www.creativebloq.com/design/branding/revealed-offf-2026s-visual-identity-was-harvested-from-actual-people"
     },
     {
       "title": "Identifying Necessary Transparency Moments In Agentic AI (Part 1)",
@@ -20,40 +47,13 @@
       "link": "https://smashingmagazine.com/2026/04/identifying-necessary-transparency-moments-agentic-ai-part1/"
     },
     {
-      "title": " Adobe is making bold claims about its new Firefly AI Assistant ",
-      "image": "https://cdn.mos.cms.futurecdn.net/kWwdkYzuQVKwkqe9YbhZea-1280-80.jpg",
-      "summary": "\"All of Adobe’s magic in a single wand.\"",
-      "category": "Tools",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://www.creativebloq.com/design/design-software/adobe-is-making-bold-claims-about-its-new-firefly-ai-assistant"
-    },
-    {
-      "title": "The erosion of design authority, burnout problems, invisible customers",
+      "title": "Autopilot, agentic AI, and the dangers of imperfect metaphors",
       "image": "https://placehold.co/600x400",
-      "summary": "The erosion of design authority, burnout problems, invisible customers",
-      "category": "Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://uxdesign.cc/the-erosion-of-design-authority-burnout-problems-invisible-customers-98e75650e97d?source=rss----138adf9c44c---4"
-    },
-    {
-      "title": "How to turn your competitor’s worst reviews into your strongest design argument",
-      "image": "https://placehold.co/600x400",
-      "summary": "Competitive research isn’t for visuals. It’s for bringing evidence.\nContinue reading on UX Collective »",
-      "category": "UI/UX",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://uxdesign.cc/how-to-turn-your-competitors-worst-reviews-into-your-strongest-design-argument-6d216680693d?source=rss----138adf9c44c---4"
-    },
-    {
-      "title": " Epic Godzilla Minus Zero trailer makes the iconic kaiju look ever beefier ",
-      "image": "https://cdn.mos.cms.futurecdn.net/Jidkbrn9JfCsiCYJr8HyPN-1280-80.jpg",
-      "summary": "Has the 252-million-year-old monster been working out?",
+      "summary": "Autopilot, agentic AI, and the dangers of imperfect metaphors",
       "category": "AI Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://www.creativebloq.com/entertainment/movies-tv-shows/epic-godzilla-minus-zero-trailer-makes-the-iconic-kaiju-look-ever-beefier"
+      "link": "https://uxdesign.cc/autopilot-agentic-ai-and-the-dangers-of-imperfect-metaphors-d94e96575153?source=rss----138adf9c44c---4"
     }
   ]
 }
