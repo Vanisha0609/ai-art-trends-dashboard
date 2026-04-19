@@ -1,42 +1,6 @@
 {
-  "lastUpdated": "2026-04-18T02:23:11.120Z",
+  "lastUpdated": "2026-04-19T02:37:36.367Z",
   "articles": [
-    {
-      "title": " Why Metro 2039 is doubling down on tightly curated, story-first level design ",
-      "image": "https://cdn.mos.cms.futurecdn.net/5aDoqitcsRhc8qnRh7dQmR-1280-80.jpg",
-      "summary": "4A Games is pushing back against open-world excess.",
-      "category": "AI Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://www.creativebloq.com/entertainment/gaming/why-metro-2039-is-doubling-down-on-tightly-curated-story-first-level-design"
-    },
-    {
-      "title": "How To Improve UX In Legacy Systems",
-      "image": "http://files.smashing.media/articles/how-improve-ux-legacy-systems/legacy-systems.jpg",
-      "summary": "Practical guidelines for driving UX impact in organizations with legacy systems and broken processes. Brought to you by Measuring UX Impact, **friendly video course on UX** and design patterns by Vitaly.",
-      "category": "UI/UX",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://smashingmagazine.com/2026/04/legacy-systems/"
-    },
-    {
-      "title": "Folder instructions — Instructions for system-level AI",
-      "image": "https://placehold.co/600x400",
-      "summary": "Folder instructions — Instructions for system-level AI",
-      "category": "AI Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://uxdesign.cc/folder-instructions-instructions-for-system-level-ai-c6113ff78287?source=rss----138adf9c44c---4"
-    },
-    {
-      "title": " The ultimate logo quiz: think you know your 1980s logos? ",
-      "image": "https://cdn.mos.cms.futurecdn.net/fngi4t7FZTsakhNiKKfXLK-1280-80.jpg",
-      "summary": "Our logos through the decade series continues with 1980s logo trivia.",
-      "category": "UI/UX",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://www.creativebloq.com/design/logos-icons/the-ultimate-logo-quiz-think-you-know-your-1980s-logos"
-    },
     {
       "title": "Identifying Necessary Transparency Moments In Agentic AI (Part 1)",
       "image": "http://files.smashing.media/articles/identifying-necessary-transparency-moments-agentic-ai-part1/identifying-necessary-transparency-moments-agentic-ai-part1.jpg",
@@ -47,6 +11,24 @@
       "link": "https://smashingmagazine.com/2026/04/identifying-necessary-transparency-moments-agentic-ai-part1/"
     },
     {
+      "title": " Designers! You ALL need to come to OFFF Barcelona ",
+      "image": "https://cdn.mos.cms.futurecdn.net/PNc2rU8NRpQxM5dLax5qdM-1280-80.png",
+      "summary": "A truly special community packed with knowledge, collaboration and general good vibes.",
+      "category": "Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://www.creativebloq.com/events/designers-you-all-need-to-come-to-offf-barcelona"
+    },
+    {
+      "title": "Are we makers by nature — or consumers by design?",
+      "image": "https://placehold.co/600x400",
+      "summary": "Are we makers by nature — or consumers by design?",
+      "category": "Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://uxdesign.cc/are-we-makers-by-nature-or-consumers-by-design-0a63abb301f0?source=rss----138adf9c44c---4"
+    },
+    {
       "title": "Your AI agent can read your codebase. It doesn’t know your product.",
       "image": "https://placehold.co/600x400",
       "summary": "Your AI agent can read your codebase. It doesn’t know your product.",
@@ -54,6 +36,24 @@
       "style": "Unknown",
       "mood": "Neutral",
       "link": "https://uxdesign.cc/your-ai-agent-can-read-your-codebase-it-doesnt-know-your-product-b5ea0cd77989?source=rss----138adf9c44c---4"
+    },
+    {
+      "title": " Why this artist swapped architecture for Unreal Engine ",
+      "image": "https://cdn.mos.cms.futurecdn.net/54YQvwQeGVo9ueUbVKLfKb-1280-80.jpg",
+      "summary": "Techland's Jan Buczny wants to build worlds that tell stories.",
+      "category": "UI/UX",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://www.creativebloq.com/3d/3d-art/why-this-artist-swapped-architecture-for-unreal-engine"
+    },
+    {
+      "title": "How To Improve UX In Legacy Systems",
+      "image": "http://files.smashing.media/articles/how-improve-ux-legacy-systems/legacy-systems.jpg",
+      "summary": "Practical guidelines for driving UX impact in organizations with legacy systems and broken processes. Brought to you by Measuring UX Impact, **friendly video course on UX** and design patterns by Vitaly.",
+      "category": "UI/UX",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://smashingmagazine.com/2026/04/legacy-systems/"
     }
   ]
 }
