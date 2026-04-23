@@ -1,51 +1,6 @@
 {
-  "lastUpdated": "2026-04-22T02:31:42.690Z",
+  "lastUpdated": "2026-04-23T02:35:23.634Z",
   "articles": [
-    {
-      "title": " Rogue Trooper teaser raises hopes for the first Unreal Engine 5 movie ",
-      "image": "https://cdn.mos.cms.futurecdn.net/jSDcrQYLDZ8haD85zQGReb-1280-80.jpg",
-      "summary": "Have they fixed fans' biggest complaint?",
-      "category": "AI Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://www.creativebloq.com/entertainment/movies-tv-shows/rogue-trooper-teaser-raises-hopes-for-the-first-unreal-engine-5-movie"
-    },
-    {
-      "title": "How to mitigate the risk of AI implementation in enterprise environments",
-      "image": "https://placehold.co/600x400",
-      "summary": "My focus has been on the enterprise sector for years. After the 2022 ChatGPT revolution, I witnessed a massive hype around self-made AI…\nContinue reading on UX Collective »",
-      "category": "UI/UX",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://uxdesign.cc/how-to-mitigate-the-risk-of-ai-implementation-in-enterprise-environments-74d3bd7f9e65?source=rss----138adf9c44c---4"
-    },
-    {
-      "title": " NEOGEO AES+ pre-orders are surging and sparking FOMO  ",
-      "image": "https://cdn.mos.cms.futurecdn.net/yhghKigFN9imYv5pCnH53j-1280-80.jpg",
-      "summary": "Don’t miss your shot at this retro revival – here's where to pre-order.",
-      "category": "Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://www.creativebloq.com/entertainment/gaming/neogeo-aes-pre-orders-are-surging-and-sparking-fomo-heres-where-to-buy"
-    },
-    {
-      "title": "How design leaders influence decisions without being in the room",
-      "image": "https://placehold.co/600x400",
-      "summary": "How to create annotations that let your design work shine\nContinue reading on UX Collective »",
-      "category": "UI/UX",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://uxdesign.cc/how-design-leaders-influence-decisions-without-being-in-the-room-4f52fbffabba?source=rss----138adf9c44c---4"
-    },
-    {
-      "title": "How To Improve UX In Legacy Systems",
-      "image": "http://files.smashing.media/articles/how-improve-ux-legacy-systems/legacy-systems.jpg",
-      "summary": "Practical guidelines for driving UX impact in organizations with legacy systems and broken processes. Brought to you by Measuring UX Impact, **friendly video course on UX** and design patterns by Vitaly.",
-      "category": "UI/UX",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://smashingmagazine.com/2026/04/legacy-systems/"
-    },
     {
       "title": "Session Timeouts: The Overlooked Accessibility Barrier In Authentication Design",
       "image": "http://files.smashing.media/articles/session-timeouts-accessibility-barrier-authentication-design/session-timeouts-accessibility-barrier-authentication-design.jpg",
@@ -54,6 +9,51 @@
       "style": "Unknown",
       "mood": "Neutral",
       "link": "https://smashingmagazine.com/2026/04/session-timeouts-accessibility-barrier-authentication-design/"
+    },
+    {
+      "title": " Gamers unlock access to thousands of free GameCube and Wii titles for Nintendo Switch ",
+      "image": "https://cdn.mos.cms.futurecdn.net/kB3VzDhbxkkyPLCyyREieR-1280-80.jpg",
+      "summary": "Advanced emulation is still risky (though a lot less complicated) to navigate.",
+      "category": "Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://www.creativebloq.com/entertainment/gaming/gamers-unlock-access-to-thousands-of-free-gamecube-and-wii-titles-for-nintendo-switch"
+    },
+    {
+      "title": "What improv taught me about why innovation falls out of sync",
+      "image": "https://placehold.co/600x400",
+      "summary": "When adaptation becomes uncoordinated, journeys fall out of sync — like improv comedy gone horribly wrong.\nContinue reading on UX Collective »",
+      "category": "UI/UX",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://uxdesign.cc/what-improv-taught-me-about-why-innovation-falls-out-of-sync-1e3961fa2083?source=rss----138adf9c44c---4"
+    },
+    {
+      "title": "The UX Designer’s Nightmare: When “Production-Ready” Becomes A Design Deliverable",
+      "image": "http://files.smashing.media/articles/ux-designer-nightmare-production-ready-becomes-design-deliverable/production-ready-becomes-design-deliverable-ux.jpg",
+      "summary": "In a rush to embrace AI, the industry is redefining what it means to be a UX designer, blurring the line between design and engineering. Carrie Webster explores what’s gained, what’s lost, and why designers need to remain the guardians of the user experience.",
+      "category": "UI/UX",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://smashingmagazine.com/2026/04/production-ready-becomes-design-deliverable-ux/"
+    },
+    {
+      "title": " Disney dials up ‘80s nostalgia for Rivals with four iconic brand collabs, including Volkswagen ",
+      "image": "https://cdn.mos.cms.futurecdn.net/BehDzKrpio8w5E9hCTmhbg-1280-80.jpg",
+      "summary": "Blending intricate on-screen design with in-store and social campaigns.",
+      "category": "AI Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://www.creativebloq.com/design/branding/disney-dials-up-80s-nostalgia-for-rivals-with-four-iconic-brand-collabs-including-volkswagen"
+    },
+    {
+      "title": "Working in the open",
+      "image": "https://placehold.co/600x400",
+      "summary": "Working in the open",
+      "category": "Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://uxdesign.cc/working-in-the-open-learnings-from-designing-open-source-technology-67a7f71bc450?source=rss----138adf9c44c---4"
     }
   ]
 }
