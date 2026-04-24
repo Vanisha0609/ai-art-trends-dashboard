@@ -1,33 +1,6 @@
 {
-  "lastUpdated": "2026-04-23T02:35:23.634Z",
+  "lastUpdated": "2026-04-24T02:35:32.635Z",
   "articles": [
-    {
-      "title": "Session Timeouts: The Overlooked Accessibility Barrier In Authentication Design",
-      "image": "http://files.smashing.media/articles/session-timeouts-accessibility-barrier-authentication-design/session-timeouts-accessibility-barrier-authentication-design.jpg",
-      "summary": "Poorly handled session timeouts are more than a technical inconvenience. They can become serious accessibility barriers that interrupt essential online tasks, especially for people with disabilities. Here is how to implement thoughtful session management that improves usability, reduces frustration, and helps create a more accessible and respectful web.",
-      "category": "Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://smashingmagazine.com/2026/04/session-timeouts-accessibility-barrier-authentication-design/"
-    },
-    {
-      "title": " Gamers unlock access to thousands of free GameCube and Wii titles for Nintendo Switch ",
-      "image": "https://cdn.mos.cms.futurecdn.net/kB3VzDhbxkkyPLCyyREieR-1280-80.jpg",
-      "summary": "Advanced emulation is still risky (though a lot less complicated) to navigate.",
-      "category": "Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://www.creativebloq.com/entertainment/gaming/gamers-unlock-access-to-thousands-of-free-gamecube-and-wii-titles-for-nintendo-switch"
-    },
-    {
-      "title": "What improv taught me about why innovation falls out of sync",
-      "image": "https://placehold.co/600x400",
-      "summary": "When adaptation becomes uncoordinated, journeys fall out of sync — like improv comedy gone horribly wrong.\nContinue reading on UX Collective »",
-      "category": "UI/UX",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://uxdesign.cc/what-improv-taught-me-about-why-innovation-falls-out-of-sync-1e3961fa2083?source=rss----138adf9c44c---4"
-    },
     {
       "title": "The UX Designer’s Nightmare: When “Production-Ready” Becomes A Design Deliverable",
       "image": "http://files.smashing.media/articles/ux-designer-nightmare-production-ready-becomes-design-deliverable/production-ready-becomes-design-deliverable-ux.jpg",
@@ -38,22 +11,49 @@
       "link": "https://smashingmagazine.com/2026/04/production-ready-becomes-design-deliverable-ux/"
     },
     {
-      "title": " Disney dials up ‘80s nostalgia for Rivals with four iconic brand collabs, including Volkswagen ",
-      "image": "https://cdn.mos.cms.futurecdn.net/BehDzKrpio8w5E9hCTmhbg-1280-80.jpg",
-      "summary": "Blending intricate on-screen design with in-store and social campaigns.",
+      "title": "How AI may reshape elderly care",
+      "image": "https://placehold.co/600x400",
+      "summary": "How AI may reshape elderly care",
       "category": "AI Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://www.creativebloq.com/design/branding/disney-dials-up-80s-nostalgia-for-rivals-with-four-iconic-brand-collabs-including-volkswagen"
+      "link": "https://uxdesign.cc/how-ai-may-reshape-elderly-care-c5ca4d7f32ee?source=rss----138adf9c44c---4"
     },
     {
-      "title": "Working in the open",
-      "image": "https://placehold.co/600x400",
-      "summary": "Working in the open",
+      "title": "  Could the Emily Hart AI hoax change the internet forever? ",
+      "image": "https://cdn.mos.cms.futurecdn.net/koa2Q7TmqDxhUSPW57FTGN-1280-80.jpg",
+      "summary": "The MAGA influencer that didn't exist could be the end of online trust.",
+      "category": "AI Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://www.creativebloq.com/art/digital-art/could-the-emily-hart-ai-hoax-change-the-internet-forever"
+    },
+    {
+      "title": " Get order in your life with 37% off this 2TB SSD external hard drive ",
+      "image": "https://cdn.mos.cms.futurecdn.net/AnbeRKcYb3YGCVQZuBdWh4-1280-80.jpg",
+      "summary": "The SanDisk Extreme PRO runs like a dream, and looks pretty great too.",
       "category": "Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://uxdesign.cc/working-in-the-open-learnings-from-designing-open-source-technology-67a7f71bc450?source=rss----138adf9c44c---4"
+      "link": "https://www.creativebloq.com/tech/accessories/get-order-in-your-life-with-37-percent-off-this-2tb-ssd-external-hard-drive"
+    },
+    {
+      "title": "Session Timeouts: The Overlooked Accessibility Barrier In Authentication Design",
+      "image": "http://files.smashing.media/articles/session-timeouts-accessibility-barrier-authentication-design/session-timeouts-accessibility-barrier-authentication-design.jpg",
+      "summary": "Poorly handled session timeouts are more than a technical inconvenience. They can become serious accessibility barriers that interrupt essential online tasks, especially for people with disabilities. Here is how to implement thoughtful session management that improves usability, reduces frustration, and helps create a more accessible and respectful web.",
+      "category": "Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://smashingmagazine.com/2026/04/session-timeouts-accessibility-barrier-authentication-design/"
+    },
+    {
+      "title": "Designing with AI without losing your mind",
+      "image": "https://placehold.co/600x400",
+      "summary": "Designing with AI without losing your mind",
+      "category": "AI Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://uxdesign.cc/designing-with-ai-without-losing-your-mind-0cfba48f6309?source=rss----138adf9c44c---4"
     }
   ]
 }
