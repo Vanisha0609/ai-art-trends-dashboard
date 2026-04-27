@@ -1,23 +1,14 @@
 {
-  "lastUpdated": "2026-04-26T02:40:47.229Z",
+  "lastUpdated": "2026-04-27T02:43:09.307Z",
   "articles": [
     {
-      "title": " One photo, two products: this Bic advert is print perfection ",
-      "image": "https://cdn.mos.cms.futurecdn.net/u5tjZxwArDL924WjWd7pPe-1280-80.jpg",
-      "summary": "Is this the best print ad ever created?",
+      "title": " Euphoria fans can’t get enough of Nate and Cassie’s tacky wedding invite design ",
+      "image": "https://cdn.mos.cms.futurecdn.net/gjF4PiTjL2qoqtm93aQpzn-1280-80.jpg",
+      "summary": "It's perfect for all the wrong reasons.",
       "category": "Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://www.creativebloq.com/design/advertising/one-photo-two-products-this-bic-advert-is-print-ad-perfection"
-    },
-    {
-      "title": "Session Timeouts: The Overlooked Accessibility Barrier In Authentication Design",
-      "image": "http://files.smashing.media/articles/session-timeouts-accessibility-barrier-authentication-design/session-timeouts-accessibility-barrier-authentication-design.jpg",
-      "summary": "Poorly handled session timeouts are more than a technical inconvenience. They can become serious accessibility barriers that interrupt essential online tasks, especially for people with disabilities. Here is how to implement thoughtful session management that improves usability, reduces frustration, and helps create a more accessible and respectful web.",
-      "category": "Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://smashingmagazine.com/2026/04/session-timeouts-accessibility-barrier-authentication-design/"
+      "link": "https://www.creativebloq.com/design/graphic-design/euphoria-fans-cant-get-enough-of-nate-and-cassies-tacky-wedding-invite-design"
     },
     {
       "title": "The UX Designer’s Nightmare: When “Production-Ready” Becomes A Design Deliverable",
@@ -29,15 +20,6 @@
       "link": "https://smashingmagazine.com/2026/04/production-ready-becomes-design-deliverable-ux/"
     },
     {
-      "title": "Designing with AI without losing your mind",
-      "image": "https://placehold.co/600x400",
-      "summary": "Designing with AI without losing your mind",
-      "category": "AI Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://uxdesign.cc/designing-with-ai-without-losing-your-mind-0cfba48f6309?source=rss----138adf9c44c---4"
-    },
-    {
       "title": "The rulebook for designing AI experiences",
       "image": "https://placehold.co/600x400",
       "summary": "The rulebook for designing AI experiences",
@@ -47,13 +29,31 @@
       "link": "https://uxdesign.cc/the-rulebook-for-designing-ai-experiences-a22a50bb063c?source=rss----138adf9c44c---4"
     },
     {
-      "title": " This charity's new logo uses negative space beautifully ",
-      "image": "https://cdn.mos.cms.futurecdn.net/HMM4eTDcvQxAvGeNFwzipL-1280-80.png",
-      "summary": "New identity aims to better reflect Working Animals International's purpose.",
+      "title": "Session Timeouts: The Overlooked Accessibility Barrier In Authentication Design",
+      "image": "http://files.smashing.media/articles/session-timeouts-accessibility-barrier-authentication-design/session-timeouts-accessibility-barrier-authentication-design.jpg",
+      "summary": "Poorly handled session timeouts are more than a technical inconvenience. They can become serious accessibility barriers that interrupt essential online tasks, especially for people with disabilities. Here is how to implement thoughtful session management that improves usability, reduces frustration, and helps create a more accessible and respectful web.",
+      "category": "Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://smashingmagazine.com/2026/04/session-timeouts-accessibility-barrier-authentication-design/"
+    },
+    {
+      "title": " Getting married? Here are all the products you need for a home-crafted wedding ",
+      "image": "https://cdn.mos.cms.futurecdn.net/rxgCuR2rT3fgmDWsexUS7K-1280-80.jpg",
+      "summary": "From Cricut, tissue paper, laser engravers and more, this is the essential wedding crafting kit.",
+      "category": "Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://www.creativebloq.com/creative-inspiration/digital-crafting/getting-married-here-are-all-the-products-you-need-for-a-home-crafted-wedding"
+    },
+    {
+      "title": "Designing with AI without losing your mind",
+      "image": "https://placehold.co/600x400",
+      "summary": "Designing with AI without losing your mind",
       "category": "AI Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://www.creativebloq.com/design/branding/working-animals-international-rebrands-with-optical-illusion-like-logo"
+      "link": "https://uxdesign.cc/designing-with-ai-without-losing-your-mind-0cfba48f6309?source=rss----138adf9c44c---4"
     }
   ]
 }
