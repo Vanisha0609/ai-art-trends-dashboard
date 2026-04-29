@@ -1,32 +1,14 @@
 {
-  "lastUpdated": "2026-04-28T02:50:51.941Z",
+  "lastUpdated": "2026-04-29T02:49:28.132Z",
   "articles": [
     {
-      "title": "The UX Designer’s Nightmare: When “Production-Ready” Becomes A Design Deliverable",
-      "image": "http://files.smashing.media/articles/ux-designer-nightmare-production-ready-becomes-design-deliverable/production-ready-becomes-design-deliverable-ux.jpg",
-      "summary": "In a rush to embrace AI, the industry is redefining what it means to be a UX designer, blurring the line between design and engineering. Carrie Webster explores what’s gained, what’s lost, and why designers need to remain the guardians of the user experience.",
+      "title": " 6 desk accessories that are genuinely useful, mostly beautiful and totally affordable ",
+      "image": "https://cdn.mos.cms.futurecdn.net/sK9kFmKxzHMeLbqpsARuvD-1280-80.jpg",
+      "summary": "It's time you up your home office game!",
       "category": "UI/UX",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://smashingmagazine.com/2026/04/production-ready-becomes-design-deliverable-ux/"
-    },
-    {
-      "title": " \"People were getting lost\": how The Backrooms' director used Blender to build a 30k-square-foot set ",
-      "image": "https://cdn.mos.cms.futurecdn.net/LuGhuqBZTvmtu4XMmrBrS8-1280-80.jpg",
-      "summary": "Director Kane Parsons discusses the meticulous creative process behind bringing the world to life.",
-      "category": "UI/UX",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://www.creativebloq.com/entertainment/movies-tv-shows/people-were-getting-lost-how-the-backrooms-director-used-blender-to-build-a-30k-square-foot-set"
-    },
-    {
-      "title": " How the heck do creatives choose between iPad and Mac in 2026? ",
-      "image": "https://cdn.mos.cms.futurecdn.net/DeVxZi9VGjFtJ22WhmJGyR-1280-80.jpg",
-      "summary": "The iPad Air is now more powerful than the MacBook Neo.",
-      "category": "AI Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://www.creativebloq.com/tech/laptops/how-the-heck-do-creatives-choose-between-ipad-and-mac-in-2026"
+      "link": "https://www.creativebloq.com/entertainment/toys-collectibles/6-desk-accessories-that-are-genuinely-useful-mostly-beautiful-and-totally-affordable"
     },
     {
       "title": "The “Bug-Free” Workforce: How AI Efficiency Is Subtly Disrupting The Interactions That Build Strong Teams",
@@ -38,22 +20,40 @@
       "link": "https://smashingmagazine.com/2026/04/bug-free-workforce-ai-disrupting-teams/"
     },
     {
-      "title": "A fantastic voyage, the illusion of good taste, the art of subtraction",
+      "title": "What is AI really costing the planet?",
       "image": "https://placehold.co/600x400",
-      "summary": "A fantastic voyage, the illusion of good taste, the art of subtraction",
-      "category": "Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://uxdesign.cc/a-fantastic-voyage-the-illusion-of-good-taste-the-art-of-subtraction-c5db6b1367bf?source=rss----138adf9c44c---4"
-    },
-    {
-      "title": "The right touch: mapping AI presence to user intent",
-      "image": "https://placehold.co/600x400",
-      "summary": "The right touch: mapping AI presence to user intent",
+      "summary": "What is AI really costing the planet?",
       "category": "AI Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://uxdesign.cc/the-right-touch-mapping-ai-presence-to-user-intent-d01fa2dee282?source=rss----138adf9c44c---4"
+      "link": "https://uxdesign.cc/what-is-ai-really-costing-the-planet-ec14be648d65?source=rss----138adf9c44c---4"
+    },
+    {
+      "title": "The interface that responds",
+      "image": "https://placehold.co/600x400",
+      "summary": "The interface that responds",
+      "category": "Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://uxdesign.cc/the-most-dangerous-pronoun-in-design-a9fc721a685a?source=rss----138adf9c44c---4"
+    },
+    {
+      "title": " AirPods Max 2: Obviously good, near-impossible to recommend ",
+      "image": "https://cdn.mos.cms.futurecdn.net/mrPG2GcyGAeqTua2ZQs63h-1280-80.jpg",
+      "summary": "There's just much better value practically everywhere else.",
+      "category": "AI Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://www.creativebloq.com/tech/headphones-earbuds/airpods-max-2-obviously-good-near-impossible-to-recommend"
+    },
+    {
+      "title": "The UX Designer’s Nightmare: When “Production-Ready” Becomes A Design Deliverable",
+      "image": "http://files.smashing.media/articles/ux-designer-nightmare-production-ready-becomes-design-deliverable/production-ready-becomes-design-deliverable-ux.jpg",
+      "summary": "In a rush to embrace AI, the industry is redefining what it means to be a UX designer, blurring the line between design and engineering. Carrie Webster explores what’s gained, what’s lost, and why designers need to remain the guardians of the user experience.",
+      "category": "UI/UX",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://smashingmagazine.com/2026/04/production-ready-becomes-design-deliverable-ux/"
     }
   ]
 }
