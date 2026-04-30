@@ -1,15 +1,6 @@
 {
-  "lastUpdated": "2026-04-29T02:49:28.132Z",
+  "lastUpdated": "2026-04-30T02:51:11.746Z",
   "articles": [
-    {
-      "title": " 6 desk accessories that are genuinely useful, mostly beautiful and totally affordable ",
-      "image": "https://cdn.mos.cms.futurecdn.net/sK9kFmKxzHMeLbqpsARuvD-1280-80.jpg",
-      "summary": "It's time you up your home office game!",
-      "category": "UI/UX",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://www.creativebloq.com/entertainment/toys-collectibles/6-desk-accessories-that-are-genuinely-useful-mostly-beautiful-and-totally-affordable"
-    },
     {
       "title": "The “Bug-Free” Workforce: How AI Efficiency Is Subtly Disrupting The Interactions That Build Strong Teams",
       "image": "http://files.smashing.media/articles/bug-free-workforce/bug-free-workforce-ai-disrupting-teams.jpg",
@@ -29,22 +20,31 @@
       "link": "https://uxdesign.cc/what-is-ai-really-costing-the-planet-ec14be648d65?source=rss----138adf9c44c---4"
     },
     {
-      "title": "The interface that responds",
+      "title": "10 UI patterns that won’t survive the AI shift",
       "image": "https://placehold.co/600x400",
-      "summary": "The interface that responds",
+      "summary": "10 UI patterns that won’t survive the AI shift",
+      "category": "UI/UX",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://uxdesign.cc/10-ui-patterns-that-wont-survive-the-ai-shift-002cb9b853ae?source=rss----138adf9c44c---4"
+    },
+    {
+      "title": " Lizzo’s provocative new album cover is doing too much ",
+      "image": "https://cdn.mos.cms.futurecdn.net/6XNQuLUT7VjGiYt5hBAHCW-1280-80.jpg",
+      "summary": "There’s a fine line between edgy and corny.",
       "category": "Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://uxdesign.cc/the-most-dangerous-pronoun-in-design-a9fc721a685a?source=rss----138adf9c44c---4"
+      "link": "https://www.creativebloq.com/entertainment/lizzos-provocative-new-album-cover-is-doing-too-much"
     },
     {
-      "title": " AirPods Max 2: Obviously good, near-impossible to recommend ",
-      "image": "https://cdn.mos.cms.futurecdn.net/mrPG2GcyGAeqTua2ZQs63h-1280-80.jpg",
-      "summary": "There's just much better value practically everywhere else.",
+      "title": " Artists are split over Claude AI and Blender – here’s why ",
+      "image": "https://cdn.mos.cms.futurecdn.net/5YkHovzuPK8ni7ym6Rnz3A-1280-80.jpg",
+      "summary": "A creative partnership that’s raising eyebrows.",
       "category": "AI Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://www.creativebloq.com/tech/headphones-earbuds/airpods-max-2-obviously-good-near-impossible-to-recommend"
+      "link": "https://www.creativebloq.com/3d/why-claude-ais-funding-of-blender-isnt-controversial-yet"
     },
     {
       "title": "The UX Designer’s Nightmare: When “Production-Ready” Becomes A Design Deliverable",
