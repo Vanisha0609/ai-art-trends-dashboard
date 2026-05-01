@@ -1,23 +1,14 @@
 {
-  "lastUpdated": "2026-04-30T02:51:11.746Z",
+  "lastUpdated": "2026-05-01T02:57:49.721Z",
   "articles": [
     {
-      "title": "The “Bug-Free” Workforce: How AI Efficiency Is Subtly Disrupting The Interactions That Build Strong Teams",
-      "image": "http://files.smashing.media/articles/bug-free-workforce/bug-free-workforce-ai-disrupting-teams.jpg",
-      "summary": "AI tools are eliminating the need to “bug” colleagues for help, but the informal interactions they replace are the very scaffolding that builds team trust, belonging, and innovation. Casey Hudetz and Eric Olive explore the research and potential impacts behind that risk and offer practical strategies for maintaining human connection while leveraging AI’s strengths.",
+      "title": "A GenAI perplexed by color theory",
+      "image": "https://placehold.co/600x400",
+      "summary": "Using Perplexity to build an accessible perceptual uniform triad.\nContinue reading on UX Collective »",
       "category": "UI/UX",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://smashingmagazine.com/2026/04/bug-free-workforce-ai-disrupting-teams/"
-    },
-    {
-      "title": "What is AI really costing the planet?",
-      "image": "https://placehold.co/600x400",
-      "summary": "What is AI really costing the planet?",
-      "category": "AI Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://uxdesign.cc/what-is-ai-really-costing-the-planet-ec14be648d65?source=rss----138adf9c44c---4"
+      "link": "https://uxdesign.cc/a-genai-perplexed-by-color-theory-5416cbd3ef10?source=rss----138adf9c44c---4"
     },
     {
       "title": "10 UI patterns that won’t survive the AI shift",
@@ -29,31 +20,40 @@
       "link": "https://uxdesign.cc/10-ui-patterns-that-wont-survive-the-ai-shift-002cb9b853ae?source=rss----138adf9c44c---4"
     },
     {
-      "title": " Lizzo’s provocative new album cover is doing too much ",
-      "image": "https://cdn.mos.cms.futurecdn.net/6XNQuLUT7VjGiYt5hBAHCW-1280-80.jpg",
-      "summary": "There’s a fine line between edgy and corny.",
-      "category": "Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://www.creativebloq.com/entertainment/lizzos-provocative-new-album-cover-is-doing-too-much"
-    },
-    {
-      "title": " Artists are split over Claude AI and Blender – here’s why ",
-      "image": "https://cdn.mos.cms.futurecdn.net/5YkHovzuPK8ni7ym6Rnz3A-1280-80.jpg",
-      "summary": "A creative partnership that’s raising eyebrows.",
+      "title": " “Grimy in the right way”: fans divided by new Resident Evil logo ",
+      "image": "https://cdn.mos.cms.futurecdn.net/7oZ49b6H7DWmewXXU5Btxg-1280-80.jpg",
+      "summary": "Cregger nails the OG game aesthetic, but is it stolen valour?",
       "category": "AI Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://www.creativebloq.com/3d/why-claude-ais-funding-of-blender-isnt-controversial-yet"
+      "link": "https://www.creativebloq.com/entertainment/gaming/grimy-in-the-right-way-fans-divided-by-new-resident-evil-logo"
     },
     {
-      "title": "The UX Designer’s Nightmare: When “Production-Ready” Becomes A Design Deliverable",
-      "image": "http://files.smashing.media/articles/ux-designer-nightmare-production-ready-becomes-design-deliverable/production-ready-becomes-design-deliverable-ux.jpg",
-      "summary": "In a rush to embrace AI, the industry is redefining what it means to be a UX designer, blurring the line between design and engineering. Carrie Webster explores what’s gained, what’s lost, and why designers need to remain the guardians of the user experience.",
+      "title": "A Fresh View In May (2026 Wallpapers Edition)",
+      "image": "http://files.smashing.media/articles/desktop-wallpaper-calendars-may-2023/may-22-hello-may-nocal-preview-opt.png",
+      "summary": "Let’s welcome May with a new collection of desktop wallpapers! Following our monthly tradition, the wallpapers were created by the community for the community and can be downloaded for free. Enjoy!",
+      "category": "Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://smashingmagazine.com/2026/04/desktop-wallpaper-calendars-may-2026/"
+    },
+    {
+      "title": " The new Spectrum and THE64 handhelds have made retro gaming weird and personal again ",
+      "image": "https://cdn.mos.cms.futurecdn.net/JaSqx425FYZ27XnDrZoeJe-1280-80.jpg",
+      "summary": "Rubber keys, clacky keyboards, and deep cut retro games.",
+      "category": "AI Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://www.creativebloq.com/entertainment/gaming/the-new-spectrum-and-the64-handhelds-have-made-retro-gaming-weird-and-personal-again"
+    },
+    {
+      "title": "Designing Stable Interfaces For Streaming Content",
+      "image": "http://files.smashing.media/articles/designing-stable-interfaces-streaming-content/designing-stable-interfaces-streaming-content.jpg",
+      "summary": "Streaming UIs are an easy concept on the surface, but are quite complicated in practice. There are many considerations that need to be accounted for, from layout shifts and motion preferences to proper markup and various states, that may not be instantly obvious. What happens if the stream is interrupted? Can users tab through the UI on the keyboard as it shifts? What ARIA attributes might be needed?",
       "category": "UI/UX",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://smashingmagazine.com/2026/04/production-ready-becomes-design-deliverable-ux/"
+      "link": "https://smashingmagazine.com/2026/04/designing-stable-interfaces-streaming-content/"
     }
   ]
 }
