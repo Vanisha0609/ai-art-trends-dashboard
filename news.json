@@ -1,32 +1,23 @@
 {
-  "lastUpdated": "2026-05-01T02:57:49.721Z",
+  "lastUpdated": "2026-05-02T02:38:49.886Z",
   "articles": [
     {
-      "title": "A GenAI perplexed by color theory",
-      "image": "https://placehold.co/600x400",
-      "summary": "Using Perplexity to build an accessible perceptual uniform triad.\nContinue reading on UX Collective »",
+      "title": " The new Rogue Trooper movie poster looks like it fell out of a ’70s cinema  ",
+      "image": "https://cdn.mos.cms.futurecdn.net/37DVqc2hF2PQP3TPEayHdn-1280-80.jpg",
+      "summary": "And fans love it.",
+      "category": "Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://www.creativebloq.com/art/illustration/the-new-rogue-trooper-movie-poster-looks-like-it-fell-out-of-a-70s-cinema"
+    },
+    {
+      "title": "Designing Stable Interfaces For Streaming Content",
+      "image": "http://files.smashing.media/articles/designing-stable-interfaces-streaming-content/designing-stable-interfaces-streaming-content.jpg",
+      "summary": "Streaming UIs are an easy concept on the surface, but are quite complicated in practice. There are many considerations that need to be accounted for, from layout shifts and motion preferences to proper markup and various states, that may not be instantly obvious. What happens if the stream is interrupted? Can users tab through the UI on the keyboard as it shifts? What ARIA attributes might be needed?",
       "category": "UI/UX",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://uxdesign.cc/a-genai-perplexed-by-color-theory-5416cbd3ef10?source=rss----138adf9c44c---4"
-    },
-    {
-      "title": "10 UI patterns that won’t survive the AI shift",
-      "image": "https://placehold.co/600x400",
-      "summary": "10 UI patterns that won’t survive the AI shift",
-      "category": "UI/UX",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://uxdesign.cc/10-ui-patterns-that-wont-survive-the-ai-shift-002cb9b853ae?source=rss----138adf9c44c---4"
-    },
-    {
-      "title": " “Grimy in the right way”: fans divided by new Resident Evil logo ",
-      "image": "https://cdn.mos.cms.futurecdn.net/7oZ49b6H7DWmewXXU5Btxg-1280-80.jpg",
-      "summary": "Cregger nails the OG game aesthetic, but is it stolen valour?",
-      "category": "AI Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://www.creativebloq.com/entertainment/gaming/grimy-in-the-right-way-fans-divided-by-new-resident-evil-logo"
+      "link": "https://smashingmagazine.com/2026/05/designing-stable-interfaces-streaming-content/"
     },
     {
       "title": "A Fresh View In May (2026 Wallpapers Edition)",
@@ -38,22 +29,31 @@
       "link": "https://smashingmagazine.com/2026/04/desktop-wallpaper-calendars-may-2026/"
     },
     {
-      "title": " The new Spectrum and THE64 handhelds have made retro gaming weird and personal again ",
-      "image": "https://cdn.mos.cms.futurecdn.net/JaSqx425FYZ27XnDrZoeJe-1280-80.jpg",
-      "summary": "Rubber keys, clacky keyboards, and deep cut retro games.",
-      "category": "AI Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://www.creativebloq.com/entertainment/gaming/the-new-spectrum-and-the64-handhelds-have-made-retro-gaming-weird-and-personal-again"
-    },
-    {
-      "title": "Designing Stable Interfaces For Streaming Content",
-      "image": "http://files.smashing.media/articles/designing-stable-interfaces-streaming-content/designing-stable-interfaces-streaming-content.jpg",
-      "summary": "Streaming UIs are an easy concept on the surface, but are quite complicated in practice. There are many considerations that need to be accounted for, from layout shifts and motion preferences to proper markup and various states, that may not be instantly obvious. What happens if the stream is interrupted? Can users tab through the UI on the keyboard as it shifts? What ARIA attributes might be needed?",
+      "title": " Pop the kettle on, it's time for the soothing tones of the Mangird Tea Pro ",
+      "image": "https://cdn.mos.cms.futurecdn.net/VzHZQeQpt9TcymhL9pxnJg-1280-80.jpg",
+      "summary": "Engagingly musical and beautifully built, this is a special IEM at $359.",
       "category": "UI/UX",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://smashingmagazine.com/2026/04/designing-stable-interfaces-streaming-content/"
+      "link": "https://www.creativebloq.com/tech/headphones-earbuds/pop-the-kettle-on-its-time-for-the-soothing-tones-of-the-mangird-tea-pro"
+    },
+    {
+      "title": "Thoughtful AI Implementation for UXR Leaders",
+      "image": "https://placehold.co/600x400",
+      "summary": "Thoughtful AI Implementation for UXR Leaders",
+      "category": "UI/UX",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://uxdesign.cc/ai-uxr-implementation-d0e1b8a33613?source=rss----138adf9c44c---4"
+    },
+    {
+      "title": "Usability, accessibility, and the human-AI paradigm",
+      "image": "https://placehold.co/600x400",
+      "summary": "Usability, accessibility, and the human-AI paradigm",
+      "category": "AI Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://uxdesign.cc/usability-accessibility-and-the-human-ai-paradigm-6ffda2806b56?source=rss----138adf9c44c---4"
     }
   ]
 }
