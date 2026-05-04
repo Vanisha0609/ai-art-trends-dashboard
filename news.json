@@ -1,14 +1,32 @@
 {
-  "lastUpdated": "2026-05-03T02:50:43.134Z",
+  "lastUpdated": "2026-05-04T02:48:03.995Z",
   "articles": [
     {
-      "title": "A Fresh View In May (2026 Wallpapers Edition)",
-      "image": "http://files.smashing.media/articles/desktop-wallpaper-calendars-may-2023/may-22-hello-may-nocal-preview-opt.png",
-      "summary": "Let’s welcome May with a new collection of desktop wallpapers! Following our monthly tradition, the wallpapers were created by the community for the community and can be downloaded for free. Enjoy!",
+      "title": "Don’t simply bolt on AI. Rethink from the ground up.",
+      "image": "https://placehold.co/600x400",
+      "summary": "Don’t simply bolt on AI. Rethink from the ground up.",
+      "category": "AI Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://uxdesign.cc/dont-simply-bolt-on-ai-rethink-from-the-ground-up-ae73a9093cd2?source=rss----138adf9c44c---4"
+    },
+    {
+      "title": " This is not a drill: Target's Pokémon collection drops today  ",
+      "image": "https://cdn.mos.cms.futurecdn.net/NHnECQs5E86uCF6xpDM4Q7-1280-80.jpg",
+      "summary": "Get ready for one of the best collabs of the year, and brace yourself that things may sell out.",
       "category": "Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://smashingmagazine.com/2026/04/desktop-wallpaper-calendars-may-2026/"
+      "link": "https://www.creativebloq.com/entertainment/this-is-not-a-drill-targets-pokemon-collection-drops-today"
+    },
+    {
+      "title": "The basketball playbook for AI builder teams",
+      "image": "https://placehold.co/600x400",
+      "summary": "The basketball playbook for AI builder teams",
+      "category": "UI/UX",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://uxdesign.cc/the-basketball-playbook-for-ai-builder-teams-5ab76a91780e?source=rss----138adf9c44c---4"
     },
     {
       "title": "Designing Stable Interfaces For Streaming Content",
@@ -20,40 +38,22 @@
       "link": "https://smashingmagazine.com/2026/05/designing-stable-interfaces-streaming-content/"
     },
     {
-      "title": "Usability, accessibility, and the human-AI paradigm",
-      "image": "https://placehold.co/600x400",
-      "summary": "Usability, accessibility, and the human-AI paradigm",
-      "category": "AI Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://uxdesign.cc/usability-accessibility-and-the-human-ai-paradigm-6ffda2806b56?source=rss----138adf9c44c---4"
-    },
-    {
-      "title": " This hefty tome takes book design to a whole new level ",
-      "image": "https://cdn.mos.cms.futurecdn.net/P6TGP2zeeSQEEC4JrcMzN8-1280-80.jpg",
-      "summary": "Lagos Biennial I–V: The Making of an African Capital of Culture sits within a 7-kilogram concrete case.",
+      "title": "A Fresh View In May (2026 Wallpapers Edition)",
+      "image": "http://files.smashing.media/articles/desktop-wallpaper-calendars-may-2023/may-22-hello-may-nocal-preview-opt.png",
+      "summary": "Let’s welcome May with a new collection of desktop wallpapers! Following our monthly tradition, the wallpapers were created by the community for the community and can be downloaded for free. Enjoy!",
       "category": "Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://www.creativebloq.com/entertainment/books/this-hefty-tome-takes-book-design-to-a-whole-new-level"
+      "link": "https://smashingmagazine.com/2026/04/desktop-wallpaper-calendars-may-2026/"
     },
     {
-      "title": " Why Splatoon Raiders' single-player focus is a ray of sunshine in a sea of competitive shooters ",
-      "image": "https://cdn.mos.cms.futurecdn.net/NrznsVMVfMdcSVZ5fSUmKB-1280-80.jpg",
-      "summary": "This lower-priced spin-off could be the Switch 2's sleeper hit this summer.",
-      "category": "AI Design",
+      "title": " The force is strong with these Star Wars Lego sets ",
+      "image": "https://cdn.mos.cms.futurecdn.net/Avg69gWiQsQbQE4F49KraK-1280-80.jpg",
+      "summary": "Get ready for May 4th with these bricks.",
+      "category": "Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://www.creativebloq.com/3d/video-game-design/why-splatoon-raiders-single-player-focus-is-a-ray-of-sunshine-in-a-sea-of-competitive-shooters"
-    },
-    {
-      "title": "Can AI make your dating life better?",
-      "image": "https://placehold.co/600x400",
-      "summary": "Can AI make your dating life better?",
-      "category": "AI Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://uxdesign.cc/can-ai-make-your-dating-life-better-aae6e3d26be2?source=rss----138adf9c44c---4"
+      "link": "https://www.creativebloq.com/entertainment/toys-collectibles/get-ready-for-may-4th-with-these-star-wars-lego-sets"
     }
   ]
 }
