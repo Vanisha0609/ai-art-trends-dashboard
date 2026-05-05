@@ -1,41 +1,23 @@
 {
-  "lastUpdated": "2026-05-04T02:48:03.995Z",
+  "lastUpdated": "2026-05-05T02:40:35.358Z",
   "articles": [
     {
-      "title": "Don’t simply bolt on AI. Rethink from the ground up.",
+      "title": "St. Augustine and AI’s false promise",
       "image": "https://placehold.co/600x400",
-      "summary": "Don’t simply bolt on AI. Rethink from the ground up.",
+      "summary": "St. Augustine and AI’s false promise",
       "category": "AI Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://uxdesign.cc/dont-simply-bolt-on-ai-rethink-from-the-ground-up-ae73a9093cd2?source=rss----138adf9c44c---4"
+      "link": "https://uxdesign.cc/st-augustine-and-ais-false-promise-4f67c75b3275?source=rss----138adf9c44c---4"
     },
     {
-      "title": " This is not a drill: Target's Pokémon collection drops today  ",
-      "image": "https://cdn.mos.cms.futurecdn.net/NHnECQs5E86uCF6xpDM4Q7-1280-80.jpg",
-      "summary": "Get ready for one of the best collabs of the year, and brace yourself that things may sell out.",
-      "category": "Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://www.creativebloq.com/entertainment/this-is-not-a-drill-targets-pokemon-collection-drops-today"
-    },
-    {
-      "title": "The basketball playbook for AI builder teams",
-      "image": "https://placehold.co/600x400",
-      "summary": "The basketball playbook for AI builder teams",
+      "title": " VR sculpting changed how I learn 3D, and made it fun ",
+      "image": "https://cdn.mos.cms.futurecdn.net/Rt86sueXgQvL6syFnriV9g-1280-80.gif",
+      "summary": "Illustrator Maciek Łazowski discovered an intuitive way to learn 3D modelling.",
       "category": "UI/UX",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://uxdesign.cc/the-basketball-playbook-for-ai-builder-teams-5ab76a91780e?source=rss----138adf9c44c---4"
-    },
-    {
-      "title": "Designing Stable Interfaces For Streaming Content",
-      "image": "http://files.smashing.media/articles/designing-stable-interfaces-streaming-content/designing-stable-interfaces-streaming-content.jpg",
-      "summary": "Streaming UIs are an easy concept on the surface, but are quite complicated in practice. There are many considerations that need to be accounted for, from layout shifts and motion preferences to proper markup and various states, that may not be instantly obvious. What happens if the stream is interrupted? Can users tab through the UI on the keyboard as it shifts? What ARIA attributes might be needed?",
-      "category": "UI/UX",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://smashingmagazine.com/2026/05/designing-stable-interfaces-streaming-content/"
+      "link": "https://www.creativebloq.com/3d/vr-sculpting-changed-how-i-learn-3d-and-made-it-fun"
     },
     {
       "title": "A Fresh View In May (2026 Wallpapers Edition)",
@@ -47,13 +29,31 @@
       "link": "https://smashingmagazine.com/2026/04/desktop-wallpaper-calendars-may-2026/"
     },
     {
-      "title": " The force is strong with these Star Wars Lego sets ",
-      "image": "https://cdn.mos.cms.futurecdn.net/Avg69gWiQsQbQE4F49KraK-1280-80.jpg",
-      "summary": "Get ready for May 4th with these bricks.",
+      "title": " Does the Oscars' AI ban really mean anything? ",
+      "image": "https://cdn.mos.cms.futurecdn.net/8Z4JtTHVUMF5C9W9f5VNUi-1280-80.jpg",
+      "summary": "Artists have mixed feelings on The Academy's \"half measure\".",
+      "category": "AI Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://www.creativebloq.com/entertainment/movies-tv-shows/does-the-oscars-ai-ban-really-mean-anything"
+    },
+    {
+      "title": "Pinning is not saving. Saving is not favoriting. Favoriting is not flagging.",
+      "image": "https://placehold.co/600x400",
+      "summary": "Pinning is not saving. Saving is not favoriting. Favoriting is not flagging.",
       "category": "Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://www.creativebloq.com/entertainment/toys-collectibles/get-ready-for-may-4th-with-these-star-wars-lego-sets"
+      "link": "https://uxdesign.cc/pinning-is-not-saving-saving-is-not-favoriting-favoriting-is-not-flagging-c3941c444bd5?source=rss----138adf9c44c---4"
+    },
+    {
+      "title": "Designing Stable Interfaces For Streaming Content",
+      "image": "http://files.smashing.media/articles/designing-stable-interfaces-streaming-content/designing-stable-interfaces-streaming-content.jpg",
+      "summary": "Streaming UIs are an easy concept on the surface, but are quite complicated in practice. There are many considerations that need to be accounted for, from layout shifts and motion preferences to proper markup and various states, that may not be instantly obvious. What happens if the stream is interrupted? Can users tab through the UI on the keyboard as it shifts? What ARIA attributes might be needed?",
+      "category": "UI/UX",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://smashingmagazine.com/2026/05/designing-stable-interfaces-streaming-content/"
     }
   ]
 }
