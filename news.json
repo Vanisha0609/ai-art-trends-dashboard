@@ -1,51 +1,6 @@
 {
-  "lastUpdated": "2026-05-05T02:40:35.358Z",
+  "lastUpdated": "2026-05-06T02:46:08.938Z",
   "articles": [
-    {
-      "title": "St. Augustine and AI’s false promise",
-      "image": "https://placehold.co/600x400",
-      "summary": "St. Augustine and AI’s false promise",
-      "category": "AI Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://uxdesign.cc/st-augustine-and-ais-false-promise-4f67c75b3275?source=rss----138adf9c44c---4"
-    },
-    {
-      "title": " VR sculpting changed how I learn 3D, and made it fun ",
-      "image": "https://cdn.mos.cms.futurecdn.net/Rt86sueXgQvL6syFnriV9g-1280-80.gif",
-      "summary": "Illustrator Maciek Łazowski discovered an intuitive way to learn 3D modelling.",
-      "category": "UI/UX",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://www.creativebloq.com/3d/vr-sculpting-changed-how-i-learn-3d-and-made-it-fun"
-    },
-    {
-      "title": "A Fresh View In May (2026 Wallpapers Edition)",
-      "image": "http://files.smashing.media/articles/desktop-wallpaper-calendars-may-2023/may-22-hello-may-nocal-preview-opt.png",
-      "summary": "Let’s welcome May with a new collection of desktop wallpapers! Following our monthly tradition, the wallpapers were created by the community for the community and can be downloaded for free. Enjoy!",
-      "category": "Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://smashingmagazine.com/2026/04/desktop-wallpaper-calendars-may-2026/"
-    },
-    {
-      "title": " Does the Oscars' AI ban really mean anything? ",
-      "image": "https://cdn.mos.cms.futurecdn.net/8Z4JtTHVUMF5C9W9f5VNUi-1280-80.jpg",
-      "summary": "Artists have mixed feelings on The Academy's \"half measure\".",
-      "category": "AI Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://www.creativebloq.com/entertainment/movies-tv-shows/does-the-oscars-ai-ban-really-mean-anything"
-    },
-    {
-      "title": "Pinning is not saving. Saving is not favoriting. Favoriting is not flagging.",
-      "image": "https://placehold.co/600x400",
-      "summary": "Pinning is not saving. Saving is not favoriting. Favoriting is not flagging.",
-      "category": "Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://uxdesign.cc/pinning-is-not-saving-saving-is-not-favoriting-favoriting-is-not-flagging-c3941c444bd5?source=rss----138adf9c44c---4"
-    },
     {
       "title": "Designing Stable Interfaces For Streaming Content",
       "image": "http://files.smashing.media/articles/designing-stable-interfaces-streaming-content/designing-stable-interfaces-streaming-content.jpg",
@@ -54,6 +9,51 @@
       "style": "Unknown",
       "mood": "Neutral",
       "link": "https://smashingmagazine.com/2026/05/designing-stable-interfaces-streaming-content/"
+    },
+    {
+      "title": " Nintendo missed a trick with the Pokémon Pokopia Switch 2 bundle ",
+      "image": "https://cdn.mos.cms.futurecdn.net/jrUAkXZ5UsAux6NRBeUG6g-1280-80.png",
+      "summary": "Where's the fun design?",
+      "category": "Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://www.creativebloq.com/entertainment/gaming/nintendo-missed-a-trick-with-the-pokemon-pokopia-switch-2-bundle"
+    },
+    {
+      "title": " Iconic Looney Tunes characters just got a wild Japanese makeover ",
+      "image": "https://cdn.mos.cms.futurecdn.net/j5NzAyZrasCendRz6XpjjH-1280-80.png",
+      "summary": "Can you recognise the iconic characters after their big-headed chibi redesigns?",
+      "category": "Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://www.creativebloq.com/art/animation/iconic-looney-tunes-characters-just-got-a-wild-japanese-makeover"
+    },
+    {
+      "title": "The trick to designing agentic AI is learning how to think like a manager",
+      "image": "https://placehold.co/600x400",
+      "summary": "Setting boundaries (and establishing trust) is the ask with agentic projects\nContinue reading on UX Collective »",
+      "category": "UI/UX",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://uxdesign.cc/the-trick-to-designing-agentic-ai-is-learning-how-to-think-like-a-manager-9945b028aac7?source=rss----138adf9c44c---4"
+    },
+    {
+      "title": "The psychological fine print of AI",
+      "image": "https://placehold.co/600x400",
+      "summary": "The psychological fine print of AI",
+      "category": "AI Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://uxdesign.cc/the-psychological-fine-print-of-ai-fe419edcff73?source=rss----138adf9c44c---4"
+    },
+    {
+      "title": "Rethinking The Experience Of System Tools",
+      "image": "http://files.smashing.media/articles/rethinking-experience-system-tools.jpg",
+      "summary": "Design always starts with function — function shapes form. But if that function can’t be made completely invisible and people still have to interact with it, it inevitably becomes part of their experience. In this article, Kyrylo Levashov shares four common software design assumptions.",
+      "category": "Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://smashingmagazine.com/2026/05/rethinking-experience-system-tools/"
     }
   ]
 }
