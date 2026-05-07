@@ -1,50 +1,50 @@
 {
-  "lastUpdated": "2026-05-06T02:46:08.938Z",
+  "lastUpdated": "2026-05-07T02:48:07.139Z",
   "articles": [
     {
-      "title": "Designing Stable Interfaces For Streaming Content",
-      "image": "http://files.smashing.media/articles/designing-stable-interfaces-streaming-content/designing-stable-interfaces-streaming-content.jpg",
-      "summary": "Streaming UIs are an easy concept on the surface, but are quite complicated in practice. There are many considerations that need to be accounted for, from layout shifts and motion preferences to proper markup and various states, that may not be instantly obvious. What happens if the stream is interrupted? Can users tab through the UI on the keyboard as it shifts? What ARIA attributes might be needed?",
-      "category": "UI/UX",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://smashingmagazine.com/2026/05/designing-stable-interfaces-streaming-content/"
-    },
-    {
-      "title": " Nintendo missed a trick with the Pokémon Pokopia Switch 2 bundle ",
-      "image": "https://cdn.mos.cms.futurecdn.net/jrUAkXZ5UsAux6NRBeUG6g-1280-80.png",
-      "summary": "Where's the fun design?",
+      "title": "Why you need to protect your work more than ever",
+      "image": "https://placehold.co/600x400",
+      "summary": "Why you need to protect your work more than ever",
       "category": "Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://www.creativebloq.com/entertainment/gaming/nintendo-missed-a-trick-with-the-pokemon-pokopia-switch-2-bundle"
+      "link": "https://uxdesign.cc/why-you-need-to-protect-your-work-more-than-ever-7d0ac5836540?source=rss----138adf9c44c---4"
     },
     {
-      "title": " Iconic Looney Tunes characters just got a wild Japanese makeover ",
-      "image": "https://cdn.mos.cms.futurecdn.net/j5NzAyZrasCendRz6XpjjH-1280-80.png",
-      "summary": "Can you recognise the iconic characters after their big-headed chibi redesigns?",
+      "title": " Godiva's nostalgic handcrafted animation celebrates a century of artistry ",
+      "image": "https://cdn.mos.cms.futurecdn.net/Hic3QtXKa7z2s6vyygkuEG-1280-80.png",
+      "summary": "You'll recognise the narrator's voice.",
       "category": "Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://www.creativebloq.com/art/animation/iconic-looney-tunes-characters-just-got-a-wild-japanese-makeover"
+      "link": "https://www.creativebloq.com/art/animation/godivas-nostalgic-handcrafted-animation-celebrates-a-century-of-artistry"
     },
     {
-      "title": "The trick to designing agentic AI is learning how to think like a manager",
-      "image": "https://placehold.co/600x400",
-      "summary": "Setting boundaries (and establishing trust) is the ask with agentic projects\nContinue reading on UX Collective »",
+      "title": "The Architecture Of Local-First Web Development",
+      "image": "http://files.smashing.media/articles/architecture-local-first-web-development/architecture-local-first-web-development.jpg",
+      "summary": "An honest perspective on building local-first web apps in 2026, written for developers who’ve been doing this long enough to be skeptical of silver bullets.",
       "category": "UI/UX",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://uxdesign.cc/the-trick-to-designing-agentic-ai-is-learning-how-to-think-like-a-manager-9945b028aac7?source=rss----138adf9c44c---4"
+      "link": "https://smashingmagazine.com/2026/05/architecture-local-first-web-development/"
     },
     {
-      "title": "The psychological fine print of AI",
-      "image": "https://placehold.co/600x400",
-      "summary": "The psychological fine print of AI",
+      "title": " The promise and panic of Unity AI’s open beta rollout explained ",
+      "image": "https://cdn.mos.cms.futurecdn.net/AdDt45pbXtab7GmkH4TmYD-1280-80.jpg",
+      "summary": "A powerful tool or pipeline to 'AI slop' games?",
       "category": "AI Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://uxdesign.cc/the-psychological-fine-print-of-ai-fe419edcff73?source=rss----138adf9c44c---4"
+      "link": "https://www.creativebloq.com/3d/video-game-design/the-promise-and-panic-of-unity-ais-open-beta-rollout-explained"
+    },
+    {
+      "title": "We built this. Now we own it.",
+      "image": "https://placehold.co/600x400",
+      "summary": "We built this. Now we own it.",
+      "category": "UI/UX",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://uxdesign.cc/we-built-this-now-we-own-it-1f8f1ba7c768?source=rss----138adf9c44c---4"
     },
     {
       "title": "Rethinking The Experience Of System Tools",
