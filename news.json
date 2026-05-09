@@ -1,32 +1,14 @@
 {
-  "lastUpdated": "2026-05-08T02:51:23.751Z",
+  "lastUpdated": "2026-05-09T02:46:00.890Z",
   "articles": [
     {
-      "title": " Will: Follow the Light review – stunning Unreal Engine 5 visuals can hide the rough edges ",
-      "image": "https://cdn.mos.cms.futurecdn.net/S2xoYpM7vajp6wBxgtTcXU-1280-80.jpg",
-      "summary": "This indie nails lighting in the harsh north, but left me lost at sea.",
-      "category": "AI Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://www.creativebloq.com/entertainment/gaming/will-follow-the-light-review-stunning-unreal-engine-5-visuals-can-hide-the-rough-edges"
-    },
-    {
-      "title": "Rethinking The Experience Of System Tools",
-      "image": "http://files.smashing.media/articles/rethinking-experience-system-tools.jpg",
-      "summary": "Design always starts with function — function shapes form. But if that function can’t be made completely invisible and people still have to interact with it, it inevitably becomes part of their experience. In this article, Kyrylo Levashov shares four common software design assumptions.",
+      "title": " The KPop Demon Hunters comic is finally here, and you can order it today ",
+      "image": "https://cdn.mos.cms.futurecdn.net/UJMRAt5nTMNCcEDZPN4hLY-1280-80.jpg",
+      "summary": "There's a colouring book too!",
       "category": "Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://smashingmagazine.com/2026/05/rethinking-experience-system-tools/"
-    },
-    {
-      "title": " Anycubic's new Kobra X is $100 off, despite having just launched ",
-      "image": "https://cdn.mos.cms.futurecdn.net/x9958QeJ8uSCEYcVMT2Vjf-1280-80.jpg",
-      "summary": "Does this mean yet another new machine is heading our way?",
-      "category": "Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://www.creativebloq.com/3d/3d-printing/anycubics-new-kobra-x-is-usd100-off-despite-having-just-launched"
+      "link": "https://www.creativebloq.com/entertainment/movies-tv-shows/the-kpop-demon-hunters-comic-is-finally-here-and-you-can-order-it-today"
     },
     {
       "title": "How to make Claude Code follow your design system in Figma",
@@ -38,6 +20,24 @@
       "link": "https://uxdesign.cc/how-to-make-claude-code-follow-your-design-system-in-figma-559618cffaa9?source=rss----138adf9c44c---4"
     },
     {
+      "title": " Outbound review: a road-trip that’s more charming than challenging ",
+      "image": "https://cdn.mos.cms.futurecdn.net/UTnYD4JniULSFKhNNaE3K6-1280-80.png",
+      "summary": "A lovely wilderness sandbox that runs out of surprises too soon.",
+      "category": "Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://www.creativebloq.com/entertainment/gaming/outbound-review"
+    },
+    {
+      "title": "Rethinking The Experience Of System Tools",
+      "image": "http://files.smashing.media/articles/rethinking-experience-system-tools.jpg",
+      "summary": "Design always starts with function — function shapes form. But if that function can’t be made completely invisible and people still have to interact with it, it inevitably becomes part of their experience. In this article, Kyrylo Levashov shares four common software design assumptions.",
+      "category": "Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://smashingmagazine.com/2026/05/rethinking-experience-system-tools/"
+    },
+    {
       "title": "The Architecture Of Local-First Web Development",
       "image": "http://files.smashing.media/articles/architecture-local-first-web-development/architecture-local-first-web-development.jpg",
       "summary": "An honest perspective on building local-first web apps in 2026, written for developers who’ve been doing this long enough to be skeptical of silver bullets.",
@@ -47,13 +47,13 @@
       "link": "https://smashingmagazine.com/2026/05/architecture-local-first-web-development/"
     },
     {
-      "title": "The prompt is not an interface",
+      "title": "Everything I know about AI, I learned from a genie",
       "image": "https://placehold.co/600x400",
-      "summary": "The prompt is not an interface",
-      "category": "Design",
+      "summary": "Everything I know about AI, I learned from a genie",
+      "category": "AI Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://uxdesign.cc/the-prompt-is-not-an-interface-41b77277681d?source=rss----138adf9c44c---4"
+      "link": "https://uxdesign.cc/everything-i-know-about-ai-i-learned-from-a-genie-e5745d22c722?source=rss----138adf9c44c---4"
     }
   ]
 }
