@@ -1,32 +1,23 @@
 {
-  "lastUpdated": "2026-05-09T02:46:00.890Z",
+  "lastUpdated": "2026-05-10T02:52:46.692Z",
   "articles": [
     {
-      "title": " The KPop Demon Hunters comic is finally here, and you can order it today ",
-      "image": "https://cdn.mos.cms.futurecdn.net/UJMRAt5nTMNCcEDZPN4hLY-1280-80.jpg",
-      "summary": "There's a colouring book too!",
+      "title": "The Architecture Of Local-First Web Development",
+      "image": "http://files.smashing.media/articles/architecture-local-first-web-development/architecture-local-first-web-development.jpg",
+      "summary": "An honest perspective on building local-first web apps in 2026, written for developers who’ve been doing this long enough to be skeptical of silver bullets.",
+      "category": "UI/UX",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://smashingmagazine.com/2026/05/architecture-local-first-web-development/"
+    },
+    {
+      "title": " These branding books will teach you everything you need to know ",
+      "image": "https://cdn.mos.cms.futurecdn.net/KFvjd3K2ZP5mYu8Xp3iqNA-1280-80.jpg",
+      "summary": "Learn branding from the greats, for less.",
       "category": "Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://www.creativebloq.com/entertainment/movies-tv-shows/the-kpop-demon-hunters-comic-is-finally-here-and-you-can-order-it-today"
-    },
-    {
-      "title": "How to make Claude Code follow your design system in Figma",
-      "image": "https://placehold.co/600x400",
-      "summary": "How to make Claude Code follow your design system in Figma",
-      "category": "Tools",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://uxdesign.cc/how-to-make-claude-code-follow-your-design-system-in-figma-559618cffaa9?source=rss----138adf9c44c---4"
-    },
-    {
-      "title": " Outbound review: a road-trip that’s more charming than challenging ",
-      "image": "https://cdn.mos.cms.futurecdn.net/UTnYD4JniULSFKhNNaE3K6-1280-80.png",
-      "summary": "A lovely wilderness sandbox that runs out of surprises too soon.",
-      "category": "Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://www.creativebloq.com/entertainment/gaming/outbound-review"
+      "link": "https://www.creativebloq.com/entertainment/books/these-branding-books-will-teach-you-everything-you-need-to-know"
     },
     {
       "title": "Rethinking The Experience Of System Tools",
@@ -38,13 +29,22 @@
       "link": "https://smashingmagazine.com/2026/05/rethinking-experience-system-tools/"
     },
     {
-      "title": "The Architecture Of Local-First Web Development",
-      "image": "http://files.smashing.media/articles/architecture-local-first-web-development/architecture-local-first-web-development.jpg",
-      "summary": "An honest perspective on building local-first web apps in 2026, written for developers who’ve been doing this long enough to be skeptical of silver bullets.",
+      "title": "The left-handed rope",
+      "image": "https://placehold.co/600x400",
+      "summary": "On a sacred design pattern, and the long reach of small reversals\nContinue reading on UX Collective »",
       "category": "UI/UX",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://smashingmagazine.com/2026/05/architecture-local-first-web-development/"
+      "link": "https://uxdesign.cc/the-left-handed-rope-1875c30ad62e?source=rss----138adf9c44c---4"
+    },
+    {
+      "title": " The Star Fox controversy shows how easy it is to overdesign a beloved character ",
+      "image": "https://cdn.mos.cms.futurecdn.net/B6irDpprpXX9JaxvCbBUnk-1280-80.jpg",
+      "summary": "What the Nintendo fan backlash can teach artists about character design.",
+      "category": "Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://www.creativebloq.com/art/character-design/the-new-star-fox-shows-how-easy-it-is-to-overdesign-a-beloved-character"
     },
     {
       "title": "Everything I know about AI, I learned from a genie",
