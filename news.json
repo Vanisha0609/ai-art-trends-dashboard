@@ -1,23 +1,14 @@
 {
-  "lastUpdated": "2026-05-10T02:52:46.692Z",
+  "lastUpdated": "2026-05-11T03:28:05.565Z",
   "articles": [
     {
-      "title": "The Architecture Of Local-First Web Development",
-      "image": "http://files.smashing.media/articles/architecture-local-first-web-development/architecture-local-first-web-development.jpg",
-      "summary": "An honest perspective on building local-first web apps in 2026, written for developers who’ve been doing this long enough to be skeptical of silver bullets.",
-      "category": "UI/UX",
+      "title": "Everything I know about AI, I learned from a genie",
+      "image": "https://placehold.co/600x400",
+      "summary": "Everything I know about AI, I learned from a genie",
+      "category": "AI Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://smashingmagazine.com/2026/05/architecture-local-first-web-development/"
-    },
-    {
-      "title": " These branding books will teach you everything you need to know ",
-      "image": "https://cdn.mos.cms.futurecdn.net/KFvjd3K2ZP5mYu8Xp3iqNA-1280-80.jpg",
-      "summary": "Learn branding from the greats, for less.",
-      "category": "Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://www.creativebloq.com/entertainment/books/these-branding-books-will-teach-you-everything-you-need-to-know"
+      "link": "https://uxdesign.cc/everything-i-know-about-ai-i-learned-from-a-genie-e5745d22c722?source=rss----138adf9c44c---4"
     },
     {
       "title": "Rethinking The Experience Of System Tools",
@@ -38,22 +29,31 @@
       "link": "https://uxdesign.cc/the-left-handed-rope-1875c30ad62e?source=rss----138adf9c44c---4"
     },
     {
-      "title": " The Star Fox controversy shows how easy it is to overdesign a beloved character ",
-      "image": "https://cdn.mos.cms.futurecdn.net/B6irDpprpXX9JaxvCbBUnk-1280-80.jpg",
-      "summary": "What the Nintendo fan backlash can teach artists about character design.",
-      "category": "Design",
+      "title": "The Architecture Of Local-First Web Development",
+      "image": "http://files.smashing.media/articles/architecture-local-first-web-development/architecture-local-first-web-development.jpg",
+      "summary": "An honest perspective on building local-first web apps in 2026, written for developers who’ve been doing this long enough to be skeptical of silver bullets.",
+      "category": "UI/UX",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://www.creativebloq.com/art/character-design/the-new-star-fox-shows-how-easy-it-is-to-overdesign-a-beloved-character"
+      "link": "https://smashingmagazine.com/2026/05/architecture-local-first-web-development/"
     },
     {
-      "title": "Everything I know about AI, I learned from a genie",
-      "image": "https://placehold.co/600x400",
-      "summary": "Everything I know about AI, I learned from a genie",
+      "title": " Sony PlayStation's AI plans have gamers concerned ",
+      "image": "https://cdn.mos.cms.futurecdn.net/JHsqTfAWg9r4ETYawCoeYg-1280-80.jpg",
+      "summary": "Will AI-driven quality assurance mean more slop?",
       "category": "AI Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://uxdesign.cc/everything-i-know-about-ai-i-learned-from-a-genie-e5745d22c722?source=rss----138adf9c44c---4"
+      "link": "https://www.creativebloq.com/3d/video-game-design/sony-playstations-ai-plans-might-impress-investors-but-gamers-are-concerned"
+    },
+    {
+      "title": " How studying The Last of Us has helped this 3D artist perfect character design ",
+      "image": "https://cdn.mos.cms.futurecdn.net/BrJ5uVPFtAZ6E8aLhqJinP-1280-80.jpg",
+      "summary": "Italian artist Max Bianchini shares how character backgrounds help his designs.",
+      "category": "3D Art",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://www.creativebloq.com/3d/3d-art/how-studying-the-last-of-us-has-helped-this-3d-artist-perfect-character-design"
     }
   ]
 }
