@@ -1,15 +1,6 @@
 {
-  "lastUpdated": "2026-05-11T03:28:05.565Z",
+  "lastUpdated": "2026-05-12T02:53:39.368Z",
   "articles": [
-    {
-      "title": "Everything I know about AI, I learned from a genie",
-      "image": "https://placehold.co/600x400",
-      "summary": "Everything I know about AI, I learned from a genie",
-      "category": "AI Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://uxdesign.cc/everything-i-know-about-ai-i-learned-from-a-genie-e5745d22c722?source=rss----138adf9c44c---4"
-    },
     {
       "title": "Rethinking The Experience Of System Tools",
       "image": "http://files.smashing.media/articles/rethinking-experience-system-tools.jpg",
@@ -20,13 +11,13 @@
       "link": "https://smashingmagazine.com/2026/05/rethinking-experience-system-tools/"
     },
     {
-      "title": "The left-handed rope",
-      "image": "https://placehold.co/600x400",
-      "summary": "On a sacred design pattern, and the long reach of small reversals\nContinue reading on UX Collective »",
-      "category": "UI/UX",
+      "title": " Call of the Elder Gods review: brilliant puzzles buried inside an oddly cosy cosmic horror ",
+      "image": "https://cdn.mos.cms.futurecdn.net/HSZaVrRyQ4UZfziVjSR9PY-1280-80.jpg",
+      "summary": "It's all a matter of time and space (and notes, lots of notes).",
+      "category": "Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://uxdesign.cc/the-left-handed-rope-1875c30ad62e?source=rss----138adf9c44c---4"
+      "link": "https://www.creativebloq.com/entertainment/gaming/call-of-the-elder-gods-review-brilliant-puzzles-buried-inside-an-oddly-cosy-cosmic-horror"
     },
     {
       "title": "The Architecture Of Local-First Web Development",
@@ -38,22 +29,31 @@
       "link": "https://smashingmagazine.com/2026/05/architecture-local-first-web-development/"
     },
     {
-      "title": " Sony PlayStation's AI plans have gamers concerned ",
-      "image": "https://cdn.mos.cms.futurecdn.net/JHsqTfAWg9r4ETYawCoeYg-1280-80.jpg",
-      "summary": "Will AI-driven quality assurance mean more slop?",
+      "title": "The thinking was never just mine",
+      "image": "https://placehold.co/600x400",
+      "summary": "The thinking was never just mine",
+      "category": "Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://uxdesign.cc/the-thinking-was-never-just-mine-9b73cc04c837?source=rss----138adf9c44c---4"
+    },
+    {
+      "title": " Directive 8020 review: a sci-fi horror that loses tension despite its Unreal Engine 5 upgrade ",
+      "image": "https://cdn.mos.cms.futurecdn.net/jaPWWamhygNfhSbcKgYErM-1280-80.jpg",
+      "summary": "Supermassive's new technical highs can't overcome the lacklustre gameplay choices.",
+      "category": "Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://www.creativebloq.com/entertainment/gaming/directive-8020-review-a-sci-fi-horror-that-loses-tension-despite-its-unreal-engine-5-upgrade"
+    },
+    {
+      "title": "Rethinking design with your hands in the AI world",
+      "image": "https://placehold.co/600x400",
+      "summary": "Rethinking design with your hands in the AI world",
       "category": "AI Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://www.creativebloq.com/3d/video-game-design/sony-playstations-ai-plans-might-impress-investors-but-gamers-are-concerned"
-    },
-    {
-      "title": " How studying The Last of Us has helped this 3D artist perfect character design ",
-      "image": "https://cdn.mos.cms.futurecdn.net/BrJ5uVPFtAZ6E8aLhqJinP-1280-80.jpg",
-      "summary": "Italian artist Max Bianchini shares how character backgrounds help his designs.",
-      "category": "3D Art",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://www.creativebloq.com/3d/3d-art/how-studying-the-last-of-us-has-helped-this-3d-artist-perfect-character-design"
+      "link": "https://uxdesign.cc/rethinking-design-with-your-hands-in-the-ai-world-b8d4adf3322c?source=rss----138adf9c44c---4"
     }
   ]
 }
