@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-05-12T02:53:39.368Z",
+  "lastUpdated": "2026-05-13T02:57:58.857Z",
   "articles": [
+    {
+      "title": " Operation Epic Furious is a video game inspired by Donald Trump's Iran War ",
+      "image": "https://cdn.mos.cms.futurecdn.net/wSSDAjUCVcH55RnKXvVwbT-1280-80.jpg",
+      "summary": "Protest art meets retro gaming.",
+      "category": "Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://www.creativebloq.com/3d/video-game-design/how-to-play-the-viral-trump-iran-war-video-game"
+    },
     {
       "title": "Rethinking The Experience Of System Tools",
       "image": "http://files.smashing.media/articles/rethinking-experience-system-tools.jpg",
@@ -11,13 +20,31 @@
       "link": "https://smashingmagazine.com/2026/05/rethinking-experience-system-tools/"
     },
     {
-      "title": " Call of the Elder Gods review: brilliant puzzles buried inside an oddly cosy cosmic horror ",
-      "image": "https://cdn.mos.cms.futurecdn.net/HSZaVrRyQ4UZfziVjSR9PY-1280-80.jpg",
-      "summary": "It's all a matter of time and space (and notes, lots of notes).",
+      "title": " These tropical wood earphones could be the prettiest small things you ever own ",
+      "image": "https://cdn.mos.cms.futurecdn.net/eZggC6Mhz92YegezX4RTxA-1280-80.jpg",
+      "summary": "But are they worth the price?",
       "category": "Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://www.creativebloq.com/entertainment/gaming/call-of-the-elder-gods-review-brilliant-puzzles-buried-inside-an-oddly-cosy-cosmic-horror"
+      "link": "https://www.creativebloq.com/tech/headphones-earbuds/these-tropical-wood-earphones-could-be-the-prettiest-small-things-you-ever-own"
+    },
+    {
+      "title": "Low cortisol solution to big problems",
+      "image": "https://placehold.co/600x400",
+      "summary": "The strange details we only notice when we slow down.\nContinue reading on UX Collective »",
+      "category": "UI/UX",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://uxdesign.cc/low-cortisol-solution-to-big-problems-1b71f9f35ee8?source=rss----138adf9c44c---4"
+    },
+    {
+      "title": "What do you do if your best design work is a small project?",
+      "image": "https://placehold.co/600x400",
+      "summary": "What 6 emojis can teach you about translating your impact\nContinue reading on UX Collective »",
+      "category": "UI/UX",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://uxdesign.cc/what-do-you-do-if-your-best-design-work-is-a-small-project-6d57e619d866?source=rss----138adf9c44c---4"
     },
     {
       "title": "The Architecture Of Local-First Web Development",
@@ -27,33 +54,6 @@
       "style": "Unknown",
       "mood": "Neutral",
       "link": "https://smashingmagazine.com/2026/05/architecture-local-first-web-development/"
-    },
-    {
-      "title": "The thinking was never just mine",
-      "image": "https://placehold.co/600x400",
-      "summary": "The thinking was never just mine",
-      "category": "Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://uxdesign.cc/the-thinking-was-never-just-mine-9b73cc04c837?source=rss----138adf9c44c---4"
-    },
-    {
-      "title": " Directive 8020 review: a sci-fi horror that loses tension despite its Unreal Engine 5 upgrade ",
-      "image": "https://cdn.mos.cms.futurecdn.net/jaPWWamhygNfhSbcKgYErM-1280-80.jpg",
-      "summary": "Supermassive's new technical highs can't overcome the lacklustre gameplay choices.",
-      "category": "Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://www.creativebloq.com/entertainment/gaming/directive-8020-review-a-sci-fi-horror-that-loses-tension-despite-its-unreal-engine-5-upgrade"
-    },
-    {
-      "title": "Rethinking design with your hands in the AI world",
-      "image": "https://placehold.co/600x400",
-      "summary": "Rethinking design with your hands in the AI world",
-      "category": "AI Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://uxdesign.cc/rethinking-design-with-your-hands-in-the-ai-world-b8d4adf3322c?source=rss----138adf9c44c---4"
     }
   ]
 }
