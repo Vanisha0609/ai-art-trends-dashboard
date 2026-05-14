@@ -1,32 +1,32 @@
 {
-  "lastUpdated": "2026-05-13T02:57:58.857Z",
+  "lastUpdated": "2026-05-14T03:23:16.439Z",
   "articles": [
     {
-      "title": " Operation Epic Furious is a video game inspired by Donald Trump's Iran War ",
-      "image": "https://cdn.mos.cms.futurecdn.net/wSSDAjUCVcH55RnKXvVwbT-1280-80.jpg",
-      "summary": "Protest art meets retro gaming.",
-      "category": "Design",
+      "title": " Laika's Wildwood looks like the most epic stopmotion movie yet ",
+      "image": "https://cdn.mos.cms.futurecdn.net/CYbLkxiP2kf6nxbRr4NYFU-1280-80.jpg",
+      "summary": "The trailer is stunning.",
+      "category": "AI Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://www.creativebloq.com/3d/video-game-design/how-to-play-the-viral-trump-iran-war-video-game"
+      "link": "https://www.creativebloq.com/art/animation/laikas-wildwood-looks-like-the-most-epic-stopmotion-movie-yet"
     },
     {
-      "title": "Rethinking The Experience Of System Tools",
-      "image": "http://files.smashing.media/articles/rethinking-experience-system-tools.jpg",
-      "summary": "Design always starts with function — function shapes form. But if that function can’t be made completely invisible and people still have to interact with it, it inevitably becomes part of their experience. In this article, Kyrylo Levashov shares four common software design assumptions.",
+      "title": " Netflix's Swapped got panned, so how's it broken one of KPop Demon Hunters' viewing records? ",
+      "image": "https://cdn.mos.cms.futurecdn.net/r7ztzFZVpVftK5HkUWTUwn-1280-80.jpg",
+      "summary": "The new movie from Pixar and Disney veterans got 38.7 million views in seven days.",
       "category": "Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://smashingmagazine.com/2026/05/rethinking-experience-system-tools/"
+      "link": "https://www.creativebloq.com/entertainment/movies-tv-shows/netflixs-swapped-got-panned-so-hows-it-broken-one-of-kpop-demon-hunters-records"
     },
     {
-      "title": " These tropical wood earphones could be the prettiest small things you ever own ",
-      "image": "https://cdn.mos.cms.futurecdn.net/eZggC6Mhz92YegezX4RTxA-1280-80.jpg",
-      "summary": "But are they worth the price?",
-      "category": "Design",
+      "title": "The Architecture Of Local-First Web Development",
+      "image": "http://files.smashing.media/articles/architecture-local-first-web-development/architecture-local-first-web-development.jpg",
+      "summary": "An honest perspective on building local-first web apps in 2026, written for developers who’ve been doing this long enough to be skeptical of silver bullets.",
+      "category": "UI/UX",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://www.creativebloq.com/tech/headphones-earbuds/these-tropical-wood-earphones-could-be-the-prettiest-small-things-you-ever-own"
+      "link": "https://smashingmagazine.com/2026/05/architecture-local-first-web-development/"
     },
     {
       "title": "Low cortisol solution to big problems",
@@ -47,13 +47,13 @@
       "link": "https://uxdesign.cc/what-do-you-do-if-your-best-design-work-is-a-small-project-6d57e619d866?source=rss----138adf9c44c---4"
     },
     {
-      "title": "The Architecture Of Local-First Web Development",
-      "image": "http://files.smashing.media/articles/architecture-local-first-web-development/architecture-local-first-web-development.jpg",
-      "summary": "An honest perspective on building local-first web apps in 2026, written for developers who’ve been doing this long enough to be skeptical of silver bullets.",
+      "title": "Practical Interface Patterns For AI Transparency (Part 2)",
+      "image": "http://files.smashing.media/articles/practical-interface-patterns-ai-transparency/practical-interface-patterns-ai-transparency.jpg",
+      "summary": "Why traditional loading patterns like spinners fail in agentic AI experiences, and how interface patterns that reveal the system’s process, status, and decision-making can improve transparency and build user trust.",
       "category": "UI/UX",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://smashingmagazine.com/2026/05/architecture-local-first-web-development/"
+      "link": "https://smashingmagazine.com/2026/05/practical-interface-patterns-ai-transparency/"
     }
   ]
 }
