@@ -1,23 +1,23 @@
 {
-  "lastUpdated": "2026-05-14T03:23:16.439Z",
+  "lastUpdated": "2026-05-15T03:27:09.789Z",
   "articles": [
     {
-      "title": " Laika's Wildwood looks like the most epic stopmotion movie yet ",
-      "image": "https://cdn.mos.cms.futurecdn.net/CYbLkxiP2kf6nxbRr4NYFU-1280-80.jpg",
-      "summary": "The trailer is stunning.",
+      "title": "The one-dimensional pipe between two high-dimensional minds",
+      "image": "https://placehold.co/600x400",
+      "summary": "On AI, prompts, and the strange new asymmetry between two high-dimensional minds\nContinue reading on UX Collective »",
+      "category": "UI/UX",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://uxdesign.cc/the-one-dimensional-pipe-between-two-high-dimensional-minds-7bc81c49627e?source=rss----138adf9c44c---4"
+    },
+    {
+      "title": "AI made everyone a creator, not a designer",
+      "image": "https://placehold.co/600x400",
+      "summary": "AI made everyone a creator, not a designer",
       "category": "AI Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://www.creativebloq.com/art/animation/laikas-wildwood-looks-like-the-most-epic-stopmotion-movie-yet"
-    },
-    {
-      "title": " Netflix's Swapped got panned, so how's it broken one of KPop Demon Hunters' viewing records? ",
-      "image": "https://cdn.mos.cms.futurecdn.net/r7ztzFZVpVftK5HkUWTUwn-1280-80.jpg",
-      "summary": "The new movie from Pixar and Disney veterans got 38.7 million views in seven days.",
-      "category": "Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://www.creativebloq.com/entertainment/movies-tv-shows/netflixs-swapped-got-panned-so-hows-it-broken-one-of-kpop-demon-hunters-records"
+      "link": "https://uxdesign.cc/ai-made-everyone-a-creator-not-a-designer-e28deb6e603b?source=rss----138adf9c44c---4"
     },
     {
       "title": "The Architecture Of Local-First Web Development",
@@ -29,22 +29,13 @@
       "link": "https://smashingmagazine.com/2026/05/architecture-local-first-web-development/"
     },
     {
-      "title": "Low cortisol solution to big problems",
-      "image": "https://placehold.co/600x400",
-      "summary": "The strange details we only notice when we slow down.\nContinue reading on UX Collective »",
-      "category": "UI/UX",
+      "title": " KPop Demon Hunters are going on tour, and fans have questions ",
+      "image": "https://cdn.mos.cms.futurecdn.net/26nGSED4Jj2DTtEa98VLKZ-1280-80.jpg",
+      "summary": "Will it be like Gorillaz... or like Disney on Ice?",
+      "category": "Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://uxdesign.cc/low-cortisol-solution-to-big-problems-1b71f9f35ee8?source=rss----138adf9c44c---4"
-    },
-    {
-      "title": "What do you do if your best design work is a small project?",
-      "image": "https://placehold.co/600x400",
-      "summary": "What 6 emojis can teach you about translating your impact\nContinue reading on UX Collective »",
-      "category": "UI/UX",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://uxdesign.cc/what-do-you-do-if-your-best-design-work-is-a-small-project-6d57e619d866?source=rss----138adf9c44c---4"
+      "link": "https://www.creativebloq.com/art/animation/kpop-demon-hunters-are-going-on-tour-and-fans-have-questions"
     },
     {
       "title": "Practical Interface Patterns For AI Transparency (Part 2)",
@@ -54,6 +45,15 @@
       "style": "Unknown",
       "mood": "Neutral",
       "link": "https://smashingmagazine.com/2026/05/practical-interface-patterns-ai-transparency/"
+    },
+    {
+      "title": " Subnautica 2 uses Unreal Engine 5 to make the ocean feel psychologically hostile ",
+      "image": "https://cdn.mos.cms.futurecdn.net/8Vr5aCCKH8GFQMxynjZhP3-1280-80.jpg",
+      "summary": "Everything looks beautiful and that’s exactly why it’s scary.",
+      "category": "Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://www.creativebloq.com/3d/video-game-design/subnautica-2-uses-unreal-engine-5-to-make-the-ocean-feel-psychologically-hostile"
     }
   ]
 }
