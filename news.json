@@ -1,15 +1,6 @@
 {
-  "lastUpdated": "2026-05-15T03:27:09.789Z",
+  "lastUpdated": "2026-05-16T02:50:12.396Z",
   "articles": [
-    {
-      "title": "The one-dimensional pipe between two high-dimensional minds",
-      "image": "https://placehold.co/600x400",
-      "summary": "On AI, prompts, and the strange new asymmetry between two high-dimensional minds\nContinue reading on UX Collective »",
-      "category": "UI/UX",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://uxdesign.cc/the-one-dimensional-pipe-between-two-high-dimensional-minds-7bc81c49627e?source=rss----138adf9c44c---4"
-    },
     {
       "title": "AI made everyone a creator, not a designer",
       "image": "https://placehold.co/600x400",
@@ -18,24 +9,6 @@
       "style": "Unknown",
       "mood": "Neutral",
       "link": "https://uxdesign.cc/ai-made-everyone-a-creator-not-a-designer-e28deb6e603b?source=rss----138adf9c44c---4"
-    },
-    {
-      "title": "The Architecture Of Local-First Web Development",
-      "image": "http://files.smashing.media/articles/architecture-local-first-web-development/architecture-local-first-web-development.jpg",
-      "summary": "An honest perspective on building local-first web apps in 2026, written for developers who’ve been doing this long enough to be skeptical of silver bullets.",
-      "category": "UI/UX",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://smashingmagazine.com/2026/05/architecture-local-first-web-development/"
-    },
-    {
-      "title": " KPop Demon Hunters are going on tour, and fans have questions ",
-      "image": "https://cdn.mos.cms.futurecdn.net/26nGSED4Jj2DTtEa98VLKZ-1280-80.jpg",
-      "summary": "Will it be like Gorillaz... or like Disney on Ice?",
-      "category": "Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://www.creativebloq.com/art/animation/kpop-demon-hunters-are-going-on-tour-and-fans-have-questions"
     },
     {
       "title": "Practical Interface Patterns For AI Transparency (Part 2)",
@@ -47,13 +20,40 @@
       "link": "https://smashingmagazine.com/2026/05/practical-interface-patterns-ai-transparency/"
     },
     {
-      "title": " Subnautica 2 uses Unreal Engine 5 to make the ocean feel psychologically hostile ",
-      "image": "https://cdn.mos.cms.futurecdn.net/8Vr5aCCKH8GFQMxynjZhP3-1280-80.jpg",
-      "summary": "Everything looks beautiful and that’s exactly why it’s scary.",
-      "category": "Design",
+      "title": " The ultimate logo quiz: think you know your 2000s logos?  ",
+      "image": "https://cdn.mos.cms.futurecdn.net/mp8LCG46BfcekmwWVp336H-1280-80.jpg",
+      "summary": "Our logos through the decade series continues with 2000s logo trivia.",
+      "category": "UI/UX",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://www.creativebloq.com/3d/video-game-design/subnautica-2-uses-unreal-engine-5-to-make-the-ocean-feel-psychologically-hostile"
+      "link": "https://www.creativebloq.com/design/logos-icons/the-ultimate-logo-quiz-think-you-know-your-2000s-logos"
+    },
+    {
+      "title": " New Spider-Man logo frustrates fans thanks to one tiny detail ",
+      "image": "https://cdn.mos.cms.futurecdn.net/vYFQ7G4hvQYg4Ab7zYy9hG-1280-80.jpg",
+      "summary": "Who knew a line could be so divisive?",
+      "category": "AI Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://www.creativebloq.com/design/logos-icons/new-spider-man-logo-frustrates-fans-thanks-to-one-tiny-detail"
+    },
+    {
+      "title": "Ten Data-Backed Truths Of User Experience ROI",
+      "image": "http://files.smashing.media/articles/data-backed-truths-user-experience-roi/data-backed-truths-user-experience-roi.jpg",
+      "summary": "Every extra second of friction has a measurable business cost. Carrie Webster shares ten data-backed UX facts that link user experience directly to revenue, retention, and long-term growth.",
+      "category": "UI/UX",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://smashingmagazine.com/2026/05/data-backed-truths-user-experience-roi/"
+    },
+    {
+      "title": "The one-dimensional pipe between two high-dimensional minds",
+      "image": "https://placehold.co/600x400",
+      "summary": "On AI, prompts, and the strange new asymmetry between two high-dimensional minds\nContinue reading on UX Collective »",
+      "category": "UI/UX",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://uxdesign.cc/the-one-dimensional-pipe-between-two-high-dimensional-minds-7bc81c49627e?source=rss----138adf9c44c---4"
     }
   ]
 }
