@@ -1,14 +1,23 @@
 {
-  "lastUpdated": "2026-05-16T02:50:12.396Z",
+  "lastUpdated": "2026-05-17T03:23:01.777Z",
   "articles": [
     {
-      "title": "AI made everyone a creator, not a designer",
-      "image": "https://placehold.co/600x400",
-      "summary": "AI made everyone a creator, not a designer",
+      "title": " Smart glasses are the most underrated travel hack – and these ones are on sale ",
+      "image": "https://cdn.mos.cms.futurecdn.net/p4gxHSSgGks57xV5cEF3Kj-1280-80.jpg",
+      "summary": "You’ll never be short of in-flight entertainment, and they’re great for live translation and hands-free content filming too.",
       "category": "AI Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://uxdesign.cc/ai-made-everyone-a-creator-not-a-designer-e28deb6e603b?source=rss----138adf9c44c---4"
+      "link": "https://www.creativebloq.com/tech/smart-glasses-are-the-most-underrated-travel-hack-and-these-ones-are-on-sale"
+    },
+    {
+      "title": "Should we be kind to machines (for our own sake, really)?",
+      "image": "https://placehold.co/600x400",
+      "summary": "Should we be kind to machines (for our own sake, really)?",
+      "category": "Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://uxdesign.cc/should-we-be-kind-to-machines-for-our-own-sake-really-26acf222af29?source=rss----138adf9c44c---4"
     },
     {
       "title": "Practical Interface Patterns For AI Transparency (Part 2)",
@@ -20,24 +29,6 @@
       "link": "https://smashingmagazine.com/2026/05/practical-interface-patterns-ai-transparency/"
     },
     {
-      "title": " The ultimate logo quiz: think you know your 2000s logos?  ",
-      "image": "https://cdn.mos.cms.futurecdn.net/mp8LCG46BfcekmwWVp336H-1280-80.jpg",
-      "summary": "Our logos through the decade series continues with 2000s logo trivia.",
-      "category": "UI/UX",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://www.creativebloq.com/design/logos-icons/the-ultimate-logo-quiz-think-you-know-your-2000s-logos"
-    },
-    {
-      "title": " New Spider-Man logo frustrates fans thanks to one tiny detail ",
-      "image": "https://cdn.mos.cms.futurecdn.net/vYFQ7G4hvQYg4Ab7zYy9hG-1280-80.jpg",
-      "summary": "Who knew a line could be so divisive?",
-      "category": "AI Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://www.creativebloq.com/design/logos-icons/new-spider-man-logo-frustrates-fans-thanks-to-one-tiny-detail"
-    },
-    {
       "title": "Ten Data-Backed Truths Of User Experience ROI",
       "image": "http://files.smashing.media/articles/data-backed-truths-user-experience-roi/data-backed-truths-user-experience-roi.jpg",
       "summary": "Every extra second of friction has a measurable business cost. Carrie Webster shares ten data-backed UX facts that link user experience directly to revenue, retention, and long-term growth.",
@@ -47,13 +38,22 @@
       "link": "https://smashingmagazine.com/2026/05/data-backed-truths-user-experience-roi/"
     },
     {
-      "title": "The one-dimensional pipe between two high-dimensional minds",
+      "title": " Get ready for summer with up to 50% off these travel tech essentials ",
+      "image": "https://cdn.mos.cms.futurecdn.net/WxoMXTrHbZLtxsmgwEqSoa-1280-80.jpg",
+      "summary": "There’s some great deals on gadgets you wouldn’t think to pack.",
+      "category": "Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://www.creativebloq.com/tech/get-ready-for-summer-with-up-to-50-percent-off-these-travel-tech-essentials"
+    },
+    {
+      "title": "How to write a DESIGN.md file Claude can actually use",
       "image": "https://placehold.co/600x400",
-      "summary": "On AI, prompts, and the strange new asymmetry between two high-dimensional minds\nContinue reading on UX Collective »",
+      "summary": "Your DESIGN.md should tell a story of your product\nContinue reading on UX Collective »",
       "category": "UI/UX",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://uxdesign.cc/the-one-dimensional-pipe-between-two-high-dimensional-minds-7bc81c49627e?source=rss----138adf9c44c---4"
+      "link": "https://uxdesign.cc/how-to-write-a-design-md-file-claude-can-actually-use-2d89d183f823?source=rss----138adf9c44c---4"
     }
   ]
 }
