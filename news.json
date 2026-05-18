@@ -1,33 +1,6 @@
 {
-  "lastUpdated": "2026-05-17T03:23:01.777Z",
+  "lastUpdated": "2026-05-18T03:37:07.893Z",
   "articles": [
-    {
-      "title": " Smart glasses are the most underrated travel hack – and these ones are on sale ",
-      "image": "https://cdn.mos.cms.futurecdn.net/p4gxHSSgGks57xV5cEF3Kj-1280-80.jpg",
-      "summary": "You’ll never be short of in-flight entertainment, and they’re great for live translation and hands-free content filming too.",
-      "category": "AI Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://www.creativebloq.com/tech/smart-glasses-are-the-most-underrated-travel-hack-and-these-ones-are-on-sale"
-    },
-    {
-      "title": "Should we be kind to machines (for our own sake, really)?",
-      "image": "https://placehold.co/600x400",
-      "summary": "Should we be kind to machines (for our own sake, really)?",
-      "category": "Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://uxdesign.cc/should-we-be-kind-to-machines-for-our-own-sake-really-26acf222af29?source=rss----138adf9c44c---4"
-    },
-    {
-      "title": "Practical Interface Patterns For AI Transparency (Part 2)",
-      "image": "http://files.smashing.media/articles/practical-interface-patterns-ai-transparency/practical-interface-patterns-ai-transparency.jpg",
-      "summary": "Why traditional loading patterns like spinners fail in agentic AI experiences, and how interface patterns that reveal the system’s process, status, and decision-making can improve transparency and build user trust.",
-      "category": "UI/UX",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://smashingmagazine.com/2026/05/practical-interface-patterns-ai-transparency/"
-    },
     {
       "title": "Ten Data-Backed Truths Of User Experience ROI",
       "image": "http://files.smashing.media/articles/data-backed-truths-user-experience-roi/data-backed-truths-user-experience-roi.jpg",
@@ -38,22 +11,49 @@
       "link": "https://smashingmagazine.com/2026/05/data-backed-truths-user-experience-roi/"
     },
     {
-      "title": " Get ready for summer with up to 50% off these travel tech essentials ",
-      "image": "https://cdn.mos.cms.futurecdn.net/WxoMXTrHbZLtxsmgwEqSoa-1280-80.jpg",
-      "summary": "There’s some great deals on gadgets you wouldn’t think to pack.",
+      "title": "How mobile apps are reshaping screening for cognitive decline",
+      "image": "https://placehold.co/600x400",
+      "summary": "How mobile apps are reshaping screening for cognitive decline",
       "category": "Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://www.creativebloq.com/tech/get-ready-for-summer-with-up-to-50-percent-off-these-travel-tech-essentials"
+      "link": "https://uxdesign.cc/how-mobile-apps-are-reshaping-screening-for-cognitive-decline-a26391fe3ae1?source=rss----138adf9c44c---4"
     },
     {
-      "title": "How to write a DESIGN.md file Claude can actually use",
-      "image": "https://placehold.co/600x400",
-      "summary": "Your DESIGN.md should tell a story of your product\nContinue reading on UX Collective »",
+      "title": " Best art inspiration sites for concept artists, illustrators and designers ",
+      "image": "https://cdn.mos.cms.futurecdn.net/JH5jve2F8cMiVFLviq9WkF-1280-80.jpg",
+      "summary": "ArtStation, Character Design References and ShotDeck are ruining my free time in the best way.",
       "category": "UI/UX",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://uxdesign.cc/how-to-write-a-design-md-file-claude-can-actually-use-2d89d183f823?source=rss----138adf9c44c---4"
+      "link": "https://www.creativebloq.com/art/digital-art/best-art-inspiration-sites-for-concept-artists-illustrators-and-designers"
+    },
+    {
+      "title": "Two gears, one compass: designing at velocity while sustaining quality",
+      "image": "https://placehold.co/600x400",
+      "summary": "Two gears, one compass: designing at velocity while sustaining quality",
+      "category": "AI Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://uxdesign.cc/two-gears-one-compass-designing-at-velocity-while-sustaining-quality-a1b6597651a9?source=rss----138adf9c44c---4"
+    },
+    {
+      "title": " Why this skincare brand is selling Avocados for $302 ",
+      "image": "https://cdn.mos.cms.futurecdn.net/hNGhcJq7hyZFtqqgcaVaaf-1280-80.jpg",
+      "summary": "Umm, it’s a 100% Natural Glow-Enhancing Vitality Orb, actually.",
+      "category": "Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://www.creativebloq.com/design/branding/why-this-skincare-brand-is-selling-avocados-for-usd302"
+    },
+    {
+      "title": "Practical Interface Patterns For AI Transparency (Part 2)",
+      "image": "http://files.smashing.media/articles/practical-interface-patterns-ai-transparency/practical-interface-patterns-ai-transparency.jpg",
+      "summary": "Why traditional loading patterns like spinners fail in agentic AI experiences, and how interface patterns that reveal the system’s process, status, and decision-making can improve transparency and build user trust.",
+      "category": "UI/UX",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://smashingmagazine.com/2026/05/practical-interface-patterns-ai-transparency/"
     }
   ]
 }
