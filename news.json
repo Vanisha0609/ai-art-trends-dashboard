@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-18T03:37:07.893Z",
+  "lastUpdated": "2026-05-19T03:30:32.124Z",
   "articles": [
     {
       "title": "Ten Data-Backed Truths Of User Experience ROI",
@@ -11,42 +11,6 @@
       "link": "https://smashingmagazine.com/2026/05/data-backed-truths-user-experience-roi/"
     },
     {
-      "title": "How mobile apps are reshaping screening for cognitive decline",
-      "image": "https://placehold.co/600x400",
-      "summary": "How mobile apps are reshaping screening for cognitive decline",
-      "category": "Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://uxdesign.cc/how-mobile-apps-are-reshaping-screening-for-cognitive-decline-a26391fe3ae1?source=rss----138adf9c44c---4"
-    },
-    {
-      "title": " Best art inspiration sites for concept artists, illustrators and designers ",
-      "image": "https://cdn.mos.cms.futurecdn.net/JH5jve2F8cMiVFLviq9WkF-1280-80.jpg",
-      "summary": "ArtStation, Character Design References and ShotDeck are ruining my free time in the best way.",
-      "category": "UI/UX",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://www.creativebloq.com/art/digital-art/best-art-inspiration-sites-for-concept-artists-illustrators-and-designers"
-    },
-    {
-      "title": "Two gears, one compass: designing at velocity while sustaining quality",
-      "image": "https://placehold.co/600x400",
-      "summary": "Two gears, one compass: designing at velocity while sustaining quality",
-      "category": "AI Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://uxdesign.cc/two-gears-one-compass-designing-at-velocity-while-sustaining-quality-a1b6597651a9?source=rss----138adf9c44c---4"
-    },
-    {
-      "title": " Why this skincare brand is selling Avocados for $302 ",
-      "image": "https://cdn.mos.cms.futurecdn.net/hNGhcJq7hyZFtqqgcaVaaf-1280-80.jpg",
-      "summary": "Umm, it’s a 100% Natural Glow-Enhancing Vitality Orb, actually.",
-      "category": "Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://www.creativebloq.com/design/branding/why-this-skincare-brand-is-selling-avocados-for-usd302"
-    },
-    {
       "title": "Practical Interface Patterns For AI Transparency (Part 2)",
       "image": "http://files.smashing.media/articles/practical-interface-patterns-ai-transparency/practical-interface-patterns-ai-transparency.jpg",
       "summary": "Why traditional loading patterns like spinners fail in agentic AI experiences, and how interface patterns that reveal the system’s process, status, and decision-making can improve transparency and build user trust.",
@@ -54,6 +18,42 @@
       "style": "Unknown",
       "mood": "Neutral",
       "link": "https://smashingmagazine.com/2026/05/practical-interface-patterns-ai-transparency/"
+    },
+    {
+      "title": "The waiting problem in AI products",
+      "image": "https://placehold.co/600x400",
+      "summary": "The waiting problem in AI products",
+      "category": "AI Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://uxdesign.cc/the-waiting-problem-in-ai-products-e7c11fd5a825?source=rss----138adf9c44c---4"
+    },
+    {
+      "title": " We won, the new Spotify logo is being laid to rest ",
+      "image": "https://cdn.mos.cms.futurecdn.net/kPdwnmhvNwx88RMaLhVjpa-1280-80.jpg",
+      "summary": "Goodbye discomorphism.",
+      "category": "AI Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://www.creativebloq.com/design/logos-icons/we-won-the-new-spotify-logo-is-being-laid-to-rest"
+    },
+    {
+      "title": "Be like water, The death of the empty state, AI for UX",
+      "image": "https://placehold.co/600x400",
+      "summary": "Be like water, The death of the empty state, AI for UX",
+      "category": "UI/UX",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://uxdesign.cc/be-like-water-the-death-of-the-empty-state-ai-for-ux-88654390e8ee?source=rss----138adf9c44c---4"
+    },
+    {
+      "title": " 6 ways to learn essential creative skills, inspired by the Masters ",
+      "image": "https://cdn.mos.cms.futurecdn.net/tQCPYs96sU6jEToJCKPtZD-1280-80.jpg",
+      "summary": "What Warhol, the Bauhaus and Paul Rand can teach us about thriving in the AI era.",
+      "category": "AI Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://www.creativebloq.com/professional-development/creative-careers/6-ways-to-learn-essential-creative-skills-inspired-by-the-masters"
     }
   ]
 }
