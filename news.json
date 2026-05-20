@@ -1,14 +1,23 @@
 {
-  "lastUpdated": "2026-05-19T03:30:32.124Z",
+  "lastUpdated": "2026-05-20T03:31:07.912Z",
   "articles": [
     {
-      "title": "Ten Data-Backed Truths Of User Experience ROI",
-      "image": "http://files.smashing.media/articles/data-backed-truths-user-experience-roi/data-backed-truths-user-experience-roi.jpg",
-      "summary": "Every extra second of friction has a measurable business cost. Carrie Webster shares ten data-backed UX facts that link user experience directly to revenue, retention, and long-term growth.",
+      "title": " Sony just released luxury headphones to rival the Apple AirPods Max ",
+      "image": "https://cdn.mos.cms.futurecdn.net/s5rPjdJNsnxwsYec99f5WB-1280-80.jpg",
+      "summary": "This level of sound quality, at under $65, is quite incredible.",
       "category": "UI/UX",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://smashingmagazine.com/2026/05/data-backed-truths-user-experience-roi/"
+      "link": "https://www.creativebloq.com/tech/headphones-earbuds/sony-just-released-luxury-headphones-to-rival-apples-airpods-max"
+    },
+    {
+      "title": "The case for catholic philosophy in ethical interface design",
+      "image": "https://placehold.co/600x400",
+      "summary": "The case for catholic philosophy in ethical interface design",
+      "category": "Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://uxdesign.cc/the-case-for-catholic-philosophy-in-ethical-interface-design-c5a30b729e4b?source=rss----138adf9c44c---4"
     },
     {
       "title": "Practical Interface Patterns For AI Transparency (Part 2)",
@@ -20,40 +29,31 @@
       "link": "https://smashingmagazine.com/2026/05/practical-interface-patterns-ai-transparency/"
     },
     {
-      "title": "The waiting problem in AI products",
+      "title": "What critical thinking means for senior designers (and how to apply it)",
       "image": "https://placehold.co/600x400",
-      "summary": "The waiting problem in AI products",
-      "category": "AI Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://uxdesign.cc/the-waiting-problem-in-ai-products-e7c11fd5a825?source=rss----138adf9c44c---4"
-    },
-    {
-      "title": " We won, the new Spotify logo is being laid to rest ",
-      "image": "https://cdn.mos.cms.futurecdn.net/kPdwnmhvNwx88RMaLhVjpa-1280-80.jpg",
-      "summary": "Goodbye discomorphism.",
-      "category": "AI Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://www.creativebloq.com/design/logos-icons/we-won-the-new-spotify-logo-is-being-laid-to-rest"
-    },
-    {
-      "title": "Be like water, The death of the empty state, AI for UX",
-      "image": "https://placehold.co/600x400",
-      "summary": "Be like water, The death of the empty state, AI for UX",
+      "summary": "Re-designing mocks is slowly becoming the bulk of design work\nContinue reading on UX Collective »",
       "category": "UI/UX",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://uxdesign.cc/be-like-water-the-death-of-the-empty-state-ai-for-ux-88654390e8ee?source=rss----138adf9c44c---4"
+      "link": "https://uxdesign.cc/what-critical-thinking-means-for-senior-designers-and-how-to-apply-it-7423762b2391?source=rss----138adf9c44c---4"
     },
     {
-      "title": " 6 ways to learn essential creative skills, inspired by the Masters ",
-      "image": "https://cdn.mos.cms.futurecdn.net/tQCPYs96sU6jEToJCKPtZD-1280-80.jpg",
-      "summary": "What Warhol, the Bauhaus and Paul Rand can teach us about thriving in the AI era.",
+      "title": "Ten Data-Backed Truths Of User Experience ROI",
+      "image": "http://files.smashing.media/articles/data-backed-truths-user-experience-roi/data-backed-truths-user-experience-roi.jpg",
+      "summary": "Every extra second of friction has a measurable business cost. Carrie Webster shares ten data-backed UX facts that link user experience directly to revenue, retention, and long-term growth.",
+      "category": "UI/UX",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://smashingmagazine.com/2026/05/data-backed-truths-user-experience-roi/"
+    },
+    {
+      "title": " How the em dash got caught in the crossfire in the war on AI writing ",
+      "image": "https://cdn.mos.cms.futurecdn.net/SZEosHqsh7EJdP4RLCBqk3-1280-80.jpg",
+      "summary": "Bad writing has been around much longer than AI.",
       "category": "AI Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://www.creativebloq.com/professional-development/creative-careers/6-ways-to-learn-essential-creative-skills-inspired-by-the-masters"
+      "link": "https://www.creativebloq.com/design/has-the-war-on-ai-writing-gone-too-far"
     }
   ]
 }
