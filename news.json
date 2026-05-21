@@ -1,24 +1,6 @@
 {
-  "lastUpdated": "2026-05-20T03:31:07.912Z",
+  "lastUpdated": "2026-05-21T03:37:20.918Z",
   "articles": [
-    {
-      "title": " Sony just released luxury headphones to rival the Apple AirPods Max ",
-      "image": "https://cdn.mos.cms.futurecdn.net/s5rPjdJNsnxwsYec99f5WB-1280-80.jpg",
-      "summary": "This level of sound quality, at under $65, is quite incredible.",
-      "category": "UI/UX",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://www.creativebloq.com/tech/headphones-earbuds/sony-just-released-luxury-headphones-to-rival-apples-airpods-max"
-    },
-    {
-      "title": "The case for catholic philosophy in ethical interface design",
-      "image": "https://placehold.co/600x400",
-      "summary": "The case for catholic philosophy in ethical interface design",
-      "category": "Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://uxdesign.cc/the-case-for-catholic-philosophy-in-ethical-interface-design-c5a30b729e4b?source=rss----138adf9c44c---4"
-    },
     {
       "title": "Practical Interface Patterns For AI Transparency (Part 2)",
       "image": "http://files.smashing.media/articles/practical-interface-patterns-ai-transparency/practical-interface-patterns-ai-transparency.jpg",
@@ -29,13 +11,40 @@
       "link": "https://smashingmagazine.com/2026/05/practical-interface-patterns-ai-transparency/"
     },
     {
-      "title": "What critical thinking means for senior designers (and how to apply it)",
+      "title": " Thieaudio Cypher headphone: Ordered on the outside, a little unpredictable within ",
+      "image": "https://cdn.mos.cms.futurecdn.net/Yid2SGaqCMYoucX3UF5Hhg-1280-80.jpg",
+      "summary": "This headphone is more complex than you'd expect.",
+      "category": "Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://www.creativebloq.com/tech/headphones-earbuds/thieaudio-cypher-headphone-safe-and-ordered-on-the-outside-dark-and-unpredictable-within"
+    },
+    {
+      "title": "Designing the Human+AI system",
       "image": "https://placehold.co/600x400",
-      "summary": "Re-designing mocks is slowly becoming the bulk of design work\nContinue reading on UX Collective »",
+      "summary": "The new product mandate.\nContinue reading on UX Collective »",
       "category": "UI/UX",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://uxdesign.cc/what-critical-thinking-means-for-senior-designers-and-how-to-apply-it-7423762b2391?source=rss----138adf9c44c---4"
+      "link": "https://uxdesign.cc/designing-the-human-ai-system-d7f6fc8bf772?source=rss----138adf9c44c---4"
+    },
+    {
+      "title": "AI UX debt: A new bottleneck",
+      "image": "https://placehold.co/600x400",
+      "summary": "The illusion of completion and the birth of the ghost\nContinue reading on UX Collective »",
+      "category": "UI/UX",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://uxdesign.cc/ai-ux-debt-a-new-bottleneck-ed91c256b86b?source=rss----138adf9c44c---4"
+    },
+    {
+      "title": " South Park's tiny Trump penis was a win for handcrafted animation ",
+      "image": "https://cdn.mos.cms.futurecdn.net/EtskmdTrNfzvuYPcWWrimB-1280-80.jpg",
+      "summary": "The rest might have been a deepfake, but the penis was real.",
+      "category": "Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://www.creativebloq.com/art/animation/south-parks-tiny-trump-penis-is-a-win-for-handcrafted-animation"
     },
     {
       "title": "Ten Data-Backed Truths Of User Experience ROI",
@@ -45,15 +54,6 @@
       "style": "Unknown",
       "mood": "Neutral",
       "link": "https://smashingmagazine.com/2026/05/data-backed-truths-user-experience-roi/"
-    },
-    {
-      "title": " How the em dash got caught in the crossfire in the war on AI writing ",
-      "image": "https://cdn.mos.cms.futurecdn.net/SZEosHqsh7EJdP4RLCBqk3-1280-80.jpg",
-      "summary": "Bad writing has been around much longer than AI.",
-      "category": "AI Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://www.creativebloq.com/design/has-the-war-on-ai-writing-gone-too-far"
     }
   ]
 }
