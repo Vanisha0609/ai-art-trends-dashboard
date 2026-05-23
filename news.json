@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-22T03:36:00.200Z",
+  "lastUpdated": "2026-05-23T02:52:59.798Z",
   "articles": [
     {
       "title": "Designing the Human+AI system",
@@ -11,31 +11,13 @@
       "link": "https://uxdesign.cc/designing-the-human-ai-system-d7f6fc8bf772?source=rss----138adf9c44c---4"
     },
     {
-      "title": " Game Maker Sketchbook 2026 celebrates the unsung heroes of game art ",
-      "image": "https://cdn.mos.cms.futurecdn.net/mccak5tM7x4ZBA26btE7gG-1280-80.jpg",
-      "summary": "From iconic character design to rich environment art, here are this year's selections.",
-      "category": "Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://www.creativebloq.com/3d/video-game-design/game-maker-sketchbook-2026-celebrates-the-unsung-heroes-of-game-art"
-    },
-    {
-      "title": " BAFTA Young Game Designers finalists revealed, from Blade Runner-inspired concepts to bullet-hell boss-fighters ",
-      "image": "https://cdn.mos.cms.futurecdn.net/7XUoPTwu52S5PH9uPJWVKN-1280-80.png",
-      "summary": "Check out these creative ideas from the next generation of game developers.",
-      "category": "Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://www.creativebloq.com/3d/video-game-design/bafta-young-game-designers-finalists-revealed-from-blade-runner-inspired-concepts-to-bullet-hell-boss-fighters"
-    },
-    {
-      "title": "Ten Data-Backed Truths Of User Experience ROI",
-      "image": "http://files.smashing.media/articles/data-backed-truths-user-experience-roi/data-backed-truths-user-experience-roi.jpg",
-      "summary": "Every extra second of friction has a measurable business cost. Carrie Webster shares ten data-backed UX facts that link user experience directly to revenue, retention, and long-term growth.",
+      "title": " The ultimate logo quiz: think you know your 2010s logos?  ",
+      "image": "https://cdn.mos.cms.futurecdn.net/XgAtBcPArWLvRu2DSYKVPP-1280-80.jpg",
+      "summary": "Our logos through the decade series continues with 2010s logo trivia.",
       "category": "UI/UX",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://smashingmagazine.com/2026/05/data-backed-truths-user-experience-roi/"
+      "link": "https://www.creativebloq.com/design/logos-icons/the-ultimate-logo-quiz-think-you-know-your-2010s-logos"
     },
     {
       "title": "AI UX debt: A new bottleneck",
@@ -45,6 +27,24 @@
       "style": "Unknown",
       "mood": "Neutral",
       "link": "https://uxdesign.cc/ai-ux-debt-a-new-bottleneck-ed91c256b86b?source=rss----138adf9c44c---4"
+    },
+    {
+      "title": "Four Levels Of Customer Understanding",
+      "image": "http://files.smashing.media/articles/four-levels-customer-understanding/four-levels-customer-understanding.jpg",
+      "summary": "What people say, feel, think, and do are often very different things. To understand the underlying reasons for user behavior, it helps to look beyond the surface and explore hidden motivations, root causes, and the different layers of reality that shape how people act. Brought to you by Measuring UX Impact, **friendly video course on UX** and design patterns by Vitaly.",
+      "category": "UI/UX",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://smashingmagazine.com/2026/05/four-levels-customer-understanding/"
+    },
+    {
+      "title": " D&AD Pencils 2026 winners reveal a geographic shift in global creativity ",
+      "image": "https://cdn.mos.cms.futurecdn.net/wUgCNxvvv6CrAt6wL8y6We-1280-80.jpg",
+      "summary": "This year's awards attracted entries from a record number of countries.",
+      "category": "Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://www.creativebloq.com/creative-inspiration/d-and-ad-pencils-2026-winners-reveal-a-geographic-shift-in-global-creativity"
     },
     {
       "title": "Advanced Tree Counting: Mathematical Layouts With `sibling-index()` And `sibling-count()`",
