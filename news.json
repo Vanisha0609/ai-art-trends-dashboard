@@ -1,32 +1,32 @@
 {
-  "lastUpdated": "2026-05-23T02:52:59.798Z",
+  "lastUpdated": "2026-05-24T03:32:40.669Z",
   "articles": [
     {
-      "title": "Designing the Human+AI system",
-      "image": "https://placehold.co/600x400",
-      "summary": "The new product mandate.\nContinue reading on UX Collective »",
-      "category": "UI/UX",
+      "title": " Rugrats is the retro game revival no one saw coming ",
+      "image": "https://cdn.mos.cms.futurecdn.net/gseqJuAtPHmrYvEvDb6ELU-1280-80.jpg",
+      "summary": "From 8-bit 2D to low-poly 3D, Rugrats: Retro Rewind is a treasure trove of Nicktoons nostalgia.",
+      "category": "3D Art",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://uxdesign.cc/designing-the-human-ai-system-d7f6fc8bf772?source=rss----138adf9c44c---4"
+      "link": "https://www.creativebloq.com/3d/video-game-design/rugrats-is-the-retro-game-revival-no-one-saw-coming"
     },
     {
-      "title": " The ultimate logo quiz: think you know your 2010s logos?  ",
-      "image": "https://cdn.mos.cms.futurecdn.net/XgAtBcPArWLvRu2DSYKVPP-1280-80.jpg",
-      "summary": "Our logos through the decade series continues with 2010s logo trivia.",
-      "category": "UI/UX",
+      "title": "Advanced Tree Counting: Mathematical Layouts With `sibling-index()` And `sibling-count()`",
+      "image": "http://files.smashing.media/articles/mathematical-layouts-sibling-index-sibling-count/mathematical-layouts-sibling-index-sibling-count.jpg",
+      "summary": "Meet `sibling-index()` and `sibling-count()`. Staggered cascade effect in one line of CSS without `:nth-child()` rules or JS workarounds. Works for 5 items or 5,000.",
+      "category": "Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://www.creativebloq.com/design/logos-icons/the-ultimate-logo-quiz-think-you-know-your-2010s-logos"
+      "link": "https://smashingmagazine.com/2026/05/mathematical-layouts-sibling-index-sibling-count/"
     },
     {
-      "title": "AI UX debt: A new bottleneck",
+      "title": "Designing how designers master AI",
       "image": "https://placehold.co/600x400",
-      "summary": "The illusion of completion and the birth of the ghost\nContinue reading on UX Collective »",
-      "category": "UI/UX",
+      "summary": "Designing how designers master AI",
+      "category": "AI Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://uxdesign.cc/ai-ux-debt-a-new-bottleneck-ed91c256b86b?source=rss----138adf9c44c---4"
+      "link": "https://uxdesign.cc/designing-how-designers-master-ai-642d8751d945?source=rss----138adf9c44c---4"
     },
     {
       "title": "Four Levels Of Customer Understanding",
@@ -38,22 +38,22 @@
       "link": "https://smashingmagazine.com/2026/05/four-levels-customer-understanding/"
     },
     {
-      "title": " D&AD Pencils 2026 winners reveal a geographic shift in global creativity ",
-      "image": "https://cdn.mos.cms.futurecdn.net/wUgCNxvvv6CrAt6wL8y6We-1280-80.jpg",
-      "summary": "This year's awards attracted entries from a record number of countries.",
-      "category": "Design",
+      "title": " How this secret 2D trick can speed up your 3D modelling ",
+      "image": "https://cdn.mos.cms.futurecdn.net/vnvjA9pjgGGZQUjSDVfEfP-1280-80.jpg",
+      "summary": "Making your 3D models more detailed can be time-consuming, but it needn’t be.",
+      "category": "AI Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://www.creativebloq.com/creative-inspiration/d-and-ad-pencils-2026-winners-reveal-a-geographic-shift-in-global-creativity"
+      "link": "https://www.creativebloq.com/3d/how-this-secret-2d-trick-can-speed-up-your-3d-modelling"
     },
     {
-      "title": "Advanced Tree Counting: Mathematical Layouts With `sibling-index()` And `sibling-count()`",
-      "image": "http://files.smashing.media/articles/mathematical-layouts-sibling-index-sibling-count/mathematical-layouts-sibling-index-sibling-count.jpg",
-      "summary": "Meet `sibling-index()` and `sibling-count()`. Staggered cascade effect in one line of CSS without `:nth-child()` rules or JS workarounds. Works for 5 items or 5,000.",
-      "category": "Design",
+      "title": "Designing the Human+AI system",
+      "image": "https://placehold.co/600x400",
+      "summary": "The new product mandate.\nContinue reading on UX Collective »",
+      "category": "UI/UX",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://smashingmagazine.com/2026/05/mathematical-layouts-sibling-index-sibling-count/"
+      "link": "https://uxdesign.cc/designing-the-human-ai-system-d7f6fc8bf772?source=rss----138adf9c44c---4"
     }
   ]
 }
