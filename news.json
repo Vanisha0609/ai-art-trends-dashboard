@@ -1,15 +1,6 @@
 {
-  "lastUpdated": "2026-05-24T03:32:40.669Z",
+  "lastUpdated": "2026-05-25T03:43:16.091Z",
   "articles": [
-    {
-      "title": " Rugrats is the retro game revival no one saw coming ",
-      "image": "https://cdn.mos.cms.futurecdn.net/gseqJuAtPHmrYvEvDb6ELU-1280-80.jpg",
-      "summary": "From 8-bit 2D to low-poly 3D, Rugrats: Retro Rewind is a treasure trove of Nicktoons nostalgia.",
-      "category": "3D Art",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://www.creativebloq.com/3d/video-game-design/rugrats-is-the-retro-game-revival-no-one-saw-coming"
-    },
     {
       "title": "Advanced Tree Counting: Mathematical Layouts With `sibling-index()` And `sibling-count()`",
       "image": "http://files.smashing.media/articles/mathematical-layouts-sibling-index-sibling-count/mathematical-layouts-sibling-index-sibling-count.jpg",
@@ -20,13 +11,31 @@
       "link": "https://smashingmagazine.com/2026/05/mathematical-layouts-sibling-index-sibling-count/"
     },
     {
-      "title": "Designing how designers master AI",
-      "image": "https://placehold.co/600x400",
-      "summary": "Designing how designers master AI",
+      "title": " These 8 gorgeous house plants will brighten up your home office, and they don't cost the earth ",
+      "image": "https://cdn.mos.cms.futurecdn.net/n6UFztJtHwDEftpF54KZeU-1280-80.jpg",
+      "summary": "And they purify the air too.",
       "category": "AI Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://uxdesign.cc/designing-how-designers-master-ai-642d8751d945?source=rss----138adf9c44c---4"
+      "link": "https://www.creativebloq.com/creative-inspiration/these-8-gorgeous-house-plants-will-brighten-up-your-home-office-and-they-dont-cost-the-earth"
+    },
+    {
+      "title": "The future of customer service is designed to make you give up",
+      "image": "https://placehold.co/600x400",
+      "summary": "Deceptive patterns are wasting your time and making you feel bad for trying to access basic support.\nContinue reading on UX Collective »",
+      "category": "UI/UX",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://uxdesign.cc/the-future-of-customer-service-is-designed-to-make-you-give-up-c16b8f91a4c8?source=rss----138adf9c44c---4"
+    },
+    {
+      "title": " 'It was humbling': The cast of 007 First Light on acting in a video game ",
+      "image": "https://cdn.mos.cms.futurecdn.net/kVFhdBthdcmoEKUQva8nBj-1280-80.jpg",
+      "summary": "The first James Bond game in 15 years lands this week.",
+      "category": "Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://www.creativebloq.com/art/character-design/it-was-humbling-the-cast-of-007-first-light-on-acting-in-a-video-game"
     },
     {
       "title": "Four Levels Of Customer Understanding",
@@ -38,22 +47,13 @@
       "link": "https://smashingmagazine.com/2026/05/four-levels-customer-understanding/"
     },
     {
-      "title": " How this secret 2D trick can speed up your 3D modelling ",
-      "image": "https://cdn.mos.cms.futurecdn.net/vnvjA9pjgGGZQUjSDVfEfP-1280-80.jpg",
-      "summary": "Making your 3D models more detailed can be time-consuming, but it needn’t be.",
-      "category": "AI Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://www.creativebloq.com/3d/how-this-secret-2d-trick-can-speed-up-your-3d-modelling"
-    },
-    {
-      "title": "Designing the Human+AI system",
+      "title": "You are no longer the user. You are the principal.",
       "image": "https://placehold.co/600x400",
-      "summary": "The new product mandate.\nContinue reading on UX Collective »",
-      "category": "UI/UX",
+      "summary": "You are no longer the user. You are the principal.",
+      "category": "Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://uxdesign.cc/designing-the-human-ai-system-d7f6fc8bf772?source=rss----138adf9c44c---4"
+      "link": "https://uxdesign.cc/you-are-no-longer-the-user-you-are-the-principal-3a6222e0780a?source=rss----138adf9c44c---4"
     }
   ]
 }
