@@ -1,41 +1,23 @@
 {
-  "lastUpdated": "2026-05-25T03:43:16.091Z",
+  "lastUpdated": "2026-05-26T03:28:59.842Z",
   "articles": [
     {
-      "title": "Advanced Tree Counting: Mathematical Layouts With `sibling-index()` And `sibling-count()`",
-      "image": "http://files.smashing.media/articles/mathematical-layouts-sibling-index-sibling-count/mathematical-layouts-sibling-index-sibling-count.jpg",
-      "summary": "Meet `sibling-index()` and `sibling-count()`. Staggered cascade effect in one line of CSS without `:nth-child()` rules or JS workarounds. Works for 5 items or 5,000.",
+      "title": "Should I design for humans or machines?",
+      "image": "https://placehold.co/600x400",
+      "summary": "Should I design for humans or machines?",
       "category": "Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://smashingmagazine.com/2026/05/mathematical-layouts-sibling-index-sibling-count/"
+      "link": "https://uxdesign.cc/should-i-design-for-humans-or-machines-3b8d3addd006?source=rss----138adf9c44c---4"
     },
     {
-      "title": " These 8 gorgeous house plants will brighten up your home office, and they don't cost the earth ",
-      "image": "https://cdn.mos.cms.futurecdn.net/n6UFztJtHwDEftpF54KZeU-1280-80.jpg",
-      "summary": "And they purify the air too.",
-      "category": "AI Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://www.creativebloq.com/creative-inspiration/these-8-gorgeous-house-plants-will-brighten-up-your-home-office-and-they-dont-cost-the-earth"
-    },
-    {
-      "title": "The future of customer service is designed to make you give up",
+      "title": "Being kind to machines, the genius of Claude’s branding, AI UX debt",
       "image": "https://placehold.co/600x400",
-      "summary": "Deceptive patterns are wasting your time and making you feel bad for trying to access basic support.\nContinue reading on UX Collective »",
+      "summary": "Being kind to machines, the genius of Claude’s branding, AI UX debt",
       "category": "UI/UX",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://uxdesign.cc/the-future-of-customer-service-is-designed-to-make-you-give-up-c16b8f91a4c8?source=rss----138adf9c44c---4"
-    },
-    {
-      "title": " 'It was humbling': The cast of 007 First Light on acting in a video game ",
-      "image": "https://cdn.mos.cms.futurecdn.net/kVFhdBthdcmoEKUQva8nBj-1280-80.jpg",
-      "summary": "The first James Bond game in 15 years lands this week.",
-      "category": "Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://www.creativebloq.com/art/character-design/it-was-humbling-the-cast-of-007-first-light-on-acting-in-a-video-game"
+      "link": "https://uxdesign.cc/being-kind-to-machines-the-genius-of-claudes-branding-ai-ux-debt-f40c616102bd?source=rss----138adf9c44c---4"
     },
     {
       "title": "Four Levels Of Customer Understanding",
@@ -47,13 +29,31 @@
       "link": "https://smashingmagazine.com/2026/05/four-levels-customer-understanding/"
     },
     {
-      "title": "You are no longer the user. You are the principal.",
-      "image": "https://placehold.co/600x400",
-      "summary": "You are no longer the user. You are the principal.",
+      "title": " Bob's Red Mill rebrand is the Cracker Barrel logo controversy all over again ",
+      "image": "https://cdn.mos.cms.futurecdn.net/Qmo3CLp4QBSGJZA8aEQNHd-1280-80.jpg",
+      "summary": "\"They literally took Bob out of the logo\".",
+      "category": "AI Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://www.creativebloq.com/design/logos-icons/new-bobs-red-mill-logo-is-the-cracker-barrel-controversy-all-over-again"
+    },
+    {
+      "title": " Epic's Unreal Engine 6 reveal got a standing ovation, but not everyone's happy ",
+      "image": "https://cdn.mos.cms.futurecdn.net/FWh9TtQPii2D36T894osxc-1280-80.png",
+      "summary": "Do we need a new game engine already?",
       "category": "Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://uxdesign.cc/you-are-no-longer-the-user-you-are-the-principal-3a6222e0780a?source=rss----138adf9c44c---4"
+      "link": "https://www.creativebloq.com/3d/video-game-design/epics-unreal-engine-6-reveal-got-a-standing-ovation-but-not-everyones-happy"
+    },
+    {
+      "title": "Advanced Tree Counting: Mathematical Layouts With `sibling-index()` And `sibling-count()`",
+      "image": "http://files.smashing.media/articles/mathematical-layouts-sibling-index-sibling-count/mathematical-layouts-sibling-index-sibling-count.jpg",
+      "summary": "Meet `sibling-index()` and `sibling-count()`. Staggered cascade effect in one line of CSS without `:nth-child()` rules or JS workarounds. Works for 5 items or 5,000.",
+      "category": "Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://smashingmagazine.com/2026/05/mathematical-layouts-sibling-index-sibling-count/"
     }
   ]
 }
