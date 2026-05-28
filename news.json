@@ -1,32 +1,14 @@
 {
-  "lastUpdated": "2026-05-27T03:42:43.537Z",
+  "lastUpdated": "2026-05-28T03:32:10.754Z",
   "articles": [
     {
-      "title": "Product discovery’s quietest, most consequential decision",
+      "title": "The trust gap between AI and humans",
       "image": "https://placehold.co/600x400",
-      "summary": "Product discovery’s quietest, most consequential decision",
+      "summary": "How designers can save brilliant AI from dying in onboarding — before it’s too late.\nContinue reading on UX Collective »",
       "category": "UI/UX",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://uxdesign.cc/product-discoverys-quietest-most-consequential-decision-ea697471cf6f?source=rss----138adf9c44c---4"
-    },
-    {
-      "title": " The $10 gadget people swear by during hot weather is back on sale ",
-      "image": "https://cdn.mos.cms.futurecdn.net/2fEqdUEYLtFEXv8UNPeSbK-1280-80.jpg",
-      "summary": "These tiny rechargeable fans are surprisingly good in a heatwave.",
-      "category": "Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://www.creativebloq.com/tech/the-usd10-gadget-people-swear-by-during-hot-weather-is-back-on-sale"
-    },
-    {
-      "title": "The book cover as a relational object",
-      "image": "https://placehold.co/600x400",
-      "summary": "The book cover as a relational object",
-      "category": "Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://uxdesign.cc/the-book-cover-as-a-relational-object-288fb15deff1?source=rss----138adf9c44c---4"
+      "link": "https://uxdesign.cc/the-trust-gap-between-ai-and-humans-ccea4c503702?source=rss----138adf9c44c---4"
     },
     {
       "title": "Your Prototype Is Not Being Honest With Your Users (And Here’s How To Fix It)",
@@ -38,13 +20,13 @@
       "link": "https://smashingmagazine.com/2026/05/prototype-users-fix-protopie/"
     },
     {
-      "title": " On paper the new Sennheiser Momentum 5 looks like the perfect consumer headphone ",
-      "image": "https://cdn.mos.cms.futurecdn.net/fR72EhzHPKjhG4c46kFgYE-1280-80.jpg",
-      "summary": "We loved Sennheiser's value king Momentum 4 and its audiophile HDB 630 – is the Momentum 5 the best of both?",
+      "title": " This digital artist uses strong contrasts and expressive brushwork to create striking atmospheric scenes ",
+      "image": "https://cdn.mos.cms.futurecdn.net/G3ChqatTxGNPTHJ7umZYrV-1280-80.jpg",
+      "summary": "Check out the work of Raja Nandepu.",
       "category": "Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://www.creativebloq.com/tech/headphones-earbuds/on-paper-the-new-sennheiser-momentum-5-looks-like-the-perfect-consumer-headphone"
+      "link": "https://www.creativebloq.com/art/digital-art/this-digital-artist-uses-strong-contrasts-and-expressive-brushwork-to-create-striking-atmospheric-scenes"
     },
     {
       "title": "Four Levels Of Customer Understanding",
@@ -54,6 +36,24 @@
       "style": "Unknown",
       "mood": "Neutral",
       "link": "https://smashingmagazine.com/2026/05/four-levels-customer-understanding/"
+    },
+    {
+      "title": "We haven’t lost the battle for Empathy. Have we?",
+      "image": "https://placehold.co/600x400",
+      "summary": "A meditation on presence, AI, and the uncomfortable work of understanding people before we design for them.\nContinue reading on UX Collective »",
+      "category": "UI/UX",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://uxdesign.cc/we-havent-lost-the-battle-for-empathy-have-we-af31d1226da2?source=rss----138adf9c44c---4"
+    },
+    {
+      "title": " Mina the Hollower review: goes beyond a Game Boy Color Zelda homage ",
+      "image": "https://cdn.mos.cms.futurecdn.net/qNHMNZprMzY6VQiVd72KvV-1280-80.jpg",
+      "summary": "More Bloodborne than Link's Awakening, this is an ambitious retro-inspired indie you need to play.",
+      "category": "Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://www.creativebloq.com/entertainment/gaming/mina-the-hollower-review-goes-beyond-a-game-boy-color-zelda-homage"
     }
   ]
 }
