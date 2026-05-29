@@ -1,41 +1,23 @@
 {
-  "lastUpdated": "2026-05-28T03:32:10.754Z",
+  "lastUpdated": "2026-05-29T03:32:24.902Z",
   "articles": [
     {
-      "title": "The trust gap between AI and humans",
+      "title": " I've reviewed chairs that cost $2,000... I'd buy this $132 chair instead ",
+      "image": "https://cdn.mos.cms.futurecdn.net/TPZTC3rL9GFGWeLyC7iCDP-1280-80.jpg",
+      "summary": "These Black Friday deals are heating up!",
+      "category": "AI Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://www.creativebloq.com/tech/chairs-desks/ive-reviewed-chairs-that-cost-usd2-000-id-buy-this-usd132-chair-instead"
+    },
+    {
+      "title": "Designing for AI means designing like it’s 1999",
       "image": "https://placehold.co/600x400",
-      "summary": "How designers can save brilliant AI from dying in onboarding — before it’s too late.\nContinue reading on UX Collective »",
-      "category": "UI/UX",
+      "summary": "Designing for AI means designing like it’s 1999",
+      "category": "AI Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://uxdesign.cc/the-trust-gap-between-ai-and-humans-ccea4c503702?source=rss----138adf9c44c---4"
-    },
-    {
-      "title": "Your Prototype Is Not Being Honest With Your Users (And Here’s How To Fix It)",
-      "image": "http://files.smashing.media/articles/prototype-users-fix-protopie/prototype-users-fix-protopie.jpg",
-      "summary": "There’s a moment in almost every usability session where a participant pauses at the login screen, types something, and glances up: checking whether they’re “doing it right.” That pause is a clear sign. They’ve already clocked that this isn’t a real app, and every data point collected after that moment is filtered through that awareness.",
-      "category": "Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://smashingmagazine.com/2026/05/prototype-users-fix-protopie/"
-    },
-    {
-      "title": " This digital artist uses strong contrasts and expressive brushwork to create striking atmospheric scenes ",
-      "image": "https://cdn.mos.cms.futurecdn.net/G3ChqatTxGNPTHJ7umZYrV-1280-80.jpg",
-      "summary": "Check out the work of Raja Nandepu.",
-      "category": "Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://www.creativebloq.com/art/digital-art/this-digital-artist-uses-strong-contrasts-and-expressive-brushwork-to-create-striking-atmospheric-scenes"
-    },
-    {
-      "title": "Four Levels Of Customer Understanding",
-      "image": "http://files.smashing.media/articles/four-levels-customer-understanding/four-levels-customer-understanding.jpg",
-      "summary": "What people say, feel, think, and do are often very different things. To understand the underlying reasons for user behavior, it helps to look beyond the surface and explore hidden motivations, root causes, and the different layers of reality that shape how people act. Brought to you by Measuring UX Impact, **friendly video course on UX** and design patterns by Vitaly.",
-      "category": "UI/UX",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://smashingmagazine.com/2026/05/four-levels-customer-understanding/"
+      "link": "https://uxdesign.cc/designing-for-ai-means-designing-like-its-1999-da9c53d24644?source=rss----138adf9c44c---4"
     },
     {
       "title": "We haven’t lost the battle for Empathy. Have we?",
@@ -47,13 +29,31 @@
       "link": "https://uxdesign.cc/we-havent-lost-the-battle-for-empathy-have-we-af31d1226da2?source=rss----138adf9c44c---4"
     },
     {
-      "title": " Mina the Hollower review: goes beyond a Game Boy Color Zelda homage ",
-      "image": "https://cdn.mos.cms.futurecdn.net/qNHMNZprMzY6VQiVd72KvV-1280-80.jpg",
-      "summary": "More Bloodborne than Link's Awakening, this is an ambitious retro-inspired indie you need to play.",
+      "title": "Algorithmic Theming Engines: Building Self-Correcting Color Systems With `contrast-color()`",
+      "image": "http://files.smashing.media/articles/building-self-correcting-color-systems-contrast-color/building-self-correcting-color-systems-contrast-color.jpg",
+      "summary": "Seventy percent of websites still fail basic WCAG contrast checks in 2025. After years of design system tooling, accessibility linters, and JavaScript libraries, nothing moved the needle. We didn’t need better libraries. We needed better CSS. `contrast-color()` is that better CSS.",
+      "category": "UI/UX",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://smashingmagazine.com/2026/05/building-self-correcting-color-systems-contrast-color/"
+    },
+    {
+      "title": "Your Prototype Is Not Being Honest With Your Users (And Here’s How To Fix It)",
+      "image": "http://files.smashing.media/articles/prototype-users-fix-protopie/prototype-users-fix-protopie.jpg",
+      "summary": "There’s a moment in almost every usability session where a participant pauses at the login screen, types something, and glances up: checking whether they’re “doing it right.” That pause is a clear sign. They’ve already clocked that this isn’t a real app, and every data point collected after that moment is filtered through that awareness.",
       "category": "Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://www.creativebloq.com/entertainment/gaming/mina-the-hollower-review-goes-beyond-a-game-boy-color-zelda-homage"
+      "link": "https://smashingmagazine.com/2026/05/prototype-users-fix-protopie/"
+    },
+    {
+      "title": " Dear Apple: if your new icons need a manual, they're not working ",
+      "image": "https://cdn.mos.cms.futurecdn.net/78qmTgot7ADh6JsHVZ2nd5-1280-80.jpg",
+      "summary": "Apple's new suite of app icons come with an explainer guide.",
+      "category": "UI/UX",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://www.creativebloq.com/design/logos-icons/dear-apple-if-your-new-icons-need-a-manual-theyre-not-working"
     }
   ]
 }
