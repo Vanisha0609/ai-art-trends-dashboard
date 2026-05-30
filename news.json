@@ -1,14 +1,14 @@
 {
-  "lastUpdated": "2026-05-29T03:32:24.902Z",
+  "lastUpdated": "2026-05-30T02:58:10.723Z",
   "articles": [
     {
-      "title": " I've reviewed chairs that cost $2,000... I'd buy this $132 chair instead ",
-      "image": "https://cdn.mos.cms.futurecdn.net/TPZTC3rL9GFGWeLyC7iCDP-1280-80.jpg",
-      "summary": "These Black Friday deals are heating up!",
-      "category": "AI Design",
+      "title": "Algorithmic Theming Engines: Building Self-Correcting Color Systems With `contrast-color()`",
+      "image": "http://files.smashing.media/articles/building-self-correcting-color-systems-contrast-color/building-self-correcting-color-systems-contrast-color.jpg",
+      "summary": "Seventy percent of websites still fail basic WCAG contrast checks in 2025. After years of design system tooling, accessibility linters, and JavaScript libraries, nothing moved the needle. We didn’t need better libraries. We needed better CSS. `contrast-color()` is that better CSS.",
+      "category": "UI/UX",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://www.creativebloq.com/tech/chairs-desks/ive-reviewed-chairs-that-cost-usd2-000-id-buy-this-usd132-chair-instead"
+      "link": "https://smashingmagazine.com/2026/05/building-self-correcting-color-systems-contrast-color/"
     },
     {
       "title": "Designing for AI means designing like it’s 1999",
@@ -20,22 +20,22 @@
       "link": "https://uxdesign.cc/designing-for-ai-means-designing-like-its-1999-da9c53d24644?source=rss----138adf9c44c---4"
     },
     {
-      "title": "We haven’t lost the battle for Empathy. Have we?",
-      "image": "https://placehold.co/600x400",
-      "summary": "A meditation on presence, AI, and the uncomfortable work of understanding people before we design for them.\nContinue reading on UX Collective »",
+      "title": " This Tim Burton-esque Mexican stop-motion movie is finally coming to Netflix  ",
+      "image": "https://cdn.mos.cms.futurecdn.net/kx7hEkh7rP4PttLhyy8bx8-1280-80.webp",
+      "summary": "I Am Frankelda is a magical dark fantasy supported by Guillermo del Toro.",
       "category": "UI/UX",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://uxdesign.cc/we-havent-lost-the-battle-for-empathy-have-we-af31d1226da2?source=rss----138adf9c44c---4"
+      "link": "https://www.creativebloq.com/design/poster-design/this-tim-burton-esque-mexican-stop-motion-movie-is-finally-coming-to-netflix"
     },
     {
-      "title": "Algorithmic Theming Engines: Building Self-Correcting Color Systems With `contrast-color()`",
-      "image": "http://files.smashing.media/articles/building-self-correcting-color-systems-contrast-color/building-self-correcting-color-systems-contrast-color.jpg",
-      "summary": "Seventy percent of websites still fail basic WCAG contrast checks in 2025. After years of design system tooling, accessibility linters, and JavaScript libraries, nothing moved the needle. We didn’t need better libraries. We needed better CSS. `contrast-color()` is that better CSS.",
+      "title": " The Aful Performer 8S is pebble-smooth and luxurious (just ignore the marketing) ",
+      "image": "https://cdn.mos.cms.futurecdn.net/EF9XvcESvZSXLLnMTXqXha-1280-80.jpg",
+      "summary": "This audiophile earphone is sleek and exciting, bassy and rich in detail.",
       "category": "UI/UX",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://smashingmagazine.com/2026/05/building-self-correcting-color-systems-contrast-color/"
+      "link": "https://www.creativebloq.com/tech/headphones-earbuds/the-aful-performer-8s-is-pebble-smooth-and-luxurious-just-ignore-the-marketing"
     },
     {
       "title": "Your Prototype Is Not Being Honest With Your Users (And Here’s How To Fix It)",
@@ -47,13 +47,13 @@
       "link": "https://smashingmagazine.com/2026/05/prototype-users-fix-protopie/"
     },
     {
-      "title": " Dear Apple: if your new icons need a manual, they're not working ",
-      "image": "https://cdn.mos.cms.futurecdn.net/78qmTgot7ADh6JsHVZ2nd5-1280-80.jpg",
-      "summary": "Apple's new suite of app icons come with an explainer guide.",
+      "title": "How to help people who don’t read discover new features",
+      "image": "https://placehold.co/600x400",
+      "summary": "Writing discovery and onboarding content for “another” new feature, but this time it’s actually gonna get read.\nContinue reading on UX Collective »",
       "category": "UI/UX",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://www.creativebloq.com/design/logos-icons/dear-apple-if-your-new-icons-need-a-manual-theyre-not-working"
+      "link": "https://uxdesign.cc/how-to-help-people-who-dont-read-discover-new-features-310f88fd76cb?source=rss----138adf9c44c---4"
     }
   ]
 }
