@@ -1,14 +1,50 @@
 {
-  "lastUpdated": "2026-05-31T03:45:00.319Z",
+  "lastUpdated": "2026-06-01T03:59:15.007Z",
   "articles": [
     {
-      "title": "How to help people who don’t read discover new features",
+      "title": "AI Token Scarcity and Arcade Economics",
       "image": "https://placehold.co/600x400",
-      "summary": "Writing discovery and onboarding content for “another” new feature, but this time it’s actually gonna get read.\nContinue reading on UX Collective »",
+      "summary": "The rising cost of computing is prompting a reevaluation of designers' expectations.\nContinue reading on UX Collective »",
       "category": "UI/UX",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://uxdesign.cc/how-to-help-people-who-dont-read-discover-new-features-310f88fd76cb?source=rss----138adf9c44c---4"
+      "link": "https://uxdesign.cc/ai-token-scarcity-and-arcade-economics-5d6c0f2df3b5?source=rss----138adf9c44c---4"
+    },
+    {
+      "title": "Who is your content actually for?",
+      "image": "https://placehold.co/600x400",
+      "summary": "Who is your content actually for?",
+      "category": "Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://uxdesign.cc/who-is-your-content-actually-for-c9e40cca3d75?source=rss----138adf9c44c---4"
+    },
+    {
+      "title": " \"I didn't set out to prove a point. I just wanted to make beautiful work\": 5 questions with Alice Sheriff ",
+      "image": "https://cdn.mos.cms.futurecdn.net/SkzCYhZ8eJqcym9atWrnGg-1280-80.jpg",
+      "summary": "Black Rabbit London's managing director discusses creative pet peeves and the value of care.",
+      "category": "Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://www.creativebloq.com/professional-development/creative-careers/i-didnt-set-out-to-prove-a-point-i-just-wanted-to-make-beautiful-work-5-questions-with-alice-sheriff"
+    },
+    {
+      "title": "June Is For Exploring (2026 Wallpapers Edition)",
+      "image": "http://files.smashing.media/articles/desktop-wallpaper-calendars-june-2026/jun-26-drifting-into-june-preview-opt.png",
+      "summary": "Let’s kick off June — and the beginning of summer — with some fresh inspiration! Artists and designers from across the globe once again tickled their creativity to welcome the new month with a new collection of desktop wallpapers. Enjoy!",
+      "category": "AI Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://smashingmagazine.com/2026/05/desktop-wallpaper-calendars-june-2026/"
+    },
+    {
+      "title": " This incredibly lifelike 3D character design blends Netflix inspiration with real history ",
+      "image": "https://cdn.mos.cms.futurecdn.net/kUaMSdFrRxaG2CCXaLDHXa-1280-80.jpg",
+      "summary": "The detail in this 3D character’s hair and costume is unreal.",
+      "category": "AI Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://www.creativebloq.com/3d/3d-art/this-incredibly-lifelike-3d-character-design-blends-netflix-inspiration-with-real-history"
     },
     {
       "title": "Algorithmic Theming Engines: Building Self-Correcting Color Systems With `contrast-color()`",
@@ -18,42 +54,6 @@
       "style": "Unknown",
       "mood": "Neutral",
       "link": "https://smashingmagazine.com/2026/05/building-self-correcting-color-systems-contrast-color/"
-    },
-    {
-      "title": " AI Hideo Kojima wears Prada in controversial sci-fi campaign ",
-      "image": "https://cdn.mos.cms.futurecdn.net/4jskbL82ag3tiCpt6QPHRG-1280-80.jpg",
-      "summary": "With retro vibes and a ridiculous kaiju, what is the game designer saying about AI?",
-      "category": "AI Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://www.creativebloq.com/design/advertising/ai-hideo-kojima-wears-prada-in-controversial-sci-fi-campaign"
-    },
-    {
-      "title": "Your Prototype Is Not Being Honest With Your Users (And Here’s How To Fix It)",
-      "image": "http://files.smashing.media/articles/prototype-users-fix-protopie/prototype-users-fix-protopie.jpg",
-      "summary": "There’s a moment in almost every usability session where a participant pauses at the login screen, types something, and glances up: checking whether they’re “doing it right.” That pause is a clear sign. They’ve already clocked that this isn’t a real app, and every data point collected after that moment is filtered through that awareness.",
-      "category": "Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://smashingmagazine.com/2026/05/prototype-users-fix-protopie/"
-    },
-    {
-      "title": "Designing for AI means designing like it’s 1999",
-      "image": "https://placehold.co/600x400",
-      "summary": "Designing for AI means designing like it’s 1999",
-      "category": "AI Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://uxdesign.cc/designing-for-ai-means-designing-like-its-1999-da9c53d24644?source=rss----138adf9c44c---4"
-    },
-    {
-      "title": " These slick FIFA World Cup posters are works of art ",
-      "image": "https://cdn.mos.cms.futurecdn.net/hRWUkny7CVpwfGFSCrUgna-1280-80.jpg",
-      "summary": "They bring a whole new meaning to the beautiful game.",
-      "category": "Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://www.creativebloq.com/design/poster-design/these-slick-fifa-world-cup-posters-are-a-work-of-art"
     }
   ]
 }
