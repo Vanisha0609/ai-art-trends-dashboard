@@ -1,15 +1,6 @@
 {
-  "lastUpdated": "2026-06-02T03:54:45.405Z",
+  "lastUpdated": "2026-06-03T04:01:37.202Z",
   "articles": [
-    {
-      "title": " Download resources for ImagineFX 267 ",
-      "image": "https://cdn.mos.cms.futurecdn.net/Jycv27azhLfpDnDmJm6yq8-1280-80.jpg",
-      "summary": "All the files, resources and videos to accompany issue 267 of ImagineFX magazine.",
-      "category": "Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://www.creativebloq.com/design/magazines/download-resources-for-imaginefx-267"
-    },
     {
       "title": "Algorithmic Theming Engines: Building Self-Correcting Color Systems With `contrast-color()`",
       "image": "http://files.smashing.media/articles/building-self-correcting-color-systems-contrast-color/building-self-correcting-color-systems-contrast-color.jpg",
@@ -20,31 +11,40 @@
       "link": "https://smashingmagazine.com/2026/05/building-self-correcting-color-systems-contrast-color/"
     },
     {
-      "title": "AI meets Sturgeon’s Law",
-      "image": "https://placehold.co/600x400",
-      "summary": "Why does more content not mean more quality\nContinue reading on UX Collective »",
-      "category": "UI/UX",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://uxdesign.cc/ai-meets-sturgeons-law-21d17488fc48?source=rss----138adf9c44c---4"
-    },
-    {
-      "title": " Explore the dark arts of Maul: Shadow Lord with issue 267 of ImagineFX ",
-      "image": "https://cdn.mos.cms.futurecdn.net/Jycv27azhLfpDnDmJm6yq8-1280-80.jpg",
-      "summary": "Practical inspiration for your art projects",
+      "title": " This Van Gogh-inspired laptop breaks every PC design convention ",
+      "image": "https://cdn.mos.cms.futurecdn.net/jXdW7fhWPQCM5SijXp7CcM-1280-80.jpg",
+      "summary": "Why I love MSI's newest Artisan Collection laptop.",
       "category": "Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://www.creativebloq.com/professional-development/artistic-tips-techniques/explore-the-dark-arts-of-maul-shadow-lord-with-issue-267-of-imaginefx"
+      "link": "https://www.creativebloq.com/tech/laptops/this-van-gogh-inspired-laptop-breaks-every-pc-design-convention"
     },
     {
-      "title": "Foreman, guardian, team builder: all this is a box",
+      "title": " Will Nvidia RTX Spark laptops end the Mac vs Windows debate for creatives? ",
+      "image": "https://cdn.mos.cms.futurecdn.net/zgp3duhYR75f6ZYRzdrk88-1280-80.jpg",
+      "summary": "Powerful new laptops from Asus, Dell and Microsoft could be game changers – at a price.",
+      "category": "Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://www.creativebloq.com/tech/laptops/will-nvidia-rtx-spark-laptops-end-the-mac-vs-windows-debate-for-creatives"
+    },
+    {
+      "title": "The most important part of building your taste is to hand it off",
       "image": "https://placehold.co/600x400",
-      "summary": "On a moving company’s box, and the long reach of a few quiet decisions\nContinue reading on UX Collective »",
+      "summary": "What having taste trapped in your head costs you and your team\nContinue reading on UX Collective »",
       "category": "UI/UX",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://uxdesign.cc/foreman-guardian-team-builder-all-this-is-a-box-7d1119af30ba?source=rss----138adf9c44c---4"
+      "link": "https://uxdesign.cc/the-most-important-part-of-building-your-taste-is-to-hand-it-off-be91aeac65d9?source=rss----138adf9c44c---4"
+    },
+    {
+      "title": "AI-created document fatigue: how I designed my way out of it",
+      "image": "https://placehold.co/600x400",
+      "summary": "AI-created document fatigue: how I designed my way out of it",
+      "category": "AI Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://uxdesign.cc/ai-created-document-fatigue-how-i-designed-my-way-out-of-it-1fcd4a565669?source=rss----138adf9c44c---4"
     },
     {
       "title": "June Is For Exploring (2026 Wallpapers Edition)",
