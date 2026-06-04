@@ -1,32 +1,14 @@
 {
-  "lastUpdated": "2026-06-03T04:01:37.202Z",
+  "lastUpdated": "2026-06-04T03:56:32.511Z",
   "articles": [
     {
-      "title": "Algorithmic Theming Engines: Building Self-Correcting Color Systems With `contrast-color()`",
-      "image": "http://files.smashing.media/articles/building-self-correcting-color-systems-contrast-color/building-self-correcting-color-systems-contrast-color.jpg",
-      "summary": "Seventy percent of websites still fail basic WCAG contrast checks in 2025. After years of design system tooling, accessibility linters, and JavaScript libraries, nothing moved the needle. We didn’t need better libraries. We needed better CSS. `contrast-color()` is that better CSS.",
-      "category": "UI/UX",
+      "title": "AI-created document fatigue: how I designed my way out of it",
+      "image": "https://placehold.co/600x400",
+      "summary": "AI-created document fatigue: how I designed my way out of it",
+      "category": "AI Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://smashingmagazine.com/2026/05/building-self-correcting-color-systems-contrast-color/"
-    },
-    {
-      "title": " This Van Gogh-inspired laptop breaks every PC design convention ",
-      "image": "https://cdn.mos.cms.futurecdn.net/jXdW7fhWPQCM5SijXp7CcM-1280-80.jpg",
-      "summary": "Why I love MSI's newest Artisan Collection laptop.",
-      "category": "Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://www.creativebloq.com/tech/laptops/this-van-gogh-inspired-laptop-breaks-every-pc-design-convention"
-    },
-    {
-      "title": " Will Nvidia RTX Spark laptops end the Mac vs Windows debate for creatives? ",
-      "image": "https://cdn.mos.cms.futurecdn.net/zgp3duhYR75f6ZYRzdrk88-1280-80.jpg",
-      "summary": "Powerful new laptops from Asus, Dell and Microsoft could be game changers – at a price.",
-      "category": "Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://www.creativebloq.com/tech/laptops/will-nvidia-rtx-spark-laptops-end-the-mac-vs-windows-debate-for-creatives"
+      "link": "https://uxdesign.cc/ai-created-document-fatigue-how-i-designed-my-way-out-of-it-1fcd4a565669?source=rss----138adf9c44c---4"
     },
     {
       "title": "The most important part of building your taste is to hand it off",
@@ -38,13 +20,31 @@
       "link": "https://uxdesign.cc/the-most-important-part-of-building-your-taste-is-to-hand-it-off-be91aeac65d9?source=rss----138adf9c44c---4"
     },
     {
-      "title": "AI-created document fatigue: how I designed my way out of it",
-      "image": "https://placehold.co/600x400",
-      "summary": "AI-created document fatigue: how I designed my way out of it",
+      "title": "How To Make Your Design System AI-Ready",
+      "image": "http://files.smashing.media/articles/how-make-design-system-ai-ready/how-make-design-system-ai-ready.jpg",
+      "summary": "Practical guide on how to reduce drifts, minimize mistakes, maintain context, and improve the quality of AI-generated prototypes. Brought to you by Design Patterns For AI Interfaces, **friendly video course on UX** and design patterns by Vitaly.",
+      "category": "UI/UX",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://smashingmagazine.com/2026/06/how-make-design-system-ai-ready/"
+    },
+    {
+      "title": " Those Toy Story 5 plagiarism accusations explained ",
+      "image": "https://cdn.mos.cms.futurecdn.net/VeD85LJbtbdkuCKNMmECR6-1280-80.jpg",
+      "summary": "Bad Bunny's Pizza with Sunglasses is already causing controversy.",
       "category": "AI Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://uxdesign.cc/ai-created-document-fatigue-how-i-designed-my-way-out-of-it-1fcd4a565669?source=rss----138adf9c44c---4"
+      "link": "https://www.creativebloq.com/entertainment/movies-tv-shows/those-toy-story-5-plagiarism-accusations-explained"
+    },
+    {
+      "title": " The Brand Impact Awards 2026 are officially open for entries ",
+      "image": "https://cdn.mos.cms.futurecdn.net/Xa5ePhGEuGUrW9B3KVyuAP-1280-80.jpg",
+      "summary": "The prestigious branding awards scheme is back for its 13th year (lucky for some!).",
+      "category": "Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://www.creativebloq.com/design/branding/the-brand-impact-awards-2026-are-officially-open-for-entries"
     },
     {
       "title": "June Is For Exploring (2026 Wallpapers Edition)",
