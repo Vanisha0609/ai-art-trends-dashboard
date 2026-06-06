@@ -1,14 +1,23 @@
 {
-  "lastUpdated": "2026-06-05T03:40:23.621Z",
+  "lastUpdated": "2026-06-06T03:25:01.459Z",
   "articles": [
     {
-      "title": " I take back everything I said about the PS5 DualSense controller – especially now it's 30% off ",
-      "image": "https://cdn.mos.cms.futurecdn.net/gDNCMVz5Qdg2MS3FvZXWnP-1280-80.jpg",
-      "summary": "You can save $20 on the controller right now.",
-      "category": "AI Design",
+      "title": " Honor's new top smartphone gives an iOS experience and is £200 off right now ",
+      "image": "https://cdn.mos.cms.futurecdn.net/b6UywvwgmkY7vbjsDz4gwK-1280-80.jpg",
+      "summary": "Huge savings on the 600 and 600 Pro make flagship specs affordable to all.",
+      "category": "Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://www.creativebloq.com/design/product-design/i-take-back-everything-i-said-about-the-ps5-dualsense-controller-especially-now-its-30-percent-off"
+      "link": "https://www.creativebloq.com/tech/phones-tablets/honors-new-top-smartphone-gives-an-ios-experience-and-is-gbp200-off-right-now"
+    },
+    {
+      "title": " Are junior creative roles really disappearing? ",
+      "image": "https://cdn.mos.cms.futurecdn.net/LnXpi4EWxteKnsxrTeGD4b-1280-80.jpg",
+      "summary": "What does entry-level talent mean in 2026?",
+      "category": "Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://www.creativebloq.com/professional-development/creative-careers/are-junior-creative-roles-really-disappearing"
     },
     {
       "title": "June Is For Exploring (2026 Wallpapers Edition)",
@@ -20,33 +29,6 @@
       "link": "https://smashingmagazine.com/2026/05/desktop-wallpaper-calendars-june-2026/"
     },
     {
-      "title": " The most popular iPad is back down to a record low price ahead of Prime Day ",
-      "image": "https://cdn.mos.cms.futurecdn.net/jbGqtnkywYZZcbPUHysZ3K-1280-80.jpg",
-      "summary": "The 128GB, wi-fi only model is down from $349 to $299.",
-      "category": "Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://www.creativebloq.com/tech/phones-tablets/the-most-popular-ipad-is-back-down-to-its-record-low-price-ahead-of-prime-day"
-    },
-    {
-      "title": "AI-created document fatigue: how I designed my way out of it",
-      "image": "https://placehold.co/600x400",
-      "summary": "AI-created document fatigue: how I designed my way out of it",
-      "category": "AI Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://uxdesign.cc/ai-created-document-fatigue-how-i-designed-my-way-out-of-it-1fcd4a565669?source=rss----138adf9c44c---4"
-    },
-    {
-      "title": "The rhetorical mask of innovation",
-      "image": "https://placehold.co/600x400",
-      "summary": "The rhetorical mask of innovation",
-      "category": "Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://uxdesign.cc/the-rhetorical-mask-of-innovation-12f3abcd6120?source=rss----138adf9c44c---4"
-    },
-    {
       "title": "How To Make Your Design System AI-Ready",
       "image": "http://files.smashing.media/articles/how-make-design-system-ai-ready/how-make-design-system-ai-ready.jpg",
       "summary": "Practical guide on how to reduce drifts, minimize mistakes, maintain context, and improve the quality of AI-generated prototypes. Brought to you by Design Patterns For AI Interfaces, **friendly video course on UX** and design patterns by Vitaly.",
@@ -54,6 +36,24 @@
       "style": "Unknown",
       "mood": "Neutral",
       "link": "https://smashingmagazine.com/2026/06/how-make-design-system-ai-ready/"
+    },
+    {
+      "title": "Design’s alive and kicking. It just got some flashy new names.",
+      "image": "https://placehold.co/600x400",
+      "summary": "Design’s alive and kicking. It just got some flashy new names.",
+      "category": "Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://uxdesign.cc/designs-alive-and-kicking-it-just-got-some-flashy-new-names-779b4503c869?source=rss----138adf9c44c---4"
+    },
+    {
+      "title": "Designing for care, not growth",
+      "image": "https://placehold.co/600x400",
+      "summary": "Designing for care, not growth",
+      "category": "Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://uxdesign.cc/designing-for-care-not-growth-274d460f968c?source=rss----138adf9c44c---4"
     }
   ]
 }
