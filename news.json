@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2026-06-10T03:38:14.639Z",
+  "lastUpdated": "2026-06-11T03:54:53.308Z",
   "articles": [
+    {
+      "title": "The Benefits Of Cognitive Inclusion In UX Research",
+      "image": "http://files.smashing.media/articles/benefits-cognitive-inclusion-ux-research/benefits-cognitive-inclusion-ux-research.jpg",
+      "summary": "Findings from an exploratory user research study highlighting the unique insights and practical UX recommendations shared by participants with cognitive disabilities.",
+      "category": "UI/UX",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://smashingmagazine.com/2026/06/benefits-cognitive-inclusion-ux-research/"
+    },
+    {
+      "title": " New Universal Music logo strikes all the right chords ",
+      "image": "https://cdn.mos.cms.futurecdn.net/KogBn6ToWfCmBbiDaJxxyX-1280-80.jpg",
+      "summary": "It’s a harmonious new look for the Publishing Group.",
+      "category": "Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://www.creativebloq.com/design/new-universal-music-rebrand-strikes-all-the-right-chords"
+    },
+    {
+      "title": "What you count is what they feel",
+      "image": "https://placehold.co/600x400",
+      "summary": "What a Jakarta city bus taught me about where experience is really made, and why no designer drew it.\nContinue reading on UX Collective »",
+      "category": "UI/UX",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://uxdesign.cc/what-you-count-is-what-they-feel-2455e76682e0?source=rss----138adf9c44c---4"
+    },
+    {
+      "title": "Liquid Glass: who gets to decide how an interface looks?",
+      "image": "https://placehold.co/600x400",
+      "summary": "Notes from the 2026 WWDC keynote\nContinue reading on UX Collective »",
+      "category": "UI/UX",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://uxdesign.cc/liquid-glass-who-gets-to-decide-how-an-interface-looks-a0abe75ae21e?source=rss----138adf9c44c---4"
+    },
+    {
+      "title": " The Toy Story 5 x Porsche collab feels like a grown-up Hot Wheels fantasy come to life ",
+      "image": "https://cdn.mos.cms.futurecdn.net/2M6aSY63LzHCeNw5UHJB45-1280-80.jpg",
+      "summary": "The Buzz, Jessie and Woody cars are stunningly detailed and a  joy to explore.",
+      "category": "AI Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://www.creativebloq.com/design/branding/this-toy-story-5-collab-is-like-if-pixar-and-porsche-had-a-seriously-stylish-grown-up-baby"
+    },
     {
       "title": "How To Make Your Design System AI-Ready",
       "image": "http://files.smashing.media/articles/how-make-design-system-ai-ready/how-make-design-system-ai-ready.jpg",
@@ -9,51 +54,6 @@
       "style": "Unknown",
       "mood": "Neutral",
       "link": "https://smashingmagazine.com/2026/06/how-make-design-system-ai-ready/"
-    },
-    {
-      "title": " I'm buying myself a Nintendo Switch 2 because of The Duskbloods ",
-      "image": "https://cdn.mos.cms.futurecdn.net/cGkczoqHQtkyb7G55YF7T7-1280-80.jpg",
-      "summary": "It's not on sale, but after a year of waiting, I finally need one.",
-      "category": "AI Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://www.creativebloq.com/entertainment/gaming/im-buying-myself-a-nintendo-switch-2-because-of-the-duskbloods"
-    },
-    {
-      "title": " Nostalgic anniversary console shows where Xbox went wrong ",
-      "image": "https://cdn.mos.cms.futurecdn.net/kaCEHuazEqvgLUryZ5BBP-1280-80.jpg",
-      "summary": "Fans' reactions show the brand needed to bring back the emotion.",
-      "category": "Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://www.creativebloq.com/entertainment/gaming/nostalgic-anniversary-console-shows-where-xbox-went-wrong"
-    },
-    {
-      "title": "Should you really give AI your whole digital life?",
-      "image": "https://placehold.co/600x400",
-      "summary": "You’ve felt it, haven’t you? That tiny pause.\nContinue reading on UX Collective »",
-      "category": "UI/UX",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://uxdesign.cc/should-you-really-give-ai-your-whole-digital-life-9b0c55df46e2?source=rss----138adf9c44c---4"
-    },
-    {
-      "title": "Dieter Rams avoids computers. His ten rules still fit designing for AI.",
-      "image": "https://placehold.co/600x400",
-      "summary": "Dieter Rams avoids computers. His ten rules still fit designing for AI.",
-      "category": "AI Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://uxdesign.cc/dieter-rams-avoids-computers-his-ten-rules-still-fit-designing-for-ai-499229fd049e?source=rss----138adf9c44c---4"
-    },
-    {
-      "title": "June Is For Exploring (2026 Wallpapers Edition)",
-      "image": "http://files.smashing.media/articles/desktop-wallpaper-calendars-june-2026/jun-26-drifting-into-june-preview-opt.png",
-      "summary": "Let’s kick off June — and the beginning of summer — with some fresh inspiration! Artists and designers from across the globe once again tickled their creativity to welcome the new month with a new collection of desktop wallpapers. Enjoy!",
-      "category": "AI Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://smashingmagazine.com/2026/05/desktop-wallpaper-calendars-june-2026/"
     }
   ]
 }
