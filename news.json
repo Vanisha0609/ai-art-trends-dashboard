@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-11T03:54:53.308Z",
+  "lastUpdated": "2026-06-12T03:54:03.097Z",
   "articles": [
     {
       "title": "The Benefits Of Cognitive Inclusion In UX Research",
@@ -11,40 +11,22 @@
       "link": "https://smashingmagazine.com/2026/06/benefits-cognitive-inclusion-ux-research/"
     },
     {
-      "title": " New Universal Music logo strikes all the right chords ",
-      "image": "https://cdn.mos.cms.futurecdn.net/KogBn6ToWfCmBbiDaJxxyX-1280-80.jpg",
-      "summary": "It’s a harmonious new look for the Publishing Group.",
+      "title": " 'When you strip out culture, you get a hollow brand’: why India is killing the design game ",
+      "image": "https://cdn.mos.cms.futurecdn.net/tb9tDhxuuhgBXCpWhz8myb-1280-80.jpg",
+      "summary": "Mother Tongue’s Shruti Singhi discusses the danger of neutral branding and the value of authenticity.",
       "category": "Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://www.creativebloq.com/design/new-universal-music-rebrand-strikes-all-the-right-chords"
+      "link": "https://www.creativebloq.com/design/branding/when-you-strip-out-culture-you-get-a-hollow-brand-why-india-is-killing-the-design-game"
     },
     {
-      "title": "What you count is what they feel",
-      "image": "https://placehold.co/600x400",
-      "summary": "What a Jakarta city bus taught me about where experience is really made, and why no designer drew it.\nContinue reading on UX Collective »",
-      "category": "UI/UX",
+      "title": " The creative trends defining World Cup advertising ",
+      "image": "https://cdn.mos.cms.futurecdn.net/MgHRbBhir4bVzd8f9jMLZH-1280-80.jpg",
+      "summary": "Football legends, Hollywood stars, and fan culture are dominating early World Cup creative, but the smartest brands know celebrity alone won't be enough.",
+      "category": "Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://uxdesign.cc/what-you-count-is-what-they-feel-2455e76682e0?source=rss----138adf9c44c---4"
-    },
-    {
-      "title": "Liquid Glass: who gets to decide how an interface looks?",
-      "image": "https://placehold.co/600x400",
-      "summary": "Notes from the 2026 WWDC keynote\nContinue reading on UX Collective »",
-      "category": "UI/UX",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://uxdesign.cc/liquid-glass-who-gets-to-decide-how-an-interface-looks-a0abe75ae21e?source=rss----138adf9c44c---4"
-    },
-    {
-      "title": " The Toy Story 5 x Porsche collab feels like a grown-up Hot Wheels fantasy come to life ",
-      "image": "https://cdn.mos.cms.futurecdn.net/2M6aSY63LzHCeNw5UHJB45-1280-80.jpg",
-      "summary": "The Buzz, Jessie and Woody cars are stunningly detailed and a  joy to explore.",
-      "category": "AI Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://www.creativebloq.com/design/branding/this-toy-story-5-collab-is-like-if-pixar-and-porsche-had-a-seriously-stylish-grown-up-baby"
+      "link": "https://www.creativebloq.com/design/advertising/the-creative-trends-defining-world-cup-advertising"
     },
     {
       "title": "How To Make Your Design System AI-Ready",
@@ -54,6 +36,24 @@
       "style": "Unknown",
       "mood": "Neutral",
       "link": "https://smashingmagazine.com/2026/06/how-make-design-system-ai-ready/"
+    },
+    {
+      "title": "Design for pain: how to make the worst moment better",
+      "image": "https://placehold.co/600x400",
+      "summary": "Design for pain: how to make the worst moment better",
+      "category": "AI Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://uxdesign.cc/design-for-pain-how-to-make-the-worst-moment-better-7b1a54a7dd7d?source=rss----138adf9c44c---4"
+    },
+    {
+      "title": "We stopped clicking, and AI became the Internet",
+      "image": "https://placehold.co/600x400",
+      "summary": "We stopped clicking, and AI became the Internet",
+      "category": "AI Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://uxdesign.cc/we-stopped-clicking-and-ai-became-the-internet-df61a0c79d91?source=rss----138adf9c44c---4"
     }
   ]
 }
