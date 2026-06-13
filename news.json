@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2026-06-12T03:54:03.097Z",
+  "lastUpdated": "2026-06-13T03:38:31.299Z",
   "articles": [
+    {
+      "title": "We stopped clicking, and AI became the Internet",
+      "image": "https://placehold.co/600x400",
+      "summary": "We stopped clicking, and AI became the Internet",
+      "category": "AI Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://uxdesign.cc/we-stopped-clicking-and-ai-became-the-internet-df61a0c79d91?source=rss----138adf9c44c---4"
+    },
+    {
+      "title": " Looking for new earphones? Linsoul just unleashed the mother of all summer sales ",
+      "image": "https://cdn.mos.cms.futurecdn.net/Dt5ukgoKMAF9dzRnTgYaxN-1280-80.jpg",
+      "summary": "There's 10% off absolutely everything, including my favourite $32 IEMs!",
+      "category": "Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://www.creativebloq.com/design/product-design/looking-for-new-earphones-linsoul-just-unleashed-the-mother-of-all-summer-sales"
+    },
+    {
+      "title": " Cricut Weddings author reveals top DIY trends (and what to avoid) ",
+      "image": "https://cdn.mos.cms.futurecdn.net/q52j7pVdLgotK5bHp5U4qP-1280-80.jpg",
+      "summary": "Nostalgia and playful maximalism are all in, shares wedding expert Chelsea Barton.",
+      "category": "Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://www.creativebloq.com/creative-inspiration/digital-crafting/cricut-weddings-author-reveals-top-diy-trends-and-what-to-avoid"
+    },
     {
       "title": "The Benefits Of Cognitive Inclusion In UX Research",
       "image": "http://files.smashing.media/articles/benefits-cognitive-inclusion-ux-research/benefits-cognitive-inclusion-ux-research.jpg",
@@ -11,31 +38,13 @@
       "link": "https://smashingmagazine.com/2026/06/benefits-cognitive-inclusion-ux-research/"
     },
     {
-      "title": " 'When you strip out culture, you get a hollow brand’: why India is killing the design game ",
-      "image": "https://cdn.mos.cms.futurecdn.net/tb9tDhxuuhgBXCpWhz8myb-1280-80.jpg",
-      "summary": "Mother Tongue’s Shruti Singhi discusses the danger of neutral branding and the value of authenticity.",
-      "category": "Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://www.creativebloq.com/design/branding/when-you-strip-out-culture-you-get-a-hollow-brand-why-india-is-killing-the-design-game"
-    },
-    {
-      "title": " The creative trends defining World Cup advertising ",
-      "image": "https://cdn.mos.cms.futurecdn.net/MgHRbBhir4bVzd8f9jMLZH-1280-80.jpg",
-      "summary": "Football legends, Hollywood stars, and fan culture are dominating early World Cup creative, but the smartest brands know celebrity alone won't be enough.",
-      "category": "Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://www.creativebloq.com/design/advertising/the-creative-trends-defining-world-cup-advertising"
-    },
-    {
-      "title": "How To Make Your Design System AI-Ready",
-      "image": "http://files.smashing.media/articles/how-make-design-system-ai-ready/how-make-design-system-ai-ready.jpg",
-      "summary": "Practical guide on how to reduce drifts, minimize mistakes, maintain context, and improve the quality of AI-generated prototypes. Brought to you by Design Patterns For AI Interfaces, **friendly video course on UX** and design patterns by Vitaly.",
+      "title": "The Impact Of Humanoid Robots On Humanity",
+      "image": "http://files.smashing.media/articles/impact-humanoid-robots-humanity/impact-humanoid-robots-humanity.jpg",
+      "summary": "We have officially moved past the era of humanoid robots as mere public relations stunts. As they become increasingly lifelike, society may soon face profound social, psychological, and ethical challenges. What happens when the boundary between humans and machines becomes almost impossible to distinguish?",
       "category": "UI/UX",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://smashingmagazine.com/2026/06/how-make-design-system-ai-ready/"
+      "link": "https://smashingmagazine.com/2026/06/impact-humanoid-robots-humanity/"
     },
     {
       "title": "Design for pain: how to make the worst moment better",
@@ -45,15 +54,6 @@
       "style": "Unknown",
       "mood": "Neutral",
       "link": "https://uxdesign.cc/design-for-pain-how-to-make-the-worst-moment-better-7b1a54a7dd7d?source=rss----138adf9c44c---4"
-    },
-    {
-      "title": "We stopped clicking, and AI became the Internet",
-      "image": "https://placehold.co/600x400",
-      "summary": "We stopped clicking, and AI became the Internet",
-      "category": "AI Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://uxdesign.cc/we-stopped-clicking-and-ai-became-the-internet-df61a0c79d91?source=rss----138adf9c44c---4"
     }
   ]
 }
