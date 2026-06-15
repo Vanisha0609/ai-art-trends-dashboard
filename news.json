@@ -1,41 +1,23 @@
 {
-  "lastUpdated": "2026-06-14T03:59:59.729Z",
+  "lastUpdated": "2026-06-15T04:12:33.942Z",
   "articles": [
     {
-      "title": "What it really feels like to be a digital accessibility advocate",
-      "image": "https://placehold.co/600x400",
-      "summary": "Why the quietest voice in the room is the one that can save your company from a multimillion-dollar lawsuit, a shattered brand reputation…\nContinue reading on UX Collective »",
-      "category": "UI/UX",
+      "title": " How Fumito Ueda, Mirror’s Edge and Blame! influenced Motorslice's surreal industrial world ",
+      "image": "https://cdn.mos.cms.futurecdn.net/B9nv8hGDZiWdRaQGbxt9qH-1280-80.jpg",
+      "summary": "How a two-person indie dev crafted a vast, interconnected world by hand.",
+      "category": "Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://uxdesign.cc/what-it-really-feels-like-to-be-a-digital-accessibility-advocate-07afc7e1d16f?source=rss----138adf9c44c---4"
+      "link": "https://www.creativebloq.com/3d/video-game-design/how-fumito-ueda-mirrors-edge-and-blame-influenced-motorslices-surreal-industrial-world"
     },
     {
-      "title": "A shortlist of one: how AI became our shopping adviser",
-      "image": "https://placehold.co/600x400",
-      "summary": "A shortlist of one: how AI became our shopping adviser",
-      "category": "AI Design",
+      "title": " What do you mean Photoshop used to come on a disk? ",
+      "image": "https://cdn.mos.cms.futurecdn.net/k5vuQ4d4LE2EsR2VSAaS5o-1280-80.jpg",
+      "summary": "Consider this my official apology to my colleagues for making them feel old.",
+      "category": "Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://uxdesign.cc/a-shortlist-of-one-how-ai-became-our-shopping-adviser-d55f43c411db?source=rss----138adf9c44c---4"
-    },
-    {
-      "title": "The Impact Of Humanoid Robots On Humanity",
-      "image": "http://files.smashing.media/articles/impact-humanoid-robots-humanity/impact-humanoid-robots-humanity.jpg",
-      "summary": "We have officially moved past the era of humanoid robots as mere public relations stunts. As they become increasingly lifelike, society may soon face profound social, psychological, and ethical challenges. What happens when the boundary between humans and machines becomes almost impossible to distinguish?",
-      "category": "UI/UX",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://smashingmagazine.com/2026/06/impact-humanoid-robots-humanity/"
-    },
-    {
-      "title": " Bag these Beats Studio Pro headphones for over half price while you can ",
-      "image": "https://cdn.mos.cms.futurecdn.net/TRZqxC97RzZ9yyC39Mo5UL-1280-80.png",
-      "summary": "They're a great AirPods Max 2 alternative for creatives on a tighter budget.",
-      "category": "AI Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://www.creativebloq.com/tech/headphones-earbuds/bag-these-beats-studio-pro-headphones-for-over-half-price-while-you-can"
+      "link": "https://www.creativebloq.com/design/design-software/what-do-you-mean-photoshop-used-to-come-on-a-disk"
     },
     {
       "title": "The Benefits Of Cognitive Inclusion In UX Research",
@@ -47,13 +29,31 @@
       "link": "https://smashingmagazine.com/2026/06/benefits-cognitive-inclusion-ux-research/"
     },
     {
-      "title": " 'Show people you care if you want them to care about you': 5 questions with Anna Öhrling ",
-      "image": "https://cdn.mos.cms.futurecdn.net/9f9YWWeNj2tZEArcTkdWre-1280-80.jpg",
-      "summary": "Onward's CEO discusses sustainability with purpose and the strength to be found in embracing change.",
-      "category": "AI Design",
+      "title": "The Impact Of Humanoid Robots On Humanity",
+      "image": "http://files.smashing.media/articles/impact-humanoid-robots-humanity/impact-humanoid-robots-humanity.jpg",
+      "summary": "We have officially moved past the era of humanoid robots as mere public relations stunts. As they become increasingly lifelike, society may soon face profound social, psychological, and ethical challenges. What happens when the boundary between humans and machines becomes almost impossible to distinguish?",
+      "category": "UI/UX",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://www.creativebloq.com/professional-development/creative-careers/show-people-you-care-if-you-want-them-to-care-about-you-5-questions-with-anna-ohrling"
+      "link": "https://smashingmagazine.com/2026/06/impact-humanoid-robots-humanity/"
+    },
+    {
+      "title": "Access is not mastery",
+      "image": "https://placehold.co/600x400",
+      "summary": "The GUI democratized computing. The prompt interface democratized the GUI.\nContinue reading on UX Collective »",
+      "category": "UI/UX",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://uxdesign.cc/access-is-not-mastery-bd59e0610828?source=rss----138adf9c44c---4"
+    },
+    {
+      "title": "How difficult could it be to design a chatbot?",
+      "image": "https://placehold.co/600x400",
+      "summary": "How difficult could it be to design a chatbot?",
+      "category": "Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://uxdesign.cc/how-difficult-could-it-be-to-design-a-chatbot-5967e39563cc?source=rss----138adf9c44c---4"
     }
   ]
 }
