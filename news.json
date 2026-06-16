@@ -1,24 +1,6 @@
 {
-  "lastUpdated": "2026-06-15T04:12:33.942Z",
+  "lastUpdated": "2026-06-16T04:02:08.886Z",
   "articles": [
-    {
-      "title": " How Fumito Ueda, Mirror’s Edge and Blame! influenced Motorslice's surreal industrial world ",
-      "image": "https://cdn.mos.cms.futurecdn.net/B9nv8hGDZiWdRaQGbxt9qH-1280-80.jpg",
-      "summary": "How a two-person indie dev crafted a vast, interconnected world by hand.",
-      "category": "Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://www.creativebloq.com/3d/video-game-design/how-fumito-ueda-mirrors-edge-and-blame-influenced-motorslices-surreal-industrial-world"
-    },
-    {
-      "title": " What do you mean Photoshop used to come on a disk? ",
-      "image": "https://cdn.mos.cms.futurecdn.net/k5vuQ4d4LE2EsR2VSAaS5o-1280-80.jpg",
-      "summary": "Consider this my official apology to my colleagues for making them feel old.",
-      "category": "Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://www.creativebloq.com/design/design-software/what-do-you-mean-photoshop-used-to-come-on-a-disk"
-    },
     {
       "title": "The Benefits Of Cognitive Inclusion In UX Research",
       "image": "http://files.smashing.media/articles/benefits-cognitive-inclusion-ux-research/benefits-cognitive-inclusion-ux-research.jpg",
@@ -38,22 +20,40 @@
       "link": "https://smashingmagazine.com/2026/06/impact-humanoid-robots-humanity/"
     },
     {
-      "title": "Access is not mastery",
+      "title": " How artists created Star Wars: Maul – Shadow Lord's gritty, painterly aesthetic ",
+      "image": "https://cdn.mos.cms.futurecdn.net/aa6cTXgQcNpQrcQWBVBQKd-1280-80.jpg",
+      "summary": "Art director Andre Kirk talks us through the process of designing Maul’s body and costume.",
+      "category": "AI Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://www.creativebloq.com/art/animation/how-artists-created-star-wars-maul-shadow-lords-uniquely-gritty-aesthetic"
+    },
+    {
+      "title": "The autonomy dial: a pattern toolkit for designing human control over AI",
       "image": "https://placehold.co/600x400",
-      "summary": "The GUI democratized computing. The prompt interface democratized the GUI.\nContinue reading on UX Collective »",
+      "summary": "A practical method for setting how much an AI does on its own, plus six control patterns for human oversight.\nContinue reading on UX Collective »",
       "category": "UI/UX",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://uxdesign.cc/access-is-not-mastery-bd59e0610828?source=rss----138adf9c44c---4"
+      "link": "https://uxdesign.cc/the-autonomy-dial-a-pattern-toolkit-for-designing-human-control-over-ai-12bfbe23ca70?source=rss----138adf9c44c---4"
     },
     {
-      "title": "How difficult could it be to design a chatbot?",
+      "title": "The board is not the game",
       "image": "https://placehold.co/600x400",
-      "summary": "How difficult could it be to design a chatbot?",
-      "category": "Design",
+      "summary": "Your AI product has pieces, cards, and screens. Nobody designed the game.\nContinue reading on UX Collective »",
+      "category": "UI/UX",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://uxdesign.cc/how-difficult-could-it-be-to-design-a-chatbot-5967e39563cc?source=rss----138adf9c44c---4"
+      "link": "https://uxdesign.cc/the-board-is-not-the-game-fad30735adfe?source=rss----138adf9c44c---4"
+    },
+    {
+      "title": " New Adobe Creative Cloud updates will genuinely save you time ",
+      "image": "https://cdn.mos.cms.futurecdn.net/4AjEYV5cRosEZk8FZMLMJZ-1280-80.jpg",
+      "summary": "Photoshop, Lightroom, After Effects, Premiere Pro and Illustrator get editing upgrades.",
+      "category": "UI/UX",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://www.creativebloq.com/photography/photo-editing-software/new-adobe-creative-cloud-updates-will-genuinely-save-you-time"
     }
   ]
 }
