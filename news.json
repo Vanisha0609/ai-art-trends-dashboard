@@ -1,14 +1,41 @@
 {
-  "lastUpdated": "2026-06-16T04:02:08.886Z",
+  "lastUpdated": "2026-06-17T04:03:19.944Z",
   "articles": [
     {
-      "title": "The Benefits Of Cognitive Inclusion In UX Research",
-      "image": "http://files.smashing.media/articles/benefits-cognitive-inclusion-ux-research/benefits-cognitive-inclusion-ux-research.jpg",
-      "summary": "Findings from an exploratory user research study highlighting the unique insights and practical UX recommendations shared by participants with cognitive disabilities.",
+      "title": "How one of the oldest design portfolio formats needs to change in 2026",
+      "image": "https://placehold.co/600x400",
+      "summary": "There’s a better version of the before/after that shows what employers want.\nContinue reading on UX Collective »",
       "category": "UI/UX",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://smashingmagazine.com/2026/06/benefits-cognitive-inclusion-ux-research/"
+      "link": "https://uxdesign.cc/how-one-of-the-oldest-design-portfolio-formats-needs-to-change-in-2026-b64137494f6a?source=rss----138adf9c44c---4"
+    },
+    {
+      "title": " Shameless or honest? Epic divides Unreal Engine users with AI concept art ",
+      "image": "https://cdn.mos.cms.futurecdn.net/kTebwHfT7t79u5e6HNRn6F-1280-80.jpg",
+      "summary": "Is transparency enough to quell the backlash?",
+      "category": "AI Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://www.creativebloq.com/3d/video-game-design/shameless-or-honest-epics-divides-unreal-engine-users-with-ai-concept-art"
+    },
+    {
+      "title": "Lord of the TTL chips",
+      "image": "https://placehold.co/600x400",
+      "summary": "One Steve to rule them all, One Steve to find them, One Bill to bring them all, and in the darkness bind them (or, the role of the 7400…\nContinue reading on UX Collective »",
+      "category": "UI/UX",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://uxdesign.cc/lord-of-the-ttl-chips-26657f628126?source=rss----138adf9c44c---4"
+    },
+    {
+      "title": "Designing With Uncertainty: How AI Supercharges Probabilistic Thinking",
+      "image": "http://files.smashing.media/articles/designing-uncertainty-how-ai-supercharges-probabilistic-thinking/designing-uncertainty-how-ai-supercharges-probabilistic-thinking.jpg",
+      "summary": "In a world where AI is informing more design choices, it’s easy to mistake predictions for certainties. This article introduces Probabilistic Design, a mindset that allows UX and product teams to accept uncertainty, decipher AI outputs with nuance, and make smart, adaptive decisions.",
+      "category": "UI/UX",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://smashingmagazine.com/2026/06/designing-uncertainty-how-ai-supercharges-probabilistic-thinking/"
     },
     {
       "title": "The Impact Of Humanoid Robots On Humanity",
@@ -20,40 +47,13 @@
       "link": "https://smashingmagazine.com/2026/06/impact-humanoid-robots-humanity/"
     },
     {
-      "title": " How artists created Star Wars: Maul – Shadow Lord's gritty, painterly aesthetic ",
-      "image": "https://cdn.mos.cms.futurecdn.net/aa6cTXgQcNpQrcQWBVBQKd-1280-80.jpg",
-      "summary": "Art director Andre Kirk talks us through the process of designing Maul’s body and costume.",
-      "category": "AI Design",
+      "title": " Beyerdynamic's new IEM for musicians might also be ideal for your commute ",
+      "image": "https://cdn.mos.cms.futurecdn.net/UwBrib8aSM9iinxKX5XNrj-1280-80.jpg",
+      "summary": "But are they worth the price?",
+      "category": "Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://www.creativebloq.com/art/animation/how-artists-created-star-wars-maul-shadow-lords-uniquely-gritty-aesthetic"
-    },
-    {
-      "title": "The autonomy dial: a pattern toolkit for designing human control over AI",
-      "image": "https://placehold.co/600x400",
-      "summary": "A practical method for setting how much an AI does on its own, plus six control patterns for human oversight.\nContinue reading on UX Collective »",
-      "category": "UI/UX",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://uxdesign.cc/the-autonomy-dial-a-pattern-toolkit-for-designing-human-control-over-ai-12bfbe23ca70?source=rss----138adf9c44c---4"
-    },
-    {
-      "title": "The board is not the game",
-      "image": "https://placehold.co/600x400",
-      "summary": "Your AI product has pieces, cards, and screens. Nobody designed the game.\nContinue reading on UX Collective »",
-      "category": "UI/UX",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://uxdesign.cc/the-board-is-not-the-game-fad30735adfe?source=rss----138adf9c44c---4"
-    },
-    {
-      "title": " New Adobe Creative Cloud updates will genuinely save you time ",
-      "image": "https://cdn.mos.cms.futurecdn.net/4AjEYV5cRosEZk8FZMLMJZ-1280-80.jpg",
-      "summary": "Photoshop, Lightroom, After Effects, Premiere Pro and Illustrator get editing upgrades.",
-      "category": "UI/UX",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://www.creativebloq.com/photography/photo-editing-software/new-adobe-creative-cloud-updates-will-genuinely-save-you-time"
+      "link": "https://www.creativebloq.com/tech/headphones-earbuds/beyerdynamics-new-iem-for-musicians-might-also-be-ideal-for-your-commute"
     }
   ]
 }
