@@ -1,41 +1,14 @@
 {
-  "lastUpdated": "2026-06-17T04:03:19.944Z",
+  "lastUpdated": "2026-06-18T03:54:17.116Z",
   "articles": [
     {
-      "title": "How one of the oldest design portfolio formats needs to change in 2026",
+      "title": "While everyone talks about AI, design is gaining power",
       "image": "https://placehold.co/600x400",
-      "summary": "There’s a better version of the before/after that shows what employers want.\nContinue reading on UX Collective »",
-      "category": "UI/UX",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://uxdesign.cc/how-one-of-the-oldest-design-portfolio-formats-needs-to-change-in-2026-b64137494f6a?source=rss----138adf9c44c---4"
-    },
-    {
-      "title": " Shameless or honest? Epic divides Unreal Engine users with AI concept art ",
-      "image": "https://cdn.mos.cms.futurecdn.net/kTebwHfT7t79u5e6HNRn6F-1280-80.jpg",
-      "summary": "Is transparency enough to quell the backlash?",
+      "summary": "While everyone talks about AI, design is gaining power",
       "category": "AI Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://www.creativebloq.com/3d/video-game-design/shameless-or-honest-epics-divides-unreal-engine-users-with-ai-concept-art"
-    },
-    {
-      "title": "Lord of the TTL chips",
-      "image": "https://placehold.co/600x400",
-      "summary": "One Steve to rule them all, One Steve to find them, One Bill to bring them all, and in the darkness bind them (or, the role of the 7400…\nContinue reading on UX Collective »",
-      "category": "UI/UX",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://uxdesign.cc/lord-of-the-ttl-chips-26657f628126?source=rss----138adf9c44c---4"
-    },
-    {
-      "title": "Designing With Uncertainty: How AI Supercharges Probabilistic Thinking",
-      "image": "http://files.smashing.media/articles/designing-uncertainty-how-ai-supercharges-probabilistic-thinking/designing-uncertainty-how-ai-supercharges-probabilistic-thinking.jpg",
-      "summary": "In a world where AI is informing more design choices, it’s easy to mistake predictions for certainties. This article introduces Probabilistic Design, a mindset that allows UX and product teams to accept uncertainty, decipher AI outputs with nuance, and make smart, adaptive decisions.",
-      "category": "UI/UX",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://smashingmagazine.com/2026/06/designing-uncertainty-how-ai-supercharges-probabilistic-thinking/"
+      "link": "https://uxdesign.cc/while-everyone-talks-about-ai-design-is-gaining-power-a6fd0db3f0a2?source=rss----138adf9c44c---4"
     },
     {
       "title": "The Impact Of Humanoid Robots On Humanity",
@@ -47,13 +20,40 @@
       "link": "https://smashingmagazine.com/2026/06/impact-humanoid-robots-humanity/"
     },
     {
-      "title": " Beyerdynamic's new IEM for musicians might also be ideal for your commute ",
-      "image": "https://cdn.mos.cms.futurecdn.net/UwBrib8aSM9iinxKX5XNrj-1280-80.jpg",
+      "title": " The $29 audiophile starter pack: All you need to become a headphone audio nerd, just like me! ",
+      "image": "https://cdn.mos.cms.futurecdn.net/ZfJJXYEgDVWVyNvozWbbUQ-1280-80.jpg",
       "summary": "But are they worth the price?",
       "category": "Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://www.creativebloq.com/tech/headphones-earbuds/beyerdynamics-new-iem-for-musicians-might-also-be-ideal-for-your-commute"
+      "link": "https://www.creativebloq.com/tech/headphones-earbuds/the-usd29-audiophile-starter-pack-the-only-things-you-need-to-be-a-headphone-audio-nerd"
+    },
+    {
+      "title": "A2UI under the hood: Designing for the new era of radically adaptive UI",
+      "image": "https://placehold.co/600x400",
+      "summary": "A2UI under the hood: Designing for the new era of radically adaptive UI",
+      "category": "UI/UX",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://uxdesign.cc/a2ui-under-the-hood-designing-for-the-new-era-of-radically-adaptive-ui-cebbf5f32fbe?source=rss----138adf9c44c---4"
+    },
+    {
+      "title": " This controller is a cheat code for digital artists - and only $84.99 ",
+      "image": "https://cdn.mos.cms.futurecdn.net/wMnCD2YGFqmHwxsG9egt2E-1280-80.png",
+      "summary": "The TourBox Lite puts all your shortcuts in one place for efficient workflows.",
+      "category": "Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://www.creativebloq.com/tech/this-controller-is-a-cheat-code-for-digital-artists-and-only-usd84-99"
+    },
+    {
+      "title": "Designing With Uncertainty: How AI Supercharges Probabilistic Thinking",
+      "image": "http://files.smashing.media/articles/designing-uncertainty-how-ai-supercharges-probabilistic-thinking/designing-uncertainty-how-ai-supercharges-probabilistic-thinking.jpg",
+      "summary": "In a world where AI is informing more design choices, it’s easy to mistake predictions for certainties. This article introduces Probabilistic Design, a mindset that allows UX and product teams to accept uncertainty, decipher AI outputs with nuance, and make smart, adaptive decisions.",
+      "category": "UI/UX",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://smashingmagazine.com/2026/06/designing-uncertainty-how-ai-supercharges-probabilistic-thinking/"
     }
   ]
 }
