@@ -1,50 +1,41 @@
 {
-  "lastUpdated": "2026-06-18T03:54:17.116Z",
+  "lastUpdated": "2026-06-19T04:14:00.204Z",
   "articles": [
     {
-      "title": "While everyone talks about AI, design is gaining power",
-      "image": "https://placehold.co/600x400",
-      "summary": "While everyone talks about AI, design is gaining power",
-      "category": "AI Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://uxdesign.cc/while-everyone-talks-about-ai-design-is-gaining-power-a6fd0db3f0a2?source=rss----138adf9c44c---4"
-    },
-    {
-      "title": "The Impact Of Humanoid Robots On Humanity",
-      "image": "http://files.smashing.media/articles/impact-humanoid-robots-humanity/impact-humanoid-robots-humanity.jpg",
-      "summary": "We have officially moved past the era of humanoid robots as mere public relations stunts. As they become increasingly lifelike, society may soon face profound social, psychological, and ethical challenges. What happens when the boundary between humans and machines becomes almost impossible to distinguish?",
+      "title": " This viral indie fantasy RPG is pulling millions of views by turning every character into a piece of illustrated fine art – and building an entire game world inside a single, hand-painted tower ",
+      "image": "https://cdn.mos.cms.futurecdn.net/26n6DEWnYsBM9xsQ9H6xkc-1280-80.jpg",
+      "summary": "Why Sovereign Tower’s 'smaller' might be the boldest move in RPG design.",
       "category": "UI/UX",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://smashingmagazine.com/2026/06/impact-humanoid-robots-humanity/"
+      "link": "https://www.creativebloq.com/art/digital-art/this-viral-indie-fantasy-rpg-is-pulling-millions-of-views-by-turning-every-character-into-a-piece-of-illustrated-fine-art-and-building-an-entire-game-world-inside-a-single-hand-painted-tower"
     },
     {
-      "title": " The $29 audiophile starter pack: All you need to become a headphone audio nerd, just like me! ",
-      "image": "https://cdn.mos.cms.futurecdn.net/ZfJJXYEgDVWVyNvozWbbUQ-1280-80.jpg",
-      "summary": "But are they worth the price?",
+      "title": "One skill separates the designers who survive 2026 from the ones who don’t",
+      "image": "https://placehold.co/600x400",
+      "summary": "One skill separates the designers who survive 2026 from the ones who don’t",
       "category": "Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://www.creativebloq.com/tech/headphones-earbuds/the-usd29-audiophile-starter-pack-the-only-things-you-need-to-be-a-headphone-audio-nerd"
+      "link": "https://uxdesign.cc/one-skill-separates-the-designers-who-survive-2026-from-the-ones-who-dont-f4dec8c3ffe0?source=rss----138adf9c44c---4"
     },
     {
-      "title": "A2UI under the hood: Designing for the new era of radically adaptive UI",
+      "title": " GTA 6 official box art is out, and Rockstar is leaning hard into Vice City nostalgia ",
+      "image": "https://cdn.mos.cms.futurecdn.net/WymhGNabnXBzd3XRZkaQwm-1280-80.jpg",
+      "summary": "It's instantly familiar in the best way possible.",
+      "category": "Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://www.creativebloq.com/entertainment/gaming/gta-6-official-box-art-is-out-and-rockstar-is-leaning-hard-into-vice-city-nostalgia"
+    },
+    {
+      "title": "We used to know that it was a person who wrote it",
       "image": "https://placehold.co/600x400",
-      "summary": "A2UI under the hood: Designing for the new era of radically adaptive UI",
+      "summary": "Reading used to come with a guarantee that a person was on the other end. We spent it down, and now you check everything.\nContinue reading on UX Collective »",
       "category": "UI/UX",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://uxdesign.cc/a2ui-under-the-hood-designing-for-the-new-era-of-radically-adaptive-ui-cebbf5f32fbe?source=rss----138adf9c44c---4"
-    },
-    {
-      "title": " This controller is a cheat code for digital artists - and only $84.99 ",
-      "image": "https://cdn.mos.cms.futurecdn.net/wMnCD2YGFqmHwxsG9egt2E-1280-80.png",
-      "summary": "The TourBox Lite puts all your shortcuts in one place for efficient workflows.",
-      "category": "Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://www.creativebloq.com/tech/this-controller-is-a-cheat-code-for-digital-artists-and-only-usd84-99"
+      "link": "https://uxdesign.cc/we-used-to-know-that-it-was-a-person-who-wrote-it-a321c970266f?source=rss----138adf9c44c---4"
     },
     {
       "title": "Designing With Uncertainty: How AI Supercharges Probabilistic Thinking",
@@ -54,6 +45,15 @@
       "style": "Unknown",
       "mood": "Neutral",
       "link": "https://smashingmagazine.com/2026/06/designing-uncertainty-how-ai-supercharges-probabilistic-thinking/"
+    },
+    {
+      "title": "The Impact Of Humanoid Robots On Humanity",
+      "image": "http://files.smashing.media/articles/impact-humanoid-robots-humanity/impact-humanoid-robots-humanity.jpg",
+      "summary": "We have officially moved past the era of humanoid robots as mere public relations stunts. As they become increasingly lifelike, society may soon face profound social, psychological, and ethical challenges. What happens when the boundary between humans and machines becomes almost impossible to distinguish?",
+      "category": "UI/UX",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://smashingmagazine.com/2026/06/impact-humanoid-robots-humanity/"
     }
   ]
 }
