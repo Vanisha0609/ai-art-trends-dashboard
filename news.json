@@ -1,14 +1,14 @@
 {
-  "lastUpdated": "2026-06-19T04:14:00.204Z",
+  "lastUpdated": "2026-06-20T03:36:01.303Z",
   "articles": [
     {
-      "title": " This viral indie fantasy RPG is pulling millions of views by turning every character into a piece of illustrated fine art – and building an entire game world inside a single, hand-painted tower ",
-      "image": "https://cdn.mos.cms.futurecdn.net/26n6DEWnYsBM9xsQ9H6xkc-1280-80.jpg",
-      "summary": "Why Sovereign Tower’s 'smaller' might be the boldest move in RPG design.",
-      "category": "UI/UX",
+      "title": " These new headphones are based on a cutting edge tuning target, and they might just be worth every cent of their $899 price ",
+      "image": "https://cdn.mos.cms.futurecdn.net/i5KaL3dQXw7A2sQYdxUtkf-1280-80.jpg",
+      "summary": "But are they worth the price?",
+      "category": "Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://www.creativebloq.com/art/digital-art/this-viral-indie-fantasy-rpg-is-pulling-millions-of-views-by-turning-every-character-into-a-piece-of-illustrated-fine-art-and-building-an-entire-game-world-inside-a-single-hand-painted-tower"
+      "link": "https://www.creativebloq.com/tech/headphones-earbuds/this-luxury-headphone-brand-just-released-cans-based-on-the-most-up-to-date-tuning-target-and-they-might-just-be-worth-every-bit-of-their-usd899-price"
     },
     {
       "title": "One skill separates the designers who survive 2026 from the ones who don’t",
@@ -20,31 +20,13 @@
       "link": "https://uxdesign.cc/one-skill-separates-the-designers-who-survive-2026-from-the-ones-who-dont-f4dec8c3ffe0?source=rss----138adf9c44c---4"
     },
     {
-      "title": " GTA 6 official box art is out, and Rockstar is leaning hard into Vice City nostalgia ",
-      "image": "https://cdn.mos.cms.futurecdn.net/WymhGNabnXBzd3XRZkaQwm-1280-80.jpg",
-      "summary": "It's instantly familiar in the best way possible.",
-      "category": "Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://www.creativebloq.com/entertainment/gaming/gta-6-official-box-art-is-out-and-rockstar-is-leaning-hard-into-vice-city-nostalgia"
-    },
-    {
-      "title": "We used to know that it was a person who wrote it",
+      "title": "Enterprise software is getting personal",
       "image": "https://placehold.co/600x400",
-      "summary": "Reading used to come with a guarantee that a person was on the other end. We spent it down, and now you check everything.\nContinue reading on UX Collective »",
+      "summary": "Three design trends reshaping the user experience of enterprise software as we know it.\nContinue reading on UX Collective »",
       "category": "UI/UX",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://uxdesign.cc/we-used-to-know-that-it-was-a-person-who-wrote-it-a321c970266f?source=rss----138adf9c44c---4"
-    },
-    {
-      "title": "Designing With Uncertainty: How AI Supercharges Probabilistic Thinking",
-      "image": "http://files.smashing.media/articles/designing-uncertainty-how-ai-supercharges-probabilistic-thinking/designing-uncertainty-how-ai-supercharges-probabilistic-thinking.jpg",
-      "summary": "In a world where AI is informing more design choices, it’s easy to mistake predictions for certainties. This article introduces Probabilistic Design, a mindset that allows UX and product teams to accept uncertainty, decipher AI outputs with nuance, and make smart, adaptive decisions.",
-      "category": "UI/UX",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://smashingmagazine.com/2026/06/designing-uncertainty-how-ai-supercharges-probabilistic-thinking/"
+      "link": "https://uxdesign.cc/enterprise-software-is-getting-personal-dea453bee3e3?source=rss----138adf9c44c---4"
     },
     {
       "title": "The Impact Of Humanoid Robots On Humanity",
@@ -54,6 +36,24 @@
       "style": "Unknown",
       "mood": "Neutral",
       "link": "https://smashingmagazine.com/2026/06/impact-humanoid-robots-humanity/"
+    },
+    {
+      "title": " Unreal Engine’s AI push sparks backlash as developers fear the end of Blueprints ",
+      "image": "https://cdn.mos.cms.futurecdn.net/64vFnkqAR7gDvn2c4gkCzS-1280-80.jpg",
+      "summary": "Why are Epic’s new plans dividing everyone?",
+      "category": "AI Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://www.creativebloq.com/3d/video-game-design/unreal-engines-ai-push-sparks-backlash-as-developers-fear-the-end-of-blueprints"
+    },
+    {
+      "title": "Designing With Uncertainty: How AI Supercharges Probabilistic Thinking",
+      "image": "http://files.smashing.media/articles/designing-uncertainty-how-ai-supercharges-probabilistic-thinking/designing-uncertainty-how-ai-supercharges-probabilistic-thinking.jpg",
+      "summary": "In a world where AI is informing more design choices, it’s easy to mistake predictions for certainties. This article introduces Probabilistic Design, a mindset that allows UX and product teams to accept uncertainty, decipher AI outputs with nuance, and make smart, adaptive decisions.",
+      "category": "UI/UX",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://smashingmagazine.com/2026/06/designing-uncertainty-how-ai-supercharges-probabilistic-thinking/"
     }
   ]
 }
