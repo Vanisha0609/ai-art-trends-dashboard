@@ -1,15 +1,6 @@
 {
-  "lastUpdated": "2026-06-20T03:36:01.303Z",
+  "lastUpdated": "2026-06-21T04:08:09.458Z",
   "articles": [
-    {
-      "title": " These new headphones are based on a cutting edge tuning target, and they might just be worth every cent of their $899 price ",
-      "image": "https://cdn.mos.cms.futurecdn.net/i5KaL3dQXw7A2sQYdxUtkf-1280-80.jpg",
-      "summary": "But are they worth the price?",
-      "category": "Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://www.creativebloq.com/tech/headphones-earbuds/this-luxury-headphone-brand-just-released-cans-based-on-the-most-up-to-date-tuning-target-and-they-might-just-be-worth-every-bit-of-their-usd899-price"
-    },
     {
       "title": "One skill separates the designers who survive 2026 from the ones who don’t",
       "image": "https://placehold.co/600x400",
@@ -18,15 +9,6 @@
       "style": "Unknown",
       "mood": "Neutral",
       "link": "https://uxdesign.cc/one-skill-separates-the-designers-who-survive-2026-from-the-ones-who-dont-f4dec8c3ffe0?source=rss----138adf9c44c---4"
-    },
-    {
-      "title": "Enterprise software is getting personal",
-      "image": "https://placehold.co/600x400",
-      "summary": "Three design trends reshaping the user experience of enterprise software as we know it.\nContinue reading on UX Collective »",
-      "category": "UI/UX",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://uxdesign.cc/enterprise-software-is-getting-personal-dea453bee3e3?source=rss----138adf9c44c---4"
     },
     {
       "title": "The Impact Of Humanoid Robots On Humanity",
@@ -38,13 +20,13 @@
       "link": "https://smashingmagazine.com/2026/06/impact-humanoid-robots-humanity/"
     },
     {
-      "title": " Unreal Engine’s AI push sparks backlash as developers fear the end of Blueprints ",
-      "image": "https://cdn.mos.cms.futurecdn.net/64vFnkqAR7gDvn2c4gkCzS-1280-80.jpg",
-      "summary": "Why are Epic’s new plans dividing everyone?",
+      "title": " Why drawing dragons can be such a rewarding creative exercise ",
+      "image": "https://cdn.mos.cms.futurecdn.net/jwn4uzdpxq5dazXhacBo5o-1280-80.jpg",
+      "summary": "Concept artist Javier Franco Santacreu explains how he creates a powerful pose.",
       "category": "AI Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://www.creativebloq.com/3d/video-game-design/unreal-engines-ai-push-sparks-backlash-as-developers-fear-the-end-of-blueprints"
+      "link": "https://www.creativebloq.com/art/digital-art/why-drawing-dragons-can-be-such-a-rewarding-creative-exercise"
     },
     {
       "title": "Designing With Uncertainty: How AI Supercharges Probabilistic Thinking",
@@ -54,6 +36,24 @@
       "style": "Unknown",
       "mood": "Neutral",
       "link": "https://smashingmagazine.com/2026/06/designing-uncertainty-how-ai-supercharges-probabilistic-thinking/"
+    },
+    {
+      "title": "Enterprise software is getting personal",
+      "image": "https://placehold.co/600x400",
+      "summary": "Three design trends reshaping the user experience of enterprise software as we know it.\nContinue reading on UX Collective »",
+      "category": "UI/UX",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://uxdesign.cc/enterprise-software-is-getting-personal-dea453bee3e3?source=rss----138adf9c44c---4"
+    },
+    {
+      "title": " 4 things you won't learn in design school (but you really need to know) ",
+      "image": "https://cdn.mos.cms.futurecdn.net/9KRmpWTYBemACsNXFbbfA5-1280-80.jpg",
+      "summary": "Design courses often miss these vital lessons.",
+      "category": "Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://www.creativebloq.com/professional-development/creative-careers/4-things-you-wont-learn-in-design-school-but-you-really-need-to-know"
     }
   ]
 }
