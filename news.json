@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-06-23T03:29:54.495Z",
+  "lastUpdated": "2026-06-24T03:31:35.096Z",
   "articles": [
+    {
+      "title": " Forget Prime Day, B&H Photo has $200 off the biggest portable SSD you could ever possibly need ",
+      "image": "https://cdn.mos.cms.futurecdn.net/ueiH3DK96awcobUSfeP3kR-1280-80.jpg",
+      "summary": "You'll need to be quick to head off rising SSD prices with this mega deal.",
+      "category": "UI/UX",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://www.creativebloq.com/tech/forget-prime-day-b-and-h-photo-has-usd200-off-the-biggest-portable-ssd-you-could-ever-need"
+    },
+    {
+      "title": "Your banking app is lying to you",
+      "image": "https://placehold.co/600x400",
+      "summary": "It shows you a balance. It doesn’t show you the future. Here’s what happens when AI starts telling the truth.\nContinue reading on UX Collective »",
+      "category": "UI/UX",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://uxdesign.cc/your-banking-app-is-lying-to-you-52959b075823?source=rss----138adf9c44c---4"
+    },
     {
       "title": "The Impact Of Humanoid Robots On Humanity",
       "image": "http://files.smashing.media/articles/impact-humanoid-robots-humanity/impact-humanoid-robots-humanity.jpg",
@@ -9,33 +27,6 @@
       "style": "Unknown",
       "mood": "Neutral",
       "link": "https://smashingmagazine.com/2026/06/impact-humanoid-robots-humanity/"
-    },
-    {
-      "title": " VIDEO: I found three pre-Prime Day deals on Macs and a monitor so you won't have to wait for Prime Day ",
-      "image": "https://cdn.mos.cms.futurecdn.net/hWS2R8wEoaSXMjbhxaPGyR-1280-80.jpg",
-      "summary": "MacBook Pro or Neo? You choose; they're both discounted. And I found a cheap ASUS ProArt monitor too!",
-      "category": "AI Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://www.creativebloq.com/tech/laptops/video-i-found-three-pre-prime-day-deals-on-macs-and-a-monitor-so-you-wont-have-to-wait-for-prime-day"
-    },
-    {
-      "title": "Better search, worse web",
-      "image": "https://placehold.co/600x400",
-      "summary": "Every number says Google AI Search is better. None of them can see the cost.\nContinue reading on UX Collective »",
-      "category": "UI/UX",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://uxdesign.cc/better-search-worse-web-1ed2c43fe38f?source=rss----138adf9c44c---4"
-    },
-    {
-      "title": "The organizational cost of low taste",
-      "image": "https://placehold.co/600x400",
-      "summary": "The organizational cost of low taste",
-      "category": "Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://uxdesign.cc/the-organizational-cost-of-low-taste-135cb8b10c34?source=rss----138adf9c44c---4"
     },
     {
       "title": "Designing With Uncertainty: How AI Supercharges Probabilistic Thinking",
@@ -47,13 +38,22 @@
       "link": "https://smashingmagazine.com/2026/06/designing-uncertainty-how-ai-supercharges-probabilistic-thinking/"
     },
     {
-      "title": " Don't want to wait till Prime Day? These creative tools are under $50 right now ",
-      "image": "https://cdn.mos.cms.futurecdn.net/xobhEKvFpjdUYNnqziKkja-1280-80.jpg",
-      "summary": "Including art supplies, a mouse, keyboard and stylus.",
-      "category": "AI Design",
+      "title": "How DesignOps roles are changing with new priorities",
+      "image": "https://placehold.co/600x400",
+      "summary": "Design Vision Matters More than Ever, When AI is Integrating with Design\nContinue reading on UX Collective »",
+      "category": "UI/UX",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://www.creativebloq.com/tech/dont-want-to-wait-till-prime-day-these-products-are-under-usd50-right-now"
+      "link": "https://uxdesign.cc/how-designops-roles-are-changing-with-new-priorities-c8db3a5bc1c3?source=rss----138adf9c44c---4"
+    },
+    {
+      "title": " I love my reMarkable paper tablet, and they're 20% off right now ",
+      "image": "https://cdn.mos.cms.futurecdn.net/4KdLPMCBy359XuWjLAScUm-1280-80.jpg",
+      "summary": "Here's one Prime Day deal I genuinely recommend.",
+      "category": "UI/UX",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://www.creativebloq.com/design/product-design/i-love-my-remarkable-paper-tablet-and-its-20-percent-off-right-now"
     }
   ]
 }
