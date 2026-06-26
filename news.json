@@ -1,15 +1,6 @@
 {
-  "lastUpdated": "2026-06-25T03:29:21.788Z",
+  "lastUpdated": "2026-06-26T03:37:01.484Z",
   "articles": [
-    {
-      "title": "Your design system runs on one person’s judgment-AI is about to prove it",
-      "image": "https://placehold.co/600x400",
-      "summary": "Your design system runs on one person’s judgment-AI is about to prove it",
-      "category": "AI Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://uxdesign.cc/your-design-system-runs-on-one-persons-judgment-ai-is-about-to-prove-it-4e969a862765?source=rss----138adf9c44c---4"
-    },
     {
       "title": "Designing With Uncertainty: How AI Supercharges Probabilistic Thinking",
       "image": "http://files.smashing.media/articles/designing-uncertainty-how-ai-supercharges-probabilistic-thinking/designing-uncertainty-how-ai-supercharges-probabilistic-thinking.jpg",
@@ -18,6 +9,24 @@
       "style": "Unknown",
       "mood": "Neutral",
       "link": "https://smashingmagazine.com/2026/06/designing-uncertainty-how-ai-supercharges-probabilistic-thinking/"
+    },
+    {
+      "title": " Save up to 71% on PS5 games for Prime Day ",
+      "image": "https://cdn.mos.cms.futurecdn.net/k4zyhqnixWCH5okm4aGJ8W-1280-80.jpg",
+      "summary": "Now THIS is the kind of sale gamers deserve.",
+      "category": "Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://www.creativebloq.com/entertainment/gaming/save-up-to-71-percent-on-ps5-games-for-prime-day"
+    },
+    {
+      "title": "Your design system runs on one person’s judgment-AI is about to prove it",
+      "image": "https://placehold.co/600x400",
+      "summary": "Your design system runs on one person’s judgment-AI is about to prove it",
+      "category": "AI Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://uxdesign.cc/your-design-system-runs-on-one-persons-judgment-ai-is-about-to-prove-it-4e969a862765?source=rss----138adf9c44c---4"
     },
     {
       "title": "The Impact Of Humanoid Robots On Humanity",
@@ -29,31 +38,22 @@
       "link": "https://smashingmagazine.com/2026/06/impact-humanoid-robots-humanity/"
     },
     {
-      "title": " Pokéfans, get up to 60% off Switch games and goodies this Prime Day ",
-      "image": "https://cdn.mos.cms.futurecdn.net/ZQit6rjEfYia4nCabCCkYA-1280-80.jpg",
-      "summary": "Check out the top Pokémon deals starting from $12.",
-      "category": "Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://www.creativebloq.com/entertainment/toys-collectibles/pokefans-get-up-to-60-percent-off-switch-games-and-goodies-this-prime-day"
-    },
-    {
-      "title": " Nintendo Switch game prices destroyed by up to 70%, including Starfox and Metroid Prime 4 ",
-      "image": "https://cdn.mos.cms.futurecdn.net/G6yDzwHgwFrgodQPgM9oWL-1280-80.jpg",
-      "summary": "The best Nintendo Switch game sale I've ever seen is happening at Amazon Prime Week.",
-      "category": "Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://www.creativebloq.com/entertainment/gaming/nintendo-switch-game-prices-destroyed-by-up-to-70-percent-including-starfox-and-metroid-prime-4"
-    },
-    {
-      "title": "How DesignOps roles are changing with new priorities",
+      "title": "Rethinking Figma in an AI World",
       "image": "https://placehold.co/600x400",
-      "summary": "Design Vision Matters More than Ever, When AI is Integrating with Design\nContinue reading on UX Collective »",
-      "category": "UI/UX",
+      "summary": "Rethinking Figma in an AI World",
+      "category": "Tools",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://uxdesign.cc/how-designops-roles-are-changing-with-new-priorities-c8db3a5bc1c3?source=rss----138adf9c44c---4"
+      "link": "https://uxdesign.cc/rethinking-figma-in-an-ai-world-0facba587ba5?source=rss----138adf9c44c---4"
+    },
+    {
+      "title": " Batman X RayNeo is the coolest tech collab I’ve seen this year ",
+      "image": "https://cdn.mos.cms.futurecdn.net/nmHZReKZvSiYJo4is6wfPQ-1280-80.jpg",
+      "summary": "The nerds are gonna love this one.",
+      "category": "Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://www.creativebloq.com/entertainment/gaming/batman-x-rayneo-is-the-coolest-tech-collab-ive-seen-this-year"
     }
   ]
 }
