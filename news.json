@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-06-27T03:22:12.528Z",
+  "lastUpdated": "2026-06-28T03:42:39.072Z",
   "articles": [
+    {
+      "title": "Why your Claude Code needs a design stack",
+      "image": "https://placehold.co/600x400",
+      "summary": "The setup that makes Claude Code fit into your designer workflow\nContinue reading on UX Collective »",
+      "category": "UI/UX",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://uxdesign.cc/why-your-claude-code-needs-a-design-stack-46dccbced6e5?source=rss----138adf9c44c---4"
+    },
+    {
+      "title": " This Star Wars Eclipse artist shares the creative habit that changed how he sees the world ",
+      "image": "https://cdn.mos.cms.futurecdn.net/2sSWyMFzhm6xSNbERjN78G-1280-80.jpg",
+      "summary": "\"Create for yourself until the right people find you,\" says Amir Zand.",
+      "category": "Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://www.creativebloq.com/3d/3d-art/this-star-wars-eclipse-artist-shares-the-creative-habit-that-changed-how-he-sees-the-world"
+    },
     {
       "title": "Designing With Uncertainty: How AI Supercharges Probabilistic Thinking",
       "image": "http://files.smashing.media/articles/designing-uncertainty-how-ai-supercharges-probabilistic-thinking/designing-uncertainty-how-ai-supercharges-probabilistic-thinking.jpg",
@@ -11,31 +29,22 @@
       "link": "https://smashingmagazine.com/2026/06/designing-uncertainty-how-ai-supercharges-probabilistic-thinking/"
     },
     {
-      "title": " We gave this powerful editing controller a 9/10 rating –and now it's $92 off for Prime Day ",
-      "image": "https://cdn.mos.cms.futurecdn.net/rqC9kPN2ns7TWHnLZLKWUf-1280-80.jpg",
-      "summary": "Get the TourBox Elite series for less while you still can.",
-      "category": "Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://www.creativebloq.com/tech/we-gave-this-powerful-editing-controller-a-9-10-rating-and-now-its-usd92-off-for-prime-day"
-    },
-    {
-      "title": "The boundary between philosophy and design: Leveraging pure thought",
-      "image": "https://placehold.co/600x400",
-      "summary": "Following the line from Plato’s Forms to the iPod, and what it reveals about where great design actually begins.\nContinue reading on UX Collective »",
+      "title": "The Impact Of Humanoid Robots On Humanity",
+      "image": "http://files.smashing.media/articles/impact-humanoid-robots-humanity/impact-humanoid-robots-humanity.jpg",
+      "summary": "We have officially moved past the era of humanoid robots as mere public relations stunts. As they become increasingly lifelike, society may soon face profound social, psychological, and ethical challenges. What happens when the boundary between humans and machines becomes almost impossible to distinguish?",
       "category": "UI/UX",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://uxdesign.cc/the-boundary-between-philosophy-and-design-leveraging-pure-thought-72a903b05f57?source=rss----138adf9c44c---4"
+      "link": "https://smashingmagazine.com/2026/06/impact-humanoid-robots-humanity/"
     },
     {
-      "title": " There's just 5 hours left to save 30% on this R2D2 Lego set ",
-      "image": "https://cdn.mos.cms.futurecdn.net/NbWkrtR5ERPTCTQcwpCsAn-1280-80.png",
-      "summary": "It's an absolute steal for £63 - this IS the droid deal you're looking for.",
+      "title": " Why are we all obsessed with anti-design? ",
+      "image": "https://cdn.mos.cms.futurecdn.net/gQ4bHPT5oNitCquGvqqXTV-1280-80.jpg",
+      "summary": "Mynt’s Ollie Patterson discusses why imperfection has become a golden branding tool.",
       "category": "Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://www.creativebloq.com/entertainment/toys-collectibles/theres-just-5-hours-left-to-save-30-percent-on-this-r2d2-lego-set"
+      "link": "https://www.creativebloq.com/design/why-are-we-all-obsessed-with-anti-design"
     },
     {
       "title": "Discovery is a capability, not a phase",
@@ -45,15 +54,6 @@
       "style": "Unknown",
       "mood": "Neutral",
       "link": "https://uxdesign.cc/discovery-is-a-capability-not-a-phase-0fd6c1dab2f5?source=rss----138adf9c44c---4"
-    },
-    {
-      "title": "The Impact Of Humanoid Robots On Humanity",
-      "image": "http://files.smashing.media/articles/impact-humanoid-robots-humanity/impact-humanoid-robots-humanity.jpg",
-      "summary": "We have officially moved past the era of humanoid robots as mere public relations stunts. As they become increasingly lifelike, society may soon face profound social, psychological, and ethical challenges. What happens when the boundary between humans and machines becomes almost impossible to distinguish?",
-      "category": "UI/UX",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://smashingmagazine.com/2026/06/impact-humanoid-robots-humanity/"
     }
   ]
 }
