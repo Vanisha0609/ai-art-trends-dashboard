@@ -1,23 +1,14 @@
 {
-  "lastUpdated": "2026-06-28T03:42:39.072Z",
+  "lastUpdated": "2026-06-29T03:51:01.962Z",
   "articles": [
     {
-      "title": "Why your Claude Code needs a design stack",
+      "title": "When the profession outruns the mentor",
       "image": "https://placehold.co/600x400",
-      "summary": "The setup that makes Claude Code fit into your designer workflow\nContinue reading on UX Collective »",
-      "category": "UI/UX",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://uxdesign.cc/why-your-claude-code-needs-a-design-stack-46dccbced6e5?source=rss----138adf9c44c---4"
-    },
-    {
-      "title": " This Star Wars Eclipse artist shares the creative habit that changed how he sees the world ",
-      "image": "https://cdn.mos.cms.futurecdn.net/2sSWyMFzhm6xSNbERjN78G-1280-80.jpg",
-      "summary": "\"Create for yourself until the right people find you,\" says Amir Zand.",
+      "summary": "When the profession outruns the mentor",
       "category": "Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://www.creativebloq.com/3d/3d-art/this-star-wars-eclipse-artist-shares-the-creative-habit-that-changed-how-he-sees-the-world"
+      "link": "https://uxdesign.cc/when-the-profession-outruns-the-mentor-5f40596e17ca?source=rss----138adf9c44c---4"
     },
     {
       "title": "Designing With Uncertainty: How AI Supercharges Probabilistic Thinking",
@@ -38,22 +29,31 @@
       "link": "https://smashingmagazine.com/2026/06/impact-humanoid-robots-humanity/"
     },
     {
-      "title": " Why are we all obsessed with anti-design? ",
-      "image": "https://cdn.mos.cms.futurecdn.net/gQ4bHPT5oNitCquGvqqXTV-1280-80.jpg",
-      "summary": "Mynt’s Ollie Patterson discusses why imperfection has become a golden branding tool.",
+      "title": " How this League of Legends artist crafted a hot and humid moment ",
+      "image": "https://cdn.mos.cms.futurecdn.net/7xSpUmj85Dt8hhdvqcj3PH-1280-80.jpg",
+      "summary": "Discover the work of South Korean illustrator Blake Byun.",
       "category": "Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://www.creativebloq.com/design/why-are-we-all-obsessed-with-anti-design"
+      "link": "https://www.creativebloq.com/art/digital-art/how-this-league-of-legends-artist-crafted-a-hot-and-humid-moment"
     },
     {
-      "title": "Discovery is a capability, not a phase",
-      "image": "https://placehold.co/600x400",
-      "summary": "Discovery is a capability, not a phase",
-      "category": "Design",
+      "title": " How a Pixar illustrator turned a shed into the perfect art studio ",
+      "image": "https://cdn.mos.cms.futurecdn.net/px8JMcUsu3Ru87DvJkTg9T-1280-80.jpg",
+      "summary": "Take a look inside Nik Henderson's tiny but mighty illustration studio.",
+      "category": "Illustration",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://uxdesign.cc/discovery-is-a-capability-not-a-phase-0fd6c1dab2f5?source=rss----138adf9c44c---4"
+      "link": "https://www.creativebloq.com/creative-inspiration/how-a-pixar-illustrator-turned-a-shed-into-the-perfect-art-studio"
+    },
+    {
+      "title": "What are hypertokens? The layer between tokens and components, rebuilt for agents",
+      "image": "https://placehold.co/600x400",
+      "summary": "What are hypertokens? The layer between tokens and components, rebuilt for agents",
+      "category": "UI/UX",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://uxdesign.cc/what-are-hypertokens-the-layer-between-tokens-and-components-rebuilt-for-agents-962dbe93e0c4?source=rss----138adf9c44c---4"
     }
   ]
 }
