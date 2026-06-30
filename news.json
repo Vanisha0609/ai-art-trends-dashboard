@@ -1,14 +1,32 @@
 {
-  "lastUpdated": "2026-06-29T03:51:01.962Z",
+  "lastUpdated": "2026-06-30T03:35:16.146Z",
   "articles": [
     {
-      "title": "When the profession outruns the mentor",
+      "title": " I’ve found the cheapest place to buy 3D printer filament in the UK (and it’s not Amazon) ",
+      "image": "https://cdn.mos.cms.futurecdn.net/htm55MC75YvP7X8SQJ3mkH-1280-80.jpg",
+      "summary": "JoyBuy is a goldmine for UK shoppers right now with sales as good as Black Friday.",
+      "category": "3D Art",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://www.creativebloq.com/3d/3d-printing/ive-found-the-cheapest-place-to-buy-3d-printer-filament-in-the-uk-and-its-not-amazon"
+    },
+    {
+      "title": "You’re missing the point; this is your real value in tech companies",
       "image": "https://placehold.co/600x400",
-      "summary": "When the profession outruns the mentor",
+      "summary": "You’re missing the point; this is your real value in tech companies",
       "category": "Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://uxdesign.cc/when-the-profession-outruns-the-mentor-5f40596e17ca?source=rss----138adf9c44c---4"
+      "link": "https://uxdesign.cc/youre-missing-the-point-this-is-your-real-value-in-tech-companies-f56d6d96b54b?source=rss----138adf9c44c---4"
+    },
+    {
+      "title": "Figma just made your design system debt everyone’s problem. Now use it.",
+      "image": "https://placehold.co/600x400",
+      "summary": "Figma just made your design system debt everyone’s problem. Now use it.",
+      "category": "Tools",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://uxdesign.cc/figma-just-made-your-design-system-debt-everyones-problem-now-use-it-2e9ecb6272bf?source=rss----138adf9c44c---4"
     },
     {
       "title": "Designing With Uncertainty: How AI Supercharges Probabilistic Thinking",
@@ -20,6 +38,15 @@
       "link": "https://smashingmagazine.com/2026/06/designing-uncertainty-how-ai-supercharges-probabilistic-thinking/"
     },
     {
+      "title": " Speed up your painting with issue 268 of ImagineFX ",
+      "image": "https://cdn.mos.cms.futurecdn.net/eCqibtWzqT3cAXvrAwHFYP-1280-80.jpg",
+      "summary": "Practical inspiration for your art projects",
+      "category": "AI Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://www.creativebloq.com/professional-development/artistic-tips-techniques/speed-up-your-painting-with-issue-268-of-imaginefx"
+    },
+    {
       "title": "The Impact Of Humanoid Robots On Humanity",
       "image": "http://files.smashing.media/articles/impact-humanoid-robots-humanity/impact-humanoid-robots-humanity.jpg",
       "summary": "We have officially moved past the era of humanoid robots as mere public relations stunts. As they become increasingly lifelike, society may soon face profound social, psychological, and ethical challenges. What happens when the boundary between humans and machines becomes almost impossible to distinguish?",
@@ -27,33 +54,6 @@
       "style": "Unknown",
       "mood": "Neutral",
       "link": "https://smashingmagazine.com/2026/06/impact-humanoid-robots-humanity/"
-    },
-    {
-      "title": " How this League of Legends artist crafted a hot and humid moment ",
-      "image": "https://cdn.mos.cms.futurecdn.net/7xSpUmj85Dt8hhdvqcj3PH-1280-80.jpg",
-      "summary": "Discover the work of South Korean illustrator Blake Byun.",
-      "category": "Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://www.creativebloq.com/art/digital-art/how-this-league-of-legends-artist-crafted-a-hot-and-humid-moment"
-    },
-    {
-      "title": " How a Pixar illustrator turned a shed into the perfect art studio ",
-      "image": "https://cdn.mos.cms.futurecdn.net/px8JMcUsu3Ru87DvJkTg9T-1280-80.jpg",
-      "summary": "Take a look inside Nik Henderson's tiny but mighty illustration studio.",
-      "category": "Illustration",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://www.creativebloq.com/creative-inspiration/how-a-pixar-illustrator-turned-a-shed-into-the-perfect-art-studio"
-    },
-    {
-      "title": "What are hypertokens? The layer between tokens and components, rebuilt for agents",
-      "image": "https://placehold.co/600x400",
-      "summary": "What are hypertokens? The layer between tokens and components, rebuilt for agents",
-      "category": "UI/UX",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://uxdesign.cc/what-are-hypertokens-the-layer-between-tokens-and-components-rebuilt-for-agents-962dbe93e0c4?source=rss----138adf9c44c---4"
     }
   ]
 }
