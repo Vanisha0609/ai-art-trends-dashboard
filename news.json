@@ -1,59 +1,59 @@
 {
-  "lastUpdated": "2026-06-30T03:35:16.146Z",
+  "lastUpdated": "2026-07-01T03:44:55.754Z",
   "articles": [
     {
-      "title": " I’ve found the cheapest place to buy 3D printer filament in the UK (and it’s not Amazon) ",
-      "image": "https://cdn.mos.cms.futurecdn.net/htm55MC75YvP7X8SQJ3mkH-1280-80.jpg",
-      "summary": "JoyBuy is a goldmine for UK shoppers right now with sales as good as Black Friday.",
-      "category": "3D Art",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://www.creativebloq.com/3d/3d-printing/ive-found-the-cheapest-place-to-buy-3d-printer-filament-in-the-uk-and-its-not-amazon"
-    },
-    {
-      "title": "You’re missing the point; this is your real value in tech companies",
+      "title": "39 principles for designing human-AI interaction",
       "image": "https://placehold.co/600x400",
-      "summary": "You’re missing the point; this is your real value in tech companies",
-      "category": "Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://uxdesign.cc/youre-missing-the-point-this-is-your-real-value-in-tech-companies-f56d6d96b54b?source=rss----138adf9c44c---4"
-    },
-    {
-      "title": "Figma just made your design system debt everyone’s problem. Now use it.",
-      "image": "https://placehold.co/600x400",
-      "summary": "Figma just made your design system debt everyone’s problem. Now use it.",
-      "category": "Tools",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://uxdesign.cc/figma-just-made-your-design-system-debt-everyones-problem-now-use-it-2e9ecb6272bf?source=rss----138adf9c44c---4"
-    },
-    {
-      "title": "Designing With Uncertainty: How AI Supercharges Probabilistic Thinking",
-      "image": "http://files.smashing.media/articles/designing-uncertainty-how-ai-supercharges-probabilistic-thinking/designing-uncertainty-how-ai-supercharges-probabilistic-thinking.jpg",
-      "summary": "In a world where AI is informing more design choices, it’s easy to mistake predictions for certainties. This article introduces Probabilistic Design, a mindset that allows UX and product teams to accept uncertainty, decipher AI outputs with nuance, and make smart, adaptive decisions.",
-      "category": "UI/UX",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://smashingmagazine.com/2026/06/designing-uncertainty-how-ai-supercharges-probabilistic-thinking/"
-    },
-    {
-      "title": " Speed up your painting with issue 268 of ImagineFX ",
-      "image": "https://cdn.mos.cms.futurecdn.net/eCqibtWzqT3cAXvrAwHFYP-1280-80.jpg",
-      "summary": "Practical inspiration for your art projects",
+      "summary": "39 principles for designing human-AI interaction",
       "category": "AI Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://www.creativebloq.com/professional-development/artistic-tips-techniques/speed-up-your-painting-with-issue-268-of-imaginefx"
+      "link": "https://uxdesign.cc/39-principles-for-designing-human-ai-interaction-87be5fabdbbe?source=rss----138adf9c44c---4"
     },
     {
-      "title": "The Impact Of Humanoid Robots On Humanity",
-      "image": "http://files.smashing.media/articles/impact-humanoid-robots-humanity/impact-humanoid-robots-humanity.jpg",
-      "summary": "We have officially moved past the era of humanoid robots as mere public relations stunts. As they become increasingly lifelike, society may soon face profound social, psychological, and ethical challenges. What happens when the boundary between humans and machines becomes almost impossible to distinguish?",
+      "title": "Why Accessibility Is An Operational Capability, Not A Feature",
+      "image": "http://files.smashing.media/articles/why-accessibility-operational-capability-not-feature/why-accessibility-operational-capability-not-feature.jpg",
+      "summary": "Teams can generate UI faster than ever, but they still have to guarantee that what they ship is usable, secure, and maintainable. Accessibility as an operational capability rather than a compliance checklist or end-of-project audit, and what that looks like in practice.",
       "category": "UI/UX",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://smashingmagazine.com/2026/06/impact-humanoid-robots-humanity/"
+      "link": "https://smashingmagazine.com/2026/06/why-accessibility-operational-capability-not-feature/"
+    },
+    {
+      "title": " VIDEO: is the MacBook Pro M5 the best laptop for creatives? ",
+      "image": "https://cdn.mos.cms.futurecdn.net/jkF99jQQjDtV3pJg67niHB-1280-80.jpg",
+      "summary": "Is it all hype or is the new M5 the best Mac for creatives today? Watch our video review to find out in 2 minutes.",
+      "category": "Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://www.creativebloq.com/tech/laptops/video-is-the-macbook-pro-m5-the-best-laptop-for-creatives"
+    },
+    {
+      "title": "Game UX: the cursor that wasn’t supposed to be there",
+      "image": "https://placehold.co/600x400",
+      "summary": "Game UX: the cursor that wasn’t supposed to be there",
+      "category": "UI/UX",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://uxdesign.cc/game-ux-the-cursor-that-wasnt-supposed-to-be-there-f9369dafc451?source=rss----138adf9c44c---4"
+    },
+    {
+      "title": "Snapshots Of Summer (July 2026 Wallpapers Edition)",
+      "image": "http://files.smashing.media/articles/desktop-wallpaper-calendars-july-2026/july-25-stamped-in-summer-preview-opt.png",
+      "summary": "July is just around the corner, and that means... It’s time for some new desktop wallpapers! As every month, the wallpapers in this collection were created by the community for the community and can be downloaded for free. Enjoy!",
+      "category": "Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://smashingmagazine.com/2026/06/desktop-wallpaper-calendars-july-2026/"
+    },
+    {
+      "title": " xTool’s new O1 Omni Printer can print on ANYTHING ",
+      "image": "https://cdn.mos.cms.futurecdn.net/6cqjKaUCGP5wFbcg8AmHie-1280-80.png",
+      "summary": "It's the World's first 4-in-1 printer, and a category-defining device.",
+      "category": "Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://www.creativebloq.com/creative-inspiration/digital-crafting/xtools-new-o1-omni-printer-can-print-on-anything"
     }
   ]
 }
