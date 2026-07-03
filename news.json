@@ -1,23 +1,23 @@
 {
-  "lastUpdated": "2026-07-02T03:30:28.766Z",
+  "lastUpdated": "2026-07-03T02:52:52.088Z",
   "articles": [
     {
-      "title": "The 4 predators sabotaging your product team",
+      "title": " What the Lego x Olivia Rodrigo collaboration teaches designers ",
+      "image": "https://cdn.mos.cms.futurecdn.net/cLB6Y8TYAnDU54uUGpqash-1280-80.jpg",
+      "summary": "She's the first musician with multiple Lego sets.",
+      "category": "Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://www.creativebloq.com/design/product-design/what-the-lego-x-olivia-rodrigo-collaboration-teaches-designers"
+    },
+    {
+      "title": "AI personality is a design problem",
       "image": "https://placehold.co/600x400",
-      "summary": "A tale of strategy, survival, and the wild animals hiding in plain sight\nContinue reading on UX Collective »",
+      "summary": "Right now it’s an accidental byproduct of AI alignment. It could be an interface we build deliberately.\nContinue reading on UX Collective »",
       "category": "UI/UX",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://uxdesign.cc/the-4-predators-sabotaging-your-product-team-3dce31215ff4?source=rss----138adf9c44c---4"
-    },
-    {
-      "title": " Forget the iPhone Fold – Honor just nailed the foldable phone ",
-      "image": "https://cdn.mos.cms.futurecdn.net/4ykwzxYw9arbXCQtKgLKDJ-1280-80.jpg",
-      "summary": "I've been testing the Honor Magic V6 for the last two weeks, and it's hands down the best foldable phone I've used yet.",
-      "category": "AI Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://www.creativebloq.com/tech/phones-tablets/forget-the-iphone-fold-honor-just-nailed-the-foldable-phone"
+      "link": "https://uxdesign.cc/ai-personality-is-a-design-problem-58fbc7926a3d?source=rss----138adf9c44c---4"
     },
     {
       "title": "Why Accessibility Is An Operational Capability, Not A Feature",
@@ -29,6 +29,24 @@
       "link": "https://smashingmagazine.com/2026/06/why-accessibility-operational-capability-not-feature/"
     },
     {
+      "title": " Umm, the Samsung Galaxy Ring is 74% off right now ",
+      "image": "https://cdn.mos.cms.futurecdn.net/pre32nvNew9WQL9qKEZLGS-1280-80.jpg",
+      "summary": "This has to be a mistake, right?",
+      "category": "Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://www.creativebloq.com/tech/umm-the-samsung-galaxy-ring-is-74-percent-off-right-now"
+    },
+    {
+      "title": "Matching AI Modality To User Intent: Designing The Right Interface",
+      "image": "http://files.smashing.media/articles/matching-ai-modality-user-intent-designing-right-interface/matching-ai-modality-user-intent-designing-right-interface.jpg",
+      "summary": "We’ve fallen into conversational tunnel vision, defaulting every AI capability into a chat-based interface simply because LLMs are trained on dialogue data. But great UX is about matching modality to users’ context, intent, and cognitive load, so the interface adapts to the user, not the other way around.",
+      "category": "UI/UX",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://smashingmagazine.com/2026/07/matching-ai-modality-user-intent-designing-right-interface/"
+    },
+    {
       "title": "How designers need to change for an AI-powered world",
       "image": "https://placehold.co/600x400",
       "summary": "A recap of ideas from our panel discussion for a topic that’s on everyone’s mind\nContinue reading on UX Collective »",
@@ -36,24 +54,6 @@
       "style": "Unknown",
       "mood": "Neutral",
       "link": "https://uxdesign.cc/how-designers-need-to-change-for-an-ai-powered-world-b51c3c195954?source=rss----138adf9c44c---4"
-    },
-    {
-      "title": " I wasn't sure the Creality Sermoon P1 Scanner would handle shiny objects –then this happened ",
-      "image": "https://cdn.mos.cms.futurecdn.net/Sf4NtnPf8hUzSVkdmHoQQV-1280-80.jpg",
-      "summary": "An all-in-one scanner boasting blue lasers with Near-Infrared (NIR) light.",
-      "category": "Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://www.creativebloq.com/3d/i-wasnt-sure-the-creality-sermoon-p1-scanner-would-handle-shiny-objects-then-this-happened"
-    },
-    {
-      "title": "Snapshots Of Summer (July 2026 Wallpapers Edition)",
-      "image": "http://files.smashing.media/articles/desktop-wallpaper-calendars-july-2026/july-25-stamped-in-summer-preview-opt.png",
-      "summary": "July is just around the corner, and that means... It’s time for some new desktop wallpapers! As every month, the wallpapers in this collection were created by the community for the community and can be downloaded for free. Enjoy!",
-      "category": "Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://smashingmagazine.com/2026/06/desktop-wallpaper-calendars-july-2026/"
     }
   ]
 }
