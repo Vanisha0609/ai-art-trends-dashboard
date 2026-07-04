@@ -1,42 +1,6 @@
 {
-  "lastUpdated": "2026-07-03T02:52:52.088Z",
+  "lastUpdated": "2026-07-04T02:49:14.311Z",
   "articles": [
-    {
-      "title": " What the Lego x Olivia Rodrigo collaboration teaches designers ",
-      "image": "https://cdn.mos.cms.futurecdn.net/cLB6Y8TYAnDU54uUGpqash-1280-80.jpg",
-      "summary": "She's the first musician with multiple Lego sets.",
-      "category": "Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://www.creativebloq.com/design/product-design/what-the-lego-x-olivia-rodrigo-collaboration-teaches-designers"
-    },
-    {
-      "title": "AI personality is a design problem",
-      "image": "https://placehold.co/600x400",
-      "summary": "Right now it’s an accidental byproduct of AI alignment. It could be an interface we build deliberately.\nContinue reading on UX Collective »",
-      "category": "UI/UX",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://uxdesign.cc/ai-personality-is-a-design-problem-58fbc7926a3d?source=rss----138adf9c44c---4"
-    },
-    {
-      "title": "Why Accessibility Is An Operational Capability, Not A Feature",
-      "image": "http://files.smashing.media/articles/why-accessibility-operational-capability-not-feature/why-accessibility-operational-capability-not-feature.jpg",
-      "summary": "Teams can generate UI faster than ever, but they still have to guarantee that what they ship is usable, secure, and maintainable. Accessibility as an operational capability rather than a compliance checklist or end-of-project audit, and what that looks like in practice.",
-      "category": "UI/UX",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://smashingmagazine.com/2026/06/why-accessibility-operational-capability-not-feature/"
-    },
-    {
-      "title": " Umm, the Samsung Galaxy Ring is 74% off right now ",
-      "image": "https://cdn.mos.cms.futurecdn.net/pre32nvNew9WQL9qKEZLGS-1280-80.jpg",
-      "summary": "This has to be a mistake, right?",
-      "category": "Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://www.creativebloq.com/tech/umm-the-samsung-galaxy-ring-is-74-percent-off-right-now"
-    },
     {
       "title": "Matching AI Modality To User Intent: Designing The Right Interface",
       "image": "http://files.smashing.media/articles/matching-ai-modality-user-intent-designing-right-interface/matching-ai-modality-user-intent-designing-right-interface.jpg",
@@ -47,13 +11,49 @@
       "link": "https://smashingmagazine.com/2026/07/matching-ai-modality-user-intent-designing-right-interface/"
     },
     {
-      "title": "How designers need to change for an AI-powered world",
+      "title": "Did good UX break the job market?",
       "image": "https://placehold.co/600x400",
-      "summary": "A recap of ideas from our panel discussion for a topic that’s on everyone’s mind\nContinue reading on UX Collective »",
+      "summary": "Did good UX break the job market?",
       "category": "UI/UX",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://uxdesign.cc/how-designers-need-to-change-for-an-ai-powered-world-b51c3c195954?source=rss----138adf9c44c---4"
+      "link": "https://uxdesign.cc/did-good-ux-break-the-job-market-546438288589?source=rss----138adf9c44c---4"
+    },
+    {
+      "title": "Users Don’t Need More Tools: They Need Seamless Integrations",
+      "image": "http://files.smashing.media/articles/ux-impact-seamless-integrations/users-dont-need-more-tools-need-seamless-integrations.jpg",
+      "summary": "A closer look at why users don’t need more tools in their daily lives. What they need are seamless integrations of useful features to match already existing, established mental models. Brought to you by Design Patterns For AI Interfaces, **friendly video course on UX** and design patterns by Vitaly.",
+      "category": "UI/UX",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://smashingmagazine.com/2026/07/users-dont-need-more-tools-need-seamless-integrations/"
+    },
+    {
+      "title": " How Ronaldo's former football club packed a 120-year legacy into a stylish modern rebrand ",
+      "image": "https://cdn.mos.cms.futurecdn.net/hyZGRFgb6Viseh5eFRF64L-1280-80.jpg",
+      "summary": "Sporting CP's new look is the perfect blend of history and contemporary flair.",
+      "category": "AI Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://www.creativebloq.com/design/how-ronaldos-former-football-club-packed-a-120-year-legacy-into-a-stylish-modern-rebrand"
+    },
+    {
+      "title": "You design it. Then what? A clear map of the Figma-to-code AI mess",
+      "image": "https://placehold.co/600x400",
+      "summary": "You design it. Then what? A clear map of the Figma-to-code AI mess",
+      "category": "Tools",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://uxdesign.cc/you-design-it-then-what-a-clear-map-of-the-figma-to-code-ai-mess-954a4084175f?source=rss----138adf9c44c---4"
+    },
+    {
+      "title": " Off to college? These dorm room deals suit every type of student ",
+      "image": "https://cdn.mos.cms.futurecdn.net/6qmkfBxdRBCXddmTzGFG8Y-1280-80.jpg",
+      "summary": "There’s up to 40% off techy bits for gamers and artists.",
+      "category": "UI/UX",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://www.creativebloq.com/tech/off-to-college-these-dorm-room-deals-suit-every-type-of-student"
     }
   ]
 }
