@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-07-04T02:49:14.311Z",
+  "lastUpdated": "2026-07-05T03:19:04.491Z",
   "articles": [
+    {
+      "title": " Prepped for a 4th of July BBQ? Not without these summer garden essentials, you aren't ",
+      "image": "https://cdn.mos.cms.futurecdn.net/iNY2wg4jb7j2h9FdQeaZEg-1280-80.jpg",
+      "summary": "Save up to 40% on outdoor tech and accessories for hosting, relaxing, and entertainment.",
+      "category": "AI Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://www.creativebloq.com/tech/prepped-for-a-4th-of-july-bbq-not-without-these-summer-garden-essentials-you-arent"
+    },
     {
       "title": "Matching AI Modality To User Intent: Designing The Right Interface",
       "image": "http://files.smashing.media/articles/matching-ai-modality-user-intent-designing-right-interface/matching-ai-modality-user-intent-designing-right-interface.jpg",
@@ -11,13 +20,22 @@
       "link": "https://smashingmagazine.com/2026/07/matching-ai-modality-user-intent-designing-right-interface/"
     },
     {
-      "title": "Did good UX break the job market?",
+      "title": "Never mind the prompts, here’s the thinking",
       "image": "https://placehold.co/600x400",
-      "summary": "Did good UX break the job market?",
+      "summary": "Never mind the prompts, here’s the thinking",
+      "category": "Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://uxdesign.cc/never-mind-the-prompts-heres-the-thinking-f4af4b92155f?source=rss----138adf9c44c---4"
+    },
+    {
+      "title": "The face was never the point",
+      "image": "https://placehold.co/600x400",
+      "summary": "Animacy isn’t something you design. It’s something you trigger.\nContinue reading on UX Collective »",
       "category": "UI/UX",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://uxdesign.cc/did-good-ux-break-the-job-market-546438288589?source=rss----138adf9c44c---4"
+      "link": "https://uxdesign.cc/the-face-was-never-the-point-7f186f266e56?source=rss----138adf9c44c---4"
     },
     {
       "title": "Users Don’t Need More Tools: They Need Seamless Integrations",
@@ -29,31 +47,13 @@
       "link": "https://smashingmagazine.com/2026/07/users-dont-need-more-tools-need-seamless-integrations/"
     },
     {
-      "title": " How Ronaldo's former football club packed a 120-year legacy into a stylish modern rebrand ",
-      "image": "https://cdn.mos.cms.futurecdn.net/hyZGRFgb6Viseh5eFRF64L-1280-80.jpg",
-      "summary": "Sporting CP's new look is the perfect blend of history and contemporary flair.",
-      "category": "AI Design",
+      "title": " This new typeface is perfect for a society that's done with shouting ",
+      "image": "https://cdn.mos.cms.futurecdn.net/cc9bhrzGLEhX4Y636ESXAT-1280-80.jpg",
+      "summary": "How do you make a title shout when everyone is shouting too?",
+      "category": "Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://www.creativebloq.com/design/how-ronaldos-former-football-club-packed-a-120-year-legacy-into-a-stylish-modern-rebrand"
-    },
-    {
-      "title": "You design it. Then what? A clear map of the Figma-to-code AI mess",
-      "image": "https://placehold.co/600x400",
-      "summary": "You design it. Then what? A clear map of the Figma-to-code AI mess",
-      "category": "Tools",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://uxdesign.cc/you-design-it-then-what-a-clear-map-of-the-figma-to-code-ai-mess-954a4084175f?source=rss----138adf9c44c---4"
-    },
-    {
-      "title": " Off to college? These dorm room deals suit every type of student ",
-      "image": "https://cdn.mos.cms.futurecdn.net/6qmkfBxdRBCXddmTzGFG8Y-1280-80.jpg",
-      "summary": "There’s up to 40% off techy bits for gamers and artists.",
-      "category": "UI/UX",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://www.creativebloq.com/tech/off-to-college-these-dorm-room-deals-suit-every-type-of-student"
+      "link": "https://www.creativebloq.com/design/fonts-typography/this-new-typeface-is-perfect-for-a-society-thats-done-with-shouting"
     }
   ]
 }
