@@ -1,24 +1,6 @@
 {
-  "lastUpdated": "2026-07-05T03:19:04.491Z",
+  "lastUpdated": "2026-07-06T03:26:48.180Z",
   "articles": [
-    {
-      "title": " Prepped for a 4th of July BBQ? Not without these summer garden essentials, you aren't ",
-      "image": "https://cdn.mos.cms.futurecdn.net/iNY2wg4jb7j2h9FdQeaZEg-1280-80.jpg",
-      "summary": "Save up to 40% on outdoor tech and accessories for hosting, relaxing, and entertainment.",
-      "category": "AI Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://www.creativebloq.com/tech/prepped-for-a-4th-of-july-bbq-not-without-these-summer-garden-essentials-you-arent"
-    },
-    {
-      "title": "Matching AI Modality To User Intent: Designing The Right Interface",
-      "image": "http://files.smashing.media/articles/matching-ai-modality-user-intent-designing-right-interface/matching-ai-modality-user-intent-designing-right-interface.jpg",
-      "summary": "We’ve fallen into conversational tunnel vision, defaulting every AI capability into a chat-based interface simply because LLMs are trained on dialogue data. But great UX is about matching modality to users’ context, intent, and cognitive load, so the interface adapts to the user, not the other way around.",
-      "category": "UI/UX",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://smashingmagazine.com/2026/07/matching-ai-modality-user-intent-designing-right-interface/"
-    },
     {
       "title": "Never mind the prompts, here’s the thinking",
       "image": "https://placehold.co/600x400",
@@ -27,15 +9,6 @@
       "style": "Unknown",
       "mood": "Neutral",
       "link": "https://uxdesign.cc/never-mind-the-prompts-heres-the-thinking-f4af4b92155f?source=rss----138adf9c44c---4"
-    },
-    {
-      "title": "The face was never the point",
-      "image": "https://placehold.co/600x400",
-      "summary": "Animacy isn’t something you design. It’s something you trigger.\nContinue reading on UX Collective »",
-      "category": "UI/UX",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://uxdesign.cc/the-face-was-never-the-point-7f186f266e56?source=rss----138adf9c44c---4"
     },
     {
       "title": "Users Don’t Need More Tools: They Need Seamless Integrations",
@@ -47,13 +20,40 @@
       "link": "https://smashingmagazine.com/2026/07/users-dont-need-more-tools-need-seamless-integrations/"
     },
     {
-      "title": " This new typeface is perfect for a society that's done with shouting ",
-      "image": "https://cdn.mos.cms.futurecdn.net/cc9bhrzGLEhX4Y636ESXAT-1280-80.jpg",
-      "summary": "How do you make a title shout when everyone is shouting too?",
+      "title": " Every summer, I lose at least a day of creative work to the heat – but not this time ",
+      "image": "https://cdn.mos.cms.futurecdn.net/aPkJgrm4kjY9kVzUpFHTRk-1280-80.jpg",
+      "summary": "Here's how to survive the next heat wave.",
       "category": "Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://www.creativebloq.com/design/fonts-typography/this-new-typeface-is-perfect-for-a-society-thats-done-with-shouting"
+      "link": "https://www.creativebloq.com/professional-development/creative-careers/every-summer-i-lose-at-least-a-day-of-creative-work-to-the-heat-but-not-this-time"
+    },
+    {
+      "title": "Matching AI Modality To User Intent: Designing The Right Interface",
+      "image": "http://files.smashing.media/articles/matching-ai-modality-user-intent-designing-right-interface/matching-ai-modality-user-intent-designing-right-interface.jpg",
+      "summary": "We’ve fallen into conversational tunnel vision, defaulting every AI capability into a chat-based interface simply because LLMs are trained on dialogue data. But great UX is about matching modality to users’ context, intent, and cognitive load, so the interface adapts to the user, not the other way around.",
+      "category": "UI/UX",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://smashingmagazine.com/2026/07/matching-ai-modality-user-intent-designing-right-interface/"
+    },
+    {
+      "title": " Here’s how I created a dino sphere with the xTool F2 Ultra UV ",
+      "image": "https://cdn.mos.cms.futurecdn.net/CXo2aU7XBCNGjNfbX7LvkU-1280-80.jpg",
+      "summary": "Did I mention it can engrave INSIDE glass crystal balls?",
+      "category": "Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://www.creativebloq.com/creative-inspiration/digital-crafting/heres-how-i-created-a-dino-sphere-with-the-xtool-f2-ultra-uv"
+    },
+    {
+      "title": "The face was never the point",
+      "image": "https://placehold.co/600x400",
+      "summary": "Animacy isn’t something you design. It’s something you trigger.\nContinue reading on UX Collective »",
+      "category": "UI/UX",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://uxdesign.cc/the-face-was-never-the-point-7f186f266e56?source=rss----138adf9c44c---4"
     }
   ]
 }
