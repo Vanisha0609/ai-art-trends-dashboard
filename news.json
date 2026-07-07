@@ -1,14 +1,32 @@
 {
-  "lastUpdated": "2026-07-06T03:26:48.180Z",
+  "lastUpdated": "2026-07-07T03:17:22.061Z",
   "articles": [
     {
-      "title": "Never mind the prompts, here’s the thinking",
-      "image": "https://placehold.co/600x400",
-      "summary": "Never mind the prompts, here’s the thinking",
-      "category": "Design",
+      "title": " Video tutorial series shows how to make a 3D game in free Godot Engine ",
+      "image": "https://cdn.mos.cms.futurecdn.net/KtfVU8eTHqWLwChqJmVG4W-1280-80.png",
+      "summary": "Follow the course to create a finished Dungeon Crawler in just 20 hours.",
+      "category": "3D Art",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://uxdesign.cc/never-mind-the-prompts-heres-the-thinking-f4af4b92155f?source=rss----138adf9c44c---4"
+      "link": "https://www.creativebloq.com/3d/video-game-design/video-tutorial-series-shows-how-to-make-a-3d-game-in-free-godot-engine"
+    },
+    {
+      "title": "What the Lean Startup still teaches us about generative AI",
+      "image": "https://placehold.co/600x400",
+      "summary": "What the Lean Startup still teaches us about generative AI",
+      "category": "AI Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://uxdesign.cc/what-the-lean-startup-still-teaches-us-about-generative-ai-2d1505fe1db1?source=rss----138adf9c44c---4"
+    },
+    {
+      "title": "Should you really aim to be the best?",
+      "image": "https://placehold.co/600x400",
+      "summary": "Should you really aim to be the best?",
+      "category": "AI Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://uxdesign.cc/should-you-really-aim-to-be-the-best-a570d43fae37?source=rss----138adf9c44c---4"
     },
     {
       "title": "Users Don’t Need More Tools: They Need Seamless Integrations",
@@ -20,13 +38,13 @@
       "link": "https://smashingmagazine.com/2026/07/users-dont-need-more-tools-need-seamless-integrations/"
     },
     {
-      "title": " Every summer, I lose at least a day of creative work to the heat – but not this time ",
-      "image": "https://cdn.mos.cms.futurecdn.net/aPkJgrm4kjY9kVzUpFHTRk-1280-80.jpg",
-      "summary": "Here's how to survive the next heat wave.",
-      "category": "Design",
+      "title": " Louis Vuitton wins logo battle despite fiery backlash ",
+      "image": "https://cdn.mos.cms.futurecdn.net/uo8p92Z5oAteFhotc5KeYW-1280-80.jpg",
+      "summary": "Chinese social media criticises the luxury brand's \"stolen\" design.",
+      "category": "UI/UX",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://www.creativebloq.com/professional-development/creative-careers/every-summer-i-lose-at-least-a-day-of-creative-work-to-the-heat-but-not-this-time"
+      "link": "https://www.creativebloq.com/design/logos-icons/louis-vuitton-wins-logo-battle-despite-fiery-backlash"
     },
     {
       "title": "Matching AI Modality To User Intent: Designing The Right Interface",
@@ -36,24 +54,6 @@
       "style": "Unknown",
       "mood": "Neutral",
       "link": "https://smashingmagazine.com/2026/07/matching-ai-modality-user-intent-designing-right-interface/"
-    },
-    {
-      "title": " Here’s how I created a dino sphere with the xTool F2 Ultra UV ",
-      "image": "https://cdn.mos.cms.futurecdn.net/CXo2aU7XBCNGjNfbX7LvkU-1280-80.jpg",
-      "summary": "Did I mention it can engrave INSIDE glass crystal balls?",
-      "category": "Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://www.creativebloq.com/creative-inspiration/digital-crafting/heres-how-i-created-a-dino-sphere-with-the-xtool-f2-ultra-uv"
-    },
-    {
-      "title": "The face was never the point",
-      "image": "https://placehold.co/600x400",
-      "summary": "Animacy isn’t something you design. It’s something you trigger.\nContinue reading on UX Collective »",
-      "category": "UI/UX",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://uxdesign.cc/the-face-was-never-the-point-7f186f266e56?source=rss----138adf9c44c---4"
     }
   ]
 }
