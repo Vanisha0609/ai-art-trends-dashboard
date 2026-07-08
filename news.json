@@ -1,33 +1,6 @@
 {
-  "lastUpdated": "2026-07-07T03:17:22.061Z",
+  "lastUpdated": "2026-07-08T02:35:16.578Z",
   "articles": [
-    {
-      "title": " Video tutorial series shows how to make a 3D game in free Godot Engine ",
-      "image": "https://cdn.mos.cms.futurecdn.net/KtfVU8eTHqWLwChqJmVG4W-1280-80.png",
-      "summary": "Follow the course to create a finished Dungeon Crawler in just 20 hours.",
-      "category": "3D Art",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://www.creativebloq.com/3d/video-game-design/video-tutorial-series-shows-how-to-make-a-3d-game-in-free-godot-engine"
-    },
-    {
-      "title": "What the Lean Startup still teaches us about generative AI",
-      "image": "https://placehold.co/600x400",
-      "summary": "What the Lean Startup still teaches us about generative AI",
-      "category": "AI Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://uxdesign.cc/what-the-lean-startup-still-teaches-us-about-generative-ai-2d1505fe1db1?source=rss----138adf9c44c---4"
-    },
-    {
-      "title": "Should you really aim to be the best?",
-      "image": "https://placehold.co/600x400",
-      "summary": "Should you really aim to be the best?",
-      "category": "AI Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://uxdesign.cc/should-you-really-aim-to-be-the-best-a570d43fae37?source=rss----138adf9c44c---4"
-    },
     {
       "title": "Users Don’t Need More Tools: They Need Seamless Integrations",
       "image": "http://files.smashing.media/articles/ux-impact-seamless-integrations/users-dont-need-more-tools-need-seamless-integrations.jpg",
@@ -38,22 +11,49 @@
       "link": "https://smashingmagazine.com/2026/07/users-dont-need-more-tools-need-seamless-integrations/"
     },
     {
-      "title": " Louis Vuitton wins logo battle despite fiery backlash ",
-      "image": "https://cdn.mos.cms.futurecdn.net/uo8p92Z5oAteFhotc5KeYW-1280-80.jpg",
-      "summary": "Chinese social media criticises the luxury brand's \"stolen\" design.",
-      "category": "UI/UX",
+      "title": "The crisis of the what",
+      "image": "https://placehold.co/600x400",
+      "summary": "The crisis of the what",
+      "category": "Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://www.creativebloq.com/design/logos-icons/louis-vuitton-wins-logo-battle-despite-fiery-backlash"
+      "link": "https://uxdesign.cc/the-crisis-of-the-what-d29135a8be59?source=rss----138adf9c44c---4"
     },
     {
-      "title": "Matching AI Modality To User Intent: Designing The Right Interface",
-      "image": "http://files.smashing.media/articles/matching-ai-modality-user-intent-designing-right-interface/matching-ai-modality-user-intent-designing-right-interface.jpg",
-      "summary": "We’ve fallen into conversational tunnel vision, defaulting every AI capability into a chat-based interface simply because LLMs are trained on dialogue data. But great UX is about matching modality to users’ context, intent, and cognitive load, so the interface adapts to the user, not the other way around.",
+      "title": " This TikTok-famous engraving pen turns wooden spoons into tiny artworks ",
+      "image": "https://cdn.mos.cms.futurecdn.net/GZgQygUACjf5QvY7KLnNRU-1280-80.jpg",
+      "summary": "The Resparked Cordless Engraving Pen is my new must-have gadget, and it's on sale.",
+      "category": "Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://www.creativebloq.com/creative-inspiration/this-tiktok-famous-engraving-pen-turns-wooden-spoons-into-tiny-artworks"
+    },
+    {
+      "title": " The Economist's provocative America at 250 cover art has a tiny Trump-shaped design detail ",
+      "image": "https://cdn.mos.cms.futurecdn.net/FtmujnNQLH6GDijBc8D6SM-1280-80.jpg",
+      "summary": "The incendiary design has sparked debate.",
+      "category": "AI Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://www.creativebloq.com/art/illustration/the-economists-america-at-250-cover-art-has-a-tiny-trump-shaped-design-detail"
+    },
+    {
+      "title": "The 15-minute AI stress test every designer can run",
+      "image": "https://placehold.co/600x400",
+      "summary": "The 15-minute AI stress test every designer can run",
+      "category": "AI Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://uxdesign.cc/the-15-minute-ai-stress-test-every-designer-can-run-ce8de95ff5c9?source=rss----138adf9c44c---4"
+    },
+    {
+      "title": "Meet Kirki: WordPress’s First Visual Builder With An Infinite Canvas",
+      "image": "http://files.smashing.media/articles/kirki-freeform-visual-website-builder-wordpress/kirki-wordpress-visual-builder-infinite-canvas.jpg",
+      "summary": "We have been building websites inside boxes for years on WordPress. Let’s take a closer look at [Kirki](https://kirki.com/), the first freeform visual builder with an infinite canvas, and explore how it redefines the experience with cleaner performance, full design freedom, and zero plugin dependency.",
       "category": "UI/UX",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://smashingmagazine.com/2026/07/matching-ai-modality-user-intent-designing-right-interface/"
+      "link": "https://smashingmagazine.com/2026/07/kirki-wordpress-visual-builder-infinite-canvas/"
     }
   ]
 }
