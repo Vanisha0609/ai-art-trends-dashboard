@@ -1,23 +1,41 @@
 {
-  "lastUpdated": "2026-07-09T02:54:00.004Z",
+  "lastUpdated": "2026-07-10T02:56:26.765Z",
   "articles": [
     {
-      "title": " Taylor Swift used an ingenious design detail to stop her wedding invites leaking ",
-      "image": "https://cdn.mos.cms.futurecdn.net/zJXz4YFda7MMGQBNDnhntn-1280-80.jpg",
-      "summary": "She wasn’t afraid to name and shame.",
+      "title": " Confused by USB flash drive jargon? Me too. I asked one of Kingston's experts to walk me through it ",
+      "image": "https://cdn.mos.cms.futurecdn.net/nhKCxqSAG255QuZNqcinw7-1280-80.jpg",
+      "summary": "Kingston's own expert Matteo Occhi explains what all the security measures in the new IronKey Locker+ 50 G2 actually DO.",
       "category": "AI Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://www.creativebloq.com/design/logos-icons/taylor-swift-used-an-ingenious-design-detail-to-stop-her-wedding-invites-leaking"
+      "link": "https://www.creativebloq.com/tech/storage/confused-by-usb-flash-drive-jargon-me-too-i-asked-one-of-kingstons-experts-to-walk-me-through-it"
     },
     {
-      "title": "Losing the spark in their eyes",
+      "title": "DesignOps in the age of AI: when governance becomes orchestration",
       "image": "https://placehold.co/600x400",
-      "summary": "Losing the spark in their eyes",
-      "category": "Design",
+      "summary": "DesignOps is shifting from governing human-led process to orchestrating human and AI technology towards ethical, meaningful outcomes.\nContinue reading on UX Collective »",
+      "category": "UI/UX",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://uxdesign.cc/losing-the-spark-in-their-eyes-0ef198ab1499?source=rss----138adf9c44c---4"
+      "link": "https://uxdesign.cc/designops-in-the-age-of-ai-when-governance-becomes-orchestration-7b946ceea70f?source=rss----138adf9c44c---4"
+    },
+    {
+      "title": "Meet Kirki: WordPress’s First Visual Builder With An Infinite Canvas",
+      "image": "http://files.smashing.media/articles/kirki-freeform-visual-website-builder-wordpress/kirki-wordpress-visual-builder-infinite-canvas.jpg",
+      "summary": "We have been building websites inside boxes for years on WordPress. Let’s take a closer look at [Kirki](https://kirki.com/), the first freeform visual builder with an infinite canvas, and explore how it redefines the experience with cleaner performance, full design freedom, and zero plugin dependency.",
+      "category": "UI/UX",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://smashingmagazine.com/2026/07/kirki-wordpress-visual-builder-infinite-canvas/"
+    },
+    {
+      "title": "Designing For Distressed Users: Why Mental Health Apps Shouldn’t Follow Every UI Fashion",
+      "image": "http://files.smashing.media/articles/designing-distressed-users-mental-health-apps-ui/designing-distressed-users-mental-health-apps-ui.jpg",
+      "summary": "Many UI trends are designed to capture attention and signal innovation, but those goals often conflict with the needs of mental health apps: reducing cognitive strain, fostering trust, and providing a sense of refuge. Kat Homan introduces an evaluation framework that helps designers assess whether trendy visual and interaction patterns support or undermine the unique goals of mental health experiences.",
+      "category": "UI/UX",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://smashingmagazine.com/2026/07/designing-distressed-users-mental-health-apps-ui/"
     },
     {
       "title": "The revolution was the easy part",
@@ -29,31 +47,13 @@
       "link": "https://uxdesign.cc/the-revolution-was-the-easy-part-c753340e3e22?source=rss----138adf9c44c---4"
     },
     {
-      "title": " Blender wants to make its first feature-length movie and share the process for free ",
-      "image": "https://cdn.mos.cms.futurecdn.net/kELaMauXaBgQnpKUUvqSrQ-1280-80.webp",
-      "summary": "Overgrown would create an open-source resource for animators.",
+      "title": " Koto’s new type foundry is redefining the rules of font design ",
+      "image": "https://cdn.mos.cms.futurecdn.net/zvLUe3zF3SkPmM2zCjb4JV-1280-80.jpg",
+      "summary": "CcType is all about quality over quantity.",
       "category": "Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://www.creativebloq.com/art/animation/blender-wants-to-make-its-first-feature-length-movie-and-share-the-process-for-free"
-    },
-    {
-      "title": "Users Don’t Need More Tools: They Need Seamless Integrations",
-      "image": "http://files.smashing.media/articles/ux-impact-seamless-integrations/users-dont-need-more-tools-need-seamless-integrations.jpg",
-      "summary": "A closer look at why users don’t need more tools in their daily lives. What they need are seamless integrations of useful features to match already existing, established mental models. Brought to you by Design Patterns For AI Interfaces, **friendly video course on UX** and design patterns by Vitaly.",
-      "category": "UI/UX",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://smashingmagazine.com/2026/07/users-dont-need-more-tools-need-seamless-integrations/"
-    },
-    {
-      "title": "Meet Kirki: WordPress’s First Visual Builder With An Infinite Canvas",
-      "image": "http://files.smashing.media/articles/kirki-freeform-visual-website-builder-wordpress/kirki-wordpress-visual-builder-infinite-canvas.jpg",
-      "summary": "We have been building websites inside boxes for years on WordPress. Let’s take a closer look at [Kirki](https://kirki.com/), the first freeform visual builder with an infinite canvas, and explore how it redefines the experience with cleaner performance, full design freedom, and zero plugin dependency.",
-      "category": "UI/UX",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://smashingmagazine.com/2026/07/kirki-wordpress-visual-builder-infinite-canvas/"
+      "link": "https://www.creativebloq.com/design/fonts-typography/kotos-new-type-foundry-is-redefining-the-rules-of-font-design"
     }
   ]
 }
