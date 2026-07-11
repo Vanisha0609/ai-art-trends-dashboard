@@ -1,32 +1,23 @@
 {
-  "lastUpdated": "2026-07-10T02:56:26.765Z",
+  "lastUpdated": "2026-07-11T02:33:17.470Z",
   "articles": [
     {
-      "title": " Confused by USB flash drive jargon? Me too. I asked one of Kingston's experts to walk me through it ",
-      "image": "https://cdn.mos.cms.futurecdn.net/nhKCxqSAG255QuZNqcinw7-1280-80.jpg",
-      "summary": "Kingston's own expert Matteo Occhi explains what all the security measures in the new IronKey Locker+ 50 G2 actually DO.",
+      "title": " These headphones are inspired by a pair of crappy 1980s budget speakers... but they sound excellent ",
+      "image": "https://cdn.mos.cms.futurecdn.net/UD83bQT5xvYkXDnYZGokpe-1280-80.jpg",
+      "summary": "The Audeze MM-500 is a $1,700 mixing headphone prized by audiophiles who love a vocal-forward tuning.",
       "category": "AI Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://www.creativebloq.com/tech/storage/confused-by-usb-flash-drive-jargon-me-too-i-asked-one-of-kingstons-experts-to-walk-me-through-it"
+      "link": "https://www.creativebloq.com/tech/headphones-earbuds/these-headphones-are-inspired-by-a-pair-of-crappy-1980s-budget-speakers-but-they-sound-excellent"
     },
     {
-      "title": "DesignOps in the age of AI: when governance becomes orchestration",
-      "image": "https://placehold.co/600x400",
-      "summary": "DesignOps is shifting from governing human-led process to orchestrating human and AI technology towards ethical, meaningful outcomes.\nContinue reading on UX Collective »",
-      "category": "UI/UX",
+      "title": "From Kickoff To First Concept: How To Turn Brand Strategy Into Visual Direction",
+      "image": "http://files.smashing.media/articles/how-turn-brand-strategy-into-visual-direction/how-turn-brand-strategy-into-visual-direction.jpg",
+      "summary": "The strongest visual concepts don’t start in Figma. They start with the right questions. Explore the pre-concept phase of brand identity design, where teams research brand context, uncover hidden assumptions with stakeholders, and turn shared direction into a visual foundation before a single concept is created.",
+      "category": "Tools",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://uxdesign.cc/designops-in-the-age-of-ai-when-governance-becomes-orchestration-7b946ceea70f?source=rss----138adf9c44c---4"
-    },
-    {
-      "title": "Meet Kirki: WordPress’s First Visual Builder With An Infinite Canvas",
-      "image": "http://files.smashing.media/articles/kirki-freeform-visual-website-builder-wordpress/kirki-wordpress-visual-builder-infinite-canvas.jpg",
-      "summary": "We have been building websites inside boxes for years on WordPress. Let’s take a closer look at [Kirki](https://kirki.com/), the first freeform visual builder with an infinite canvas, and explore how it redefines the experience with cleaner performance, full design freedom, and zero plugin dependency.",
-      "category": "UI/UX",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://smashingmagazine.com/2026/07/kirki-wordpress-visual-builder-infinite-canvas/"
+      "link": "https://smashingmagazine.com/2026/07/how-turn-brand-strategy-into-visual-direction/"
     },
     {
       "title": "Designing For Distressed Users: Why Mental Health Apps Shouldn’t Follow Every UI Fashion",
@@ -38,22 +29,31 @@
       "link": "https://smashingmagazine.com/2026/07/designing-distressed-users-mental-health-apps-ui/"
     },
     {
-      "title": "The revolution was the easy part",
+      "title": "Designing excuses",
       "image": "https://placehold.co/600x400",
-      "summary": "The revolution was the easy part",
-      "category": "Design",
+      "summary": "So doing right doesn’t stay caged by self-consciousness\nContinue reading on UX Collective »",
+      "category": "UI/UX",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://uxdesign.cc/the-revolution-was-the-easy-part-c753340e3e22?source=rss----138adf9c44c---4"
+      "link": "https://uxdesign.cc/designing-excuses-fd3326ad375d?source=rss----138adf9c44c---4"
     },
     {
-      "title": " Koto’s new type foundry is redefining the rules of font design ",
-      "image": "https://cdn.mos.cms.futurecdn.net/zvLUe3zF3SkPmM2zCjb4JV-1280-80.jpg",
-      "summary": "CcType is all about quality over quantity.",
-      "category": "Design",
+      "title": "DesignOps in the age of AI: when governance becomes orchestration",
+      "image": "https://placehold.co/600x400",
+      "summary": "DesignOps is shifting from governing human-led process to orchestrating human and AI technology towards ethical, meaningful outcomes.\nContinue reading on UX Collective »",
+      "category": "UI/UX",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://www.creativebloq.com/design/fonts-typography/kotos-new-type-foundry-is-redefining-the-rules-of-font-design"
+      "link": "https://uxdesign.cc/designops-in-the-age-of-ai-when-governance-becomes-orchestration-7b946ceea70f?source=rss----138adf9c44c---4"
+    },
+    {
+      "title": " The ultimate advert quiz: think you know your 1940s ads? ",
+      "image": "https://cdn.mos.cms.futurecdn.net/cddAbQQPHjmHsjNfFU33aA-1280-80.jpg",
+      "summary": "Our adverts through the decade series continues with 1940s advert trivia.",
+      "category": "UI/UX",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://www.creativebloq.com/design/logos-icons/the-ultimate-advert-quiz-think-you-know-your-1940s-ads"
     }
   ]
 }
