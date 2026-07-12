@@ -1,14 +1,14 @@
 {
-  "lastUpdated": "2026-07-11T02:33:17.470Z",
+  "lastUpdated": "2026-07-12T02:39:54.436Z",
   "articles": [
     {
-      "title": " These headphones are inspired by a pair of crappy 1980s budget speakers... but they sound excellent ",
-      "image": "https://cdn.mos.cms.futurecdn.net/UD83bQT5xvYkXDnYZGokpe-1280-80.jpg",
-      "summary": "The Audeze MM-500 is a $1,700 mixing headphone prized by audiophiles who love a vocal-forward tuning.",
-      "category": "AI Design",
+      "title": "Designing For Distressed Users: Why Mental Health Apps Shouldn’t Follow Every UI Fashion",
+      "image": "http://files.smashing.media/articles/designing-distressed-users-mental-health-apps-ui/designing-distressed-users-mental-health-apps-ui.jpg",
+      "summary": "Many UI trends are designed to capture attention and signal innovation, but those goals often conflict with the needs of mental health apps: reducing cognitive strain, fostering trust, and providing a sense of refuge. Kat Homan introduces an evaluation framework that helps designers assess whether trendy visual and interaction patterns support or undermine the unique goals of mental health experiences.",
+      "category": "UI/UX",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://www.creativebloq.com/tech/headphones-earbuds/these-headphones-are-inspired-by-a-pair-of-crappy-1980s-budget-speakers-but-they-sound-excellent"
+      "link": "https://smashingmagazine.com/2026/07/designing-distressed-users-mental-health-apps-ui/"
     },
     {
       "title": "From Kickoff To First Concept: How To Turn Brand Strategy Into Visual Direction",
@@ -20,15 +20,6 @@
       "link": "https://smashingmagazine.com/2026/07/how-turn-brand-strategy-into-visual-direction/"
     },
     {
-      "title": "Designing For Distressed Users: Why Mental Health Apps Shouldn’t Follow Every UI Fashion",
-      "image": "http://files.smashing.media/articles/designing-distressed-users-mental-health-apps-ui/designing-distressed-users-mental-health-apps-ui.jpg",
-      "summary": "Many UI trends are designed to capture attention and signal innovation, but those goals often conflict with the needs of mental health apps: reducing cognitive strain, fostering trust, and providing a sense of refuge. Kat Homan introduces an evaluation framework that helps designers assess whether trendy visual and interaction patterns support or undermine the unique goals of mental health experiences.",
-      "category": "UI/UX",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://smashingmagazine.com/2026/07/designing-distressed-users-mental-health-apps-ui/"
-    },
-    {
       "title": "Designing excuses",
       "image": "https://placehold.co/600x400",
       "summary": "So doing right doesn’t stay caged by self-consciousness\nContinue reading on UX Collective »",
@@ -38,22 +29,31 @@
       "link": "https://uxdesign.cc/designing-excuses-fd3326ad375d?source=rss----138adf9c44c---4"
     },
     {
-      "title": "DesignOps in the age of AI: when governance becomes orchestration",
-      "image": "https://placehold.co/600x400",
-      "summary": "DesignOps is shifting from governing human-led process to orchestrating human and AI technology towards ethical, meaningful outcomes.\nContinue reading on UX Collective »",
+      "title": " Kidbash: Super Legend is built in Blender but rendered like a classic SNES game ",
+      "image": "https://cdn.mos.cms.futurecdn.net/tr6SwuWyyR7AYuvxP2oicg-1280-80.jpg",
+      "summary": "This indie game is reviving Donkey Kong Country's famous graphics trick.",
       "category": "UI/UX",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://uxdesign.cc/designops-in-the-age-of-ai-when-governance-becomes-orchestration-7b946ceea70f?source=rss----138adf9c44c---4"
+      "link": "https://www.creativebloq.com/3d/video-game-design/kidbash-super-legend-is-built-in-blender-but-rendered-like-a-classic-snes-game"
     },
     {
-      "title": " The ultimate advert quiz: think you know your 1940s ads? ",
-      "image": "https://cdn.mos.cms.futurecdn.net/cddAbQQPHjmHsjNfFU33aA-1280-80.jpg",
-      "summary": "Our adverts through the decade series continues with 1940s advert trivia.",
-      "category": "UI/UX",
+      "title": " Wowza, these runDisney shoes are over 40% off ",
+      "image": "https://cdn.mos.cms.futurecdn.net/z5Bz9hM5TMdd7Gaxr9UCVk-1280-80.png",
+      "summary": "If you like subtle brand collabs, you’ll melt over these.",
+      "category": "Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://www.creativebloq.com/design/logos-icons/the-ultimate-advert-quiz-think-you-know-your-1940s-ads"
+      "link": "https://www.creativebloq.com/entertainment/wowza-these-rundisney-shoes-are-over-40-percent-off"
+    },
+    {
+      "title": "Craft still matters, but it’s about outcomes",
+      "image": "https://placehold.co/600x400",
+      "summary": "Craft still matters, but it’s about outcomes",
+      "category": "Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://uxdesign.cc/craft-still-matters-but-its-not-about-pixels-anymore-ai-can-help-you-keep-it-e542cac33d12?source=rss----138adf9c44c---4"
     }
   ]
 }
