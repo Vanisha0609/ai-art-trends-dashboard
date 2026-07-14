@@ -1,41 +1,23 @@
 {
-  "lastUpdated": "2026-07-13T02:41:14.771Z",
+  "lastUpdated": "2026-07-14T02:24:40.506Z",
   "articles": [
     {
-      "title": "The interface has left the building",
-      "image": "https://placehold.co/600x400",
-      "summary": "The interface has left the building",
-      "category": "UI/UX",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://uxdesign.cc/the-interface-has-left-the-building-8fdb558d33a9?source=rss----138adf9c44c---4"
-    },
-    {
-      "title": " How to build a digital painting from the ground up using Photoshop and Blender ",
-      "image": "https://cdn.mos.cms.futurecdn.net/L8GtVF6e8ZFEDGfFcN6spB-1280-80.jpg",
-      "summary": "Fantasy freelancer Pierre Ignaszewski share his process.",
-      "category": "UI/UX",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://www.creativebloq.com/art/digital-art/how-to-build-a-digital-painting-from-the-ground-up-using-photoshop-and-blender"
-    },
-    {
-      "title": " The Tesla Optimus's new rival is better dressed, but no, I still wouldn't feel \"at ease\" with it in my home ",
-      "image": "https://cdn.mos.cms.futurecdn.net/3rPJpwESLhXrhH7mD5FYtg-1280-80.jpg",
-      "summary": "Meet Northstar, a more European creepy robot.",
+      "title": " Dodge Apple's price hike on the MacBook Neo – Amazon just sliced £100 off the 512GB version ",
+      "image": "https://cdn.mos.cms.futurecdn.net/5KL2pPKPeCEY2F2QjGgT9R-1280-80.jpg",
+      "summary": "Get the latest MacBook for the early adopter price!",
       "category": "Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://www.creativebloq.com/design/product-design/tesla-optimuss-new-rival-is-better-dressed-but-i-still-wouldnt-feel-at-ease-with-it-in-my-home"
+      "link": "https://www.creativebloq.com/tech/phones-tablets/dodge-apples-price-hike-on-the-macbook-neo-amazon-just-sliced-gbp100-off-the-512gb-version"
     },
     {
-      "title": "From Kickoff To First Concept: How To Turn Brand Strategy Into Visual Direction",
-      "image": "http://files.smashing.media/articles/how-turn-brand-strategy-into-visual-direction/how-turn-brand-strategy-into-visual-direction.jpg",
-      "summary": "The strongest visual concepts don’t start in Figma. They start with the right questions. Explore the pre-concept phase of brand identity design, where teams research brand context, uncover hidden assumptions with stakeholders, and turn shared direction into a visual foundation before a single concept is created.",
-      "category": "Tools",
+      "title": " Should you take the leap? The pros and cons of being freelance ",
+      "image": "https://cdn.mos.cms.futurecdn.net/cR39bJxNeLKw6Dw2Keq32D-1280-80.jpg",
+      "summary": "Creative freelancers lay bare the trade-offs of going it alone.",
+      "category": "Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://smashingmagazine.com/2026/07/how-turn-brand-strategy-into-visual-direction/"
+      "link": "https://www.creativebloq.com/professional-development/freelance/freedom-fear-feast-and-famine-the-pros-and-cons-of-being-freelance"
     },
     {
       "title": "Designing For Distressed Users: Why Mental Health Apps Shouldn’t Follow Every UI Fashion",
@@ -47,13 +29,31 @@
       "link": "https://smashingmagazine.com/2026/07/designing-distressed-users-mental-health-apps-ui/"
     },
     {
-      "title": "Taste cannot be delegated",
-      "image": "https://placehold.co/600x400",
-      "summary": "Taste cannot be delegated",
-      "category": "Design",
+      "title": "From Kickoff To First Concept: How To Turn Brand Strategy Into Visual Direction",
+      "image": "http://files.smashing.media/articles/how-turn-brand-strategy-into-visual-direction/how-turn-brand-strategy-into-visual-direction.jpg",
+      "summary": "The strongest visual concepts don’t start in Figma. They start with the right questions. Explore the pre-concept phase of brand identity design, where teams research brand context, uncover hidden assumptions with stakeholders, and turn shared direction into a visual foundation before a single concept is created.",
+      "category": "Tools",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://uxdesign.cc/taste-cannot-be-delegated-1706847a0b4b?source=rss----138adf9c44c---4"
+      "link": "https://smashingmagazine.com/2026/07/how-turn-brand-strategy-into-visual-direction/"
+    },
+    {
+      "title": "AX is just the orchestration layer",
+      "image": "https://placehold.co/600x400",
+      "summary": "The work didn’t vanish with the screen. It fell one layer down.\nContinue reading on UX Collective »",
+      "category": "UI/UX",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://uxdesign.cc/ax-is-just-the-orchestration-layer-cacb4ed4fe45?source=rss----138adf9c44c---4"
+    },
+    {
+      "title": "The terminal became my canvas",
+      "image": "https://placehold.co/600x400",
+      "summary": "And it’s great… but horrible at the same time\nContinue reading on UX Collective »",
+      "category": "UI/UX",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://uxdesign.cc/the-terminal-became-my-canvas-18af0740f650?source=rss----138adf9c44c---4"
     }
   ]
 }
