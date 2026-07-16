@@ -1,32 +1,32 @@
 {
-  "lastUpdated": "2026-07-15T02:22:53.420Z",
+  "lastUpdated": "2026-07-16T02:30:32.921Z",
   "articles": [
     {
-      "title": "What 32 design leaders do when told to move faster",
-      "image": "https://placehold.co/600x400",
-      "summary": "The Greeks knew the answer to this problem, 2300 years ago\nContinue reading on UX Collective »",
+      "title": "No, People Don’t Want More AI In Their Life",
+      "image": "http://files.smashing.media/articles/people-dont-want-more-ai/people-dont-want-more-ai.jpg",
+      "summary": "Many companies assume everyone craves new AI features. But the reality is that most people don't want more AI — at least not in the way most AI leaders envision it. Brought to you by Design Patterns For AI Interfaces, **friendly video courses on UX** and design patterns by Vitaly.",
       "category": "UI/UX",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://uxdesign.cc/what-32-design-leaders-do-when-told-to-move-faster-9c8d46c90319?source=rss----138adf9c44c---4"
+      "link": "https://smashingmagazine.com/2026/07/people-dont-want-more-ai/"
     },
     {
-      "title": " Moss: The Forgotten Relic review: still one of the sweetest fourth-wall-breaking games you'll play ",
-      "image": "https://cdn.mos.cms.futurecdn.net/eyhhzxSRuQwrif24nXwxAS-1280-80.jpg",
-      "summary": "Remains a magical Pixar-like experience, even without a VR headset.",
+      "title": "AI systems are demanding new interaction models. Are designers ready?",
+      "image": "https://placehold.co/600x400",
+      "summary": "AI systems are demanding new interaction models. Are designers ready?",
       "category": "AI Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://www.creativebloq.com/entertainment/gaming/moss-the-forgotten-relic-review-still-one-of-the-sweetest-fourth-wall-breaking-games-youll-play"
+      "link": "https://uxdesign.cc/ai-systems-are-demanding-new-interaction-models-are-designers-ready-d8a95f5e55a9?source=rss----138adf9c44c---4"
     },
     {
-      "title": "Play and design: in favour of the novel digital experience",
+      "title": "Designers are sharpening knives for the wrong fight",
       "image": "https://placehold.co/600x400",
-      "summary": "Design used to let us wander; modernity replaced that wandering with efficiency — now, every product decides where you’ll end up before…\nContinue reading on UX Collective »",
-      "category": "UI/UX",
+      "summary": "Designers are sharpening knives for the wrong fight",
+      "category": "Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://uxdesign.cc/play-and-design-in-favour-of-the-novel-digital-experience-ea4798a2f621?source=rss----138adf9c44c---4"
+      "link": "https://uxdesign.cc/everyones-sharpening-knives-for-the-wrong-fight-56844adad459?source=rss----138adf9c44c---4"
     },
     {
       "title": "From Kickoff To First Concept: How To Turn Brand Strategy Into Visual Direction",
@@ -38,22 +38,22 @@
       "link": "https://smashingmagazine.com/2026/07/how-turn-brand-strategy-into-visual-direction/"
     },
     {
-      "title": " I tried Maxon's free After Effects alternative, and I don't want to go back ",
-      "image": "https://cdn.mos.cms.futurecdn.net/d64Rq4Kfksb9i9AE9eyhUN-1280-80.jpg",
-      "summary": "Maxon Autograph is a free software solution for creating pro motion graphics and animation",
+      "title": " Noble's budget earphone sounds better than their expensive models so it's my go-to recommendation for a wireless earphone at $200 ",
+      "image": "https://cdn.mos.cms.futurecdn.net/fruaycHfTaBPj4ncNzZBtM-1280-80.jpg",
+      "summary": "But are they worth the price?",
       "category": "Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://www.creativebloq.com/3d/3d-software/i-tried-maxons-free-after-effects-alternative-and-i-dont-want-to-go-back"
+      "link": "https://www.creativebloq.com/tech/headphones-earbuds/nobles-budget-earphones-are-better-than-their-more-expensive-models-and-its-not-even-close"
     },
     {
-      "title": "Designing For Distressed Users: Why Mental Health Apps Shouldn’t Follow Every UI Fashion",
-      "image": "http://files.smashing.media/articles/designing-distressed-users-mental-health-apps-ui/designing-distressed-users-mental-health-apps-ui.jpg",
-      "summary": "Many UI trends are designed to capture attention and signal innovation, but those goals often conflict with the needs of mental health apps: reducing cognitive strain, fostering trust, and providing a sense of refuge. Kat Homan introduces an evaluation framework that helps designers assess whether trendy visual and interaction patterns support or undermine the unique goals of mental health experiences.",
-      "category": "UI/UX",
+      "title": " Denshattack! review: the summer's best game is in love with Sega Dreamcast ",
+      "image": "https://cdn.mos.cms.futurecdn.net/fTSKFbF9qGrUrjYK7nJGY7-1280-80.jpg",
+      "summary": "Tony Hawk, Jet Set Radio and SSX Tricky walk into a train station…",
+      "category": "AI Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://smashingmagazine.com/2026/07/designing-distressed-users-mental-health-apps-ui/"
+      "link": "https://www.creativebloq.com/entertainment/gaming/denshattack-review-an-eccentric-off-the-rails-ride-through-90s-arcade-chaos"
     }
   ]
 }
