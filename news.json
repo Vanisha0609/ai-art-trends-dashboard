@@ -1,32 +1,14 @@
 {
-  "lastUpdated": "2026-07-16T02:30:32.921Z",
+  "lastUpdated": "2026-07-17T02:33:08.913Z",
   "articles": [
     {
-      "title": "No, People Don’t Want More AI In Their Life",
-      "image": "http://files.smashing.media/articles/people-dont-want-more-ai/people-dont-want-more-ai.jpg",
-      "summary": "Many companies assume everyone craves new AI features. But the reality is that most people don't want more AI — at least not in the way most AI leaders envision it. Brought to you by Design Patterns For AI Interfaces, **friendly video courses on UX** and design patterns by Vitaly.",
-      "category": "UI/UX",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://smashingmagazine.com/2026/07/people-dont-want-more-ai/"
-    },
-    {
-      "title": "AI systems are demanding new interaction models. Are designers ready?",
+      "title": "Design system contracts: the component lives in neither Figma nor code",
       "image": "https://placehold.co/600x400",
-      "summary": "AI systems are demanding new interaction models. Are designers ready?",
-      "category": "AI Design",
+      "summary": "Design system contracts: the component lives in neither Figma nor code",
+      "category": "Tools",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://uxdesign.cc/ai-systems-are-demanding-new-interaction-models-are-designers-ready-d8a95f5e55a9?source=rss----138adf9c44c---4"
-    },
-    {
-      "title": "Designers are sharpening knives for the wrong fight",
-      "image": "https://placehold.co/600x400",
-      "summary": "Designers are sharpening knives for the wrong fight",
-      "category": "Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://uxdesign.cc/everyones-sharpening-knives-for-the-wrong-fight-56844adad459?source=rss----138adf9c44c---4"
+      "link": "https://uxdesign.cc/design-system-contracts-the-component-lives-in-neither-figma-nor-code-3032d94ca067?source=rss----138adf9c44c---4"
     },
     {
       "title": "From Kickoff To First Concept: How To Turn Brand Strategy Into Visual Direction",
@@ -38,22 +20,40 @@
       "link": "https://smashingmagazine.com/2026/07/how-turn-brand-strategy-into-visual-direction/"
     },
     {
-      "title": " Noble's budget earphone sounds better than their expensive models so it's my go-to recommendation for a wireless earphone at $200 ",
-      "image": "https://cdn.mos.cms.futurecdn.net/fruaycHfTaBPj4ncNzZBtM-1280-80.jpg",
-      "summary": "But are they worth the price?",
-      "category": "Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://www.creativebloq.com/tech/headphones-earbuds/nobles-budget-earphones-are-better-than-their-more-expensive-models-and-its-not-even-close"
-    },
-    {
-      "title": " Denshattack! review: the summer's best game is in love with Sega Dreamcast ",
-      "image": "https://cdn.mos.cms.futurecdn.net/fTSKFbF9qGrUrjYK7nJGY7-1280-80.jpg",
-      "summary": "Tony Hawk, Jet Set Radio and SSX Tricky walk into a train station…",
+      "title": "From vibe to specs: reclaiming the design process with SAID framework",
+      "image": "https://placehold.co/600x400",
+      "summary": "From vibe to specs: reclaiming the design process with SAID framework",
       "category": "AI Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://www.creativebloq.com/entertainment/gaming/denshattack-review-an-eccentric-off-the-rails-ride-through-90s-arcade-chaos"
+      "link": "https://uxdesign.cc/from-vibe-to-specs-reclaiming-the-design-process-with-said-framework-477a5d0d8932?source=rss----138adf9c44c---4"
+    },
+    {
+      "title": " Aston Martin's Dreadnought for Call of Duty is an absolute beast ",
+      "image": "https://cdn.mos.cms.futurecdn.net/9nFM3otP3ARpFec8h6tpmh-1280-80.jpg",
+      "summary": "This SUV is only for Modern Warfare 4, and it's a design masterclass.",
+      "category": "Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://www.creativebloq.com/entertainment/gaming/aston-martins-new-car-design-has-one-problem-it-doesnt-exist"
+    },
+    {
+      "title": " \"Pokémon Go has taken nostalgia, and elevated it\": on its 10th anniversary, experts reflect on the success of Pokémon Go ",
+      "image": "https://cdn.mos.cms.futurecdn.net/NtW6mykoW73tgDpUJ9uggX-1280-80.jpg",
+      "summary": "We look at how the Pokémon Go brand has stood the test of time.",
+      "category": "Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://www.creativebloq.com/design/branding/pokemon-go-has-taken-nostalgia-and-elevated-it-on-its-10th-anniversary-experts-reflect-on-the-success-of-pokemon-go"
+    },
+    {
+      "title": "No, People Don’t Want More AI In Their Life",
+      "image": "http://files.smashing.media/articles/people-dont-want-more-ai/people-dont-want-more-ai.jpg",
+      "summary": "Many companies assume everyone craves new AI features. But the reality is that most people don't want more AI — at least not in the way most AI leaders envision it. Brought to you by Design Patterns For AI Interfaces, **friendly video courses on UX** and design patterns by Vitaly.",
+      "category": "UI/UX",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://smashingmagazine.com/2026/07/people-dont-want-more-ai/"
     }
   ]
 }
