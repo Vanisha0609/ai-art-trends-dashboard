@@ -1,23 +1,32 @@
 {
-  "lastUpdated": "2026-07-18T02:23:50.689Z",
+  "lastUpdated": "2026-07-19T02:36:18.249Z",
   "articles": [
     {
-      "title": " \"We have the opportunity to change the way we use computers\" - Lenovo's design chief on AI, modularity, and the death of the keyboard ",
-      "image": "https://cdn.mos.cms.futurecdn.net/8QGgKW9LJ2Xiy6gpKsgyVc-1280-80.jpg",
-      "summary": "Lenovo's VP of design on how artificial intelligence, foldable screens, and a renewed love of tactility are reshaping the way we think about personal computing.",
+      "title": "When It Makes Sense To “Block” The Main Thread",
+      "image": "http://files.smashing.media/articles/when-makes-sense-block-main-thread/when-makes-sense-block-main-thread.jpg",
+      "summary": "The common rule of thumb is to never “block” the browser’s main thread when running JavaScript tasks. But is this a hard rule? Victor Ayomipo describes a use case he encountered involving a screenshot extension where he made an exception to the rule and decided that blocking the main thread was absolutely the right thing to do.",
       "category": "AI Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://www.creativebloq.com/tech/laptops/we-have-the-opportunity-to-change-the-way-we-use-computers-lenovos-design-chief-on-ai-modularity-and-the-death-of-the-keyboard"
+      "link": "https://smashingmagazine.com/2026/07/when-makes-sense-block-main-thread/"
     },
     {
-      "title": "No, People Don’t Want More AI In Their Life",
-      "image": "http://files.smashing.media/articles/people-dont-want-more-ai/people-dont-want-more-ai.jpg",
-      "summary": "Many companies assume everyone craves new AI features. But the reality is that most people don't want more AI — at least not in the way most AI leaders envision it. Brought to you by Design Patterns For AI Interfaces, **friendly video courses on UX** and design patterns by Vitaly.",
-      "category": "UI/UX",
+      "title": " Graphic designer? These are the 3 laptops you need to consider ",
+      "image": "https://cdn.mos.cms.futurecdn.net/irCYiETJopr3CozMs2RrZF-1280-80.jpg",
+      "summary": "Whatever your platform, power needs and budget, we've got the option for you.",
+      "category": "Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://smashingmagazine.com/2026/07/people-dont-want-more-ai/"
+      "link": "https://www.creativebloq.com/tech/laptops/graphic-designer-these-are-the-3-laptops-you-need-to-consider"
+    },
+    {
+      "title": " Backrooms and Obsession changed the rules of filmmaking – now the tools are finally catching up ",
+      "image": "https://cdn.mos.cms.futurecdn.net/uuzxVBhnozpvDLqUpGabYk-1280-80.jpg",
+      "summary": "Lightcraft CEO and co-founder Eliot Mack says new creators need the tools to match their ambition.",
+      "category": "Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://www.creativebloq.com/3d/vfx-cgi/backrooms-and-obsession-changed-the-rules-of-filmmaking-now-the-tools-are-finally-catching-up"
     },
     {
       "title": "AI just called design’s bluff",
@@ -29,15 +38,6 @@
       "link": "https://uxdesign.cc/ai-just-called-designs-bluff-2b94bf2f5cae?source=rss----138adf9c44c---4"
     },
     {
-      "title": "When It Makes Sense To “Block” The Main Thread",
-      "image": "http://files.smashing.media/articles/when-makes-sense-block-main-thread/when-makes-sense-block-main-thread.jpg",
-      "summary": "The common rule of thumb is to never “block” the browser’s main thread when running JavaScript tasks. But is this a hard rule? Victor Ayomipo describes a use case he encountered involving a screenshot extension where he made an exception to the rule and decided that blocking the main thread was absolutely the right thing to do.",
-      "category": "AI Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://smashingmagazine.com/2026/07/when-makes-sense-block-main-thread/"
-    },
-    {
       "title": "The “mocked, then loved” AirPods effect",
       "image": "https://placehold.co/600x400",
       "summary": "The “mocked, then loved” AirPods effect",
@@ -47,13 +47,13 @@
       "link": "https://uxdesign.cc/the-mocked-then-loved-airpods-effect-65ec25feeb3a?source=rss----138adf9c44c---4"
     },
     {
-      "title": " The Audeze Maxwell 2 (ANC) is low key the cleverest gaming headset on sale ",
-      "image": "https://cdn.mos.cms.futurecdn.net/ATUk7E6eVPJ7m7iGK5fSdN-1280-80.jpg",
-      "summary": "These elite-sounding headphones just added ANC, but not for obvious reasons.",
-      "category": "Design",
+      "title": "No, People Don’t Want More AI In Their Life",
+      "image": "http://files.smashing.media/articles/people-dont-want-more-ai/people-dont-want-more-ai.jpg",
+      "summary": "Many companies assume everyone craves new AI features. But the reality is that most people don't want more AI — at least not in the way most AI leaders envision it. Brought to you by Design Patterns For AI Interfaces, **friendly video courses on UX** and design patterns by Vitaly.",
+      "category": "UI/UX",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://www.creativebloq.com/tech/headphones-earbuds/the-audeze-maxwell-2-anc-is-low-key-the-cleverest-gaming-headset-on-sale"
+      "link": "https://smashingmagazine.com/2026/07/people-dont-want-more-ai/"
     }
   ]
 }
