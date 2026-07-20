@@ -1,42 +1,6 @@
 {
-  "lastUpdated": "2026-07-19T02:36:18.249Z",
+  "lastUpdated": "2026-07-20T03:17:00.985Z",
   "articles": [
-    {
-      "title": "When It Makes Sense To “Block” The Main Thread",
-      "image": "http://files.smashing.media/articles/when-makes-sense-block-main-thread/when-makes-sense-block-main-thread.jpg",
-      "summary": "The common rule of thumb is to never “block” the browser’s main thread when running JavaScript tasks. But is this a hard rule? Victor Ayomipo describes a use case he encountered involving a screenshot extension where he made an exception to the rule and decided that blocking the main thread was absolutely the right thing to do.",
-      "category": "AI Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://smashingmagazine.com/2026/07/when-makes-sense-block-main-thread/"
-    },
-    {
-      "title": " Graphic designer? These are the 3 laptops you need to consider ",
-      "image": "https://cdn.mos.cms.futurecdn.net/irCYiETJopr3CozMs2RrZF-1280-80.jpg",
-      "summary": "Whatever your platform, power needs and budget, we've got the option for you.",
-      "category": "Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://www.creativebloq.com/tech/laptops/graphic-designer-these-are-the-3-laptops-you-need-to-consider"
-    },
-    {
-      "title": " Backrooms and Obsession changed the rules of filmmaking – now the tools are finally catching up ",
-      "image": "https://cdn.mos.cms.futurecdn.net/uuzxVBhnozpvDLqUpGabYk-1280-80.jpg",
-      "summary": "Lightcraft CEO and co-founder Eliot Mack says new creators need the tools to match their ambition.",
-      "category": "Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://www.creativebloq.com/3d/vfx-cgi/backrooms-and-obsession-changed-the-rules-of-filmmaking-now-the-tools-are-finally-catching-up"
-    },
-    {
-      "title": "AI just called design’s bluff",
-      "image": "https://placehold.co/600x400",
-      "summary": "AI just called design’s bluff",
-      "category": "AI Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://uxdesign.cc/ai-just-called-designs-bluff-2b94bf2f5cae?source=rss----138adf9c44c---4"
-    },
     {
       "title": "The “mocked, then loved” AirPods effect",
       "image": "https://placehold.co/600x400",
@@ -47,6 +11,33 @@
       "link": "https://uxdesign.cc/the-mocked-then-loved-airpods-effect-65ec25feeb3a?source=rss----138adf9c44c---4"
     },
     {
+      "title": " Cities aren't malls. So why are they starting to look like them? ",
+      "image": "https://cdn.mos.cms.futurecdn.net/3MfD3CW4jiZhA75o6dcSgL-1280-80.jpg",
+      "summary": "From signage to branding, clarity is key. But the true goal is to foster connection.",
+      "category": "Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://www.creativebloq.com/design/branding/cities-arent-malls-so-why-are-they-starting-to-look-like-them"
+    },
+    {
+      "title": "The weakest channel",
+      "image": "https://placehold.co/600x400",
+      "summary": "Universality isn’t designed into things. It’s selected by surviving constraints — and often, people are the constraint.\nContinue reading on UX Collective »",
+      "category": "UI/UX",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://uxdesign.cc/the-weakest-channel-1e6d68d8d562?source=rss----138adf9c44c---4"
+    },
+    {
+      "title": " This artist created a ‘Southern American sumi-e’ art style using sumi and Diamine ink on Bristol vellum ",
+      "image": "https://cdn.mos.cms.futurecdn.net/Z4AYWEiyjWaZBFa8SsxmoL-1280-80.jpg",
+      "summary": "After studying law, Will Thompson found his true passion in traditional ink drawing.",
+      "category": "Illustration",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://www.creativebloq.com/art/digital-art/this-artist-created-a-southern-american-sumi-e-art-style-using-sumi-and-diamine-ink-on-bristol-vellum"
+    },
+    {
       "title": "No, People Don’t Want More AI In Their Life",
       "image": "http://files.smashing.media/articles/people-dont-want-more-ai/people-dont-want-more-ai.jpg",
       "summary": "Many companies assume everyone craves new AI features. But the reality is that most people don't want more AI — at least not in the way most AI leaders envision it. Brought to you by Design Patterns For AI Interfaces, **friendly video courses on UX** and design patterns by Vitaly.",
@@ -54,6 +45,15 @@
       "style": "Unknown",
       "mood": "Neutral",
       "link": "https://smashingmagazine.com/2026/07/people-dont-want-more-ai/"
+    },
+    {
+      "title": "When It Makes Sense To “Block” The Main Thread",
+      "image": "http://files.smashing.media/articles/when-makes-sense-block-main-thread/when-makes-sense-block-main-thread.jpg",
+      "summary": "The common rule of thumb is to never “block” the browser’s main thread when running JavaScript tasks. But is this a hard rule? Victor Ayomipo describes a use case he encountered involving a screenshot extension where he made an exception to the rule and decided that blocking the main thread was absolutely the right thing to do.",
+      "category": "AI Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://smashingmagazine.com/2026/07/when-makes-sense-block-main-thread/"
     }
   ]
 }
