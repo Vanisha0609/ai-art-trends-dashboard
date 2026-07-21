@@ -1,50 +1,41 @@
 {
-  "lastUpdated": "2026-07-20T03:17:00.985Z",
+  "lastUpdated": "2026-07-21T02:34:24.054Z",
   "articles": [
     {
-      "title": "The “mocked, then loved” AirPods effect",
+      "title": "Research shouldn’t end in a deck",
       "image": "https://placehold.co/600x400",
-      "summary": "The “mocked, then loved” AirPods effect",
-      "category": "AI Design",
+      "summary": "How I use Claude Code to challenge assumptions and turn research into a living artifact\nContinue reading on UX Collective »",
+      "category": "UI/UX",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://uxdesign.cc/the-mocked-then-loved-airpods-effect-65ec25feeb3a?source=rss----138adf9c44c---4"
+      "link": "https://uxdesign.cc/research-shouldnt-end-in-a-deck-fe7c1d4fe1af?source=rss----138adf9c44c---4"
     },
     {
-      "title": " Cities aren't malls. So why are they starting to look like them? ",
-      "image": "https://cdn.mos.cms.futurecdn.net/3MfD3CW4jiZhA75o6dcSgL-1280-80.jpg",
-      "summary": "From signage to branding, clarity is key. But the true goal is to foster connection.",
+      "title": " After hearing $5,000 and $100 headphones there's a levelling factor that no one is talking about ",
+      "image": "https://cdn.mos.cms.futurecdn.net/oRmMfVTEVZoxDSu4X5ZNP5-1280-80.jpg",
+      "summary": "But are they worth the price?",
       "category": "Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://www.creativebloq.com/design/branding/cities-arent-malls-so-why-are-they-starting-to-look-like-them"
+      "link": "https://www.creativebloq.com/tech/headphones-earbuds/after-hearing-usd5-000-and-usd100-headphones-theres-a-levelling-factor-that-no-one-is-talking-about"
     },
     {
-      "title": "The weakest channel",
+      "title": " Apple's most beautiful iPhone is £200 off right now ",
+      "image": "https://cdn.mos.cms.futurecdn.net/aQC8zRh6UuFKnkLiKsHEvj-1280-80.jpg",
+      "summary": "The iPhone Air isn't for everyone, but at £799 it might just be for you.",
+      "category": "AI Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://www.creativebloq.com/design/product-design/apples-most-beautiful-iphone-is-gbp200-off-right-now"
+    },
+    {
+      "title": "How to apply Nir Eyal’s Hook Model to AI products, safely",
       "image": "https://placehold.co/600x400",
-      "summary": "Universality isn’t designed into things. It’s selected by surviving constraints — and often, people are the constraint.\nContinue reading on UX Collective »",
-      "category": "UI/UX",
+      "summary": "How to apply Nir Eyal’s Hook Model to AI products, safely",
+      "category": "AI Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://uxdesign.cc/the-weakest-channel-1e6d68d8d562?source=rss----138adf9c44c---4"
-    },
-    {
-      "title": " This artist created a ‘Southern American sumi-e’ art style using sumi and Diamine ink on Bristol vellum ",
-      "image": "https://cdn.mos.cms.futurecdn.net/Z4AYWEiyjWaZBFa8SsxmoL-1280-80.jpg",
-      "summary": "After studying law, Will Thompson found his true passion in traditional ink drawing.",
-      "category": "Illustration",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://www.creativebloq.com/art/digital-art/this-artist-created-a-southern-american-sumi-e-art-style-using-sumi-and-diamine-ink-on-bristol-vellum"
-    },
-    {
-      "title": "No, People Don’t Want More AI In Their Life",
-      "image": "http://files.smashing.media/articles/people-dont-want-more-ai/people-dont-want-more-ai.jpg",
-      "summary": "Many companies assume everyone craves new AI features. But the reality is that most people don't want more AI — at least not in the way most AI leaders envision it. Brought to you by Design Patterns For AI Interfaces, **friendly video courses on UX** and design patterns by Vitaly.",
-      "category": "UI/UX",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://smashingmagazine.com/2026/07/people-dont-want-more-ai/"
+      "link": "https://uxdesign.cc/how-to-apply-nir-eyals-hook-model-to-ai-products-safely-f6a986305a2d?source=rss----138adf9c44c---4"
     },
     {
       "title": "When It Makes Sense To “Block” The Main Thread",
@@ -54,6 +45,15 @@
       "style": "Unknown",
       "mood": "Neutral",
       "link": "https://smashingmagazine.com/2026/07/when-makes-sense-block-main-thread/"
+    },
+    {
+      "title": "No, People Don’t Want More AI In Their Life",
+      "image": "http://files.smashing.media/articles/people-dont-want-more-ai/people-dont-want-more-ai.jpg",
+      "summary": "Many companies assume everyone craves new AI features. But the reality is that most people don't want more AI — at least not in the way most AI leaders envision it. Brought to you by Design Patterns For AI Interfaces, **friendly video courses on UX** and design patterns by Vitaly.",
+      "category": "UI/UX",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://smashingmagazine.com/2026/07/people-dont-want-more-ai/"
     }
   ]
 }
