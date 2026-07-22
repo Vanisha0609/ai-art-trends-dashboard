@@ -1,42 +1,6 @@
 {
-  "lastUpdated": "2026-07-21T02:34:24.054Z",
+  "lastUpdated": "2026-07-22T02:32:58.393Z",
   "articles": [
-    {
-      "title": "Research shouldn’t end in a deck",
-      "image": "https://placehold.co/600x400",
-      "summary": "How I use Claude Code to challenge assumptions and turn research into a living artifact\nContinue reading on UX Collective »",
-      "category": "UI/UX",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://uxdesign.cc/research-shouldnt-end-in-a-deck-fe7c1d4fe1af?source=rss----138adf9c44c---4"
-    },
-    {
-      "title": " After hearing $5,000 and $100 headphones there's a levelling factor that no one is talking about ",
-      "image": "https://cdn.mos.cms.futurecdn.net/oRmMfVTEVZoxDSu4X5ZNP5-1280-80.jpg",
-      "summary": "But are they worth the price?",
-      "category": "Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://www.creativebloq.com/tech/headphones-earbuds/after-hearing-usd5-000-and-usd100-headphones-theres-a-levelling-factor-that-no-one-is-talking-about"
-    },
-    {
-      "title": " Apple's most beautiful iPhone is £200 off right now ",
-      "image": "https://cdn.mos.cms.futurecdn.net/aQC8zRh6UuFKnkLiKsHEvj-1280-80.jpg",
-      "summary": "The iPhone Air isn't for everyone, but at £799 it might just be for you.",
-      "category": "AI Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://www.creativebloq.com/design/product-design/apples-most-beautiful-iphone-is-gbp200-off-right-now"
-    },
-    {
-      "title": "How to apply Nir Eyal’s Hook Model to AI products, safely",
-      "image": "https://placehold.co/600x400",
-      "summary": "How to apply Nir Eyal’s Hook Model to AI products, safely",
-      "category": "AI Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://uxdesign.cc/how-to-apply-nir-eyals-hook-model-to-ai-products-safely-f6a986305a2d?source=rss----138adf9c44c---4"
-    },
     {
       "title": "When It Makes Sense To “Block” The Main Thread",
       "image": "http://files.smashing.media/articles/when-makes-sense-block-main-thread/when-makes-sense-block-main-thread.jpg",
@@ -47,13 +11,49 @@
       "link": "https://smashingmagazine.com/2026/07/when-makes-sense-block-main-thread/"
     },
     {
-      "title": "No, People Don’t Want More AI In Their Life",
-      "image": "http://files.smashing.media/articles/people-dont-want-more-ai/people-dont-want-more-ai.jpg",
-      "summary": "Many companies assume everyone craves new AI features. But the reality is that most people don't want more AI — at least not in the way most AI leaders envision it. Brought to you by Design Patterns For AI Interfaces, **friendly video courses on UX** and design patterns by Vitaly.",
+      "title": "AI can fake your portfolio. It can’t fake the second question.",
+      "image": "https://placehold.co/600x400",
+      "summary": "AI can fake your portfolio. It can’t fake the second question.",
+      "category": "AI Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://uxdesign.cc/ai-can-fake-your-portfolio-it-cant-fake-the-second-question-c89f96626f1c?source=rss----138adf9c44c---4"
+    },
+    {
+      "title": "Weaponizing And Defending The React Flight Protocol: Deserialization Sinks In RSCs",
+      "image": "http://files.smashing.media/articles/weaponizing-defending-react-flight-protocol/weaponizing-defending-react-flight-protocol.jpg",
+      "summary": "While React Server Components rely on the custom Flight protocol to stream interactive UIs, this same mechanism introduces powerful deserialization sinks that attackers can exploit. Durgesh Pawar breaks down the mechanics behind the CVSS 10.0 “React2Shell” vulnerability to show how protocol manipulation can lead to remote code execution.",
       "category": "UI/UX",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://smashingmagazine.com/2026/07/people-dont-want-more-ai/"
+      "link": "https://smashingmagazine.com/2026/07/weaponizing-defending-react-flight-protocol/"
+    },
+    {
+      "title": " Everyone's saying the same thing about the new Coca-Cola font ",
+      "image": "https://cdn.mos.cms.futurecdn.net/ywgosVimmzSitEPUfQFxr5-1280-80.jpg",
+      "summary": "\"The most self-aware thing a sugar company has ever done.\"",
+      "category": "Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://www.creativebloq.com/design/fonts-typography/everyones-saying-the-same-thing-about-coca-colas-new-font"
+    },
+    {
+      "title": " These $35 earphones have 2 sound profiles for the price of 1 ",
+      "image": "https://cdn.mos.cms.futurecdn.net/BphBNfEgBmARxKtBAqbLxF-1280-80.jpg",
+      "summary": "The OoopusX Op.22 earphones may look sci-fi, but the two sound profiles you get with them are both fun and refined.",
+      "category": "Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://www.creativebloq.com/tech/headphones-earbuds/these-usd35-earphones-have-2-sound-profiles-for-the-price-of-1"
+    },
+    {
+      "title": "I handed a UX review over to AI. Here’s what happened.",
+      "image": "https://placehold.co/600x400",
+      "summary": "I handed a UX review over to AI. Here’s what happened.",
+      "category": "UI/UX",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://uxdesign.cc/i-handed-a-ux-review-over-to-ai-heres-what-happened-0511e73e4ffe?source=rss----138adf9c44c---4"
     }
   ]
 }
