@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2026-07-22T02:32:58.393Z",
+  "lastUpdated": "2026-07-23T02:38:12.613Z",
   "articles": [
+    {
+      "title": " Quote of the Day by Ozzy Osbourne: \"Rock music isn't meant to be perfect\" ",
+      "image": "https://cdn.mos.cms.futurecdn.net/PQwKiGuAjoE9PVt9cKVf7T-1280-80.jpg",
+      "summary": "Ozzy's sentiment is a timely reminder of the importance of flawed human creativity. Here's what we can learn.",
+      "category": "Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://www.creativebloq.com/ai/ai-art/quote-of-the-day-by-ozzy-osbourne-rock-music-isnt-meant-to-be-perfect"
+    },
+    {
+      "title": "The digital wall we built ourselves",
+      "image": "https://placehold.co/600x400",
+      "summary": "Why 95.9% of the world’s top million sites still fail the people who need them most.\nContinue reading on UX Collective »",
+      "category": "UI/UX",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://uxdesign.cc/the-digital-wall-we-built-ourselves-e9578f774374?source=rss----138adf9c44c---4"
+    },
+    {
+      "title": "The screens are getting demoted",
+      "image": "https://placehold.co/600x400",
+      "summary": "The screens are getting demoted",
+      "category": "Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://uxdesign.cc/the-screens-are-getting-demoted-6b40120fcf04?source=rss----138adf9c44c---4"
+    },
     {
       "title": "When It Makes Sense To “Block” The Main Thread",
       "image": "http://files.smashing.media/articles/when-makes-sense-block-main-thread/when-makes-sense-block-main-thread.jpg",
@@ -9,15 +36,6 @@
       "style": "Unknown",
       "mood": "Neutral",
       "link": "https://smashingmagazine.com/2026/07/when-makes-sense-block-main-thread/"
-    },
-    {
-      "title": "AI can fake your portfolio. It can’t fake the second question.",
-      "image": "https://placehold.co/600x400",
-      "summary": "AI can fake your portfolio. It can’t fake the second question.",
-      "category": "AI Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://uxdesign.cc/ai-can-fake-your-portfolio-it-cant-fake-the-second-question-c89f96626f1c?source=rss----138adf9c44c---4"
     },
     {
       "title": "Weaponizing And Defending The React Flight Protocol: Deserialization Sinks In RSCs",
@@ -29,31 +47,13 @@
       "link": "https://smashingmagazine.com/2026/07/weaponizing-defending-react-flight-protocol/"
     },
     {
-      "title": " Everyone's saying the same thing about the new Coca-Cola font ",
-      "image": "https://cdn.mos.cms.futurecdn.net/ywgosVimmzSitEPUfQFxr5-1280-80.jpg",
-      "summary": "\"The most self-aware thing a sugar company has ever done.\"",
+      "title": " This $35 Kodak camera is the cheapest way to get into film photography ",
+      "image": "https://cdn.mos.cms.futurecdn.net/VmzxzLHoAnspNe7kz5FQTi-1280-80.jpg",
+      "summary": "The EC35 camera reminds me why I loved film, but for less.",
       "category": "Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://www.creativebloq.com/design/fonts-typography/everyones-saying-the-same-thing-about-coca-colas-new-font"
-    },
-    {
-      "title": " These $35 earphones have 2 sound profiles for the price of 1 ",
-      "image": "https://cdn.mos.cms.futurecdn.net/BphBNfEgBmARxKtBAqbLxF-1280-80.jpg",
-      "summary": "The OoopusX Op.22 earphones may look sci-fi, but the two sound profiles you get with them are both fun and refined.",
-      "category": "Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://www.creativebloq.com/tech/headphones-earbuds/these-usd35-earphones-have-2-sound-profiles-for-the-price-of-1"
-    },
-    {
-      "title": "I handed a UX review over to AI. Here’s what happened.",
-      "image": "https://placehold.co/600x400",
-      "summary": "I handed a UX review over to AI. Here’s what happened.",
-      "category": "UI/UX",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://uxdesign.cc/i-handed-a-ux-review-over-to-ai-heres-what-happened-0511e73e4ffe?source=rss----138adf9c44c---4"
+      "link": "https://www.creativebloq.com/photography/cameras-accessories/this-usd35-kodak-camera-is-the-cheapest-way-to-get-into-film-photography"
     }
   ]
 }
