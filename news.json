@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-07-24T02:34:44.050Z",
+  "lastUpdated": "2026-07-25T02:32:53.244Z",
   "articles": [
+    {
+      "title": "The aggressively mediocre fight",
+      "image": "https://placehold.co/600x400",
+      "summary": "The battle we have with AI and something we can do about it.\nContinue reading on UX Collective »",
+      "category": "UI/UX",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://uxdesign.cc/the-aggressively-mediocre-fight-ed47b3f9f8f4?source=rss----138adf9c44c---4"
+    },
     {
       "title": "When It Makes Sense To “Block” The Main Thread",
       "image": "http://files.smashing.media/articles/when-makes-sense-block-main-thread/when-makes-sense-block-main-thread.jpg",
@@ -29,31 +38,22 @@
       "link": "https://smashingmagazine.com/2026/07/weaponizing-defending-react-flight-protocol/"
     },
     {
-      "title": " Anycubic's best 3D printer hits its lowest price ever for 15 hours only ",
-      "image": "https://cdn.mos.cms.futurecdn.net/Duu42E5BVVYNjhyqq3nnQa-1280-80.jpg",
-      "summary": "I'd hurry if you want to get the Kobra X for a steal.",
-      "category": "3D Art",
+      "title": " The ultimate advert quiz: think you know your 1960s ads? ",
+      "image": "https://cdn.mos.cms.futurecdn.net/E585utmAjyP8v5ZmKgChHN-1280-80.jpg",
+      "summary": "Our adverts through the decade series continues with 1960s advert trivia.",
+      "category": "UI/UX",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://www.creativebloq.com/3d/3d-printing/anycubics-best-3d-printer-hits-its-lowest-price-ever-for-15-hours-only"
+      "link": "https://www.creativebloq.com/design/logos-icons/the-ultimate-advert-quiz-think-you-know-your-1960s-ads"
     },
     {
-      "title": " Halo: Campaign Evolved (PS5) review: the Unreal Engine 5 remake is almost everything fans could hope for ",
-      "image": "https://cdn.mos.cms.futurecdn.net/LsK2aYvCgt2kcKpmjNdBmV-1280-80.jpg",
-      "summary": "Some technical niggles can't overshadow what made Halo great.",
-      "category": "AI Design",
+      "title": " Bandai Namco is reinventing Gundam with a new universe built across anime, games and Gunpla ",
+      "image": "https://cdn.mos.cms.futurecdn.net/UsQrPJTypbqku8EUPpynb9-1280-80.jpg",
+      "summary": "The new game Rogue Orbit is redesigning how the famous anime is made.",
+      "category": "UI/UX",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://www.creativebloq.com/entertainment/gaming/halo-campaign-evolved-ps5-review-the-unreal-engine-5-remake-is-almost-everything-fans-could-hope-for"
-    },
-    {
-      "title": "Four questions every tool should answer (even Figma) about AI training model usage",
-      "image": "https://placehold.co/600x400",
-      "summary": "Four questions every tool should answer (even Figma) about AI training model usage",
-      "category": "Tools",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://uxdesign.cc/the-trust-test-four-questions-every-tool-should-answer-even-figma-about-ai-training-model-usage-4f1150f91a30?source=rss----138adf9c44c---4"
+      "link": "https://www.creativebloq.com/entertainment/gaming/bandai-namco-is-reinventing-gundam-with-a-new-universe-built-across-anime-games-and-gunpla"
     }
   ]
 }
