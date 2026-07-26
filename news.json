@@ -1,14 +1,14 @@
 {
-  "lastUpdated": "2026-07-25T02:32:53.244Z",
+  "lastUpdated": "2026-07-26T02:40:47.297Z",
   "articles": [
     {
-      "title": "The aggressively mediocre fight",
-      "image": "https://placehold.co/600x400",
-      "summary": "The battle we have with AI and something we can do about it.\nContinue reading on UX Collective »",
+      "title": "Weaponizing And Defending The React Flight Protocol: Deserialization Sinks In RSCs",
+      "image": "http://files.smashing.media/articles/weaponizing-defending-react-flight-protocol/weaponizing-defending-react-flight-protocol.jpg",
+      "summary": "While React Server Components rely on the custom Flight protocol to stream interactive UIs, this same mechanism introduces powerful deserialization sinks that attackers can exploit. Durgesh Pawar breaks down the mechanics behind the CVSS 10.0 “React2Shell” vulnerability to show how protocol manipulation can lead to remote code execution.",
       "category": "UI/UX",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://uxdesign.cc/the-aggressively-mediocre-fight-ed47b3f9f8f4?source=rss----138adf9c44c---4"
+      "link": "https://smashingmagazine.com/2026/07/weaponizing-defending-react-flight-protocol/"
     },
     {
       "title": "When It Makes Sense To “Block” The Main Thread",
@@ -29,31 +29,31 @@
       "link": "https://uxdesign.cc/steal-this-ux-framework-from-dubais-most-over-the-top-hotel-0b14f71e46e5?source=rss----138adf9c44c---4"
     },
     {
-      "title": "Weaponizing And Defending The React Flight Protocol: Deserialization Sinks In RSCs",
-      "image": "http://files.smashing.media/articles/weaponizing-defending-react-flight-protocol/weaponizing-defending-react-flight-protocol.jpg",
-      "summary": "While React Server Components rely on the custom Flight protocol to stream interactive UIs, this same mechanism introduces powerful deserialization sinks that attackers can exploit. Durgesh Pawar breaks down the mechanics behind the CVSS 10.0 “React2Shell” vulnerability to show how protocol manipulation can lead to remote code execution.",
-      "category": "UI/UX",
+      "title": " Samsung’s biggest foldable rival is now £600 off ",
+      "image": "https://cdn.mos.cms.futurecdn.net/Ke63kTA4dqfWtTtGnE5HKB-1280-80.jpg",
+      "summary": "Samsung might have rivals panicking, as Honor cuts extra £100 off its V6 promotion",
+      "category": "Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://smashingmagazine.com/2026/07/weaponizing-defending-react-flight-protocol/"
+      "link": "https://www.creativebloq.com/tech/phones-tablets/samsungs-biggest-foldable-rival-is-now-gbp600-off"
     },
     {
-      "title": " The ultimate advert quiz: think you know your 1960s ads? ",
-      "image": "https://cdn.mos.cms.futurecdn.net/E585utmAjyP8v5ZmKgChHN-1280-80.jpg",
-      "summary": "Our adverts through the decade series continues with 1960s advert trivia.",
-      "category": "UI/UX",
+      "title": " Get up to 39% off Nintendo Switch games, from Smash Bros. to retro classics ",
+      "image": "https://cdn.mos.cms.futurecdn.net/hSCLKn5WXBNadjb98mFmtH-1280-80.jpg",
+      "summary": "Here’s your excuse to dive into that 'to be played’ list.",
+      "category": "Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://www.creativebloq.com/design/logos-icons/the-ultimate-advert-quiz-think-you-know-your-1960s-ads"
+      "link": "https://www.creativebloq.com/entertainment/gaming/get-up-to-39-percent-off-nintendo-switch-games-from-smash-bros-to-retro-classics"
     },
     {
-      "title": " Bandai Namco is reinventing Gundam with a new universe built across anime, games and Gunpla ",
-      "image": "https://cdn.mos.cms.futurecdn.net/UsQrPJTypbqku8EUPpynb9-1280-80.jpg",
-      "summary": "The new game Rogue Orbit is redesigning how the famous anime is made.",
+      "title": "The aggressively mediocre fight",
+      "image": "https://placehold.co/600x400",
+      "summary": "The battle we have with AI and something we can do about it.\nContinue reading on UX Collective »",
       "category": "UI/UX",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://www.creativebloq.com/entertainment/gaming/bandai-namco-is-reinventing-gundam-with-a-new-universe-built-across-anime-games-and-gunpla"
+      "link": "https://uxdesign.cc/the-aggressively-mediocre-fight-ed47b3f9f8f4?source=rss----138adf9c44c---4"
     }
   ]
 }
