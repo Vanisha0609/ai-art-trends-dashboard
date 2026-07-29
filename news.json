@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2026-07-28T02:27:32.890Z",
+  "lastUpdated": "2026-07-29T02:31:46.790Z",
   "articles": [
+    {
+      "title": "Thinking Outside The Box: Digital Design In The AI Era",
+      "image": "http://files.smashing.media/articles/digital-design-ai-era/digital-design-ai-era.jpg",
+      "summary": "Many of the AI tools we interact with take the form of text boxes. But what if there was a different way to interact with AI? Oleksii Hrzhehorzhevskyi explores a different approach to creating a new AI assistant and how designers can navigate the field as AI continues to change it.",
+      "category": "AI Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://smashingmagazine.com/2026/07/digital-design-ai-era/"
+    },
+    {
+      "title": "The MOS 6502: the people’s princess",
+      "image": "https://placehold.co/600x400",
+      "summary": "The impact of blending arcade game UI concepts with the power of affordable 1970s calculator chips\nContinue reading on UX Collective »",
+      "category": "UI/UX",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://uxdesign.cc/the-mos-6502-the-peoples-princess-0a2f99409834?source=rss----138adf9c44c---4"
+    },
+    {
+      "title": " Is this $35 pen really better than a Montblanc? ",
+      "image": "https://cdn.mos.cms.futurecdn.net/9s9ysGHYrwFc4Gb9AC37ig-1280-80.jpg",
+      "summary": "Some reviewers are calling it Meisterstück quality for a tenth of the price.",
+      "category": "Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://www.creativebloq.com/design/product-design/is-this-usd35-pen-really-better-than-a-montblanc"
+    },
     {
       "title": "Weaponizing And Defending The React Flight Protocol: Deserialization Sinks In RSCs",
       "image": "http://files.smashing.media/articles/weaponizing-defending-react-flight-protocol/weaponizing-defending-react-flight-protocol.jpg",
@@ -9,15 +36,6 @@
       "style": "Unknown",
       "mood": "Neutral",
       "link": "https://smashingmagazine.com/2026/07/weaponizing-defending-react-flight-protocol/"
-    },
-    {
-      "title": "The consciousness mirage in AI design",
-      "image": "https://placehold.co/600x400",
-      "summary": "We know it’s not human. We feel heard anyway. What mind attribution does to your users, and why it’s now a UX design dial.\nContinue reading on UX Collective »",
-      "category": "UI/UX",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://uxdesign.cc/the-anthropomorphism-consciousness-mirage-in-ai-design-ux-framework-8e23beb1d7c1?source=rss----138adf9c44c---4"
     },
     {
       "title": "From frictionless to meaningful",
@@ -29,31 +47,13 @@
       "link": "https://uxdesign.cc/from-frictionless-to-meaningful-2dc785d6cc4e?source=rss----138adf9c44c---4"
     },
     {
-      "title": " Download resources for ImagineFX 269 ",
-      "image": "https://cdn.mos.cms.futurecdn.net/phtPeL6id6XuiYzaHdHec9-1280-80.jpg",
-      "summary": "All the files, resources and videos to accompany issue 269 of ImagineFX magazine.",
-      "category": "Design",
+      "title": " The Horniman Museum embraces imperfection with quirky new campaign ",
+      "image": "https://cdn.mos.cms.futurecdn.net/QdEDTDFRJ6tatYTZ32NZGU-1280-80.jpg",
+      "summary": "From snails to xylophones, creative inspiration can be unexpected.",
+      "category": "UI/UX",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://www.creativebloq.com/design/magazines/download-resources-for-imaginefx-269"
-    },
-    {
-      "title": " Be a game artist with issue 269 of ImagineFX ",
-      "image": "https://cdn.mos.cms.futurecdn.net/fHLETiyPdYogfSjSyfU2r9-1280-80.jpg",
-      "summary": "Practical inspiration for your art projects",
-      "category": "Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://www.creativebloq.com/professional-development/artistic-tips-techniques/be-a-game-artist-with-issue-269-of-imaginefx"
-    },
-    {
-      "title": "When It Makes Sense To “Block” The Main Thread",
-      "image": "http://files.smashing.media/articles/when-makes-sense-block-main-thread/when-makes-sense-block-main-thread.jpg",
-      "summary": "The common rule of thumb is to never “block” the browser’s main thread when running JavaScript tasks. But is this a hard rule? Victor Ayomipo describes a use case he encountered involving a screenshot extension where he made an exception to the rule and decided that blocking the main thread was absolutely the right thing to do.",
-      "category": "AI Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://smashingmagazine.com/2026/07/when-makes-sense-block-main-thread/"
+      "link": "https://www.creativebloq.com/design/branding/the-horniman-museum-embraces-imperfection-with-quirky-new-campaign"
     }
   ]
 }
