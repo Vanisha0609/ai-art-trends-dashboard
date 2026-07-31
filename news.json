@@ -1,15 +1,6 @@
 {
-  "lastUpdated": "2026-07-30T02:14:19.623Z",
+  "lastUpdated": "2026-07-31T02:42:48.223Z",
   "articles": [
-    {
-      "title": " Iconic fashion designers recreate America’s state flags in dazzling homage ",
-      "image": "https://cdn.mos.cms.futurecdn.net/s6jztykjQnfSmo9Ck9DHQQ-1280-80.jpg",
-      "summary": "Vogue teams up with the CFDA for the United Flags of Fashion.",
-      "category": "Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://www.creativebloq.com/design/iconic-fashion-designers-recreate-americas-state-flags-in-dazzling-homage"
-    },
     {
       "title": "Thinking Outside The Box: Digital Design In The AI Era",
       "image": "http://files.smashing.media/articles/digital-design-ai-era/digital-design-ai-era.jpg",
@@ -20,22 +11,13 @@
       "link": "https://smashingmagazine.com/2026/07/digital-design-ai-era/"
     },
     {
-      "title": "Battling AI fatigue as a designer and developer: a practical guide",
-      "image": "https://placehold.co/600x400",
-      "summary": "Battling AI fatigue as a designer and developer: a practical guide",
-      "category": "UI/UX",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://uxdesign.cc/battling-ai-fatigue-as-a-designer-and-developer-a-practical-guide-d04a2549e802?source=rss----138adf9c44c---4"
-    },
-    {
-      "title": "Your people get AI. Get out of their way.",
-      "image": "https://placehold.co/600x400",
-      "summary": "Your people get AI. Get out of their way.",
+      "title": " Tyla hit with heated AI allegations over new animated music video ",
+      "image": "https://cdn.mos.cms.futurecdn.net/LVibUQ39eZEUwKoKAZtPoH-1280-80.jpg",
+      "summary": "‘That Girl’ has ruffled feathers online.",
       "category": "AI Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://uxdesign.cc/your-people-get-ai-get-out-of-their-way-131370c157f8?source=rss----138adf9c44c---4"
+      "link": "https://www.creativebloq.com/ai/tyla-hit-with-heated-ai-allegations-over-new-animated-music-video"
     },
     {
       "title": "The Bull And Bear Case For Digital Design In The Age Of AI",
@@ -47,13 +29,31 @@
       "link": "https://smashingmagazine.com/2026/07/bull-and-bear-case-digital-design-age-ai/"
     },
     {
-      "title": " Splatoon Raiders review: a clever spin-off that turns familiar parts into something fresh ",
-      "image": "https://cdn.mos.cms.futurecdn.net/NrznsVMVfMdcSVZ5fSUmKB-1280-80.jpg",
-      "summary": "This novel Switch 2 experiment works better than it should.",
+      "title": " I'm so impressed by this cheap laptop that I sorted out an exclusive discount for you ",
+      "image": "https://cdn.mos.cms.futurecdn.net/To6iX29CXT3ZuLLNd4F5CX-1280-80.jpg",
+      "summary": "CB readers, get $155 off the Geekom GeekBook M16, which was already the cheapest Ultra 9 laptop I've tested.",
+      "category": "Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://www.creativebloq.com/tech/laptops/im-so-impressed-by-this-cheap-laptop-that-i-sorted-out-an-exclusive-discount-for-you"
+    },
+    {
+      "title": "Rethinking friction in an AI world",
+      "image": "https://placehold.co/600x400",
+      "summary": "Rethinking friction in an AI world",
       "category": "AI Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://www.creativebloq.com/entertainment/gaming/splatoon-raiders-review-a-clever-spin-off-that-turns-familiar-parts-into-something-fresh"
+      "link": "https://uxdesign.cc/rethinking-friction-in-an-ai-world-8f361d62ab5e?source=rss----138adf9c44c---4"
+    },
+    {
+      "title": "Jakob’s law: How to apply it as AI collapses surfaces into one chat box",
+      "image": "https://placehold.co/600x400",
+      "summary": "Jakob’s law: How to apply it as AI collapses surfaces into one chat box",
+      "category": "AI Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://uxdesign.cc/jakobs-law-how-to-apply-it-as-ai-collapses-surfaces-into-one-chat-box-d8ebc9a727db?source=rss----138adf9c44c---4"
     }
   ]
 }
