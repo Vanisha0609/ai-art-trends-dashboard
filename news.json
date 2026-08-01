@@ -1,23 +1,41 @@
 {
-  "lastUpdated": "2026-07-31T02:42:48.223Z",
+  "lastUpdated": "2026-08-01T02:41:17.465Z",
   "articles": [
     {
-      "title": "Thinking Outside The Box: Digital Design In The AI Era",
-      "image": "http://files.smashing.media/articles/digital-design-ai-era/digital-design-ai-era.jpg",
-      "summary": "Many of the AI tools we interact with take the form of text boxes. But what if there was a different way to interact with AI? Oleksii Hrzhehorzhevskyi explores a different approach to creating a new AI assistant and how designers can navigate the field as AI continues to change it.",
+      "title": "Jakob’s law: How to apply it as AI collapses surfaces into one chat box",
+      "image": "https://placehold.co/600x400",
+      "summary": "Jakob’s law: How to apply it as AI collapses surfaces into one chat box",
       "category": "AI Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://smashingmagazine.com/2026/07/digital-design-ai-era/"
+      "link": "https://uxdesign.cc/jakobs-law-how-to-apply-it-as-ai-collapses-surfaces-into-one-chat-box-d8ebc9a727db?source=rss----138adf9c44c---4"
     },
     {
-      "title": " Tyla hit with heated AI allegations over new animated music video ",
-      "image": "https://cdn.mos.cms.futurecdn.net/LVibUQ39eZEUwKoKAZtPoH-1280-80.jpg",
-      "summary": "‘That Girl’ has ruffled feathers online.",
+      "title": " Spider-Man: Brand New Day proves the hero’s greatest power has always been reinvention ",
+      "image": "https://cdn.mos.cms.futurecdn.net/Wc3P7CN2K2DKEs5iWsdo4Z-1280-80.jpg",
+      "summary": "For 25 years, Spider-Man movies have mastered the art of making a familiar hero feel fresh again.",
       "category": "AI Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://www.creativebloq.com/ai/tyla-hit-with-heated-ai-allegations-over-new-animated-music-video"
+      "link": "https://www.creativebloq.com/design/branding/spider-man-brand-new-day-proves-the-heros-greatest-power-has-always-been-reinvention"
+    },
+    {
+      "title": " Bethesda's new logo design brinks peak gaming nostalgia with a nod to its iconic original branding ",
+      "image": "https://cdn.mos.cms.futurecdn.net/rnxY5fAXNVYfs3BPkkmgjP-1280-80.jpg",
+      "summary": "\"The first decent logo redesign in recent memory\".",
+      "category": "Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://www.creativebloq.com/design/logos-icons/looks-fire-gamers-say-of-bethesdas-nostalgic-new-logo-design"
+    },
+    {
+      "title": "Small Joys And Big Adventures (August 2026 Wallpapers Edition)",
+      "image": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9d979d10-f87f-4935-828a-de2ecd2de311/aug-17-happiness-happens-in-august-preview.png",
+      "summary": "Whether you’re enjoying some well-earned time off this August or are jumping headfirst into a new project, how about some new desktop wallpapers to accompany you on all those big and small adventures the month might bring? Well, we’ve got you covered!",
+      "category": "Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://smashingmagazine.com/2026/07/desktop-wallpaper-calendars-august-2026/"
     },
     {
       "title": "The Bull And Bear Case For Digital Design In The Age Of AI",
@@ -29,15 +47,6 @@
       "link": "https://smashingmagazine.com/2026/07/bull-and-bear-case-digital-design-age-ai/"
     },
     {
-      "title": " I'm so impressed by this cheap laptop that I sorted out an exclusive discount for you ",
-      "image": "https://cdn.mos.cms.futurecdn.net/To6iX29CXT3ZuLLNd4F5CX-1280-80.jpg",
-      "summary": "CB readers, get $155 off the Geekom GeekBook M16, which was already the cheapest Ultra 9 laptop I've tested.",
-      "category": "Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://www.creativebloq.com/tech/laptops/im-so-impressed-by-this-cheap-laptop-that-i-sorted-out-an-exclusive-discount-for-you"
-    },
-    {
       "title": "Rethinking friction in an AI world",
       "image": "https://placehold.co/600x400",
       "summary": "Rethinking friction in an AI world",
@@ -45,15 +54,6 @@
       "style": "Unknown",
       "mood": "Neutral",
       "link": "https://uxdesign.cc/rethinking-friction-in-an-ai-world-8f361d62ab5e?source=rss----138adf9c44c---4"
-    },
-    {
-      "title": "Jakob’s law: How to apply it as AI collapses surfaces into one chat box",
-      "image": "https://placehold.co/600x400",
-      "summary": "Jakob’s law: How to apply it as AI collapses surfaces into one chat box",
-      "category": "AI Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://uxdesign.cc/jakobs-law-how-to-apply-it-as-ai-collapses-surfaces-into-one-chat-box-d8ebc9a727db?source=rss----138adf9c44c---4"
     }
   ]
 }
