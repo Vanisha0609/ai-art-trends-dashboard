@@ -1,41 +1,14 @@
 {
-  "lastUpdated": "2026-08-01T02:41:17.465Z",
+  "lastUpdated": "2026-08-02T02:40:19.320Z",
   "articles": [
     {
-      "title": "Jakob’s law: How to apply it as AI collapses surfaces into one chat box",
-      "image": "https://placehold.co/600x400",
-      "summary": "Jakob’s law: How to apply it as AI collapses surfaces into one chat box",
+      "title": " From Tinder and Reddit to Amazon, unwanted AI images are freaking people out ",
+      "image": "https://cdn.mos.cms.futurecdn.net/WXgEEFXG8UBjSLSnk2RFD8-1280-80.jpg",
+      "summary": "Users complain of 'fake photos' being created without their consent.",
       "category": "AI Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://uxdesign.cc/jakobs-law-how-to-apply-it-as-ai-collapses-surfaces-into-one-chat-box-d8ebc9a727db?source=rss----138adf9c44c---4"
-    },
-    {
-      "title": " Spider-Man: Brand New Day proves the hero’s greatest power has always been reinvention ",
-      "image": "https://cdn.mos.cms.futurecdn.net/Wc3P7CN2K2DKEs5iWsdo4Z-1280-80.jpg",
-      "summary": "For 25 years, Spider-Man movies have mastered the art of making a familiar hero feel fresh again.",
-      "category": "AI Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://www.creativebloq.com/design/branding/spider-man-brand-new-day-proves-the-heros-greatest-power-has-always-been-reinvention"
-    },
-    {
-      "title": " Bethesda's new logo design brinks peak gaming nostalgia with a nod to its iconic original branding ",
-      "image": "https://cdn.mos.cms.futurecdn.net/rnxY5fAXNVYfs3BPkkmgjP-1280-80.jpg",
-      "summary": "\"The first decent logo redesign in recent memory\".",
-      "category": "Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://www.creativebloq.com/design/logos-icons/looks-fire-gamers-say-of-bethesdas-nostalgic-new-logo-design"
-    },
-    {
-      "title": "Small Joys And Big Adventures (August 2026 Wallpapers Edition)",
-      "image": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9d979d10-f87f-4935-828a-de2ecd2de311/aug-17-happiness-happens-in-august-preview.png",
-      "summary": "Whether you’re enjoying some well-earned time off this August or are jumping headfirst into a new project, how about some new desktop wallpapers to accompany you on all those big and small adventures the month might bring? Well, we’ve got you covered!",
-      "category": "Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://smashingmagazine.com/2026/07/desktop-wallpaper-calendars-august-2026/"
+      "link": "https://www.creativebloq.com/ai/from-amazon-to-tinder-and-reddit-tech-platforms-are-giving-users-ai-images-they-didnt-ask-for"
     },
     {
       "title": "The Bull And Bear Case For Digital Design In The Age Of AI",
@@ -47,13 +20,40 @@
       "link": "https://smashingmagazine.com/2026/07/bull-and-bear-case-digital-design-age-ai/"
     },
     {
-      "title": "Rethinking friction in an AI world",
-      "image": "https://placehold.co/600x400",
-      "summary": "Rethinking friction in an AI world",
-      "category": "AI Design",
+      "title": "Small Joys And Big Adventures (August 2026 Wallpapers Edition)",
+      "image": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9d979d10-f87f-4935-828a-de2ecd2de311/aug-17-happiness-happens-in-august-preview.png",
+      "summary": "Whether you’re enjoying some well-earned time off this August or are jumping headfirst into a new project, how about some new desktop wallpapers to accompany you on all those big and small adventures the month might bring? Well, we’ve got you covered!",
+      "category": "Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://uxdesign.cc/rethinking-friction-in-an-ai-world-8f361d62ab5e?source=rss----138adf9c44c---4"
+      "link": "https://smashingmagazine.com/2026/07/desktop-wallpaper-calendars-august-2026/"
+    },
+    {
+      "title": "Perplexity diverges with color",
+      "image": "https://placehold.co/600x400",
+      "summary": "Building data color schemes with Generative AI.\nContinue reading on UX Collective »",
+      "category": "UI/UX",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://uxdesign.cc/perplexity-diverges-with-color-cad28cbe7bad?source=rss----138adf9c44c---4"
+    },
+    {
+      "title": "Why airlines are finally waking up to context-aware design",
+      "image": "https://placehold.co/600x400",
+      "summary": "Your boarding pass has been sitting in that app for three days. But right now, as you sprint through Terminal 5, it’s the last thing you…\nContinue reading on UX Collective »",
+      "category": "UI/UX",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://uxdesign.cc/why-airlines-are-finally-waking-up-to-context-aware-design-9cdb67722d03?source=rss----138adf9c44c---4"
+    },
+    {
+      "title": " How Obsession used optical illusion makeup to create pure nightmare fuel ",
+      "image": "https://cdn.mos.cms.futurecdn.net/RY5iRm8AjXq5RwUhjR9Tim-1280-80.jpg",
+      "summary": "Makeup artist Katie Oja reveals how a simple trick created Nikki’s terrifying look.",
+      "category": "Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://www.creativebloq.com/creative-inspiration/optical-illusions/how-obsession-used-optical-illusion-makeup-to-create-pure-nightmare-fuel"
     }
   ]
 }
