@@ -1,23 +1,14 @@
 {
-  "lastUpdated": "2026-08-02T02:40:19.320Z",
+  "lastUpdated": "2026-08-03T02:41:43.437Z",
   "articles": [
     {
-      "title": " From Tinder and Reddit to Amazon, unwanted AI images are freaking people out ",
-      "image": "https://cdn.mos.cms.futurecdn.net/WXgEEFXG8UBjSLSnk2RFD8-1280-80.jpg",
-      "summary": "Users complain of 'fake photos' being created without their consent.",
-      "category": "AI Design",
+      "title": " How Toy Story and Monsters Inc. inspired a career in 3D art ",
+      "image": "https://cdn.mos.cms.futurecdn.net/oQAUeyQbSM8fJUow28SfiD-1280-80.jpg",
+      "summary": "Brazilian character artist Thales Simonato reveals how childhood favourites sparked a career spanning film, TV and games.",
+      "category": "3D Art",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://www.creativebloq.com/ai/from-amazon-to-tinder-and-reddit-tech-platforms-are-giving-users-ai-images-they-didnt-ask-for"
-    },
-    {
-      "title": "The Bull And Bear Case For Digital Design In The Age Of AI",
-      "image": "http://files.smashing.media/articles/bull-and-bear-case-digital-design-age-ai/bull-and-bear-case-digital-design-age-ai.jpg",
-      "summary": "As AI reshapes product design, it could give designers greater autonomy or expose the gaps that autonomy makes harder to hide. Exploring both the bull and bear cases, Andy Budd examines what happens when designers need less permission to act.",
-      "category": "AI Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://smashingmagazine.com/2026/07/bull-and-bear-case-digital-design-age-ai/"
+      "link": "https://www.creativebloq.com/3d/3d-art/how-toy-story-and-monsters-inc-inspired-a-career-in-3d-art"
     },
     {
       "title": "Small Joys And Big Adventures (August 2026 Wallpapers Edition)",
@@ -29,31 +20,40 @@
       "link": "https://smashingmagazine.com/2026/07/desktop-wallpaper-calendars-august-2026/"
     },
     {
-      "title": "Perplexity diverges with color",
+      "title": "Designing for the proxy",
       "image": "https://placehold.co/600x400",
-      "summary": "Building data color schemes with Generative AI.\nContinue reading on UX Collective »",
-      "category": "UI/UX",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://uxdesign.cc/perplexity-diverges-with-color-cad28cbe7bad?source=rss----138adf9c44c---4"
-    },
-    {
-      "title": "Why airlines are finally waking up to context-aware design",
-      "image": "https://placehold.co/600x400",
-      "summary": "Your boarding pass has been sitting in that app for three days. But right now, as you sprint through Terminal 5, it’s the last thing you…\nContinue reading on UX Collective »",
-      "category": "UI/UX",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://uxdesign.cc/why-airlines-are-finally-waking-up-to-context-aware-design-9cdb67722d03?source=rss----138adf9c44c---4"
-    },
-    {
-      "title": " How Obsession used optical illusion makeup to create pure nightmare fuel ",
-      "image": "https://cdn.mos.cms.futurecdn.net/RY5iRm8AjXq5RwUhjR9Tim-1280-80.jpg",
-      "summary": "Makeup artist Katie Oja reveals how a simple trick created Nikki’s terrifying look.",
+      "summary": "Designing for the proxy",
       "category": "Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://www.creativebloq.com/creative-inspiration/optical-illusions/how-obsession-used-optical-illusion-makeup-to-create-pure-nightmare-fuel"
+      "link": "https://uxdesign.cc/designing-for-the-proxy-2606ffac2335?source=rss----138adf9c44c---4"
+    },
+    {
+      "title": "The architecture of watching work",
+      "image": "https://placehold.co/600x400",
+      "summary": "For a century we designed the office around a single question — how do we see work? AI is quietly changing the question.\nContinue reading on UX Collective »",
+      "category": "UI/UX",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://uxdesign.cc/the-architecture-of-watching-work-dcc521fcad1c?source=rss----138adf9c44c---4"
+    },
+    {
+      "title": "The Bull And Bear Case For Digital Design In The Age Of AI",
+      "image": "http://files.smashing.media/articles/bull-and-bear-case-digital-design-age-ai/bull-and-bear-case-digital-design-age-ai.jpg",
+      "summary": "As AI reshapes product design, it could give designers greater autonomy or expose the gaps that autonomy makes harder to hide. Exploring both the bull and bear cases, Andy Budd examines what happens when designers need less permission to act.",
+      "category": "AI Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://smashingmagazine.com/2026/07/bull-and-bear-case-digital-design-age-ai/"
+    },
+    {
+      "title": " Designer's attempt to ‘fix’ Disney+ logo fires up fans ",
+      "image": "https://cdn.mos.cms.futurecdn.net/fkLzimsj7bzQxfR9HUCPDZ-1280-80.jpeg",
+      "summary": "Allan Peters strikes again.",
+      "category": "AI Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://www.creativebloq.com/design/logos-icons/designers-attempt-to-fix-disney-logo-fires-up-fans"
     }
   ]
 }
