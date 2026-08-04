@@ -1,41 +1,23 @@
 {
-  "lastUpdated": "2026-08-03T02:41:43.437Z",
+  "lastUpdated": "2026-08-04T02:25:44.300Z",
   "articles": [
     {
-      "title": " How Toy Story and Monsters Inc. inspired a career in 3D art ",
-      "image": "https://cdn.mos.cms.futurecdn.net/oQAUeyQbSM8fJUow28SfiD-1280-80.jpg",
-      "summary": "Brazilian character artist Thales Simonato reveals how childhood favourites sparked a career spanning film, TV and games.",
-      "category": "3D Art",
+      "title": " Pepsi shades Coca-Cola in parody rebrand ",
+      "image": "https://cdn.mos.cms.futurecdn.net/JvKKPcepGEzDdsZr242pZm-1280-80.jpg",
+      "summary": "“If it ain’t broke, don’t fix it”.",
+      "category": "AI Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://www.creativebloq.com/3d/3d-art/how-toy-story-and-monsters-inc-inspired-a-career-in-3d-art"
+      "link": "https://www.creativebloq.com/design/branding/pepsi-shades-coca-cola-in-parody-rebrand"
     },
     {
-      "title": "Small Joys And Big Adventures (August 2026 Wallpapers Edition)",
-      "image": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9d979d10-f87f-4935-828a-de2ecd2de311/aug-17-happiness-happens-in-august-preview.png",
-      "summary": "Whether you’re enjoying some well-earned time off this August or are jumping headfirst into a new project, how about some new desktop wallpapers to accompany you on all those big and small adventures the month might bring? Well, we’ve got you covered!",
+      "title": " Those biceps on The Odyssey poster aren't Matt Damon's – and they aren't even a man's ",
+      "image": "https://cdn.mos.cms.futurecdn.net/gcbL7KXFAuhcDUMkMrpMpQ-1280-80.jpg",
+      "summary": "When it comes to practical effects, Christopher Nolan's new film is a call to arms.",
       "category": "Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://smashingmagazine.com/2026/07/desktop-wallpaper-calendars-august-2026/"
-    },
-    {
-      "title": "Designing for the proxy",
-      "image": "https://placehold.co/600x400",
-      "summary": "Designing for the proxy",
-      "category": "Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://uxdesign.cc/designing-for-the-proxy-2606ffac2335?source=rss----138adf9c44c---4"
-    },
-    {
-      "title": "The architecture of watching work",
-      "image": "https://placehold.co/600x400",
-      "summary": "For a century we designed the office around a single question — how do we see work? AI is quietly changing the question.\nContinue reading on UX Collective »",
-      "category": "UI/UX",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://uxdesign.cc/the-architecture-of-watching-work-dcc521fcad1c?source=rss----138adf9c44c---4"
+      "link": "https://www.creativebloq.com/design/poster-design/those-biceps-on-the-odyssey-poster-arent-matt-damons-and-they-arent-even-a-mans"
     },
     {
       "title": "The Bull And Bear Case For Digital Design In The Age Of AI",
@@ -47,13 +29,31 @@
       "link": "https://smashingmagazine.com/2026/07/bull-and-bear-case-digital-design-age-ai/"
     },
     {
-      "title": " Designer's attempt to ‘fix’ Disney+ logo fires up fans ",
-      "image": "https://cdn.mos.cms.futurecdn.net/fkLzimsj7bzQxfR9HUCPDZ-1280-80.jpeg",
-      "summary": "Allan Peters strikes again.",
-      "category": "AI Design",
+      "title": "Chat is the wrong interface for AI",
+      "image": "https://placehold.co/600x400",
+      "summary": "The problem with over-simplification of AI Agents’ interfaces.\nContinue reading on UX Collective »",
+      "category": "UI/UX",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://www.creativebloq.com/design/logos-icons/designers-attempt-to-fix-disney-logo-fires-up-fans"
+      "link": "https://uxdesign.cc/chat-is-the-wrong-interface-for-ai-de14d352de1b?source=rss----138adf9c44c---4"
+    },
+    {
+      "title": "IA for AI, The UX of contrast, Battling AI fatigue",
+      "image": "https://placehold.co/600x400",
+      "summary": "IA for AI, The UX of contrast, Battling AI fatigue",
+      "category": "UI/UX",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://uxdesign.cc/ia-for-ai-the-ux-of-contrast-battling-ai-fatigue-4f623495bed8?source=rss----138adf9c44c---4"
+    },
+    {
+      "title": "Small Joys And Big Adventures (August 2026 Wallpapers Edition)",
+      "image": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9d979d10-f87f-4935-828a-de2ecd2de311/aug-17-happiness-happens-in-august-preview.png",
+      "summary": "Whether you’re enjoying some well-earned time off this August or are jumping headfirst into a new project, how about some new desktop wallpapers to accompany you on all those big and small adventures the month might bring? Well, we’ve got you covered!",
+      "category": "Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://smashingmagazine.com/2026/07/desktop-wallpaper-calendars-august-2026/"
     }
   ]
 }
