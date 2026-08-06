@@ -1,32 +1,14 @@
 {
-  "lastUpdated": "2026-08-05T02:25:15.268Z",
+  "lastUpdated": "2026-08-06T02:27:46.068Z",
   "articles": [
     {
-      "title": " Did Coca-Cola need to rebrand? Design experts weigh in on the new look ",
-      "image": "https://cdn.mos.cms.futurecdn.net/gPug5RqPiJJmZVrMj4mJz3-1280-80.jpg",
-      "summary": "Small tweaks can have a big impact on a brand identity.",
+      "title": "Small Joys And Big Adventures (August 2026 Wallpapers Edition)",
+      "image": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9d979d10-f87f-4935-828a-de2ecd2de311/aug-17-happiness-happens-in-august-preview.png",
+      "summary": "Whether you’re enjoying some well-earned time off this August or are jumping headfirst into a new project, how about some new desktop wallpapers to accompany you on all those big and small adventures the month might bring? Well, we’ve got you covered!",
       "category": "Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://www.creativebloq.com/design/branding/did-coca-cola-need-to-rebrand-design-experts-weigh-in-on-the-new-look"
-    },
-    {
-      "title": " Why Sennheiser's brand chief is bringing London's underground club scene to the top of the Shard ",
-      "image": "https://cdn.mos.cms.futurecdn.net/gERdaEC4LYpJ3sBAsUFJCh-1280-80.jpg",
-      "summary": "Bridging the worlds of consumer audio and club culture.",
-      "category": "Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://www.creativebloq.com/design/branding/why-sennheisers-brand-chief-is-bringing-londons-underground-club-scene-to-the-top-of-the-shard"
-    },
-    {
-      "title": "What Star Trek got right about AI",
-      "image": "https://placehold.co/600x400",
-      "summary": "What Star Trek got right about AI",
-      "category": "AI Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://uxdesign.cc/what-star-trek-got-right-about-ai-a4fb09e0d6c6?source=rss----138adf9c44c---4"
+      "link": "https://smashingmagazine.com/2026/07/desktop-wallpaper-calendars-august-2026/"
     },
     {
       "title": "The Bull And Bear Case For Digital Design In The Age Of AI",
@@ -38,22 +20,40 @@
       "link": "https://smashingmagazine.com/2026/07/bull-and-bear-case-digital-design-age-ai/"
     },
     {
-      "title": "What your AI co-designer can’t infer from your hex values",
-      "image": "https://placehold.co/600x400",
-      "summary": "Context files I create every time I start a new client project, to onboard Claude and maximise the output quality\nContinue reading on UX Collective »",
-      "category": "UI/UX",
+      "title": " The creator of Halloween and The Thing is releasing a 132-page dystopian horror comic paired with a 14-track synth metal album that rocks like it's 1986 ",
+      "image": "https://cdn.mos.cms.futurecdn.net/f6Zch35KqdpPwgKyW6GsHT-1280-80.jpg",
+      "summary": "John Carpenter's first graphic novel was inspired by a dream and translates the gothic horror of Prince of Darkness into comic form.",
+      "category": "AI Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://uxdesign.cc/what-your-ai-co-designer-cant-infer-from-your-hex-values-d2023364e80e?source=rss----138adf9c44c---4"
+      "link": "https://www.creativebloq.com/art/the-creator-of-halloween-and-the-thing-is-releasing-a-132-page-dystopian-horror-comic-paired-with-a-14-track-synth-metal-album-that-rocks-like-its-1986"
     },
     {
-      "title": "Small Joys And Big Adventures (August 2026 Wallpapers Edition)",
-      "image": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9d979d10-f87f-4935-828a-de2ecd2de311/aug-17-happiness-happens-in-august-preview.png",
-      "summary": "Whether you’re enjoying some well-earned time off this August or are jumping headfirst into a new project, how about some new desktop wallpapers to accompany you on all those big and small adventures the month might bring? Well, we’ve got you covered!",
+      "title": "Defining ethical design for machines",
+      "image": "https://placehold.co/600x400",
+      "summary": "Defining ethical design for machines",
       "category": "Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://smashingmagazine.com/2026/07/desktop-wallpaper-calendars-august-2026/"
+      "link": "https://uxdesign.cc/defining-ethical-design-for-machines-10d8f7309eec?source=rss----138adf9c44c---4"
+    },
+    {
+      "title": "Bottle your judgment and make it outlive you",
+      "image": "https://placehold.co/600x400",
+      "summary": "Bottle your judgment and make it outlive you",
+      "category": "Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://uxdesign.cc/bottle-your-judgment-and-make-it-outlive-you-14f422772262?source=rss----138adf9c44c---4"
+    },
+    {
+      "title": " This Blender Deep Paint artist makes 3D look like a children's book brought to life ",
+      "image": "https://cdn.mos.cms.futurecdn.net/zFBk66xUwsbsLnAUfQDFqN-1280-80.jpg",
+      "summary": "Gaku Tada's new animation is everything AI can't do.",
+      "category": "AI Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://www.creativebloq.com/art/animation/this-blender-deep-paint-artist-makes-3d-look-like-a-childrens-book-brought-to-life"
     }
   ]
 }
