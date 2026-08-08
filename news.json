@@ -1,41 +1,23 @@
 {
-  "lastUpdated": "2026-08-07T02:35:58.957Z",
+  "lastUpdated": "2026-08-08T01:26:10.928Z",
   "articles": [
     {
-      "title": "The Bull And Bear Case For Digital Design In The Age Of AI",
-      "image": "http://files.smashing.media/articles/bull-and-bear-case-digital-design-age-ai/bull-and-bear-case-digital-design-age-ai.jpg",
-      "summary": "As AI reshapes product design, it could give designers greater autonomy or expose the gaps that autonomy makes harder to hide. Exploring both the bull and bear cases, Andy Budd examines what happens when designers need less permission to act.",
+      "title": " High-end audio take note: These $35 earphones have 2 sound profiles and they're both great ",
+      "image": "https://cdn.mos.cms.futurecdn.net/uc5HiRLJwmNsVDcVNvMRpR-1280-80.jpg",
+      "summary": "For only $35 I'm willing to forgive a lot in a pair of earphones... but with the OoopusX Op.22 I don't have to.",
       "category": "AI Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://smashingmagazine.com/2026/07/bull-and-bear-case-digital-design-age-ai/"
+      "link": "https://www.creativebloq.com/tech/headphones-earbuds/budget-banger-the-usd35-op-22-earphone-has-2-sound-profiles-both-great"
     },
     {
-      "title": " Onimusha: Way of the Sword (PS5) hands-on – Capcom’s samurai comeback is far stranger and more ambitious than I expected ",
-      "image": "https://cdn.mos.cms.futurecdn.net/7esGUwALLT8ZoJxz42AHFb-1280-80.jpg",
-      "summary": "The biggest surprise isn't its Sekiro-inspired combat.",
-      "category": "AI Design",
+      "title": "How Baseline Can Help You Ship Less JavaScript",
+      "image": "http://files.smashing.media/articles/how-baseline-can-help-ship-less-javascript/how-baseline-can-help-ship-less-javascript.jpg",
+      "summary": "The gap between “you need a library for this” and “the browser does this” keeps closing. A practical guide to auditing your dependencies and finding what the web platform can now handle for you.",
+      "category": "UI/UX",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://www.creativebloq.com/entertainment/gaming/onimusha-way-of-the-sword-ps5-hands-on-capcoms-samurai-comeback-is-far-stranger-and-more-ambitious-than-i-expected"
-    },
-    {
-      "title": " Want to know which laptop you actually need for your major? We got you ",
-      "image": "https://cdn.mos.cms.futurecdn.net/eGg5G4CfrvLKngWd8o7KU6-1280-80.png",
-      "summary": "Your field of study decides your laptop choice. Don't buy blind.",
-      "category": "Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://www.creativebloq.com/tech/laptops/want-to-know-which-laptop-you-actually-need-for-your-major-we-got-you"
-    },
-    {
-      "title": "Small Joys And Big Adventures (August 2026 Wallpapers Edition)",
-      "image": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9d979d10-f87f-4935-828a-de2ecd2de311/aug-17-happiness-happens-in-august-preview.png",
-      "summary": "Whether you’re enjoying some well-earned time off this August or are jumping headfirst into a new project, how about some new desktop wallpapers to accompany you on all those big and small adventures the month might bring? Well, we’ve got you covered!",
-      "category": "Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://smashingmagazine.com/2026/07/desktop-wallpaper-calendars-august-2026/"
+      "link": "https://smashingmagazine.com/2026/08/how-baseline-can-help-ship-less-javascript/"
     },
     {
       "title": "What Star Trek got wrong about AI (so far)",
@@ -47,13 +29,31 @@
       "link": "https://uxdesign.cc/what-star-trek-got-wrong-about-ai-so-far-a60029fa1f1c?source=rss----138adf9c44c---4"
     },
     {
+      "title": "Small Joys And Big Adventures (August 2026 Wallpapers Edition)",
+      "image": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9d979d10-f87f-4935-828a-de2ecd2de311/aug-17-happiness-happens-in-august-preview.png",
+      "summary": "Whether you’re enjoying some well-earned time off this August or are jumping headfirst into a new project, how about some new desktop wallpapers to accompany you on all those big and small adventures the month might bring? Well, we’ve got you covered!",
+      "category": "Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://smashingmagazine.com/2026/07/desktop-wallpaper-calendars-august-2026/"
+    },
+    {
       "title": "Design @ ACME",
       "image": "https://placehold.co/600x400",
-      "summary": "Be better\nContinue reading on UX Collective »",
+      "summary": "Learning from Coyote’s mishaps, misfortunes, and sidesplitting calamities\nContinue reading on UX Collective »",
       "category": "UI/UX",
       "style": "Unknown",
       "mood": "Neutral",
       "link": "https://uxdesign.cc/design-acme-9d0cffa8af51?source=rss----138adf9c44c---4"
+    },
+    {
+      "title": " Ricky Gervais’ Alley Cats proves animation is the perfect home for weird ideas ",
+      "image": "https://cdn.mos.cms.futurecdn.net/wdbW6KZcRR7SonUfgRhV9X-1280-80.jpg",
+      "summary": "From BoJack Horseman to Netflix’s new feral cat comedy, adult animation is giving creators room to experiment.",
+      "category": "AI Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://www.creativebloq.com/art/animation/ricky-gervais-alley-cats-proves-animation-is-the-perfect-home-for-weird-ideas"
     }
   ]
 }
