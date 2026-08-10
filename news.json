@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-08-09T01:38:29.858Z",
+  "lastUpdated": "2026-08-10T01:41:57.249Z",
   "articles": [
+    {
+      "title": "Thinking outside the box (literally)",
+      "image": "https://placehold.co/600x400",
+      "summary": "Thinking outside the box (literally)",
+      "category": "Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://uxdesign.cc/thinking-outside-the-box-2c2054ea6017?source=rss----138adf9c44c---4"
+    },
     {
       "title": "Small Joys And Big Adventures (August 2026 Wallpapers Edition)",
       "image": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9d979d10-f87f-4935-828a-de2ecd2de311/aug-17-happiness-happens-in-august-preview.png",
@@ -11,40 +20,22 @@
       "link": "https://smashingmagazine.com/2026/07/desktop-wallpaper-calendars-august-2026/"
     },
     {
-      "title": "Design @ ACME",
+      "title": " Wacom MovinkPad Pro 14 vs iPad Air: which is the better tablet for digital artists? ",
+      "image": "https://cdn.mos.cms.futurecdn.net/ak3ycbtHeK2DHvQTMLBg89-1280-80.jpg",
+      "summary": "Why Apple is no longer the default choice.",
+      "category": "AI Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://www.creativebloq.com/art/digital-art/wacom-movinkpad-pro-14-vs-ipad-air-which-is-the-better-tablet-for-digital-artists"
+    },
+    {
+      "title": "The loom that raised its hand",
       "image": "https://placehold.co/600x400",
-      "summary": "Learning from Coyote’s mishaps, misfortunes, and sidesplitting calamities\nContinue reading on UX Collective »",
+      "summary": "90 years of loom engineering went into teaching machines to catch their mistakes.\nContinue reading on UX Collective »",
       "category": "UI/UX",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://uxdesign.cc/design-acme-9d0cffa8af51?source=rss----138adf9c44c---4"
-    },
-    {
-      "title": " So, it seems Disney music is our only protection against Meta's pervert glasses ",
-      "image": "https://cdn.mos.cms.futurecdn.net/X9ZJpWDtBZbGqnfiYCksDZ-1280-80.jpg",
-      "summary": "Desperate times, indeed.",
-      "category": "AI Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://www.creativebloq.com/tech/so-it-seems-disney-music-is-our-only-protection-against-metas-pervert-glasses"
-    },
-    {
-      "title": "What Star Trek got wrong about AI (so far)",
-      "image": "https://placehold.co/600x400",
-      "summary": "What Star Trek got wrong about AI (so far)",
-      "category": "AI Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://uxdesign.cc/what-star-trek-got-wrong-about-ai-so-far-a60029fa1f1c?source=rss----138adf9c44c---4"
-    },
-    {
-      "title": " Ikea goes viral with racy wicker bench photo because Alexander Skarsgård ",
-      "image": "https://cdn.mos.cms.futurecdn.net/yNzYbtY2EZkcvcEBPajRC5-1280-80.jpg",
-      "summary": "People are going Wicker crazy, and Ikea's laughing.",
-      "category": "Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://www.creativebloq.com/entertainment/movies-tv-shows/ikea-goes-viral-with-racy-photo-of-a-wicker-bench"
+      "link": "https://uxdesign.cc/the-loom-that-raised-its-hand-4e8981b3ef88?source=rss----138adf9c44c---4"
     },
     {
       "title": "How Baseline Can Help You Ship Less JavaScript",
@@ -54,6 +45,15 @@
       "style": "Unknown",
       "mood": "Neutral",
       "link": "https://smashingmagazine.com/2026/08/how-baseline-can-help-ship-less-javascript/"
+    },
+    {
+      "title": " Viture's new Pro XR glasses have the most useful party trick ever ",
+      "image": "https://cdn.mos.cms.futurecdn.net/9CMeTMuQUh6LGa5WKyFTAN-1280-80.jpg",
+      "summary": "And they're a steal too, at only $299.",
+      "category": "Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://www.creativebloq.com/tech/vitures-new-pro-xr-glasses-have-the-most-useful-party-trick-ever"
     }
   ]
 }
