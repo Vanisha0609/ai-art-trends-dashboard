@@ -1,14 +1,14 @@
 {
-  "lastUpdated": "2026-08-10T01:41:57.249Z",
+  "lastUpdated": "2026-08-11T01:38:58.051Z",
   "articles": [
     {
-      "title": "Thinking outside the box (literally)",
+      "title": "Bottle your judgment, Chat is the wrong UI, Design.md",
       "image": "https://placehold.co/600x400",
-      "summary": "Thinking outside the box (literally)",
-      "category": "Design",
+      "summary": "Bottle your judgment, Chat is the wrong UI, Design.md",
+      "category": "UI/UX",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://uxdesign.cc/thinking-outside-the-box-2c2054ea6017?source=rss----138adf9c44c---4"
+      "link": "https://uxdesign.cc/bottle-your-judgment-chat-is-the-wrong-ui-design-md-2484e8d870af?source=rss----138adf9c44c---4"
     },
     {
       "title": "Small Joys And Big Adventures (August 2026 Wallpapers Edition)",
@@ -20,22 +20,31 @@
       "link": "https://smashingmagazine.com/2026/07/desktop-wallpaper-calendars-august-2026/"
     },
     {
-      "title": " Wacom MovinkPad Pro 14 vs iPad Air: which is the better tablet for digital artists? ",
-      "image": "https://cdn.mos.cms.futurecdn.net/ak3ycbtHeK2DHvQTMLBg89-1280-80.jpg",
-      "summary": "Why Apple is no longer the default choice.",
-      "category": "AI Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://www.creativebloq.com/art/digital-art/wacom-movinkpad-pro-14-vs-ipad-air-which-is-the-better-tablet-for-digital-artists"
-    },
-    {
-      "title": "The loom that raised its hand",
+      "title": "Why your clients aren’t buying and how to change that",
       "image": "https://placehold.co/600x400",
-      "summary": "90 years of loom engineering went into teaching machines to catch their mistakes.\nContinue reading on UX Collective »",
+      "summary": "You know it’s the right thing to do. The data screams it. Yet they still say no. Here’s the playbook that actually works.\nContinue reading on UX Collective »",
       "category": "UI/UX",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://uxdesign.cc/the-loom-that-raised-its-hand-4e8981b3ef88?source=rss----138adf9c44c---4"
+      "link": "https://uxdesign.cc/why-your-clients-arent-buying-and-how-to-change-that-cd7104bf14fd?source=rss----138adf9c44c---4"
+    },
+    {
+      "title": " Buc-ee's infamous logo design lawsuits are coming back to bite it ",
+      "image": "https://cdn.mos.cms.futurecdn.net/Gs8KwmPVyJKupWnQAZqUdn-1280-80.jpg",
+      "summary": "It's just become the most-trolled brand in the US.",
+      "category": "UI/UX",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://www.creativebloq.com/design/logos-icons/buc-ees-has-unleashed-a-demon-with-its-logo-design-lawsuits"
+    },
+    {
+      "title": " The Apple Watch redesign can't come soon enough ",
+      "image": "https://cdn.mos.cms.futurecdn.net/JM8uW9oDVkCYoTcDghcAih-1280-80.jpg",
+      "summary": "Apple is reportedly working on a smartwatch shake-up.",
+      "category": "Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://www.creativebloq.com/design/product-design/the-apple-watch-redesign-cant-come-soon-enough"
     },
     {
       "title": "How Baseline Can Help You Ship Less JavaScript",
@@ -45,15 +54,6 @@
       "style": "Unknown",
       "mood": "Neutral",
       "link": "https://smashingmagazine.com/2026/08/how-baseline-can-help-ship-less-javascript/"
-    },
-    {
-      "title": " Viture's new Pro XR glasses have the most useful party trick ever ",
-      "image": "https://cdn.mos.cms.futurecdn.net/9CMeTMuQUh6LGa5WKyFTAN-1280-80.jpg",
-      "summary": "And they're a steal too, at only $299.",
-      "category": "Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://www.creativebloq.com/tech/vitures-new-pro-xr-glasses-have-the-most-useful-party-trick-ever"
     }
   ]
 }
