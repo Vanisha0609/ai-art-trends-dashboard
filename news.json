@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-08-11T01:38:58.051Z",
+  "lastUpdated": "2026-08-12T01:49:40.099Z",
   "articles": [
+    {
+      "title": " This $240 office chair is supremely light and packs a boing ",
+      "image": "https://cdn.mos.cms.futurecdn.net/7DcoQcPPiRfdit6RjUWCfH-1280-80.jpg",
+      "summary": "Sihoo's M59AS boasts a springy construction that adapts to your body, delivering decent comfort at a low price.",
+      "category": "AI Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://www.creativebloq.com/tech/chairs-desks/this-usd240-office-chair-is-supremely-light-and-packs-a-boing"
+    },
     {
       "title": "Bottle your judgment, Chat is the wrong UI, Design.md",
       "image": "https://placehold.co/600x400",
@@ -11,40 +20,22 @@
       "link": "https://uxdesign.cc/bottle-your-judgment-chat-is-the-wrong-ui-design-md-2484e8d870af?source=rss----138adf9c44c---4"
     },
     {
-      "title": "Small Joys And Big Adventures (August 2026 Wallpapers Edition)",
-      "image": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9d979d10-f87f-4935-828a-de2ecd2de311/aug-17-happiness-happens-in-august-preview.png",
-      "summary": "Whether you’re enjoying some well-earned time off this August or are jumping headfirst into a new project, how about some new desktop wallpapers to accompany you on all those big and small adventures the month might bring? Well, we’ve got you covered!",
-      "category": "Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://smashingmagazine.com/2026/07/desktop-wallpaper-calendars-august-2026/"
-    },
-    {
-      "title": "Why your clients aren’t buying and how to change that",
-      "image": "https://placehold.co/600x400",
-      "summary": "You know it’s the right thing to do. The data screams it. Yet they still say no. Here’s the playbook that actually works.\nContinue reading on UX Collective »",
+      "title": "Building Tactile UX: Honoring Intentional Design With Lottie",
+      "image": "http://files.smashing.media/articles/building-tactile-ux-honoring-intentional-design-lottie/building-tactile-ux-honoring-intentional-design-lottie.jpg",
+      "summary": "When tasked with building a highly interactive, tactile web experience, the architecture must serve the art direction. In this article, Alexey Kopytin explains their architectural rationale for building a digital stress-relief squeeze toy game using Lottie animations, DOM events, and distance-based math to maintain absolute control over their designers’ intentional motion.",
       "category": "UI/UX",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://uxdesign.cc/why-your-clients-arent-buying-and-how-to-change-that-cd7104bf14fd?source=rss----138adf9c44c---4"
+      "link": "https://smashingmagazine.com/2026/08/building-tactile-ux-honoring-intentional-design-lottie/"
     },
     {
-      "title": " Buc-ee's infamous logo design lawsuits are coming back to bite it ",
-      "image": "https://cdn.mos.cms.futurecdn.net/Gs8KwmPVyJKupWnQAZqUdn-1280-80.jpg",
-      "summary": "It's just become the most-trolled brand in the US.",
-      "category": "UI/UX",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://www.creativebloq.com/design/logos-icons/buc-ees-has-unleashed-a-demon-with-its-logo-design-lawsuits"
-    },
-    {
-      "title": " The Apple Watch redesign can't come soon enough ",
-      "image": "https://cdn.mos.cms.futurecdn.net/JM8uW9oDVkCYoTcDghcAih-1280-80.jpg",
-      "summary": "Apple is reportedly working on a smartwatch shake-up.",
+      "title": " Are Chromebooks finally good enough for university students? ",
+      "image": "https://cdn.mos.cms.futurecdn.net/RaYAgk3qDp7h9abqZaMTm3-1280-80.jpg",
+      "summary": "Our Back-to-School series continues, and this time it's the former class clown's time to shine.",
       "category": "Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://www.creativebloq.com/design/product-design/the-apple-watch-redesign-cant-come-soon-enough"
+      "link": "https://www.creativebloq.com/tech/laptops/are-chromebooks-finally-good-enough-for-university-students"
     },
     {
       "title": "How Baseline Can Help You Ship Less JavaScript",
@@ -54,6 +45,15 @@
       "style": "Unknown",
       "mood": "Neutral",
       "link": "https://smashingmagazine.com/2026/08/how-baseline-can-help-ship-less-javascript/"
+    },
+    {
+      "title": "What Star Wars got right about AI",
+      "image": "https://placehold.co/600x400",
+      "summary": "What Star Wars got right about AI",
+      "category": "AI Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://uxdesign.cc/what-star-wars-got-right-about-ai-6404ae7c2e62?source=rss----138adf9c44c---4"
     }
   ]
 }
