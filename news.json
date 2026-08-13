@@ -1,41 +1,41 @@
 {
-  "lastUpdated": "2026-08-12T01:49:40.099Z",
+  "lastUpdated": "2026-08-13T01:51:57.546Z",
   "articles": [
     {
-      "title": " This $240 office chair is supremely light and packs a boing ",
-      "image": "https://cdn.mos.cms.futurecdn.net/7DcoQcPPiRfdit6RjUWCfH-1280-80.jpg",
-      "summary": "Sihoo's M59AS boasts a springy construction that adapts to your body, delivering decent comfort at a low price.",
+      "title": " This artist creates stylised but detailed 3D art inspired by nature ",
+      "image": "https://cdn.mos.cms.futurecdn.net/rZ3j9a3R8A3duvcKKVHuP-1280-80.jpg",
+      "summary": "Discover the work of Lukas Lima.",
       "category": "AI Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://www.creativebloq.com/tech/chairs-desks/this-usd240-office-chair-is-supremely-light-and-packs-a-boing"
+      "link": "https://www.creativebloq.com/3d/3d-art/this-artist-creates-stylised-but-detailed-3d-art-inspired-by-nature"
     },
     {
-      "title": "Bottle your judgment, Chat is the wrong UI, Design.md",
+      "title": "The CSS hack that extends your website on iOS Safari",
       "image": "https://placehold.co/600x400",
-      "summary": "Bottle your judgment, Chat is the wrong UI, Design.md",
-      "category": "UI/UX",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://uxdesign.cc/bottle-your-judgment-chat-is-the-wrong-ui-design-md-2484e8d870af?source=rss----138adf9c44c---4"
-    },
-    {
-      "title": "Building Tactile UX: Honoring Intentional Design With Lottie",
-      "image": "http://files.smashing.media/articles/building-tactile-ux-honoring-intentional-design-lottie/building-tactile-ux-honoring-intentional-design-lottie.jpg",
-      "summary": "When tasked with building a highly interactive, tactile web experience, the architecture must serve the art direction. In this article, Alexey Kopytin explains their architectural rationale for building a digital stress-relief squeeze toy game using Lottie animations, DOM events, and distance-based math to maintain absolute control over their designers’ intentional motion.",
-      "category": "UI/UX",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://smashingmagazine.com/2026/08/building-tactile-ux-honoring-intentional-design-lottie/"
-    },
-    {
-      "title": " Are Chromebooks finally good enough for university students? ",
-      "image": "https://cdn.mos.cms.futurecdn.net/RaYAgk3qDp7h9abqZaMTm3-1280-80.jpg",
-      "summary": "Our Back-to-School series continues, and this time it's the former class clown's time to shine.",
+      "summary": "The CSS hack that extends your website on iOS Safari",
       "category": "Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://www.creativebloq.com/tech/laptops/are-chromebooks-finally-good-enough-for-university-students"
+      "link": "https://uxdesign.cc/the-css-hack-that-extends-your-website-on-ios-safari-973b4241e612?source=rss----138adf9c44c---4"
+    },
+    {
+      "title": " Sinclair GamerCard review: the novel Raspberry Pi handheld is much more than a ZX Spectrum nostalgia trip ",
+      "image": "https://cdn.mos.cms.futurecdn.net/DeYKNbMgcce4evN73CgMwW-1280-80.jpg",
+      "summary": "It goes beyond retro gaming and makes me want to tinker with games again.",
+      "category": "AI Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://www.creativebloq.com/entertainment/gaming/sinclair-gamercard-review-the-novel-raspberry-pi-handheld-is-much-more-than-a-zx-spectrum-nostalgia-trip"
+    },
+    {
+      "title": "Design’s dreaded phrase is coming back. This time we’re in control.",
+      "image": "https://placehold.co/600x400",
+      "summary": "How “Everyone can Design” means designers don’t have to wait for permission\nContinue reading on UX Collective »",
+      "category": "UI/UX",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://uxdesign.cc/designs-dreaded-phrase-is-coming-back-this-time-we-re-in-control-ab0c6996dc1e?source=rss----138adf9c44c---4"
     },
     {
       "title": "How Baseline Can Help You Ship Less JavaScript",
@@ -47,13 +47,13 @@
       "link": "https://smashingmagazine.com/2026/08/how-baseline-can-help-ship-less-javascript/"
     },
     {
-      "title": "What Star Wars got right about AI",
-      "image": "https://placehold.co/600x400",
-      "summary": "What Star Wars got right about AI",
-      "category": "AI Design",
+      "title": "Building Tactile UX: Honoring Intentional Design With Lottie",
+      "image": "http://files.smashing.media/articles/building-tactile-ux-honoring-intentional-design-lottie/building-tactile-ux-honoring-intentional-design-lottie.jpg",
+      "summary": "When tasked with building a highly interactive, tactile web experience, the architecture must serve the art direction. In this article, Alexey Kopytin explains their architectural rationale for building a digital stress-relief squeeze toy game using Lottie animations, DOM events, and distance-based math to maintain absolute control over their designers’ intentional motion.",
+      "category": "UI/UX",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://uxdesign.cc/what-star-wars-got-right-about-ai-6404ae7c2e62?source=rss----138adf9c44c---4"
+      "link": "https://smashingmagazine.com/2026/08/building-tactile-ux-honoring-intentional-design-lottie/"
     }
   ]
 }
