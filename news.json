@@ -1,14 +1,23 @@
 {
-  "lastUpdated": "2026-08-14T01:49:47.350Z",
+  "lastUpdated": "2026-08-15T01:09:06.572Z",
   "articles": [
     {
-      "title": "What Star Wars got wrong about AI (so far)",
+      "title": "Getting started is not getting it right",
       "image": "https://placehold.co/600x400",
-      "summary": "What Star Wars got wrong about AI (so far)",
-      "category": "AI Design",
+      "summary": "Getting started is not getting it right",
+      "category": "Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://uxdesign.cc/what-star-wars-got-wrong-about-ai-so-far-227472bd24ea?source=rss----138adf9c44c---4"
+      "link": "https://uxdesign.cc/getting-started-is-not-getting-it-right-e76270614d14?source=rss----138adf9c44c---4"
+    },
+    {
+      "title": "Rethinking design leadership with swarms and flocks",
+      "image": "https://placehold.co/600x400",
+      "summary": "Rethinking design leadership with swarms and flocks",
+      "category": "Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://uxdesign.cc/rethinking-design-leadership-with-swarms-and-flocks-9298db8c59d2?source=rss----138adf9c44c---4"
     },
     {
       "title": "New EU Guidelines For AI Labelling",
@@ -29,31 +38,22 @@
       "link": "https://smashingmagazine.com/2026/08/building-tactile-ux-honoring-intentional-design-lottie/"
     },
     {
-      "title": " Duskfade (Switch 2) review: the Unreal Engine 5 platformer feels like a lost PS2 classic – for better and worse ",
-      "image": "https://cdn.mos.cms.futurecdn.net/PMbQnA5yX56BfCPoPgKxY3-1280-80.jpg",
-      "summary": "A reminder why I loved – and hated – the PS2 era.",
+      "title": " Audeze want to make the only headphones you'll ever need ",
+      "image": "https://cdn.mos.cms.futurecdn.net/kvYVFEv9ZueddRP8b5DPkX-1280-80.jpg",
+      "summary": "You shouldn't have to swap for different tasks, says the CEO.",
       "category": "Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://www.creativebloq.com/entertainment/gaming/duskfade-switch-2-review-the-unreal-engine-5-platformer-feels-like-a-lost-ps2-classic-for-better-and-worse"
+      "link": "https://www.creativebloq.com/tech/headphones-earbuds/audeze-wants-to-make-the-only-headphones-you-ever-need"
     },
     {
-      "title": " This dark Slavic fairy-tale game is like Devil May Cry with ballet combat ",
-      "image": "https://cdn.mos.cms.futurecdn.net/Ui2K8x8fmkRdzRYqK6ezee-1280-80.png",
-      "summary": "Tsareva: Age of Tales' combat is actually based on mo-cap from a real prima ballerina.",
-      "category": "AI Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://www.creativebloq.com/3d/video-game-design/this-dark-slavic-fairy-tale-game-is-like-devil-may-cry-with-ballet-combat"
-    },
-    {
-      "title": "Rethinking design leadership with swarms and flocks",
-      "image": "https://placehold.co/600x400",
-      "summary": "Rethinking design leadership with swarms and flocks",
+      "title": " Stunning demo shows Unreal Engine 6 should be a game changer for rendering cinematics ",
+      "image": "https://cdn.mos.cms.futurecdn.net/GcZUsD8uYF3PVuwaQsZSfK-1280-80.jpg",
+      "summary": "A new Lumen mode could take artists closer to using emissive sources instead of fake lights.",
       "category": "Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://uxdesign.cc/rethinking-design-leadership-with-swarms-and-flocks-9298db8c59d2?source=rss----138adf9c44c---4"
+      "link": "https://www.creativebloq.com/3d/video-game-design/stunning-demo-shows-unreal-engine-6-should-be-a-game-changer-for-rendering-cinematics"
     }
   ]
 }
