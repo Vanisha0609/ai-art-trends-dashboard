@@ -1,24 +1,6 @@
 {
-  "lastUpdated": "2026-08-15T01:09:06.572Z",
+  "lastUpdated": "2026-08-16T01:12:49.626Z",
   "articles": [
-    {
-      "title": "Getting started is not getting it right",
-      "image": "https://placehold.co/600x400",
-      "summary": "Getting started is not getting it right",
-      "category": "Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://uxdesign.cc/getting-started-is-not-getting-it-right-e76270614d14?source=rss----138adf9c44c---4"
-    },
-    {
-      "title": "Rethinking design leadership with swarms and flocks",
-      "image": "https://placehold.co/600x400",
-      "summary": "Rethinking design leadership with swarms and flocks",
-      "category": "Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://uxdesign.cc/rethinking-design-leadership-with-swarms-and-flocks-9298db8c59d2?source=rss----138adf9c44c---4"
-    },
     {
       "title": "New EU Guidelines For AI Labelling",
       "image": "http://files.smashing.media/articles/eu-guidelines-ai-labelling/eu-guidelines-ai-labelling.jpg",
@@ -27,6 +9,33 @@
       "style": "Unknown",
       "mood": "Neutral",
       "link": "https://smashingmagazine.com/2026/08/eu-guidelines-ai-labelling/"
+    },
+    {
+      "title": " Ghost Market will be Pixar's first ghost story, buy some people think they've seen its main character before ",
+      "image": "https://cdn.mos.cms.futurecdn.net/mwaoKwtfVTpGmvqTyTsYDo-1280-80.jpg",
+      "summary": "Back from the Ice Age?",
+      "category": "AI Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://www.creativebloq.com/entertainment/movies-tv-shows/everyones-saying-the-same-thing-about-pixars-spooky-ghost-market-trailer"
+    },
+    {
+      "title": "Who gets the meter?",
+      "image": "https://placehold.co/600x400",
+      "summary": "We’ve spent 180 years trying not to feel the cost of the machine. AI just turned the meter back on.\nContinue reading on UX Collective »",
+      "category": "UI/UX",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://uxdesign.cc/who-gets-the-meter-7cd1cd1ad5e4?source=rss----138adf9c44c---4"
+    },
+    {
+      "title": " Disney's finally returning to 2D animation as it revives its oldest character ",
+      "image": "https://cdn.mos.cms.futurecdn.net/GCXhpaMw2eARSpsku8iCTU-1280-80.jpg",
+      "summary": "Could Oswald be the retro animation Disney fans have wanted for years?",
+      "category": "Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://www.creativebloq.com/art/animation/disneys-finally-returning-to-2d-animation-for-a-nostalgic-tribute-to-its-oldest-character"
     },
     {
       "title": "Building Tactile UX: Honoring Intentional Design With Lottie",
@@ -38,22 +47,13 @@
       "link": "https://smashingmagazine.com/2026/08/building-tactile-ux-honoring-intentional-design-lottie/"
     },
     {
-      "title": " Audeze want to make the only headphones you'll ever need ",
-      "image": "https://cdn.mos.cms.futurecdn.net/kvYVFEv9ZueddRP8b5DPkX-1280-80.jpg",
-      "summary": "You shouldn't have to swap for different tasks, says the CEO.",
-      "category": "Design",
+      "title": "How to become an AI Designer",
+      "image": "https://placehold.co/600x400",
+      "summary": "How to become an AI Designer",
+      "category": "AI Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://www.creativebloq.com/tech/headphones-earbuds/audeze-wants-to-make-the-only-headphones-you-ever-need"
-    },
-    {
-      "title": " Stunning demo shows Unreal Engine 6 should be a game changer for rendering cinematics ",
-      "image": "https://cdn.mos.cms.futurecdn.net/GcZUsD8uYF3PVuwaQsZSfK-1280-80.jpg",
-      "summary": "A new Lumen mode could take artists closer to using emissive sources instead of fake lights.",
-      "category": "Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://www.creativebloq.com/3d/video-game-design/stunning-demo-shows-unreal-engine-6-should-be-a-game-changer-for-rendering-cinematics"
+      "link": "https://uxdesign.cc/how-to-become-an-ai-designer-ff8ee8aed205?source=rss----138adf9c44c---4"
     }
   ]
 }
