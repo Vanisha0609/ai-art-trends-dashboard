@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-08-17T01:10:12.314Z",
+  "lastUpdated": "2026-08-18T01:08:01.821Z",
   "articles": [
+    {
+      "title": "Rethinking leadership, Judgment as bottleneck, Ethical UX for machines",
+      "image": "https://placehold.co/600x400",
+      "summary": "Rethinking leadership, Judgment as bottleneck, Ethical UX for machines",
+      "category": "UI/UX",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://uxdesign.cc/rethinking-leadership-judgment-as-bottleneck-ethical-ux-for-machines-5927df9a399e?source=rss----138adf9c44c---4"
+    },
     {
       "title": "New EU Guidelines For AI Labelling",
       "image": "http://files.smashing.media/articles/eu-guidelines-ai-labelling/eu-guidelines-ai-labelling.jpg",
@@ -9,33 +18,6 @@
       "style": "Unknown",
       "mood": "Neutral",
       "link": "https://smashingmagazine.com/2026/08/eu-guidelines-ai-labelling/"
-    },
-    {
-      "title": " AI art is making digital artists embrace imperfections – here's how ",
-      "image": "https://cdn.mos.cms.futurecdn.net/X4dHEurP2Gsan64GB3iyZb-1280-80.jpg",
-      "summary": "Artists are bringing back the flaws.",
-      "category": "AI Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://www.creativebloq.com/art/digital-art/ai-art-is-making-digital-artists-embrace-imperfections-heres-how"
-    },
-    {
-      "title": "You already know how to make it accessible",
-      "image": "https://placehold.co/600x400",
-      "summary": "You already know how to make it accessible",
-      "category": "Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://uxdesign.cc/you-already-know-how-to-make-it-accessible-b29513a9b217?source=rss----138adf9c44c---4"
-    },
-    {
-      "title": " This ridiculous film poster makes me wish movies would get silly again ",
-      "image": "https://cdn.mos.cms.futurecdn.net/Zg77dSEuuQEjjnvv9d93vR-1280-80.jpg",
-      "summary": "Jiu Jitsu Nun? I’m in.",
-      "category": "AI Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://www.creativebloq.com/design/poster-design/this-ridiculous-film-poster-makes-me-wish-movies-would-get-silly-again"
     },
     {
       "title": "Building Tactile UX: Honoring Intentional Design With Lottie",
@@ -47,13 +29,31 @@
       "link": "https://smashingmagazine.com/2026/08/building-tactile-ux-honoring-intentional-design-lottie/"
     },
     {
-      "title": "How to become an AI Designer",
+      "title": "The feature was fine. So why did users keep hiding it?",
       "image": "https://placehold.co/600x400",
-      "summary": "How to become an AI Designer",
-      "category": "AI Design",
+      "summary": "The feature was fine. So why did users keep hiding it?",
+      "category": "Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://uxdesign.cc/how-to-become-an-ai-designer-ff8ee8aed205?source=rss----138adf9c44c---4"
+      "link": "https://uxdesign.cc/the-feature-was-fine-so-why-did-users-keep-hiding-it-58082b6f3abf?source=rss----138adf9c44c---4"
+    },
+    {
+      "title": " Dear Disney, please keep Bluey's animation the way it is ",
+      "image": "https://cdn.mos.cms.futurecdn.net/5qPWpAzXNXfrRoYhfkjBXc-1280-80.jpg",
+      "summary": "Cinema doesn't have to equal 3D.",
+      "category": "3D Art",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://www.creativebloq.com/art/animation/dear-disney-please-change-bluey-back-to-normal"
+    },
+    {
+      "title": " Why are we still treating Canva like a dirty little secret? ",
+      "image": "https://cdn.mos.cms.futurecdn.net/MALewXXLaLSgXSZbDoH4L7-1280-80.jpg",
+      "summary": "The brand is stuck in limbo, and something needs to change.",
+      "category": "Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://www.creativebloq.com/design/design-software/why-are-we-still-treating-canva-like-a-dirty-little-secret"
     }
   ]
 }
