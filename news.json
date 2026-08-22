@@ -1,42 +1,6 @@
 {
-  "lastUpdated": "2026-08-21T01:12:25.716Z",
+  "lastUpdated": "2026-08-22T01:08:21.569Z",
   "articles": [
-    {
-      "title": "Timing Charts: A Blueprint For SMIL Animations",
-      "image": "https://placehold.co/600x400",
-      "summary": "Discover SMIL, the often-overlooked way to animate SVGs that works inside `` tags and can fully animate everything in an SVG without JavaScript.",
-      "category": "Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://smashingmagazine.com/2026/08/timing-charts-blueprint-smil-animations/"
-    },
-    {
-      "title": " What RAM crisis? B&H Photo has up to $400 off Apple's most powerful MacBook Pros ",
-      "image": "https://cdn.mos.cms.futurecdn.net/wRpXJH4BDh4BWUESyyrieC-1280-80.jpg",
-      "summary": "For video editing, 3D art or AI development, these huge deals on M5 Pro and M5 Max MacBooks have you covered",
-      "category": "AI Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://www.creativebloq.com/tech/what-ram-crisis-b-and-h-photo-has-up-to-usd400-off-apples-most-powerful-macbook-pros"
-    },
-    {
-      "title": "What nobody tells you about AI ethics",
-      "image": "https://placehold.co/600x400",
-      "summary": "Why making the human behind the machine visible changes what we call morally right, and its effect on the alignment of AI with human values.\nContinue reading on UX Collective »",
-      "category": "UI/UX",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://uxdesign.cc/ai-ethics-ux-accountability-gradient-56094d538453?source=rss----138adf9c44c---4"
-    },
-    {
-      "title": " 4 of my top-rated budget earphones are on sale right now! ",
-      "image": "https://cdn.mos.cms.futurecdn.net/ps2ayue3LTSpzGJ3ystsme-1280-80.jpg",
-      "summary": "From $27 wireless earbuds to $70 wired detail-monsters, this summer sale is really impressive.",
-      "category": "AI Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://www.creativebloq.com/tech/headphones-earbuds/4-of-my-top-rated-budget-earphones-are-on-sale-right-now"
-    },
     {
       "title": "New EU Guidelines For AI Labelling",
       "image": "http://files.smashing.media/articles/eu-guidelines-ai-labelling/eu-guidelines-ai-labelling.jpg",
@@ -47,6 +11,33 @@
       "link": "https://smashingmagazine.com/2026/08/eu-guidelines-ai-labelling/"
     },
     {
+      "title": " KPop Demon Hunters might have to change its name ",
+      "image": "https://cdn.mos.cms.futurecdn.net/e6pL3kwjtcgmSnGqLMCVzf-1280-80.jpg",
+      "summary": "The movie faces a foe bigger than the Saja Boys in a battle with a real-world band.",
+      "category": "Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://www.creativebloq.com/entertainment/movies-tv-shows/kpop-demon-hunters-might-have-to-change-its-name"
+    },
+    {
+      "title": " Elevate your workspace with up to 30% off floating shelves ",
+      "image": "https://cdn.mos.cms.futurecdn.net/CeZNceNgkc2QueyrxYR5rb-1280-80.jpg",
+      "summary": "Find your match, from rustic walnut to sleek oak wood designs.",
+      "category": "Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://www.creativebloq.com/tech/chairs-desks/elevate-your-workspace-with-up-to-30-percent-off-floating-shelves"
+    },
+    {
+      "title": "Timing Charts: A Blueprint For SMIL Animations",
+      "image": "https://placehold.co/600x400",
+      "summary": "Discover SMIL, the often-overlooked way to animate SVGs that works inside `` tags and can fully animate everything in an SVG without JavaScript.",
+      "category": "Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://smashingmagazine.com/2026/08/timing-charts-blueprint-smil-animations/"
+    },
+    {
       "title": "What The Matrix got wrong about AI (so far)",
       "image": "https://placehold.co/600x400",
       "summary": "What The Matrix got wrong about AI (so far)",
@@ -54,6 +45,15 @@
       "style": "Unknown",
       "mood": "Neutral",
       "link": "https://uxdesign.cc/what-the-matrix-got-wrong-about-ai-so-far-c35f8e7f091c?source=rss----138adf9c44c---4"
+    },
+    {
+      "title": "What nobody tells you about AI ethics",
+      "image": "https://placehold.co/600x400",
+      "summary": "Why making the human behind the machine visible changes what we call morally right, and its effect on the alignment of AI with human values.\nContinue reading on UX Collective »",
+      "category": "UI/UX",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://uxdesign.cc/ai-ethics-ux-accountability-gradient-56094d538453?source=rss----138adf9c44c---4"
     }
   ]
 }
