@@ -1,32 +1,23 @@
 {
-  "lastUpdated": "2026-08-22T01:08:21.569Z",
+  "lastUpdated": "2026-08-23T01:14:01.817Z",
   "articles": [
     {
-      "title": "New EU Guidelines For AI Labelling",
-      "image": "http://files.smashing.media/articles/eu-guidelines-ai-labelling/eu-guidelines-ai-labelling.jpg",
-      "summary": "New EU guidelines, why AI sparkles aren’t enough, when AI labels are required, and what the rules mean for AI-powered features and products.",
+      "title": "What nobody tells you about AI ethics",
+      "image": "https://placehold.co/600x400",
+      "summary": "Why making the human behind the machine visible changes what we call morally right, and its effect on the alignment of AI with human values.\nContinue reading on UX Collective »",
       "category": "UI/UX",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://smashingmagazine.com/2026/08/eu-guidelines-ai-labelling/"
+      "link": "https://uxdesign.cc/ai-ethics-ux-accountability-gradient-56094d538453?source=rss----138adf9c44c---4"
     },
     {
-      "title": " KPop Demon Hunters might have to change its name ",
-      "image": "https://cdn.mos.cms.futurecdn.net/e6pL3kwjtcgmSnGqLMCVzf-1280-80.jpg",
-      "summary": "The movie faces a foe bigger than the Saja Boys in a battle with a real-world band.",
-      "category": "Design",
+      "title": " Reduce eye strain and eliminate screen glare with 31% off this monitor light bar ",
+      "image": "https://cdn.mos.cms.futurecdn.net/eHWvnWorpf9BdmzECKDUAZ-1280-80.jpg",
+      "summary": "Light up your workspace for under $50.",
+      "category": "AI Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://www.creativebloq.com/entertainment/movies-tv-shows/kpop-demon-hunters-might-have-to-change-its-name"
-    },
-    {
-      "title": " Elevate your workspace with up to 30% off floating shelves ",
-      "image": "https://cdn.mos.cms.futurecdn.net/CeZNceNgkc2QueyrxYR5rb-1280-80.jpg",
-      "summary": "Find your match, from rustic walnut to sleek oak wood designs.",
-      "category": "Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://www.creativebloq.com/tech/chairs-desks/elevate-your-workspace-with-up-to-30-percent-off-floating-shelves"
+      "link": "https://www.creativebloq.com/entertainment/gaming/reduce-eye-strain-and-eliminate-screen-glare-with-31-percent-off-this-monitor-light-bar"
     },
     {
       "title": "Timing Charts: A Blueprint For SMIL Animations",
@@ -38,6 +29,24 @@
       "link": "https://smashingmagazine.com/2026/08/timing-charts-blueprint-smil-animations/"
     },
     {
+      "title": "New EU Guidelines For AI Labelling",
+      "image": "http://files.smashing.media/articles/eu-guidelines-ai-labelling/eu-guidelines-ai-labelling.jpg",
+      "summary": "New EU guidelines, why AI sparkles aren’t enough, when AI labels are required, and what the rules mean for AI-powered features and products.",
+      "category": "UI/UX",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://smashingmagazine.com/2026/08/eu-guidelines-ai-labelling/"
+    },
+    {
+      "title": " These '90s classics are brutally hard – but that's exactly why you should play them again ",
+      "image": "https://cdn.mos.cms.futurecdn.net/P3NeXqKQSTCGcukrLHHwAj-1280-80.jpg",
+      "summary": "Disney Afternoon Collection and Rayman 30th Anniversary Edition remind us why challenging games are hard to put down.",
+      "category": "AI Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://www.creativebloq.com/entertainment/gaming/these-90s-classics-are-brutally-hard-but-thats-exactly-why-you-should-play-them-again"
+    },
+    {
       "title": "What The Matrix got wrong about AI (so far)",
       "image": "https://placehold.co/600x400",
       "summary": "What The Matrix got wrong about AI (so far)",
@@ -45,15 +54,6 @@
       "style": "Unknown",
       "mood": "Neutral",
       "link": "https://uxdesign.cc/what-the-matrix-got-wrong-about-ai-so-far-c35f8e7f091c?source=rss----138adf9c44c---4"
-    },
-    {
-      "title": "What nobody tells you about AI ethics",
-      "image": "https://placehold.co/600x400",
-      "summary": "Why making the human behind the machine visible changes what we call morally right, and its effect on the alignment of AI with human values.\nContinue reading on UX Collective »",
-      "category": "UI/UX",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://uxdesign.cc/ai-ethics-ux-accountability-gradient-56094d538453?source=rss----138adf9c44c---4"
     }
   ]
 }
