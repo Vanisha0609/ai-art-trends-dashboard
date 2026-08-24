@@ -1,32 +1,14 @@
 {
-  "lastUpdated": "2026-08-23T01:14:01.817Z",
+  "lastUpdated": "2026-08-24T01:11:55.076Z",
   "articles": [
     {
-      "title": "What nobody tells you about AI ethics",
+      "title": "Nobody wants a blank page. Nobody touches a perfect one.",
       "image": "https://placehold.co/600x400",
-      "summary": "Why making the human behind the machine visible changes what we call morally right, and its effect on the alignment of AI with human values.\nContinue reading on UX Collective »",
+      "summary": "Why people can’t begin from nothing, and won’t touch anything finished.\nContinue reading on UX Collective »",
       "category": "UI/UX",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://uxdesign.cc/ai-ethics-ux-accountability-gradient-56094d538453?source=rss----138adf9c44c---4"
-    },
-    {
-      "title": " Reduce eye strain and eliminate screen glare with 31% off this monitor light bar ",
-      "image": "https://cdn.mos.cms.futurecdn.net/eHWvnWorpf9BdmzECKDUAZ-1280-80.jpg",
-      "summary": "Light up your workspace for under $50.",
-      "category": "AI Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://www.creativebloq.com/entertainment/gaming/reduce-eye-strain-and-eliminate-screen-glare-with-31-percent-off-this-monitor-light-bar"
-    },
-    {
-      "title": "Timing Charts: A Blueprint For SMIL Animations",
-      "image": "https://placehold.co/600x400",
-      "summary": "Discover SMIL, the often-overlooked way to animate SVGs that works inside `` tags and can fully animate everything in an SVG without JavaScript.",
-      "category": "Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://smashingmagazine.com/2026/08/timing-charts-blueprint-smil-animations/"
+      "link": "https://uxdesign.cc/nobody-wants-a-blank-page-nobody-touches-a-perfect-one-48d452a26dae?source=rss----138adf9c44c---4"
     },
     {
       "title": "New EU Guidelines For AI Labelling",
@@ -38,22 +20,40 @@
       "link": "https://smashingmagazine.com/2026/08/eu-guidelines-ai-labelling/"
     },
     {
-      "title": " These '90s classics are brutally hard – but that's exactly why you should play them again ",
-      "image": "https://cdn.mos.cms.futurecdn.net/P3NeXqKQSTCGcukrLHHwAj-1280-80.jpg",
-      "summary": "Disney Afternoon Collection and Rayman 30th Anniversary Edition remind us why challenging games are hard to put down.",
+      "title": " This is the only budget ergonomic office chair to get a 10/10 review from Creative Bloq, and it's now reduced by 22% ",
+      "image": "https://cdn.mos.cms.futurecdn.net/4HkBEkahjbvbe3Z2E46aVP-1280-80.jpg",
+      "summary": "The one cheap office chair we actually wanted to keep is now just $132.53.",
       "category": "AI Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://www.creativebloq.com/entertainment/gaming/these-90s-classics-are-brutally-hard-but-thats-exactly-why-you-should-play-them-again"
+      "link": "https://www.creativebloq.com/tech/chairs-desks/one-of-the-top-rated-economic-office-chairs-is-reduced-by-22-percent"
     },
     {
-      "title": "What The Matrix got wrong about AI (so far)",
+      "title": "Stop using OKLCH lightness for your color scale",
       "image": "https://placehold.co/600x400",
-      "summary": "What The Matrix got wrong about AI (so far)",
-      "category": "AI Design",
+      "summary": "It’s brilliant at generating color, but it can’t predict contrast — and there’s a better number for your palette weights.\nContinue reading on UX Collective »",
+      "category": "UI/UX",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://uxdesign.cc/what-the-matrix-got-wrong-about-ai-so-far-c35f8e7f091c?source=rss----138adf9c44c---4"
+      "link": "https://uxdesign.cc/stop-using-oklch-lightness-for-your-color-scale-02025deca49d?source=rss----138adf9c44c---4"
+    },
+    {
+      "title": " XPPen slashes 50% off drawing tablets for its 21st Anniversary sale ",
+      "image": "https://cdn.mos.cms.futurecdn.net/e9AoUVtiZsxgzd5DBBBqUU-1280-80.jpg",
+      "summary": "There are some real gems on sale, including $400 off the Artist Pro 24 series.",
+      "category": "Illustration",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://www.creativebloq.com/art/digital-art/xppen-slashes-50-percent-off-drawing-tablets-for-its-21st-anniversary-sale"
+    },
+    {
+      "title": "Timing Charts: A Blueprint For SMIL Animations",
+      "image": "https://placehold.co/600x400",
+      "summary": "Discover SMIL, the often-overlooked way to animate SVGs that works inside `` tags and can fully animate everything in an SVG without JavaScript.",
+      "category": "Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://smashingmagazine.com/2026/08/timing-charts-blueprint-smil-animations/"
     }
   ]
 }
