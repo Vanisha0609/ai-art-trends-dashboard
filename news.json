@@ -1,14 +1,32 @@
 {
-  "lastUpdated": "2026-08-24T01:11:55.076Z",
+  "lastUpdated": "2026-08-25T01:10:21.264Z",
   "articles": [
     {
-      "title": "Nobody wants a blank page. Nobody touches a perfect one.",
+      "title": "Stop using OKLCH lightness for your color scale",
       "image": "https://placehold.co/600x400",
-      "summary": "Why people can’t begin from nothing, and won’t touch anything finished.\nContinue reading on UX Collective »",
+      "summary": "It’s brilliant at generating color, but it can’t predict contrast — and there’s a better number for your palette weights.\nContinue reading on UX Collective »",
       "category": "UI/UX",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://uxdesign.cc/nobody-wants-a-blank-page-nobody-touches-a-perfect-one-48d452a26dae?source=rss----138adf9c44c---4"
+      "link": "https://uxdesign.cc/stop-using-oklch-lightness-for-your-color-scale-02025deca49d?source=rss----138adf9c44c---4"
+    },
+    {
+      "title": " Download resources for ImagineFX 270 ",
+      "image": "https://cdn.mos.cms.futurecdn.net/iTFXGUq5kJKtoFh2tjpfpe-1280-80.jpg",
+      "summary": "All the files, resources and videos to accompany issue 270 of ImagineFX magazine.",
+      "category": "Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://www.creativebloq.com/design/magazines/download-resources-for-imaginefx-270"
+    },
+    {
+      "title": " Master the monochrome with issue 270 of ImagineFX ",
+      "image": "https://cdn.mos.cms.futurecdn.net/iTFXGUq5kJKtoFh2tjpfpe-1280-80.jpg",
+      "summary": "Practical inspiration for your art projects",
+      "category": "Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://www.creativebloq.com/professional-development/artistic-tips-techniques/master-the-monochrome-with-issue-270-of-imaginefx"
     },
     {
       "title": "New EU Guidelines For AI Labelling",
@@ -20,33 +38,6 @@
       "link": "https://smashingmagazine.com/2026/08/eu-guidelines-ai-labelling/"
     },
     {
-      "title": " This is the only budget ergonomic office chair to get a 10/10 review from Creative Bloq, and it's now reduced by 22% ",
-      "image": "https://cdn.mos.cms.futurecdn.net/4HkBEkahjbvbe3Z2E46aVP-1280-80.jpg",
-      "summary": "The one cheap office chair we actually wanted to keep is now just $132.53.",
-      "category": "AI Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://www.creativebloq.com/tech/chairs-desks/one-of-the-top-rated-economic-office-chairs-is-reduced-by-22-percent"
-    },
-    {
-      "title": "Stop using OKLCH lightness for your color scale",
-      "image": "https://placehold.co/600x400",
-      "summary": "It’s brilliant at generating color, but it can’t predict contrast — and there’s a better number for your palette weights.\nContinue reading on UX Collective »",
-      "category": "UI/UX",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://uxdesign.cc/stop-using-oklch-lightness-for-your-color-scale-02025deca49d?source=rss----138adf9c44c---4"
-    },
-    {
-      "title": " XPPen slashes 50% off drawing tablets for its 21st Anniversary sale ",
-      "image": "https://cdn.mos.cms.futurecdn.net/e9AoUVtiZsxgzd5DBBBqUU-1280-80.jpg",
-      "summary": "There are some real gems on sale, including $400 off the Artist Pro 24 series.",
-      "category": "Illustration",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://www.creativebloq.com/art/digital-art/xppen-slashes-50-percent-off-drawing-tablets-for-its-21st-anniversary-sale"
-    },
-    {
       "title": "Timing Charts: A Blueprint For SMIL Animations",
       "image": "https://placehold.co/600x400",
       "summary": "Discover SMIL, the often-overlooked way to animate SVGs that works inside `` tags and can fully animate everything in an SVG without JavaScript.",
@@ -54,6 +45,15 @@
       "style": "Unknown",
       "mood": "Neutral",
       "link": "https://smashingmagazine.com/2026/08/timing-charts-blueprint-smil-animations/"
+    },
+    {
+      "title": "No log off, How to become an AI Designer, vibe coded portfolios",
+      "image": "https://placehold.co/600x400",
+      "summary": "No log off, How to become an AI Designer, vibe coded portfolios",
+      "category": "AI Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://uxdesign.cc/no-log-off-how-to-become-an-ai-designer-vibe-coded-portfolios-deb7ca0e0f5d?source=rss----138adf9c44c---4"
     }
   ]
 }
