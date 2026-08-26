@@ -1,42 +1,6 @@
 {
-  "lastUpdated": "2026-08-25T01:10:21.264Z",
+  "lastUpdated": "2026-08-26T01:12:46.026Z",
   "articles": [
-    {
-      "title": "Stop using OKLCH lightness for your color scale",
-      "image": "https://placehold.co/600x400",
-      "summary": "It’s brilliant at generating color, but it can’t predict contrast — and there’s a better number for your palette weights.\nContinue reading on UX Collective »",
-      "category": "UI/UX",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://uxdesign.cc/stop-using-oklch-lightness-for-your-color-scale-02025deca49d?source=rss----138adf9c44c---4"
-    },
-    {
-      "title": " Download resources for ImagineFX 270 ",
-      "image": "https://cdn.mos.cms.futurecdn.net/iTFXGUq5kJKtoFh2tjpfpe-1280-80.jpg",
-      "summary": "All the files, resources and videos to accompany issue 270 of ImagineFX magazine.",
-      "category": "Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://www.creativebloq.com/design/magazines/download-resources-for-imaginefx-270"
-    },
-    {
-      "title": " Master the monochrome with issue 270 of ImagineFX ",
-      "image": "https://cdn.mos.cms.futurecdn.net/iTFXGUq5kJKtoFh2tjpfpe-1280-80.jpg",
-      "summary": "Practical inspiration for your art projects",
-      "category": "Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://www.creativebloq.com/professional-development/artistic-tips-techniques/master-the-monochrome-with-issue-270-of-imaginefx"
-    },
-    {
-      "title": "New EU Guidelines For AI Labelling",
-      "image": "http://files.smashing.media/articles/eu-guidelines-ai-labelling/eu-guidelines-ai-labelling.jpg",
-      "summary": "New EU guidelines, why AI sparkles aren’t enough, when AI labels are required, and what the rules mean for AI-powered features and products.",
-      "category": "UI/UX",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://smashingmagazine.com/2026/08/eu-guidelines-ai-labelling/"
-    },
     {
       "title": "Timing Charts: A Blueprint For SMIL Animations",
       "image": "https://placehold.co/600x400",
@@ -47,13 +11,49 @@
       "link": "https://smashingmagazine.com/2026/08/timing-charts-blueprint-smil-animations/"
     },
     {
-      "title": "No log off, How to become an AI Designer, vibe coded portfolios",
+      "title": "The function — the role of software in society",
       "image": "https://placehold.co/600x400",
-      "summary": "No log off, How to become an AI Designer, vibe coded portfolios",
+      "summary": "A story of inputs, outputs, and the tools between.\nContinue reading on UX Collective »",
+      "category": "UI/UX",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://uxdesign.cc/the-function-the-role-of-software-in-society-8339c99398f3?source=rss----138adf9c44c---4"
+    },
+    {
+      "title": " How did the violent Obsession-inspired golf ad ever get approved? ",
+      "image": "https://cdn.mos.cms.futurecdn.net/hcabnLZKqMUEVpXSTjsszU-1280-80.jpg",
+      "summary": "Callaway has apologised, but the ad shows the risks of chasing viral trends.",
+      "category": "Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://www.creativebloq.com/design/advertising/violent-obsession-inspired-golf-ad-shows-the-risk-of-brands-chasing-viral-trends"
+    },
+    {
+      "title": " How Screenbound's impossible '5D' platformer concept became a real game ",
+      "image": "https://cdn.mos.cms.futurecdn.net/riQbtmLWS6HcvgHRutSyDh-1280-80.jpg",
+      "summary": "Radical Forge technical artist Lyra Owen shares insights on turning Screenbound's 'mockups' into a playable game that makes sense between 2D and 3D worlds.",
+      "category": "3D Art",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://www.creativebloq.com/3d/video-game-design/how-screenbounds-impossible-5d-platformer-concept-became-a-real-game"
+    },
+    {
+      "title": "What Blade Runner got right about AI",
+      "image": "https://placehold.co/600x400",
+      "summary": "What Blade Runner got right about AI",
       "category": "AI Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://uxdesign.cc/no-log-off-how-to-become-an-ai-designer-vibe-coded-portfolios-deb7ca0e0f5d?source=rss----138adf9c44c---4"
+      "link": "https://uxdesign.cc/what-blade-runner-got-right-about-ai-99cc75c0f761?source=rss----138adf9c44c---4"
+    },
+    {
+      "title": "Why Your Website Should Never Stop Changing",
+      "image": "http://files.smashing.media/articles/why-website-should-never-stop-changing/why-website-should-never-stop-changing.jpg",
+      "summary": "Every website peaks on launch day and slowly drifts from there, not because it breaks, but because nobody has time to keep it current. Autonomous websites, continuously optimized by agents after launch, aim to change that. Pierre Burgy shares what they learned building for full website autonomy and the deeper design problem they uncovered along the way.",
+      "category": "UI/UX",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://smashingmagazine.com/2026/08/why-website-should-never-stop-changing/"
     }
   ]
 }
