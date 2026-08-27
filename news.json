@@ -1,14 +1,14 @@
 {
-  "lastUpdated": "2026-08-26T01:12:46.026Z",
+  "lastUpdated": "2026-08-27T07:26:29.889Z",
   "articles": [
     {
-      "title": "Timing Charts: A Blueprint For SMIL Animations",
-      "image": "https://placehold.co/600x400",
-      "summary": "Discover SMIL, the often-overlooked way to animate SVGs that works inside `` tags and can fully animate everything in an SVG without JavaScript.",
-      "category": "Design",
+      "title": "Rethinking Data Visualisation: A UX Approach To Dashboards That Actually Drives Decisions",
+      "image": "http://files.smashing.media/articles/rethinking-data-visualisation-ux-approach-dashboards/rethinking-data-visualisation-ux-approach-dashboards.jpg",
+      "summary": "Data visualisation sits at the intersection of two disciplines that rarely talk to each other: data and design. Meriem Benhabiles explores what changes when you bring structured UX thinking to dashboards and data presentations, from the questions you ask before opening any tool to the decisions that determine whether an insight actually lands.",
+      "category": "UI/UX",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://smashingmagazine.com/2026/08/timing-charts-blueprint-smil-animations/"
+      "link": "https://smashingmagazine.com/2026/08/rethinking-data-visualisation-ux-approach-dashboards/"
     },
     {
       "title": "The function — the role of software in society",
@@ -20,31 +20,31 @@
       "link": "https://uxdesign.cc/the-function-the-role-of-software-in-society-8339c99398f3?source=rss----138adf9c44c---4"
     },
     {
-      "title": " How did the violent Obsession-inspired golf ad ever get approved? ",
-      "image": "https://cdn.mos.cms.futurecdn.net/hcabnLZKqMUEVpXSTjsszU-1280-80.jpg",
-      "summary": "Callaway has apologised, but the ad shows the risks of chasing viral trends.",
+      "title": " The FREE Witcher 3 Remaster just won CD Projekt Redmassive respect from gamers ",
+      "image": "https://cdn.mos.cms.futurecdn.net/4yuV6GmmNokihSUQqbCLRX-1280-80.jpg",
+      "summary": "This is how you keep a fanbase loyal for years to come.",
       "category": "Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://www.creativebloq.com/design/advertising/violent-obsession-inspired-golf-ad-shows-the-risk-of-brands-chasing-viral-trends"
+      "link": "https://www.creativebloq.com/entertainment/gaming/the-free-witcher-3-remaster-just-won-cd-projekt-red-massive-respect-from-gamers"
     },
     {
-      "title": " How Screenbound's impossible '5D' platformer concept became a real game ",
-      "image": "https://cdn.mos.cms.futurecdn.net/riQbtmLWS6HcvgHRutSyDh-1280-80.jpg",
-      "summary": "Radical Forge technical artist Lyra Owen shares insights on turning Screenbound's 'mockups' into a playable game that makes sense between 2D and 3D worlds.",
-      "category": "3D Art",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://www.creativebloq.com/3d/video-game-design/how-screenbounds-impossible-5d-platformer-concept-became-a-real-game"
-    },
-    {
-      "title": "What Blade Runner got right about AI",
+      "title": "AI has a hospitality problem money can’t fix",
       "image": "https://placehold.co/600x400",
-      "summary": "What Blade Runner got right about AI",
+      "summary": "AI has a hospitality problem money can’t fix",
       "category": "AI Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://uxdesign.cc/what-blade-runner-got-right-about-ai-99cc75c0f761?source=rss----138adf9c44c---4"
+      "link": "https://uxdesign.cc/ai-has-a-hospitality-problem-money-cant-fix-e8fa34e91d62?source=rss----138adf9c44c---4"
+    },
+    {
+      "title": " Apple's surprise new Mac mini and Studio bring masses more power for creatives, and there's a way to save over $500 ",
+      "image": "https://cdn.mos.cms.futurecdn.net/5wqL9o5bR74cZyJdvLxrYj-1280-80.jpg",
+      "summary": "With Apple's M6, M5 Pro and M5 Max chips, these are mini monsters.",
+      "category": "Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://www.creativebloq.com/tech/computers/apples-new-mac-mini-and-studio-bring-more-power-for-creatives-and-theres-a-way-to-save-over-usd500"
     },
     {
       "title": "Why Your Website Should Never Stop Changing",
