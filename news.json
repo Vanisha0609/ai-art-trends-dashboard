@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-27T07:26:29.889Z",
+  "lastUpdated": "2026-08-28T09:41:23.298Z",
   "articles": [
     {
       "title": "Rethinking Data Visualisation: A UX Approach To Dashboards That Actually Drives Decisions",
@@ -11,22 +11,22 @@
       "link": "https://smashingmagazine.com/2026/08/rethinking-data-visualisation-ux-approach-dashboards/"
     },
     {
-      "title": "The function — the role of software in society",
-      "image": "https://placehold.co/600x400",
-      "summary": "A story of inputs, outputs, and the tools between.\nContinue reading on UX Collective »",
+      "title": "Why Your Website Should Never Stop Changing",
+      "image": "http://files.smashing.media/articles/why-website-should-never-stop-changing/why-website-should-never-stop-changing.jpg",
+      "summary": "Every website peaks on launch day and slowly drifts from there, not because it breaks, but because nobody has time to keep it current. Autonomous websites, continuously optimized by agents after launch, aim to change that. Pierre Burgy shares what they learned building for full website autonomy and the deeper design problem they uncovered along the way.",
       "category": "UI/UX",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://uxdesign.cc/the-function-the-role-of-software-in-society-8339c99398f3?source=rss----138adf9c44c---4"
+      "link": "https://smashingmagazine.com/2026/08/why-website-should-never-stop-changing/"
     },
     {
-      "title": " The FREE Witcher 3 Remaster just won CD Projekt Redmassive respect from gamers ",
-      "image": "https://cdn.mos.cms.futurecdn.net/4yuV6GmmNokihSUQqbCLRX-1280-80.jpg",
-      "summary": "This is how you keep a fanbase loyal for years to come.",
-      "category": "Design",
+      "title": " How those epic Hearthstone cards are made ",
+      "image": "https://cdn.mos.cms.futurecdn.net/eC2PEzQdwtovRoy2mWQQs8-1280-80.jpg",
+      "summary": "Principal game artist Cole Eastburn teaches how to paint fantasy illustrations from start to finish.",
+      "category": "AI Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://www.creativebloq.com/entertainment/gaming/the-free-witcher-3-remaster-just-won-cd-projekt-red-massive-respect-from-gamers"
+      "link": "https://www.creativebloq.com/3d/how-those-epic-hearthstone-cards-are-made"
     },
     {
       "title": "AI has a hospitality problem money can’t fix",
@@ -38,22 +38,22 @@
       "link": "https://uxdesign.cc/ai-has-a-hospitality-problem-money-cant-fix-e8fa34e91d62?source=rss----138adf9c44c---4"
     },
     {
-      "title": " Apple's surprise new Mac mini and Studio bring masses more power for creatives, and there's a way to save over $500 ",
-      "image": "https://cdn.mos.cms.futurecdn.net/5wqL9o5bR74cZyJdvLxrYj-1280-80.jpg",
-      "summary": "With Apple's M6, M5 Pro and M5 Max chips, these are mini monsters.",
+      "title": "What Blade Runner got wrong about AI (so far)",
+      "image": "https://placehold.co/600x400",
+      "summary": "What Blade Runner got wrong about AI (so far)",
+      "category": "AI Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://uxdesign.cc/what-blade-runner-got-wrong-about-ai-so-far-d01b579288c1?source=rss----138adf9c44c---4"
+    },
+    {
+      "title": " This PC mouse has 31,400 five-star reviews on Amazon, and it's down to $30 ",
+      "image": "https://cdn.mos.cms.futurecdn.net/cv4Xf5fy4KmZ87SXy6g8VP-1280-80.jpg",
+      "summary": "The Logitech G305 Lightspeed has been putting more expensive mice to shame since 2018.",
       "category": "Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://www.creativebloq.com/tech/computers/apples-new-mac-mini-and-studio-bring-more-power-for-creatives-and-theres-a-way-to-save-over-usd500"
-    },
-    {
-      "title": "Why Your Website Should Never Stop Changing",
-      "image": "http://files.smashing.media/articles/why-website-should-never-stop-changing/why-website-should-never-stop-changing.jpg",
-      "summary": "Every website peaks on launch day and slowly drifts from there, not because it breaks, but because nobody has time to keep it current. Autonomous websites, continuously optimized by agents after launch, aim to change that. Pierre Burgy shares what they learned building for full website autonomy and the deeper design problem they uncovered along the way.",
-      "category": "UI/UX",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://smashingmagazine.com/2026/08/why-website-should-never-stop-changing/"
+      "link": "https://www.creativebloq.com/tech/keyboards-mice/this-pc-mouse-has-31-400-five-star-reviews-on-amazon-and-its-down-to-usd30"
     }
   ]
 }
