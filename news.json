@@ -1,32 +1,23 @@
 {
-  "lastUpdated": "2026-08-29T05:44:51.696Z",
+  "lastUpdated": "2026-08-30T03:47:44.597Z",
   "articles": [
     {
-      "title": " How Origame Digital built a “souped-up PS2” Lovecraftian horror game about penguins ",
-      "image": "https://cdn.mos.cms.futurecdn.net/5qXoqy3s6Q3BoXDYtkjn4G-1280-80.jpg",
-      "summary": "Origame Digital's Tali Faulkner reveals how penguins, Nazis and Lovecraft collide in this brilliantly weird Antarctic horror game.",
-      "category": "UI/UX",
+      "title": " This artist reimagined Star Wars with a League of Legends splash art style ",
+      "image": "https://cdn.mos.cms.futurecdn.net/X67E5wk7NBmnE6jGQZw8AY-1280-80.jpg",
+      "summary": "Check out the fantasy art of Pavel Yurev.",
+      "category": "Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://www.creativebloq.com/3d/video-game-design/how-origame-digital-built-a-souped-up-ps2-lovecraftian-horror-game-about-penguins"
+      "link": "https://www.creativebloq.com/art/digital-art/this-artist-reimagined-star-wars-with-a-league-of-legends-splash-art-style"
     },
     {
-      "title": " \"Unsettling\" – Nvidia’s controversial DLSS 5 AI filter has leaked, and gamers are horrified ",
-      "image": "https://cdn.mos.cms.futurecdn.net/DFQGA2GdkgQRVqhL7bZ5uk-1280-80.jpg",
-      "summary": "Final Fantasy 7's Cloud looks like Scarlett Johansson in a Mötley Crüe wig.",
+      "title": " The $3.4m Disney auction is a reminder of what AI concept art takes from us ",
+      "image": "https://cdn.mos.cms.futurecdn.net/QcAaimJpfPsZLum6vAjPV-1280-80.jpg",
+      "summary": "Spider-Man: Brand New Day's AI art will never have the same value.",
       "category": "AI Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://www.creativebloq.com/3d/unsettling-nvidias-dlss-5-controversial-ai-filter-has-leaked-and-gamers-are-horrified"
-    },
-    {
-      "title": "AI has a hospitality problem money can’t fix",
-      "image": "https://placehold.co/600x400",
-      "summary": "AI has a hospitality problem money can’t fix",
-      "category": "AI Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://uxdesign.cc/ai-has-a-hospitality-problem-money-cant-fix-e8fa34e91d62?source=rss----138adf9c44c---4"
+      "link": "https://www.creativebloq.com/art/animation/the-usd3-4m-disney-auction-is-a-reminder-of-what-ai-concept-art-takes-from-us"
     },
     {
       "title": "Why Your Website Should Never Stop Changing",
@@ -38,6 +29,15 @@
       "link": "https://smashingmagazine.com/2026/08/why-website-should-never-stop-changing/"
     },
     {
+      "title": "Rethinking Data Visualisation: A UX Approach To Dashboards That Actually Drives Decisions",
+      "image": "http://files.smashing.media/articles/rethinking-data-visualisation-ux-approach-dashboards/rethinking-data-visualisation-ux-approach-dashboards.jpg",
+      "summary": "Data visualisation sits at the intersection of two disciplines that rarely talk to each other: data and design. Meriem Benhabiles explores what changes when you bring structured UX thinking to dashboards and data presentations, from the questions you ask before opening any tool to the decisions that determine whether an insight actually lands.",
+      "category": "UI/UX",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://smashingmagazine.com/2026/08/rethinking-data-visualisation-ux-approach-dashboards/"
+    },
+    {
       "title": "What Blade Runner got wrong about AI (so far)",
       "image": "https://placehold.co/600x400",
       "summary": "What Blade Runner got wrong about AI (so far)",
@@ -47,13 +47,13 @@
       "link": "https://uxdesign.cc/what-blade-runner-got-wrong-about-ai-so-far-d01b579288c1?source=rss----138adf9c44c---4"
     },
     {
-      "title": "Rethinking Data Visualisation: A UX Approach To Dashboards That Actually Drives Decisions",
-      "image": "http://files.smashing.media/articles/rethinking-data-visualisation-ux-approach-dashboards/rethinking-data-visualisation-ux-approach-dashboards.jpg",
-      "summary": "Data visualisation sits at the intersection of two disciplines that rarely talk to each other: data and design. Meriem Benhabiles explores what changes when you bring structured UX thinking to dashboards and data presentations, from the questions you ask before opening any tool to the decisions that determine whether an insight actually lands.",
-      "category": "UI/UX",
+      "title": "AI has a hospitality problem money can’t fix",
+      "image": "https://placehold.co/600x400",
+      "summary": "AI has a hospitality problem money can’t fix",
+      "category": "AI Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://smashingmagazine.com/2026/08/rethinking-data-visualisation-ux-approach-dashboards/"
+      "link": "https://uxdesign.cc/ai-has-a-hospitality-problem-money-cant-fix-e8fa34e91d62?source=rss----138adf9c44c---4"
     }
   ]
 }
