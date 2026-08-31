@@ -1,24 +1,6 @@
 {
-  "lastUpdated": "2026-08-30T03:47:44.597Z",
+  "lastUpdated": "2026-08-31T03:49:39.237Z",
   "articles": [
-    {
-      "title": " This artist reimagined Star Wars with a League of Legends splash art style ",
-      "image": "https://cdn.mos.cms.futurecdn.net/X67E5wk7NBmnE6jGQZw8AY-1280-80.jpg",
-      "summary": "Check out the fantasy art of Pavel Yurev.",
-      "category": "Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://www.creativebloq.com/art/digital-art/this-artist-reimagined-star-wars-with-a-league-of-legends-splash-art-style"
-    },
-    {
-      "title": " The $3.4m Disney auction is a reminder of what AI concept art takes from us ",
-      "image": "https://cdn.mos.cms.futurecdn.net/QcAaimJpfPsZLum6vAjPV-1280-80.jpg",
-      "summary": "Spider-Man: Brand New Day's AI art will never have the same value.",
-      "category": "AI Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://www.creativebloq.com/art/animation/the-usd3-4m-disney-auction-is-a-reminder-of-what-ai-concept-art-takes-from-us"
-    },
     {
       "title": "Why Your Website Should Never Stop Changing",
       "image": "http://files.smashing.media/articles/why-website-should-never-stop-changing/why-website-should-never-stop-changing.jpg",
@@ -29,6 +11,42 @@
       "link": "https://smashingmagazine.com/2026/08/why-website-should-never-stop-changing/"
     },
     {
+      "title": "Rethinking success beyond the corporate stairs in the world of design",
+      "image": "https://placehold.co/600x400",
+      "summary": "Rethinking success beyond the corporate stairs in the world of design",
+      "category": "AI Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://uxdesign.cc/rethinking-success-beyond-the-corporate-stairs-in-the-world-of-design-ae9d10521105?source=rss----138adf9c44c---4"
+    },
+    {
+      "title": " If Apple and Spotify are cracking down on AI slop, why can't YouTube? I think I know the answer ",
+      "image": "https://cdn.mos.cms.futurecdn.net/kLotpGooqDCMWf8JaWAHWV-1280-80.jpg",
+      "summary": "It's all about the business model.",
+      "category": "AI Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://www.creativebloq.com/ai/if-apple-and-spotify-are-cracking-down-on-ai-slop-why-cant-youtube-i-think-i-know-the-answer"
+    },
+    {
+      "title": " The best budget laptops for 3D printing ",
+      "image": "https://cdn.mos.cms.futurecdn.net/N4B7Lt2dgrDbCMQmQPztbX-1280-80.jpg",
+      "summary": "Start creating with one of the best budget 3D printing laptops picked by our experts.",
+      "category": "3D Art",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://www.creativebloq.com/tech/laptops/the-best-budget-laptops-for-3d-printing"
+    },
+    {
+      "title": "Neuroqueering design practice",
+      "image": "https://placehold.co/600x400",
+      "summary": "Neuroqueering design practice",
+      "category": "Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://uxdesign.cc/neuroqueering-design-practice-9e2aaf4dd2e5?source=rss----138adf9c44c---4"
+    },
+    {
       "title": "Rethinking Data Visualisation: A UX Approach To Dashboards That Actually Drives Decisions",
       "image": "http://files.smashing.media/articles/rethinking-data-visualisation-ux-approach-dashboards/rethinking-data-visualisation-ux-approach-dashboards.jpg",
       "summary": "Data visualisation sits at the intersection of two disciplines that rarely talk to each other: data and design. Meriem Benhabiles explores what changes when you bring structured UX thinking to dashboards and data presentations, from the questions you ask before opening any tool to the decisions that determine whether an insight actually lands.",
@@ -36,24 +54,6 @@
       "style": "Unknown",
       "mood": "Neutral",
       "link": "https://smashingmagazine.com/2026/08/rethinking-data-visualisation-ux-approach-dashboards/"
-    },
-    {
-      "title": "What Blade Runner got wrong about AI (so far)",
-      "image": "https://placehold.co/600x400",
-      "summary": "What Blade Runner got wrong about AI (so far)",
-      "category": "AI Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://uxdesign.cc/what-blade-runner-got-wrong-about-ai-so-far-d01b579288c1?source=rss----138adf9c44c---4"
-    },
-    {
-      "title": "AI has a hospitality problem money can’t fix",
-      "image": "https://placehold.co/600x400",
-      "summary": "AI has a hospitality problem money can’t fix",
-      "category": "AI Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://uxdesign.cc/ai-has-a-hospitality-problem-money-cant-fix-e8fa34e91d62?source=rss----138adf9c44c---4"
     }
   ]
 }
