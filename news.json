@@ -1,50 +1,32 @@
 {
-  "lastUpdated": "2026-08-31T03:49:39.237Z",
+  "lastUpdated": "2026-09-01T03:42:26.371Z",
   "articles": [
     {
-      "title": "Why Your Website Should Never Stop Changing",
-      "image": "http://files.smashing.media/articles/why-website-should-never-stop-changing/why-website-should-never-stop-changing.jpg",
-      "summary": "Every website peaks on launch day and slowly drifts from there, not because it breaks, but because nobody has time to keep it current. Autonomous websites, continuously optimized by agents after launch, aim to change that. Pierre Burgy shares what they learned building for full website autonomy and the deeper design problem they uncovered along the way.",
+      "title": "The Many Faces Of September (2026 Wallpapers Edition)",
+      "image": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/55161fb1-16dc-47e1-a118-5ecd0f0a3fbb/sept-17-autumn-rains-preview-opt.png",
+      "summary": "Could there be a better way to welcome the new month than with a new collection of desktop wallpapers? Whether you’re holding tightly onto summer or eagerly awaiting autumn, we’ve got some eye-catching designs to make your September just a bit more colorful. Enjoy!",
+      "category": "AI Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://smashingmagazine.com/2026/08/desktop-wallpaper-calendars-september-2026/"
+    },
+    {
+      "title": " Is Nvidia’s DLSS 5 an AI slop machine or a game-changing technology that will take us closer to artists' original vision? ",
+      "image": "https://cdn.mos.cms.futurecdn.net/92hEKGMNWmVyPzUNFDqpaA-1280-80.jpg",
+      "summary": "The controversy continues, but gamers might have been too quick to judge the controversial AI tech.",
       "category": "UI/UX",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://smashingmagazine.com/2026/08/why-website-should-never-stop-changing/"
+      "link": "https://www.creativebloq.com/3d/is-nvidias-dlss-5-an-ai-slop-machine-or-a-game-changing-technology-that-will-take-us-closer-to-artists-original-vision"
     },
     {
-      "title": "Rethinking success beyond the corporate stairs in the world of design",
+      "title": "The call for an agentic standard: We need to stop shipping the same form four different times",
       "image": "https://placehold.co/600x400",
-      "summary": "Rethinking success beyond the corporate stairs in the world of design",
-      "category": "AI Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://uxdesign.cc/rethinking-success-beyond-the-corporate-stairs-in-the-world-of-design-ae9d10521105?source=rss----138adf9c44c---4"
-    },
-    {
-      "title": " If Apple and Spotify are cracking down on AI slop, why can't YouTube? I think I know the answer ",
-      "image": "https://cdn.mos.cms.futurecdn.net/kLotpGooqDCMWf8JaWAHWV-1280-80.jpg",
-      "summary": "It's all about the business model.",
-      "category": "AI Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://www.creativebloq.com/ai/if-apple-and-spotify-are-cracking-down-on-ai-slop-why-cant-youtube-i-think-i-know-the-answer"
-    },
-    {
-      "title": " The best budget laptops for 3D printing ",
-      "image": "https://cdn.mos.cms.futurecdn.net/N4B7Lt2dgrDbCMQmQPztbX-1280-80.jpg",
-      "summary": "Start creating with one of the best budget 3D printing laptops picked by our experts.",
-      "category": "3D Art",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://www.creativebloq.com/tech/laptops/the-best-budget-laptops-for-3d-printing"
-    },
-    {
-      "title": "Neuroqueering design practice",
-      "image": "https://placehold.co/600x400",
-      "summary": "Neuroqueering design practice",
+      "summary": "The call for an agentic standard: We need to stop shipping the same form four different times",
       "category": "Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://uxdesign.cc/neuroqueering-design-practice-9e2aaf4dd2e5?source=rss----138adf9c44c---4"
+      "link": "https://uxdesign.cc/the-call-for-an-agentic-standard-we-need-to-stop-shipping-the-same-form-four-different-times-be5b9d40e370?source=rss----138adf9c44c---4"
     },
     {
       "title": "Rethinking Data Visualisation: A UX Approach To Dashboards That Actually Drives Decisions",
@@ -54,6 +36,24 @@
       "style": "Unknown",
       "mood": "Neutral",
       "link": "https://smashingmagazine.com/2026/08/rethinking-data-visualisation-ux-approach-dashboards/"
+    },
+    {
+      "title": " This tiny \"life-saving\" charger takes the guesswork out of juicing up – and right now it's 26% off ",
+      "image": "https://cdn.mos.cms.futurecdn.net/iL8ZpYbWPXYXz6nisSfLyS-1280-80.jpg",
+      "summary": "Apple fans will love the design.",
+      "category": "UI/UX",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://www.creativebloq.com/tech/accessories/this-tiny-life-saving-charger-takes-the-guesswork-out-of-juicing-up-and-right-now-its-26-percent-off"
+    },
+    {
+      "title": "Design has outgrown the traditional designer",
+      "image": "https://placehold.co/600x400",
+      "summary": "Design has outgrown the traditional designer",
+      "category": "Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://uxdesign.cc/design-has-outgrown-the-traditional-designer-adbb657aa30a?source=rss----138adf9c44c---4"
     }
   ]
 }
