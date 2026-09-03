@@ -1,33 +1,6 @@
 {
-  "lastUpdated": "2026-09-02T03:01:23.589Z",
+  "lastUpdated": "2026-09-03T03:02:35.987Z",
   "articles": [
-    {
-      "title": " The best e-ink art frames are starting to deliver on the early promise of the technology ",
-      "image": "https://cdn.mos.cms.futurecdn.net/drVvNdQxkdLSRrLBFZSzqY-1280-80.jpg",
-      "summary": "No light-emitting eye-sores here – only sharp, paper-like digital frames ideal for the discerning creative.",
-      "category": "Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://www.creativebloq.com/art/digital-art/the-best-e-ink-art-frames-finally-deliver-on-the-early-promise-of-the-technology-at-a-price"
-    },
-    {
-      "title": "What Minority Report got right about AI",
-      "image": "https://placehold.co/600x400",
-      "summary": "What Minority Report got right about AI",
-      "category": "AI Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://uxdesign.cc/what-minority-report-got-right-about-ai-45b9f1106431?source=rss----138adf9c44c---4"
-    },
-    {
-      "title": "Your users aren’t unmotivated-they have 1 of 4 problems",
-      "image": "https://placehold.co/600x400",
-      "summary": "How to design for advanced features nobody uses\nContinue reading on UX Collective »",
-      "category": "UI/UX",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://uxdesign.cc/your-users-arent-unmotivated-they-have-1-of-4-problems-99d709b60376?source=rss----138adf9c44c---4"
-    },
     {
       "title": "Rethinking Data Visualisation: A UX Approach To Dashboards That Actually Drives Decisions",
       "image": "http://files.smashing.media/articles/rethinking-data-visualisation-ux-approach-dashboards/rethinking-data-visualisation-ux-approach-dashboards.jpg",
@@ -36,6 +9,33 @@
       "style": "Unknown",
       "mood": "Neutral",
       "link": "https://smashingmagazine.com/2026/08/rethinking-data-visualisation-ux-approach-dashboards/"
+    },
+    {
+      "title": " The perfect slim and light back-to-school MacBook alternative has $450 off ",
+      "image": "https://cdn.mos.cms.futurecdn.net/r7JwHU2ivHSB2S5KA6ZKQi-1280-80.jpg",
+      "summary": "The Lenovo Slim 7i Aura Edition now costs $680 less than the equivalent MacBook Air!",
+      "category": "UI/UX",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://www.creativebloq.com/tech/laptops/this-slim-and-light-back-to-school-macbook-alternative-is-now-usd450-off"
+    },
+    {
+      "title": "AI took away engineering’s right to say no",
+      "image": "https://placehold.co/600x400",
+      "summary": "AI took away engineering’s right to say no",
+      "category": "AI Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://uxdesign.cc/ai-took-away-engineerings-right-to-say-no-839b9b6256f2?source=rss----138adf9c44c---4"
+    },
+    {
+      "title": "When the canvas starts acting, who’s really in control?",
+      "image": "https://placehold.co/600x400",
+      "summary": "When the canvas starts acting, who’s really in control?",
+      "category": "Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://uxdesign.cc/when-the-canvas-starts-acting-whos-really-in-control-0128f641223c?source=rss----138adf9c44c---4"
     },
     {
       "title": "The Many Faces Of September (2026 Wallpapers Edition)",
@@ -47,13 +47,13 @@
       "link": "https://smashingmagazine.com/2026/08/desktop-wallpaper-calendars-september-2026/"
     },
     {
-      "title": " This city's drastic logo redesign has hit a bum note ",
-      "image": "https://cdn.mos.cms.futurecdn.net/pwProyiNwQ8R5V3ZoAXW4Y-1280-80.png",
-      "summary": "Residents fear Bloomington isn't putting its best cheek forward.",
+      "title": " Yes, a Chromebook can be the perfect school laptop – and there's $170 off the best we've ever tested ",
+      "image": "https://cdn.mos.cms.futurecdn.net/Anoeo4KrMHGrwySzgpNdpJ-1280-80.jpg",
+      "summary": "Best Buy's 29% off the slim and powerful Acer Chromebook Plus Spin 514 is a back-to-school deal not to miss.",
       "category": "Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://www.creativebloq.com/design/logos-icons/this-us-citys-drastic-logo-redesign-has-hit-a-bum-note"
+      "link": "https://www.creativebloq.com/tech/laptops/yes-a-chromebook-can-be-the-perfect-school-laptop-and-theres-usd170-off-the-best-weve-ever-reviewed"
     }
   ]
 }
