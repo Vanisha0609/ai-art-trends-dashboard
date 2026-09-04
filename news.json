@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-09-03T03:02:35.987Z",
+  "lastUpdated": "2026-09-04T03:04:43.916Z",
   "articles": [
+    {
+      "title": " These 11 Walmart Bricktember Lego deals are worth grabbing quickly, and 10 of them are under $50 ",
+      "image": "https://cdn.mos.cms.futurecdn.net/qKvydS7Aa4ZdPKB3RDU8Zf-1280-80.jpg",
+      "summary": "Sort Halloween and Christmas now with up to 41% off Lego Disney, Star Wars, Shrek and more.",
+      "category": "UI/UX",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://www.creativebloq.com/entertainment/toys-collectibles/these-are-the-11-walmart-bricktember-lego-deals-actually-worth-considering-and-10-of-them-are-under-usd50"
+    },
+    {
+      "title": "What Minority Report got wrong about AI (so far)",
+      "image": "https://placehold.co/600x400",
+      "summary": "What Minority Report got wrong about AI (so far)",
+      "category": "AI Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://uxdesign.cc/what-minority-report-got-wrong-about-ai-so-far-9048573aa70f?source=rss----138adf9c44c---4"
+    },
     {
       "title": "Rethinking Data Visualisation: A UX Approach To Dashboards That Actually Drives Decisions",
       "image": "http://files.smashing.media/articles/rethinking-data-visualisation-ux-approach-dashboards/rethinking-data-visualisation-ux-approach-dashboards.jpg",
@@ -9,33 +27,6 @@
       "style": "Unknown",
       "mood": "Neutral",
       "link": "https://smashingmagazine.com/2026/08/rethinking-data-visualisation-ux-approach-dashboards/"
-    },
-    {
-      "title": " The perfect slim and light back-to-school MacBook alternative has $450 off ",
-      "image": "https://cdn.mos.cms.futurecdn.net/r7JwHU2ivHSB2S5KA6ZKQi-1280-80.jpg",
-      "summary": "The Lenovo Slim 7i Aura Edition now costs $680 less than the equivalent MacBook Air!",
-      "category": "UI/UX",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://www.creativebloq.com/tech/laptops/this-slim-and-light-back-to-school-macbook-alternative-is-now-usd450-off"
-    },
-    {
-      "title": "AI took away engineering’s right to say no",
-      "image": "https://placehold.co/600x400",
-      "summary": "AI took away engineering’s right to say no",
-      "category": "AI Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://uxdesign.cc/ai-took-away-engineerings-right-to-say-no-839b9b6256f2?source=rss----138adf9c44c---4"
-    },
-    {
-      "title": "When the canvas starts acting, who’s really in control?",
-      "image": "https://placehold.co/600x400",
-      "summary": "When the canvas starts acting, who’s really in control?",
-      "category": "Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://uxdesign.cc/when-the-canvas-starts-acting-whos-really-in-control-0128f641223c?source=rss----138adf9c44c---4"
     },
     {
       "title": "The Many Faces Of September (2026 Wallpapers Edition)",
@@ -47,13 +38,22 @@
       "link": "https://smashingmagazine.com/2026/08/desktop-wallpaper-calendars-september-2026/"
     },
     {
-      "title": " Yes, a Chromebook can be the perfect school laptop – and there's $170 off the best we've ever tested ",
-      "image": "https://cdn.mos.cms.futurecdn.net/Anoeo4KrMHGrwySzgpNdpJ-1280-80.jpg",
-      "summary": "Best Buy's 29% off the slim and powerful Acer Chromebook Plus Spin 514 is a back-to-school deal not to miss.",
+      "title": "When the canvas starts acting, who’s really in control?",
+      "image": "https://placehold.co/600x400",
+      "summary": "When the canvas starts acting, who’s really in control?",
       "category": "Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://www.creativebloq.com/tech/laptops/yes-a-chromebook-can-be-the-perfect-school-laptop-and-theres-usd170-off-the-best-weve-ever-reviewed"
+      "link": "https://uxdesign.cc/when-the-canvas-starts-acting-whos-really-in-control-0128f641223c?source=rss----138adf9c44c---4"
+    },
+    {
+      "title": " ArtStation is taking action against AI art, but there's one question it doesn't want to answer ",
+      "image": "https://cdn.mos.cms.futurecdn.net/Ptv8k6E5r3rtJVzrkEotNZ-1280-80.jpg",
+      "summary": "Some artists think there's an easier solution.",
+      "category": "AI Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://www.creativebloq.com/art/digital-art/artstation-is-finally-taking-action-against-ai-art-but-theres-one-question-it-doesnt-want-to-answer"
     }
   ]
 }
