@@ -1,14 +1,23 @@
 {
-  "lastUpdated": "2026-09-04T03:04:43.916Z",
+  "lastUpdated": "2026-09-05T03:04:14.472Z",
   "articles": [
     {
-      "title": " These 11 Walmart Bricktember Lego deals are worth grabbing quickly, and 10 of them are under $50 ",
-      "image": "https://cdn.mos.cms.futurecdn.net/qKvydS7Aa4ZdPKB3RDU8Zf-1280-80.jpg",
-      "summary": "Sort Halloween and Christmas now with up to 41% off Lego Disney, Star Wars, Shrek and more.",
+      "title": "Reading and writing are interfaces. And AI can reduce their friction.",
+      "image": "https://placehold.co/600x400",
+      "summary": "Reading and writing are interfaces. And AI can reduce their friction.",
+      "category": "AI Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://uxdesign.cc/reading-and-writing-are-interfaces-and-ai-can-reduce-their-friction-13623dea34c0?source=rss----138adf9c44c---4"
+    },
+    {
+      "title": " Genigods: Nezha is China's answer to God of War in Unreal Engine 5 ",
+      "image": "https://cdn.mos.cms.futurecdn.net/hiLsnYu8CNW63RKWQRRRDM-1280-80.jpg",
+      "summary": "Genigods Lab's celestial action RPG has ambitious 'cinematic fluid dynamic' tech fuelling its epic clash of gods",
       "category": "UI/UX",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://www.creativebloq.com/entertainment/toys-collectibles/these-are-the-11-walmart-bricktember-lego-deals-actually-worth-considering-and-10-of-them-are-under-usd50"
+      "link": "https://www.creativebloq.com/entertainment/gaming/genigods-nezha-is-chinas-answer-to-god-of-war-in-unreal-engine-5"
     },
     {
       "title": "What Minority Report got wrong about AI (so far)",
@@ -18,6 +27,15 @@
       "style": "Unknown",
       "mood": "Neutral",
       "link": "https://uxdesign.cc/what-minority-report-got-wrong-about-ai-so-far-9048573aa70f?source=rss----138adf9c44c---4"
+    },
+    {
+      "title": " The White House just used Xbox and Sega logos to promote MAGA video games, and players want to know what's up ",
+      "image": "https://cdn.mos.cms.futurecdn.net/gzgW8fYdjwKkTiEY9t8vXj-1280-80.jpg",
+      "summary": "Developers don't need to worry about the competition, but really?",
+      "category": "Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://www.creativebloq.com/entertainment/gaming/the-white-house-just-used-xbox-and-sega-logos-to-promote-maga-video-games-and-players-want-to-know-whats-up"
     },
     {
       "title": "Rethinking Data Visualisation: A UX Approach To Dashboards That Actually Drives Decisions",
@@ -36,24 +54,6 @@
       "style": "Unknown",
       "mood": "Neutral",
       "link": "https://smashingmagazine.com/2026/08/desktop-wallpaper-calendars-september-2026/"
-    },
-    {
-      "title": "When the canvas starts acting, who’s really in control?",
-      "image": "https://placehold.co/600x400",
-      "summary": "When the canvas starts acting, who’s really in control?",
-      "category": "Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://uxdesign.cc/when-the-canvas-starts-acting-whos-really-in-control-0128f641223c?source=rss----138adf9c44c---4"
-    },
-    {
-      "title": " ArtStation is taking action against AI art, but there's one question it doesn't want to answer ",
-      "image": "https://cdn.mos.cms.futurecdn.net/Ptv8k6E5r3rtJVzrkEotNZ-1280-80.jpg",
-      "summary": "Some artists think there's an easier solution.",
-      "category": "AI Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://www.creativebloq.com/art/digital-art/artstation-is-finally-taking-action-against-ai-art-but-theres-one-question-it-doesnt-want-to-answer"
     }
   ]
 }
