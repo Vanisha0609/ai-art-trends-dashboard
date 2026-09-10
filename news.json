@@ -1,41 +1,32 @@
 {
-  "lastUpdated": "2026-09-09T03:13:49.357Z",
+  "lastUpdated": "2026-09-10T03:13:24.909Z",
   "articles": [
     {
-      "title": "Most AI problems are really human problems",
-      "image": "https://placehold.co/600x400",
-      "summary": "Most AI problems are really human problems",
-      "category": "AI Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://uxdesign.cc/most-ai-problems-are-really-human-problems-this-is-how-you-can-fix-it-ab64843f845e?source=rss----138adf9c44c---4"
-    },
-    {
-      "title": " The Nintendo Switch 2 Zelda 40th anniversary edition looks like a precious relic from Hyrule ",
-      "image": "https://cdn.mos.cms.futurecdn.net/BPCsu6CeNyigqrLeinWELA-1280-80.jpg",
-      "summary": "The console and Pro Controller look fantastic, but we're still waiting for a key detail.",
-      "category": "AI Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://www.creativebloq.com/entertainment/gaming/the-nintendo-switch-2-zelda-40th-anniversary-edition-looks-like-a-precious-relic-from-hyrule"
-    },
-    {
-      "title": "Rethinking Data Visualisation: A UX Approach To Dashboards That Actually Drives Decisions",
-      "image": "http://files.smashing.media/articles/rethinking-data-visualisation-ux-approach-dashboards/rethinking-data-visualisation-ux-approach-dashboards.jpg",
-      "summary": "Data visualisation sits at the intersection of two disciplines that rarely talk to each other: data and design. Meriem Benhabiles explores what changes when you bring structured UX thinking to dashboards and data presentations, from the questions you ask before opening any tool to the decisions that determine whether an insight actually lands.",
+      "title": "The Death Of The Button: Why The Best Interface Is No Interface",
+      "image": "http://files.smashing.media/articles/death-button-why-best-interface-is-no-interface/death-button-why-best-interface-is-no-interface.jpg",
+      "summary": "TThe web is evolving beyond menus, forms, and endless clicks toward experiences shaped around human intent. For UX designers, understanding this shift means re-evaluating their role, moving from designing visible interfaces to guiding transparent, intent-driven AI experiences.",
       "category": "UI/UX",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://smashingmagazine.com/2026/08/rethinking-data-visualisation-ux-approach-dashboards/"
+      "link": "https://smashingmagazine.com/2026/09/death-button-why-best-interface-is-no-interface/"
     },
     {
-      "title": "Persistent lessons in human-centered automation",
+      "title": "The origins — the birth, lonely childhood, and adoption of software",
       "image": "https://placehold.co/600x400",
-      "summary": "Persistent lessons in human-centered automation",
+      "summary": "Side A, meaning is irrelevant to the problem\nContinue reading on UX Collective »",
+      "category": "UI/UX",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://uxdesign.cc/the-origins-the-birth-lonely-childhood-and-adoption-of-software-59e3013c3c23?source=rss----138adf9c44c---4"
+    },
+    {
+      "title": " This $20,000 Master Home Agent would eat Alexa for breakfast ",
+      "image": "https://cdn.mos.cms.futurecdn.net/nFYYc6AkU8nFJ3Ez6dsvuJ-1280-80.jpg",
+      "summary": "UGREEN has made the most advanced home ecosystem tech I've ever seen.",
       "category": "Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://uxdesign.cc/persistent-lessons-in-human-centered-automation-45b53412e6a5?source=rss----138adf9c44c---4"
+      "link": "https://www.creativebloq.com/tech/this-usd20-000-master-home-agent-would-eat-alexa-for-breakfast"
     },
     {
       "title": "The Many Faces Of September (2026 Wallpapers Edition)",
@@ -47,13 +38,22 @@
       "link": "https://smashingmagazine.com/2026/08/desktop-wallpaper-calendars-september-2026/"
     },
     {
-      "title": " This typography artist is giving away 200 free fonts, but you need to be quick ",
-      "image": "https://cdn.mos.cms.futurecdn.net/LburWF92QYmFqwzjfMDoTS-1280-80.jpg",
-      "summary": "The giveaway is for one day only.",
-      "category": "UI/UX",
+      "title": " The White House's dodgy Tetris copy seems to have hit a wall ",
+      "image": "https://cdn.mos.cms.futurecdn.net/gzgW8fYdjwKkTiEY9t8vXj-1280-80.jpg",
+      "summary": "It seems game developers can take a stand after all.",
+      "category": "Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://www.creativebloq.com/design/fonts-typography/this-typography-artist-is-giving-away-200-free-fonts-but-you-need-to-be-quick"
+      "link": "https://www.creativebloq.com/entertainment/gaming/the-white-houses-dodgy-tetris-copy-seems-to-have-hit-a-wall"
+    },
+    {
+      "title": "What Shakespeare got right about AI",
+      "image": "https://placehold.co/600x400",
+      "summary": "What Shakespeare got right about AI",
+      "category": "AI Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://uxdesign.cc/what-shakespeare-got-right-about-ai-4369fc16ab2b?source=rss----138adf9c44c---4"
     }
   ]
 }
