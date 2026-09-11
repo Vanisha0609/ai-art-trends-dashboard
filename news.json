@@ -1,32 +1,23 @@
 {
-  "lastUpdated": "2026-09-10T03:13:24.909Z",
+  "lastUpdated": "2026-09-11T03:08:56.895Z",
   "articles": [
     {
-      "title": "The Death Of The Button: Why The Best Interface Is No Interface",
-      "image": "http://files.smashing.media/articles/death-button-why-best-interface-is-no-interface/death-button-why-best-interface-is-no-interface.jpg",
-      "summary": "TThe web is evolving beyond menus, forms, and endless clicks toward experiences shaped around human intent. For UX designers, understanding this shift means re-evaluating their role, moving from designing visible interfaces to guiding transparent, intent-driven AI experiences.",
-      "category": "UI/UX",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://smashingmagazine.com/2026/09/death-button-why-best-interface-is-no-interface/"
-    },
-    {
-      "title": "The origins — the birth, lonely childhood, and adoption of software",
+      "title": "8 voice AIUX patterns",
       "image": "https://placehold.co/600x400",
-      "summary": "Side A, meaning is irrelevant to the problem\nContinue reading on UX Collective »",
+      "summary": "8 voice AIUX patterns",
       "category": "UI/UX",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://uxdesign.cc/the-origins-the-birth-lonely-childhood-and-adoption-of-software-59e3013c3c23?source=rss----138adf9c44c---4"
+      "link": "https://uxdesign.cc/8-voice-aiux-patterns-81324c8feaa0?source=rss----138adf9c44c---4"
     },
     {
-      "title": " This $20,000 Master Home Agent would eat Alexa for breakfast ",
-      "image": "https://cdn.mos.cms.futurecdn.net/nFYYc6AkU8nFJ3Ez6dsvuJ-1280-80.jpg",
-      "summary": "UGREEN has made the most advanced home ecosystem tech I've ever seen.",
+      "title": " Forget the iPhone Duo, these super cheap dumb phones offer the digital detox you're probably craving ",
+      "image": "https://cdn.mos.cms.futurecdn.net/hDkhUHHTLR8SZQNrLZc2JC-1280-80.jpg",
+      "summary": "More isn't always better.",
       "category": "Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://www.creativebloq.com/tech/this-usd20-000-master-home-agent-would-eat-alexa-for-breakfast"
+      "link": "https://www.creativebloq.com/tech/phones-tablets/forget-the-iphone-duo-these-super-cheap-dumb-phones-offer-the-digital-detox-youre-probably-craving"
     },
     {
       "title": "The Many Faces Of September (2026 Wallpapers Edition)",
@@ -38,22 +29,31 @@
       "link": "https://smashingmagazine.com/2026/08/desktop-wallpaper-calendars-september-2026/"
     },
     {
-      "title": " The White House's dodgy Tetris copy seems to have hit a wall ",
-      "image": "https://cdn.mos.cms.futurecdn.net/gzgW8fYdjwKkTiEY9t8vXj-1280-80.jpg",
-      "summary": "It seems game developers can take a stand after all.",
+      "title": " This teeny but powerful MacBook charger looks like it could be perfect for travel, and it costs under $90 ",
+      "image": "https://cdn.mos.cms.futurecdn.net/Pdna7PHao4DLNU2erQAjG6-1280-80.png",
+      "summary": "It even comes with adapters for different plug sockets.",
       "category": "Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://www.creativebloq.com/entertainment/gaming/the-white-houses-dodgy-tetris-copy-seems-to-have-hit-a-wall"
+      "link": "https://www.creativebloq.com/tech/accessories/this-teeny-but-powerful-macbook-charger-looks-like-it-could-be-perfect-for-travel-and-it-costs-under-usd90"
     },
     {
-      "title": "What Shakespeare got right about AI",
-      "image": "https://placehold.co/600x400",
-      "summary": "What Shakespeare got right about AI",
-      "category": "AI Design",
+      "title": "The Death Of The Button: Why The Best Interface Is No Interface",
+      "image": "http://files.smashing.media/articles/death-button-why-best-interface-is-no-interface/death-button-why-best-interface-is-no-interface.jpg",
+      "summary": "TThe web is evolving beyond menus, forms, and endless clicks toward experiences shaped around human intent. For UX designers, understanding this shift means re-evaluating their role, moving from designing visible interfaces to guiding transparent, intent-driven AI experiences.",
+      "category": "UI/UX",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://uxdesign.cc/what-shakespeare-got-right-about-ai-4369fc16ab2b?source=rss----138adf9c44c---4"
+      "link": "https://smashingmagazine.com/2026/09/death-button-why-best-interface-is-no-interface/"
+    },
+    {
+      "title": "How authentication friction frustrates users — and how to stop it",
+      "image": "https://placehold.co/600x400",
+      "summary": "We’ve been doing authentication all wrong. Here’s how to fix it.\nContinue reading on UX Collective »",
+      "category": "UI/UX",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://uxdesign.cc/how-authentication-friction-frustrates-users-and-how-to-stop-it-552635e50a77?source=rss----138adf9c44c---4"
     }
   ]
 }
