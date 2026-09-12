@@ -1,41 +1,23 @@
 {
-  "lastUpdated": "2026-09-11T03:08:56.895Z",
+  "lastUpdated": "2026-09-12T03:15:23.722Z",
   "articles": [
     {
-      "title": "8 voice AIUX patterns",
+      "title": "You’re not behind. The feed is built to make you feel that way.",
       "image": "https://placehold.co/600x400",
-      "summary": "8 voice AIUX patterns",
+      "summary": "Almost everyone in tech thinks the rest of the industry is further ahead. Most of them are wrong, and for the same reasons.\nContinue reading on UX Collective »",
       "category": "UI/UX",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://uxdesign.cc/8-voice-aiux-patterns-81324c8feaa0?source=rss----138adf9c44c---4"
+      "link": "https://uxdesign.cc/youre-not-behind-the-feed-is-built-to-make-you-feel-that-way-7719d6a967dc?source=rss----138adf9c44c---4"
     },
     {
-      "title": " Forget the iPhone Duo, these super cheap dumb phones offer the digital detox you're probably craving ",
-      "image": "https://cdn.mos.cms.futurecdn.net/hDkhUHHTLR8SZQNrLZc2JC-1280-80.jpg",
-      "summary": "More isn't always better.",
-      "category": "Design",
+      "title": "Building A UX ROI Case That Survives The Boardroom",
+      "image": "http://files.smashing.media/articles/building-ux-roi-case-survives-boardroom/building-ux-roi-case-survives-boardroom.jpg",
+      "summary": "Strong UX ideas do not secure investment on their own. Through a worked example, Alex Williams breaks down how to define business value, calculate costs, test causality, and build a credible case for the return on a design initiative. - UX - Design - Business",
+      "category": "UI/UX",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://www.creativebloq.com/tech/phones-tablets/forget-the-iphone-duo-these-super-cheap-dumb-phones-offer-the-digital-detox-youre-probably-craving"
-    },
-    {
-      "title": "The Many Faces Of September (2026 Wallpapers Edition)",
-      "image": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/55161fb1-16dc-47e1-a118-5ecd0f0a3fbb/sept-17-autumn-rains-preview-opt.png",
-      "summary": "Could there be a better way to welcome the new month than with a new collection of desktop wallpapers? Whether you’re holding tightly onto summer or eagerly awaiting autumn, we’ve got some eye-catching designs to make your September just a bit more colorful. Enjoy!",
-      "category": "AI Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://smashingmagazine.com/2026/08/desktop-wallpaper-calendars-september-2026/"
-    },
-    {
-      "title": " This teeny but powerful MacBook charger looks like it could be perfect for travel, and it costs under $90 ",
-      "image": "https://cdn.mos.cms.futurecdn.net/Pdna7PHao4DLNU2erQAjG6-1280-80.png",
-      "summary": "It even comes with adapters for different plug sockets.",
-      "category": "Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://www.creativebloq.com/tech/accessories/this-teeny-but-powerful-macbook-charger-looks-like-it-could-be-perfect-for-travel-and-it-costs-under-usd90"
+      "link": "https://smashingmagazine.com/2026/09/building-ux-roi-case-survives-boardroom/"
     },
     {
       "title": "The Death Of The Button: Why The Best Interface Is No Interface",
@@ -47,13 +29,31 @@
       "link": "https://smashingmagazine.com/2026/09/death-button-why-best-interface-is-no-interface/"
     },
     {
-      "title": "How authentication friction frustrates users — and how to stop it",
+      "title": " iPhone Duo is coming, but these rival tried-and-tested foldable phones have up to $500 off ",
+      "image": "https://cdn.mos.cms.futurecdn.net/W49qWj3pXwZXb2RH5NmYeU-1280-80.jpg",
+      "summary": "Honor is known for its early phone discounts, and they're always great value.",
+      "category": "Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://www.creativebloq.com/tech/phones-tablets/iphone-duo-is-coming-but-rival-tried-and-tested-foldable-phones-have-up-to-usd500-off"
+    },
+    {
+      "title": " Ad platform sparks brand romance with 100 love letter billboards ",
+      "image": "https://cdn.mos.cms.futurecdn.net/NNZhqVuCsJTSihkVZpXx9M-1280-80.jpg",
+      "summary": "Are they collaborating or courting?",
+      "category": "Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://www.creativebloq.com/design/advertising/ad-platform-sparks-brand-romance-with-100-love-letter-billboards"
+    },
+    {
+      "title": "8 voice AIUX patterns",
       "image": "https://placehold.co/600x400",
-      "summary": "We’ve been doing authentication all wrong. Here’s how to fix it.\nContinue reading on UX Collective »",
+      "summary": "8 voice AIUX patterns",
       "category": "UI/UX",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://uxdesign.cc/how-authentication-friction-frustrates-users-and-how-to-stop-it-552635e50a77?source=rss----138adf9c44c---4"
+      "link": "https://uxdesign.cc/8-voice-aiux-patterns-81324c8feaa0?source=rss----138adf9c44c---4"
     }
   ]
 }
