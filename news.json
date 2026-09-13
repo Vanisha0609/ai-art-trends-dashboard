@@ -1,14 +1,14 @@
 {
-  "lastUpdated": "2026-09-12T03:15:23.722Z",
+  "lastUpdated": "2026-09-13T03:19:23.732Z",
   "articles": [
     {
-      "title": "You’re not behind. The feed is built to make you feel that way.",
+      "title": "The real reason everyone hates the viral AI food slop images",
       "image": "https://placehold.co/600x400",
-      "summary": "Almost everyone in tech thinks the rest of the industry is further ahead. Most of them are wrong, and for the same reasons.\nContinue reading on UX Collective »",
+      "summary": "We’ve always made food look better than it is. So why does it feel different when AI does it?\nContinue reading on UX Collective »",
       "category": "UI/UX",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://uxdesign.cc/youre-not-behind-the-feed-is-built-to-make-you-feel-that-way-7719d6a967dc?source=rss----138adf9c44c---4"
+      "link": "https://uxdesign.cc/why-people-hate-viral-ai-food-posters-db2b4329ae11?source=rss----138adf9c44c---4"
     },
     {
       "title": "Building A UX ROI Case That Survives The Boardroom",
@@ -20,6 +20,33 @@
       "link": "https://smashingmagazine.com/2026/09/building-ux-roi-case-survives-boardroom/"
     },
     {
+      "title": " iPhone 18 Pro preorders are open – here's how to get it for free ",
+      "image": "https://cdn.mos.cms.futurecdn.net/HkTKpPS4JBmHNFVm7YDhuF-1280-80.jpg",
+      "summary": "Save up to $1,200 on the new iPhone with these trade-in and carrier deals.",
+      "category": "Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://www.creativebloq.com/tech/phones-tablets/iphone-18-pro-preorders-are-open-heres-how-to-get-it-for-free"
+    },
+    {
+      "title": "You’re not behind. The feed is built to make you feel that way.",
+      "image": "https://placehold.co/600x400",
+      "summary": "Almost everyone in tech thinks the rest of the industry is further ahead. Most of them are wrong, and for the same reasons.\nContinue reading on UX Collective »",
+      "category": "UI/UX",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://uxdesign.cc/youre-not-behind-the-feed-is-built-to-make-you-feel-that-way-7719d6a967dc?source=rss----138adf9c44c---4"
+    },
+    {
+      "title": " How I created a sense of scale, weight and halted motion in this epic serpent scene using Blender ",
+      "image": "https://cdn.mos.cms.futurecdn.net/WxitJL3zqczUeUWH5MukKB-1280-80.jpg",
+      "summary": "Wojtek Fus explains how he paints a dramatic large-scale scene without detracting from his focus.",
+      "category": "AI Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://www.creativebloq.com/art/digital-art/how-to-create-scale-with-framing-in-an-epic-serpent-scene-using-blender"
+    },
+    {
       "title": "The Death Of The Button: Why The Best Interface Is No Interface",
       "image": "http://files.smashing.media/articles/death-button-why-best-interface-is-no-interface/death-button-why-best-interface-is-no-interface.jpg",
       "summary": "TThe web is evolving beyond menus, forms, and endless clicks toward experiences shaped around human intent. For UX designers, understanding this shift means re-evaluating their role, moving from designing visible interfaces to guiding transparent, intent-driven AI experiences.",
@@ -27,33 +54,6 @@
       "style": "Unknown",
       "mood": "Neutral",
       "link": "https://smashingmagazine.com/2026/09/death-button-why-best-interface-is-no-interface/"
-    },
-    {
-      "title": " iPhone Duo is coming, but these rival tried-and-tested foldable phones have up to $500 off ",
-      "image": "https://cdn.mos.cms.futurecdn.net/W49qWj3pXwZXb2RH5NmYeU-1280-80.jpg",
-      "summary": "Honor is known for its early phone discounts, and they're always great value.",
-      "category": "Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://www.creativebloq.com/tech/phones-tablets/iphone-duo-is-coming-but-rival-tried-and-tested-foldable-phones-have-up-to-usd500-off"
-    },
-    {
-      "title": " Ad platform sparks brand romance with 100 love letter billboards ",
-      "image": "https://cdn.mos.cms.futurecdn.net/NNZhqVuCsJTSihkVZpXx9M-1280-80.jpg",
-      "summary": "Are they collaborating or courting?",
-      "category": "Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://www.creativebloq.com/design/advertising/ad-platform-sparks-brand-romance-with-100-love-letter-billboards"
-    },
-    {
-      "title": "8 voice AIUX patterns",
-      "image": "https://placehold.co/600x400",
-      "summary": "8 voice AIUX patterns",
-      "category": "UI/UX",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://uxdesign.cc/8-voice-aiux-patterns-81324c8feaa0?source=rss----138adf9c44c---4"
     }
   ]
 }
