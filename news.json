@@ -1,41 +1,23 @@
 {
-  "lastUpdated": "2026-09-14T03:30:53.901Z",
+  "lastUpdated": "2026-09-15T03:32:03.740Z",
   "articles": [
     {
-      "title": "Building A UX ROI Case That Survives The Boardroom",
-      "image": "http://files.smashing.media/articles/building-ux-roi-case-survives-boardroom/building-ux-roi-case-survives-boardroom.jpg",
-      "summary": "Strong UX ideas do not secure investment on their own. Through a worked example, Alex Williams breaks down how to define business value, calculate costs, test causality, and build a credible case for the return on a design initiative. - UX - Design - Business",
-      "category": "UI/UX",
+      "title": " The only budget ergonomic office chair our ecom editor wanted to keep has $30 off ",
+      "image": "https://cdn.mos.cms.futurecdn.net/aLcZN3nFsnjp8bx8kGgjwk-1280-80.jpg",
+      "summary": "And there's $50 off another chair from the same brand.",
+      "category": "AI Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://smashingmagazine.com/2026/09/building-ux-roi-case-survives-boardroom/"
+      "link": "https://www.creativebloq.com/tech/chairs-desks/the-only-budget-ergonomic-office-chair-our-ecom-editor-wanted-to-keep-has-usd30-off"
     },
     {
-      "title": "The real reason everyone hates the viral AI food slop images",
+      "title": "For the Designless",
       "image": "https://placehold.co/600x400",
-      "summary": "We’ve always made food look better than it is. So why does it feel different when AI does it?\nContinue reading on UX Collective »",
-      "category": "UI/UX",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://uxdesign.cc/why-people-hate-viral-ai-food-posters-db2b4329ae11?source=rss----138adf9c44c---4"
-    },
-    {
-      "title": "You’re not behind. The feed is built to make you feel that way.",
-      "image": "https://placehold.co/600x400",
-      "summary": "Almost everyone in tech thinks the rest of the industry is further ahead. Most of them are wrong, and for the same reasons.\nContinue reading on UX Collective »",
-      "category": "UI/UX",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://uxdesign.cc/youre-not-behind-the-feed-is-built-to-make-you-feel-that-way-7719d6a967dc?source=rss----138adf9c44c---4"
-    },
-    {
-      "title": " The huge Nintendo Switch 'tariff refund sale' has begun, and there's 30% off iconic games ",
-      "image": "https://cdn.mos.cms.futurecdn.net/pC9LYbNkNGNv7wEn7H4nf8-1280-80.jpg",
-      "summary": "The Customer Appreciation Sale is Nintendo's way of giving back to US gamers.",
+      "summary": "For the Designless",
       "category": "Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://www.creativebloq.com/entertainment/gaming/the-huge-nintendo-switch-tariff-refund-sale-has-begun-and-theres-30-percent-off-iconic-games"
+      "link": "https://uxdesign.cc/for-the-designless-0d3e7936a70c?source=rss----138adf9c44c---4"
     },
     {
       "title": "The Death Of The Button: Why The Best Interface Is No Interface",
@@ -47,13 +29,31 @@
       "link": "https://smashingmagazine.com/2026/09/death-button-why-best-interface-is-no-interface/"
     },
     {
-      "title": " How I created a dramatic fight scene for the cover of a fantasy book in the aesthetic that I grew up with ",
-      "image": "https://cdn.mos.cms.futurecdn.net/UJJFsRNVKTBG4Yu3HxKxo3-1280-80.jpg",
-      "summary": "Andrea Piparo shares his painting process and the ideas behind creating fantasy cover art.",
-      "category": "AI Design",
+      "title": "The UX Double Diamond is dead, and in AI only one survives for software",
+      "image": "https://placehold.co/600x400",
+      "summary": "The UX Double Diamond is dead, and in AI only one survives for software",
+      "category": "UI/UX",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://www.creativebloq.com/3d/how-i-created-a-dramatic-fight-scene-for-the-cover-of-a-fantasy-book-in-the-aesthetic-that-i-grew-up-with"
+      "link": "https://uxdesign.cc/the-ux-double-diamond-is-dead-and-in-ai-only-one-survives-for-software-heres-how-to-adapt-f63b57c524ed?source=rss----138adf9c44c---4"
+    },
+    {
+      "title": "Building A UX ROI Case That Survives The Boardroom",
+      "image": "http://files.smashing.media/articles/building-ux-roi-case-survives-boardroom/building-ux-roi-case-survives-boardroom.jpg",
+      "summary": "Strong UX ideas do not secure investment on their own. Through a worked example, Alex Williams breaks down how to define business value, calculate costs, test causality, and build a credible case for the return on a design initiative. - UX - Design - Business",
+      "category": "UI/UX",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://smashingmagazine.com/2026/09/building-ux-roi-case-survives-boardroom/"
+    },
+    {
+      "title": " These most luxurious Bluetooth headphones we've reviewed have a massive $580 off ",
+      "image": "https://cdn.mos.cms.futurecdn.net/BBPAe2aRh3vi9ch7iM99c7-1280-80.jpg",
+      "summary": "The stunning Focal Bathys MG are reduced to a record low price.",
+      "category": "UI/UX",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://www.creativebloq.com/tech/headphones-earbuds/these-most-luxurious-bluetooth-headphones-weve-reviewed-have-a-massive-usd580-off"
     }
   ]
 }
