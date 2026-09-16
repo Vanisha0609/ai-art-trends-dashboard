@@ -1,23 +1,32 @@
 {
-  "lastUpdated": "2026-09-15T03:32:03.740Z",
+  "lastUpdated": "2026-09-16T03:28:01.363Z",
   "articles": [
     {
-      "title": " The only budget ergonomic office chair our ecom editor wanted to keep has $30 off ",
-      "image": "https://cdn.mos.cms.futurecdn.net/aLcZN3nFsnjp8bx8kGgjwk-1280-80.jpg",
-      "summary": "And there's $50 off another chair from the same brand.",
+      "title": "The hidden culture layer in AI",
+      "image": "https://placehold.co/600x400",
+      "summary": "Why AI gravitates toward certain cultural defaults — and what that means for the future of UX.\nContinue reading on UX Collective »",
+      "category": "UI/UX",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://uxdesign.cc/ai-culture-ux-design-36c7d410cd1f?source=rss----138adf9c44c---4"
+    },
+    {
+      "title": " AI might kill humanity in 10 years, but Autodesk’s CEO sees a more immediate threat to artists ",
+      "image": "https://cdn.mos.cms.futurecdn.net/NwNkvrVYyFtgwKjH3jXZyG-1280-80.jpg",
+      "summary": "Andrew Anagnost says AI needs guardrails, but the more immediate disruption for creatives is already happening in animation and VFX.",
       "category": "AI Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://www.creativebloq.com/tech/chairs-desks/the-only-budget-ergonomic-office-chair-our-ecom-editor-wanted-to-keep-has-usd30-off"
+      "link": "https://www.creativebloq.com/ai/ai-might-kill-humanity-in-10-years-but-autodesks-ceo-sees-a-more-immediate-threat-to-artists"
     },
     {
-      "title": "For the Designless",
+      "title": "The users were confident, but wrong. Here’s how to design for that.",
       "image": "https://placehold.co/600x400",
-      "summary": "For the Designless",
-      "category": "Design",
+      "summary": "How to design around confusing terminology, and users who feel confident about it\nContinue reading on UX Collective »",
+      "category": "UI/UX",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://uxdesign.cc/for-the-designless-0d3e7936a70c?source=rss----138adf9c44c---4"
+      "link": "https://uxdesign.cc/the-users-were-confident-but-wrong-heres-how-to-design-for-that-4b1546dc5864?source=rss----138adf9c44c---4"
     },
     {
       "title": "The Death Of The Button: Why The Best Interface Is No Interface",
@@ -29,13 +38,13 @@
       "link": "https://smashingmagazine.com/2026/09/death-button-why-best-interface-is-no-interface/"
     },
     {
-      "title": "The UX Double Diamond is dead, and in AI only one survives for software",
-      "image": "https://placehold.co/600x400",
-      "summary": "The UX Double Diamond is dead, and in AI only one survives for software",
-      "category": "UI/UX",
+      "title": " Autodesk’s AU26 AI pitch: let AI help you make more, not make it for you ",
+      "image": "https://cdn.mos.cms.futurecdn.net/mh2TXe66oa7inzq7pRbhR4-1280-80.jpg",
+      "summary": "But there's still a question left hanging – what about jobs?",
+      "category": "AI Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://uxdesign.cc/the-ux-double-diamond-is-dead-and-in-ai-only-one-survives-for-software-heres-how-to-adapt-f63b57c524ed?source=rss----138adf9c44c---4"
+      "link": "https://www.creativebloq.com/3d/autodesks-au26-ai-pitch-let-ai-help-you-make-more-not-make-it-for-you"
     },
     {
       "title": "Building A UX ROI Case That Survives The Boardroom",
@@ -45,15 +54,6 @@
       "style": "Unknown",
       "mood": "Neutral",
       "link": "https://smashingmagazine.com/2026/09/building-ux-roi-case-survives-boardroom/"
-    },
-    {
-      "title": " These most luxurious Bluetooth headphones we've reviewed have a massive $580 off ",
-      "image": "https://cdn.mos.cms.futurecdn.net/BBPAe2aRh3vi9ch7iM99c7-1280-80.jpg",
-      "summary": "The stunning Focal Bathys MG are reduced to a record low price.",
-      "category": "UI/UX",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://www.creativebloq.com/tech/headphones-earbuds/these-most-luxurious-bluetooth-headphones-weve-reviewed-have-a-massive-usd580-off"
     }
   ]
 }
