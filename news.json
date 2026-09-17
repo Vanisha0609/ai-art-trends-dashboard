@@ -1,51 +1,6 @@
 {
-  "lastUpdated": "2026-09-16T03:28:01.363Z",
+  "lastUpdated": "2026-09-17T03:33:49.823Z",
   "articles": [
-    {
-      "title": "The hidden culture layer in AI",
-      "image": "https://placehold.co/600x400",
-      "summary": "Why AI gravitates toward certain cultural defaults — and what that means for the future of UX.\nContinue reading on UX Collective »",
-      "category": "UI/UX",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://uxdesign.cc/ai-culture-ux-design-36c7d410cd1f?source=rss----138adf9c44c---4"
-    },
-    {
-      "title": " AI might kill humanity in 10 years, but Autodesk’s CEO sees a more immediate threat to artists ",
-      "image": "https://cdn.mos.cms.futurecdn.net/NwNkvrVYyFtgwKjH3jXZyG-1280-80.jpg",
-      "summary": "Andrew Anagnost says AI needs guardrails, but the more immediate disruption for creatives is already happening in animation and VFX.",
-      "category": "AI Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://www.creativebloq.com/ai/ai-might-kill-humanity-in-10-years-but-autodesks-ceo-sees-a-more-immediate-threat-to-artists"
-    },
-    {
-      "title": "The users were confident, but wrong. Here’s how to design for that.",
-      "image": "https://placehold.co/600x400",
-      "summary": "How to design around confusing terminology, and users who feel confident about it\nContinue reading on UX Collective »",
-      "category": "UI/UX",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://uxdesign.cc/the-users-were-confident-but-wrong-heres-how-to-design-for-that-4b1546dc5864?source=rss----138adf9c44c---4"
-    },
-    {
-      "title": "The Death Of The Button: Why The Best Interface Is No Interface",
-      "image": "http://files.smashing.media/articles/death-button-why-best-interface-is-no-interface/death-button-why-best-interface-is-no-interface.jpg",
-      "summary": "TThe web is evolving beyond menus, forms, and endless clicks toward experiences shaped around human intent. For UX designers, understanding this shift means re-evaluating their role, moving from designing visible interfaces to guiding transparent, intent-driven AI experiences.",
-      "category": "UI/UX",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://smashingmagazine.com/2026/09/death-button-why-best-interface-is-no-interface/"
-    },
-    {
-      "title": " Autodesk’s AU26 AI pitch: let AI help you make more, not make it for you ",
-      "image": "https://cdn.mos.cms.futurecdn.net/mh2TXe66oa7inzq7pRbhR4-1280-80.jpg",
-      "summary": "But there's still a question left hanging – what about jobs?",
-      "category": "AI Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://www.creativebloq.com/3d/autodesks-au26-ai-pitch-let-ai-help-you-make-more-not-make-it-for-you"
-    },
     {
       "title": "Building A UX ROI Case That Survives The Boardroom",
       "image": "http://files.smashing.media/articles/building-ux-roi-case-survives-boardroom/building-ux-roi-case-survives-boardroom.jpg",
@@ -54,6 +9,51 @@
       "style": "Unknown",
       "mood": "Neutral",
       "link": "https://smashingmagazine.com/2026/09/building-ux-roi-case-survives-boardroom/"
+    },
+    {
+      "title": " These headphones were $3,000 back in 2015 –at $949 today, they're my 'value' high-end cans of choice ",
+      "image": "https://cdn.mos.cms.futurecdn.net/3CWPKrbiFRnsaRzf9opvtU-1280-80.jpg",
+      "summary": "The HiFiMan HE1000 Stealth headphones may not be for everyone, but they are 100% for me.",
+      "category": "Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://www.creativebloq.com/tech/headphones-earbuds/these-headphones-were-usd3-000-back-in-2015-at-usd949-today-theyre-my-value-high-end-cans-of-choice"
+    },
+    {
+      "title": "Don’t let AI build a Winchester Mystery House",
+      "image": "https://placehold.co/600x400",
+      "summary": "Don’t let AI build a Winchester Mystery House",
+      "category": "UI/UX",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://uxdesign.cc/dont-let-ai-build-a-winchester-mystery-house-2cb59ec05a73?source=rss----138adf9c44c---4"
+    },
+    {
+      "title": "Stop Treating CSS Container Queries Like Traditional Media Queries",
+      "image": "http://files.smashing.media/articles/stop-treating-css-container-queries-traditional-media-queries/stop-treating-css-container-queries-traditional-media-queries.jpg",
+      "summary": "Despite broad browser support, container queries remain surprisingly underused and frequently misunderstood. Let’s look at how they differ from media queries, when to reach for each, and how container queries help reusable components respond naturally to the contexts in which they appear. - CSS - Tools - Techniques",
+      "category": "AI Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://smashingmagazine.com/2026/09/stop-treating-css-container-queries-traditional-media-queries/"
+    },
+    {
+      "title": "What Shakespeare got wrong about AI",
+      "image": "https://placehold.co/600x400",
+      "summary": "What Shakespeare got wrong about AI",
+      "category": "AI Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://uxdesign.cc/what-shakespeare-got-wrong-about-ai-73e9f58bfbc8?source=rss----138adf9c44c---4"
+    },
+    {
+      "title": " Rihanna’s shady new Savage X Fenty ad towers above the competition ",
+      "image": "https://cdn.mos.cms.futurecdn.net/w5fdcwGgRzgNxqRJ9jEJv7-1280-80.jpg",
+      "summary": "That’s how you grab attention at NYFW.",
+      "category": "Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://www.creativebloq.com/design/advertising/rihannas-shady-new-savage-x-fenty-ad-towers-above-the-competition"
     }
   ]
 }
