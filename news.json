@@ -1,33 +1,6 @@
 {
-  "lastUpdated": "2026-09-17T03:33:49.823Z",
+  "lastUpdated": "2026-09-18T03:19:34.633Z",
   "articles": [
-    {
-      "title": "Building A UX ROI Case That Survives The Boardroom",
-      "image": "http://files.smashing.media/articles/building-ux-roi-case-survives-boardroom/building-ux-roi-case-survives-boardroom.jpg",
-      "summary": "Strong UX ideas do not secure investment on their own. Through a worked example, Alex Williams breaks down how to define business value, calculate costs, test causality, and build a credible case for the return on a design initiative. - UX - Design - Business",
-      "category": "UI/UX",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://smashingmagazine.com/2026/09/building-ux-roi-case-survives-boardroom/"
-    },
-    {
-      "title": " These headphones were $3,000 back in 2015 –at $949 today, they're my 'value' high-end cans of choice ",
-      "image": "https://cdn.mos.cms.futurecdn.net/3CWPKrbiFRnsaRzf9opvtU-1280-80.jpg",
-      "summary": "The HiFiMan HE1000 Stealth headphones may not be for everyone, but they are 100% for me.",
-      "category": "Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://www.creativebloq.com/tech/headphones-earbuds/these-headphones-were-usd3-000-back-in-2015-at-usd949-today-theyre-my-value-high-end-cans-of-choice"
-    },
-    {
-      "title": "Don’t let AI build a Winchester Mystery House",
-      "image": "https://placehold.co/600x400",
-      "summary": "Don’t let AI build a Winchester Mystery House",
-      "category": "UI/UX",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://uxdesign.cc/dont-let-ai-build-a-winchester-mystery-house-2cb59ec05a73?source=rss----138adf9c44c---4"
-    },
     {
       "title": "Stop Treating CSS Container Queries Like Traditional Media Queries",
       "image": "http://files.smashing.media/articles/stop-treating-css-container-queries-traditional-media-queries/stop-treating-css-container-queries-traditional-media-queries.jpg",
@@ -38,22 +11,49 @@
       "link": "https://smashingmagazine.com/2026/09/stop-treating-css-container-queries-traditional-media-queries/"
     },
     {
-      "title": "What Shakespeare got wrong about AI",
+      "title": "Rethinking writing in the world of design and AI",
       "image": "https://placehold.co/600x400",
-      "summary": "What Shakespeare got wrong about AI",
+      "summary": "Rethinking writing in the world of design and AI",
       "category": "AI Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://uxdesign.cc/what-shakespeare-got-wrong-about-ai-73e9f58bfbc8?source=rss----138adf9c44c---4"
+      "link": "https://uxdesign.cc/rethinking-writing-in-the-world-of-design-and-ai-1c70188b3998?source=rss----138adf9c44c---4"
     },
     {
-      "title": " Rihanna’s shady new Savage X Fenty ad towers above the competition ",
-      "image": "https://cdn.mos.cms.futurecdn.net/w5fdcwGgRzgNxqRJ9jEJv7-1280-80.jpg",
-      "summary": "That’s how you grab attention at NYFW.",
+      "title": "Please don’t stretch your app for foldables",
+      "image": "https://placehold.co/600x400",
+      "summary": "Please don’t stretch your app for foldables",
       "category": "Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://www.creativebloq.com/design/advertising/rihannas-shady-new-savage-x-fenty-ad-towers-above-the-competition"
+      "link": "https://uxdesign.cc/please-dont-stretch-your-app-for-foldables-a62f1f8230ac?source=rss----138adf9c44c---4"
+    },
+    {
+      "title": " Want Star-Lords' headphones? This modern version is only $30 ",
+      "image": "https://cdn.mos.cms.futurecdn.net/7NvsbPv7dGBeucL3yMsqu6-1920-80.jpg",
+      "summary": "The FiiO EH11 combine cool retro looks with incredible value.",
+      "category": "Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://www.creativebloq.com/tech/headphones-earbuds/want-star-lords-headphones-this-modern-version-is-only-usd30"
+    },
+    {
+      "title": " Autodesk says AI should give artists time to experiment, not make them work twice as fast ",
+      "image": "https://cdn.mos.cms.futurecdn.net/Fhib8oEsFVFTKemJuLDHU9-1920-80.jpg",
+      "summary": "Diana Colella, EVP, Media & Entertainment at Autodesk, believes AI should free up time to be creative, not just produce more content.",
+      "category": "AI Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://www.creativebloq.com/3d/autodesk-says-ai-should-give-artists-time-to-experiment-not-make-them-work-twice-as-fast"
+    },
+    {
+      "title": "Building A UX ROI Case That Survives The Boardroom",
+      "image": "http://files.smashing.media/articles/building-ux-roi-case-survives-boardroom/building-ux-roi-case-survives-boardroom.jpg",
+      "summary": "Strong UX ideas do not secure investment on their own. Through a worked example, Alex Williams breaks down how to define business value, calculate costs, test causality, and build a credible case for the return on a design initiative. - UX - Design - Business",
+      "category": "UI/UX",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://smashingmagazine.com/2026/09/building-ux-roi-case-survives-boardroom/"
     }
   ]
 }
