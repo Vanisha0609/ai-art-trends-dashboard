@@ -1,6 +1,42 @@
 {
-  "lastUpdated": "2026-09-18T03:19:34.633Z",
+  "lastUpdated": "2026-09-19T03:15:47.866Z",
   "articles": [
+    {
+      "title": " There's up to $550 off 3D printers in the huge Anycubic anniversary sale ",
+      "image": "https://cdn.mos.cms.futurecdn.net/HYfvfPdL4vkqvQgpKyEuHD-1920-80.jpg",
+      "summary": "Both the Kobra S1 and Photon P1 are heavily reduced for a few days only.",
+      "category": "3D Art",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://www.creativebloq.com/3d/3d-printing/the-huge-anycubic-anniversary-sale-has-up-to-usd550-off-3d-printer-bundles"
+    },
+    {
+      "title": " Control Resonant review: Remedy turns Manhattan into a paranatural nightmare unlike anything I've seen ",
+      "image": "https://cdn.mos.cms.futurecdn.net/JQVXSk6HP5CVCHdo974Z8k-1920-80.png",
+      "summary": "Remedy's paranatural sequel is ambitious and visually unique, though it still shares its predecessor's problems in different ways.",
+      "category": "Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://www.creativebloq.com/entertainment/gaming/control-resonant-review-step-outside-to-an-apocalyptic-manhattan-as-youve-never-seen"
+    },
+    {
+      "title": "Building A UX ROI Case That Survives The Boardroom",
+      "image": "http://files.smashing.media/articles/building-ux-roi-case-survives-boardroom/building-ux-roi-case-survives-boardroom.jpg",
+      "summary": "Strong UX ideas do not secure investment on their own. Through a worked example, Alex Williams breaks down how to define business value, calculate costs, test causality, and build a credible case for the return on a design initiative. - UX - Design - Business",
+      "category": "UI/UX",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://smashingmagazine.com/2026/09/building-ux-roi-case-survives-boardroom/"
+    },
+    {
+      "title": "Altman and Amodei’s “unsafe at any prompt” moment for AI",
+      "image": "https://placehold.co/600x400",
+      "summary": "Altman and Amodei’s “unsafe at any prompt” moment for AI",
+      "category": "AI Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://uxdesign.cc/altman-and-amodeis-unsafe-at-any-prompt-moment-for-ai-6a73f144b56e?source=rss----138adf9c44c---4"
+    },
     {
       "title": "Stop Treating CSS Container Queries Like Traditional Media Queries",
       "image": "http://files.smashing.media/articles/stop-treating-css-container-queries-traditional-media-queries/stop-treating-css-container-queries-traditional-media-queries.jpg",
@@ -11,49 +47,13 @@
       "link": "https://smashingmagazine.com/2026/09/stop-treating-css-container-queries-traditional-media-queries/"
     },
     {
-      "title": "Rethinking writing in the world of design and AI",
+      "title": "Whatever happened to “Download on the App Store” buttons?",
       "image": "https://placehold.co/600x400",
-      "summary": "Rethinking writing in the world of design and AI",
-      "category": "AI Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://uxdesign.cc/rethinking-writing-in-the-world-of-design-and-ai-1c70188b3998?source=rss----138adf9c44c---4"
-    },
-    {
-      "title": "Please don’t stretch your app for foldables",
-      "image": "https://placehold.co/600x400",
-      "summary": "Please don’t stretch your app for foldables",
+      "summary": "Whatever happened to “Download on the App Store” buttons?",
       "category": "Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://uxdesign.cc/please-dont-stretch-your-app-for-foldables-a62f1f8230ac?source=rss----138adf9c44c---4"
-    },
-    {
-      "title": " Want Star-Lords' headphones? This modern version is only $30 ",
-      "image": "https://cdn.mos.cms.futurecdn.net/7NvsbPv7dGBeucL3yMsqu6-1920-80.jpg",
-      "summary": "The FiiO EH11 combine cool retro looks with incredible value.",
-      "category": "Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://www.creativebloq.com/tech/headphones-earbuds/want-star-lords-headphones-this-modern-version-is-only-usd30"
-    },
-    {
-      "title": " Autodesk says AI should give artists time to experiment, not make them work twice as fast ",
-      "image": "https://cdn.mos.cms.futurecdn.net/Fhib8oEsFVFTKemJuLDHU9-1920-80.jpg",
-      "summary": "Diana Colella, EVP, Media & Entertainment at Autodesk, believes AI should free up time to be creative, not just produce more content.",
-      "category": "AI Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://www.creativebloq.com/3d/autodesk-says-ai-should-give-artists-time-to-experiment-not-make-them-work-twice-as-fast"
-    },
-    {
-      "title": "Building A UX ROI Case That Survives The Boardroom",
-      "image": "http://files.smashing.media/articles/building-ux-roi-case-survives-boardroom/building-ux-roi-case-survives-boardroom.jpg",
-      "summary": "Strong UX ideas do not secure investment on their own. Through a worked example, Alex Williams breaks down how to define business value, calculate costs, test causality, and build a credible case for the return on a design initiative. - UX - Design - Business",
-      "category": "UI/UX",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://smashingmagazine.com/2026/09/building-ux-roi-case-survives-boardroom/"
+      "link": "https://uxdesign.cc/whatever-happened-to-download-on-the-app-store-buttons-e39edb72df79?source=rss----138adf9c44c---4"
     }
   ]
 }
