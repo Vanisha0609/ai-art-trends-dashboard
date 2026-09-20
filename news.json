@@ -1,23 +1,23 @@
 {
-  "lastUpdated": "2026-09-19T03:15:47.866Z",
+  "lastUpdated": "2026-09-20T03:33:14.356Z",
   "articles": [
     {
-      "title": " There's up to $550 off 3D printers in the huge Anycubic anniversary sale ",
-      "image": "https://cdn.mos.cms.futurecdn.net/HYfvfPdL4vkqvQgpKyEuHD-1920-80.jpg",
-      "summary": "Both the Kobra S1 and Photon P1 are heavily reduced for a few days only.",
+      "title": " Blender 5.3 finally gets game-changing native Gaussian splat support ",
+      "image": "https://cdn.mos.cms.futurecdn.net/7W9hCAjdcZuLhKfcPVL2Dj-1920-80.jpg",
+      "summary": "VFX and 3D artists rejoice.",
       "category": "3D Art",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://www.creativebloq.com/3d/3d-printing/the-huge-anycubic-anniversary-sale-has-up-to-usd550-off-3d-printer-bundles"
+      "link": "https://www.creativebloq.com/3d/blender-5-3-finally-gets-game-changing-native-gaussian-splat-support"
     },
     {
-      "title": " Control Resonant review: Remedy turns Manhattan into a paranatural nightmare unlike anything I've seen ",
-      "image": "https://cdn.mos.cms.futurecdn.net/JQVXSk6HP5CVCHdo974Z8k-1920-80.png",
-      "summary": "Remedy's paranatural sequel is ambitious and visually unique, though it still shares its predecessor's problems in different ways.",
-      "category": "Design",
+      "title": "Stop Treating CSS Container Queries Like Traditional Media Queries",
+      "image": "http://files.smashing.media/articles/stop-treating-css-container-queries-traditional-media-queries/stop-treating-css-container-queries-traditional-media-queries.jpg",
+      "summary": "Despite broad browser support, container queries remain surprisingly underused and frequently misunderstood. Let’s look at how they differ from media queries, when to reach for each, and how container queries help reusable components respond naturally to the contexts in which they appear. - CSS - Tools - Techniques",
+      "category": "AI Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://www.creativebloq.com/entertainment/gaming/control-resonant-review-step-outside-to-an-apocalyptic-manhattan-as-youve-never-seen"
+      "link": "https://smashingmagazine.com/2026/09/stop-treating-css-container-queries-traditional-media-queries/"
     },
     {
       "title": "Building A UX ROI Case That Survives The Boardroom",
@@ -38,13 +38,13 @@
       "link": "https://uxdesign.cc/altman-and-amodeis-unsafe-at-any-prompt-moment-for-ai-6a73f144b56e?source=rss----138adf9c44c---4"
     },
     {
-      "title": "Stop Treating CSS Container Queries Like Traditional Media Queries",
-      "image": "http://files.smashing.media/articles/stop-treating-css-container-queries-traditional-media-queries/stop-treating-css-container-queries-traditional-media-queries.jpg",
-      "summary": "Despite broad browser support, container queries remain surprisingly underused and frequently misunderstood. Let’s look at how they differ from media queries, when to reach for each, and how container queries help reusable components respond naturally to the contexts in which they appear. - CSS - Tools - Techniques",
+      "title": " This fountain pen has been a design icon since 1980, and it has 26% off for a limited time ",
+      "image": "https://cdn.mos.cms.futurecdn.net/otM3TRi2rPEfePuBQ5oce4-1920-80.jpg",
+      "summary": "The sleek LAMY Safari is now just $27.22.",
       "category": "AI Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://smashingmagazine.com/2026/09/stop-treating-css-container-queries-traditional-media-queries/"
+      "link": "https://www.creativebloq.com/design/product-design/this-iconic-fountain-pen-is-perfect-for-journalling-and-it-has-26-percent-off-for-a-limited-time"
     },
     {
       "title": "Whatever happened to “Download on the App Store” buttons?",
