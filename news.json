@@ -1,15 +1,6 @@
 {
-  "lastUpdated": "2026-09-20T03:33:14.356Z",
+  "lastUpdated": "2026-09-21T03:27:59.160Z",
   "articles": [
-    {
-      "title": " Blender 5.3 finally gets game-changing native Gaussian splat support ",
-      "image": "https://cdn.mos.cms.futurecdn.net/7W9hCAjdcZuLhKfcPVL2Dj-1920-80.jpg",
-      "summary": "VFX and 3D artists rejoice.",
-      "category": "3D Art",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://www.creativebloq.com/3d/blender-5-3-finally-gets-game-changing-native-gaussian-splat-support"
-    },
     {
       "title": "Stop Treating CSS Container Queries Like Traditional Media Queries",
       "image": "http://files.smashing.media/articles/stop-treating-css-container-queries-traditional-media-queries/stop-treating-css-container-queries-traditional-media-queries.jpg",
@@ -18,6 +9,15 @@
       "style": "Unknown",
       "mood": "Neutral",
       "link": "https://smashingmagazine.com/2026/09/stop-treating-css-container-queries-traditional-media-queries/"
+    },
+    {
+      "title": " \"Everyone has a hundred bad games in them, and we did them really quickly\": Adam Vian on the creation and evolution of Detective Grimoire ",
+      "image": "https://cdn.mos.cms.futurecdn.net/ZrXPpYp9mb7wC3HtD42Ndb-1920-80.jpg",
+      "summary": "The creative director of SFB Games tells us about developing the studio’s style from Adobe Flash games to The Mermaid Mask.",
+      "category": "UI/UX",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://www.creativebloq.com/entertainment/gaming/everyone-has-a-hundred-bad-games-in-them-and-we-did-them-really-quickly-adam-vian-on-the-creation-and-evolution-of-detective-grimoire"
     },
     {
       "title": "Building A UX ROI Case That Survives The Boardroom",
@@ -29,22 +29,13 @@
       "link": "https://smashingmagazine.com/2026/09/building-ux-roi-case-survives-boardroom/"
     },
     {
-      "title": "Altman and Amodei’s “unsafe at any prompt” moment for AI",
-      "image": "https://placehold.co/600x400",
-      "summary": "Altman and Amodei’s “unsafe at any prompt” moment for AI",
-      "category": "AI Design",
+      "title": " Forget Frame TVs, this e-ink digital art frame is cheaper and nicer to look at ",
+      "image": "https://cdn.mos.cms.futurecdn.net/8qHdY9vNjGDBrta7B2MRam-1920-80.jpg",
+      "summary": "The InkPoster Affresco behaves like wall art really should.",
+      "category": "Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://uxdesign.cc/altman-and-amodeis-unsafe-at-any-prompt-moment-for-ai-6a73f144b56e?source=rss----138adf9c44c---4"
-    },
-    {
-      "title": " This fountain pen has been a design icon since 1980, and it has 26% off for a limited time ",
-      "image": "https://cdn.mos.cms.futurecdn.net/otM3TRi2rPEfePuBQ5oce4-1920-80.jpg",
-      "summary": "The sleek LAMY Safari is now just $27.22.",
-      "category": "AI Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://www.creativebloq.com/design/product-design/this-iconic-fountain-pen-is-perfect-for-journalling-and-it-has-26-percent-off-for-a-limited-time"
+      "link": "https://www.creativebloq.com/tech/forget-frame-tvs-this-e-ink-digital-art-frame-is-cheaper-and-nicer-to-look-at"
     },
     {
       "title": "Whatever happened to “Download on the App Store” buttons?",
@@ -54,6 +45,15 @@
       "style": "Unknown",
       "mood": "Neutral",
       "link": "https://uxdesign.cc/whatever-happened-to-download-on-the-app-store-buttons-e39edb72df79?source=rss----138adf9c44c---4"
+    },
+    {
+      "title": "AI nutrition facts",
+      "image": "https://placehold.co/600x400",
+      "summary": "Designing an interface between writers, readers, and AI\nContinue reading on UX Collective »",
+      "category": "UI/UX",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://uxdesign.cc/ai-nutrition-facts-cbfa8f9874e8?source=rss----138adf9c44c---4"
     }
   ]
 }
