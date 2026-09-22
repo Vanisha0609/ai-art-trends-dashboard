@@ -1,23 +1,32 @@
 {
-  "lastUpdated": "2026-09-21T03:27:59.160Z",
+  "lastUpdated": "2026-09-22T03:27:30.001Z",
   "articles": [
     {
-      "title": "Stop Treating CSS Container Queries Like Traditional Media Queries",
-      "image": "http://files.smashing.media/articles/stop-treating-css-container-queries-traditional-media-queries/stop-treating-css-container-queries-traditional-media-queries.jpg",
-      "summary": "Despite broad browser support, container queries remain surprisingly underused and frequently misunderstood. Let’s look at how they differ from media queries, when to reach for each, and how container queries help reusable components respond naturally to the contexts in which they appear. - CSS - Tools - Techniques",
+      "title": " Art students: save up to 53% on supplies before term starts ",
+      "image": "https://cdn.mos.cms.futurecdn.net/nYvSMzCLd6jGad9LtthHZm-1920-80.jpg",
+      "summary": "Save on top brands like Prismacolor and Posca.",
+      "category": "Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://www.creativebloq.com/art/art-supplies/art-students-grab-your-last-minute-supplies-with-up-to-53-percent-off"
+    },
+    {
+      "title": "The lie we keep telling ourselves about regulating AI",
+      "image": "https://placehold.co/600x400",
+      "summary": "The lie we keep telling ourselves about regulating AI",
       "category": "AI Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://smashingmagazine.com/2026/09/stop-treating-css-container-queries-traditional-media-queries/"
+      "link": "https://uxdesign.cc/the-lie-we-keep-telling-ourselves-about-regulating-ai-61e0163d795e?source=rss----138adf9c44c---4"
     },
     {
-      "title": " \"Everyone has a hundred bad games in them, and we did them really quickly\": Adam Vian on the creation and evolution of Detective Grimoire ",
-      "image": "https://cdn.mos.cms.futurecdn.net/ZrXPpYp9mb7wC3HtD42Ndb-1920-80.jpg",
-      "summary": "The creative director of SFB Games tells us about developing the studio’s style from Adobe Flash games to The Mermaid Mask.",
+      "title": "Should the job of a UX designer be reserved for humans?",
+      "image": "https://placehold.co/600x400",
+      "summary": "Should some jobs stay human even when AI does them better?\nContinue reading on UX Collective »",
       "category": "UI/UX",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://www.creativebloq.com/entertainment/gaming/everyone-has-a-hundred-bad-games-in-them-and-we-did-them-really-quickly-adam-vian-on-the-creation-and-evolution-of-detective-grimoire"
+      "link": "https://uxdesign.cc/should-ux-design-be-reserved-for-humans-and-the-future-of-work-9afae1265578?source=rss----138adf9c44c---4"
     },
     {
       "title": "Building A UX ROI Case That Survives The Boardroom",
@@ -29,31 +38,22 @@
       "link": "https://smashingmagazine.com/2026/09/building-ux-roi-case-survives-boardroom/"
     },
     {
-      "title": " Forget Frame TVs, this e-ink digital art frame is cheaper and nicer to look at ",
-      "image": "https://cdn.mos.cms.futurecdn.net/8qHdY9vNjGDBrta7B2MRam-1920-80.jpg",
-      "summary": "The InkPoster Affresco behaves like wall art really should.",
+      "title": "Stop Treating CSS Container Queries Like Traditional Media Queries",
+      "image": "http://files.smashing.media/articles/stop-treating-css-container-queries-traditional-media-queries/stop-treating-css-container-queries-traditional-media-queries.jpg",
+      "summary": "Despite broad browser support, container queries remain surprisingly underused and frequently misunderstood. Let’s look at how they differ from media queries, when to reach for each, and how container queries help reusable components respond naturally to the contexts in which they appear. - CSS - Tools - Techniques",
+      "category": "AI Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://smashingmagazine.com/2026/09/stop-treating-css-container-queries-traditional-media-queries/"
+    },
+    {
+      "title": " The HP Omen Max 16 is everything a student laptop shouldn’t be – so why do I recommend it? ",
+      "image": "https://cdn.mos.cms.futurecdn.net/2iaciaK8vxrssa2rQQrq2m-1920-80.jpg",
+      "summary": "This Nvidia RTX 5080 gaming laptop works as well for Blender and UE5 as it does Control Resonant.",
       "category": "Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://www.creativebloq.com/tech/forget-frame-tvs-this-e-ink-digital-art-frame-is-cheaper-and-nicer-to-look-at"
-    },
-    {
-      "title": "Whatever happened to “Download on the App Store” buttons?",
-      "image": "https://placehold.co/600x400",
-      "summary": "Whatever happened to “Download on the App Store” buttons?",
-      "category": "Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://uxdesign.cc/whatever-happened-to-download-on-the-app-store-buttons-e39edb72df79?source=rss----138adf9c44c---4"
-    },
-    {
-      "title": "AI nutrition facts",
-      "image": "https://placehold.co/600x400",
-      "summary": "Designing an interface between writers, readers, and AI\nContinue reading on UX Collective »",
-      "category": "UI/UX",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://uxdesign.cc/ai-nutrition-facts-cbfa8f9874e8?source=rss----138adf9c44c---4"
+      "link": "https://www.creativebloq.com/tech/laptops/the-hp-omen-max-16-is-everything-a-student-laptop-shouldnt-be-so-why-do-i-recommend-it"
     }
   ]
 }
