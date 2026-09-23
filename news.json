@@ -1,41 +1,23 @@
 {
-  "lastUpdated": "2026-09-22T03:27:30.001Z",
+  "lastUpdated": "2026-09-23T03:28:18.057Z",
   "articles": [
     {
-      "title": " Art students: save up to 53% on supplies before term starts ",
-      "image": "https://cdn.mos.cms.futurecdn.net/nYvSMzCLd6jGad9LtthHZm-1920-80.jpg",
-      "summary": "Save on top brands like Prismacolor and Posca.",
+      "title": "In the age of AI, the UX field survives on leaders who cultivate juniors",
+      "image": "https://placehold.co/600x400",
+      "summary": "In the age of AI, the UX field survives on leaders who cultivate juniors",
+      "category": "UI/UX",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://uxdesign.cc/in-the-age-of-ai-the-ux-field-survives-on-leaders-who-cultivate-juniors-595c548f1d70?source=rss----138adf9c44c---4"
+    },
+    {
+      "title": " First impressions of the beastly new Bambu Lab R1 laser cutter ",
+      "image": "https://cdn.mos.cms.futurecdn.net/jjMDV6TxYVbLd7bfgoFss9-1920-80.jpg",
+      "summary": "It's bloomin big.",
       "category": "Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://www.creativebloq.com/art/art-supplies/art-students-grab-your-last-minute-supplies-with-up-to-53-percent-off"
-    },
-    {
-      "title": "The lie we keep telling ourselves about regulating AI",
-      "image": "https://placehold.co/600x400",
-      "summary": "The lie we keep telling ourselves about regulating AI",
-      "category": "AI Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://uxdesign.cc/the-lie-we-keep-telling-ourselves-about-regulating-ai-61e0163d795e?source=rss----138adf9c44c---4"
-    },
-    {
-      "title": "Should the job of a UX designer be reserved for humans?",
-      "image": "https://placehold.co/600x400",
-      "summary": "Should some jobs stay human even when AI does them better?\nContinue reading on UX Collective »",
-      "category": "UI/UX",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://uxdesign.cc/should-ux-design-be-reserved-for-humans-and-the-future-of-work-9afae1265578?source=rss----138adf9c44c---4"
-    },
-    {
-      "title": "Building A UX ROI Case That Survives The Boardroom",
-      "image": "http://files.smashing.media/articles/building-ux-roi-case-survives-boardroom/building-ux-roi-case-survives-boardroom.jpg",
-      "summary": "Strong UX ideas do not secure investment on their own. Through a worked example, Alex Williams breaks down how to define business value, calculate costs, test causality, and build a credible case for the return on a design initiative. - UX - Design - Business",
-      "category": "UI/UX",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://smashingmagazine.com/2026/09/building-ux-roi-case-survives-boardroom/"
+      "link": "https://www.creativebloq.com/creative-inspiration/digital-crafting/first-impressions-of-the-beastly-new-bambu-lab-r1-laser-cutter"
     },
     {
       "title": "Stop Treating CSS Container Queries Like Traditional Media Queries",
@@ -47,13 +29,31 @@
       "link": "https://smashingmagazine.com/2026/09/stop-treating-css-container-queries-traditional-media-queries/"
     },
     {
-      "title": " The HP Omen Max 16 is everything a student laptop shouldn’t be – so why do I recommend it? ",
-      "image": "https://cdn.mos.cms.futurecdn.net/2iaciaK8vxrssa2rQQrq2m-1920-80.jpg",
-      "summary": "This Nvidia RTX 5080 gaming laptop works as well for Blender and UE5 as it does Control Resonant.",
-      "category": "Design",
+      "title": " These earphones are the  sonic equivalent of sunburn ",
+      "image": "https://cdn.mos.cms.futurecdn.net/46d4m7qNHiWe4peVmiDuPX-1920-80.jpg",
+      "summary": "The Noble Vanguard doesn't sound good and costs $330.",
+      "category": "UI/UX",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://www.creativebloq.com/tech/laptops/the-hp-omen-max-16-is-everything-a-student-laptop-shouldnt-be-so-why-do-i-recommend-it"
+      "link": "https://www.creativebloq.com/tech/headphones-earbuds/noble-vanguard-earphones-review-the-sonic-equivalent-of-a-sunburn"
+    },
+    {
+      "title": "Building A UX ROI Case That Survives The Boardroom",
+      "image": "http://files.smashing.media/articles/building-ux-roi-case-survives-boardroom/building-ux-roi-case-survives-boardroom.jpg",
+      "summary": "Strong UX ideas do not secure investment on their own. Through a worked example, Alex Williams breaks down how to define business value, calculate costs, test causality, and build a credible case for the return on a design initiative. - UX - Design - Business",
+      "category": "UI/UX",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://smashingmagazine.com/2026/09/building-ux-roi-case-survives-boardroom/"
+    },
+    {
+      "title": "Designers lost their unit of measurement. That’s why we’re struggling.",
+      "image": "https://placehold.co/600x400",
+      "summary": "If screens don’t work as a unit of measurement, what does instead?\nContinue reading on UX Collective »",
+      "category": "UI/UX",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://uxdesign.cc/designers-lost-their-unit-of-measurement-thats-why-we-re-struggling-b3c6beeea74f?source=rss----138adf9c44c---4"
     }
   ]
 }
