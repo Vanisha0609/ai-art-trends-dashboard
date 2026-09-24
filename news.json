@@ -1,24 +1,6 @@
 {
-  "lastUpdated": "2026-09-23T03:28:18.057Z",
+  "lastUpdated": "2026-09-24T03:17:22.418Z",
   "articles": [
-    {
-      "title": "In the age of AI, the UX field survives on leaders who cultivate juniors",
-      "image": "https://placehold.co/600x400",
-      "summary": "In the age of AI, the UX field survives on leaders who cultivate juniors",
-      "category": "UI/UX",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://uxdesign.cc/in-the-age-of-ai-the-ux-field-survives-on-leaders-who-cultivate-juniors-595c548f1d70?source=rss----138adf9c44c---4"
-    },
-    {
-      "title": " First impressions of the beastly new Bambu Lab R1 laser cutter ",
-      "image": "https://cdn.mos.cms.futurecdn.net/jjMDV6TxYVbLd7bfgoFss9-1920-80.jpg",
-      "summary": "It's bloomin big.",
-      "category": "Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://www.creativebloq.com/creative-inspiration/digital-crafting/first-impressions-of-the-beastly-new-bambu-lab-r1-laser-cutter"
-    },
     {
       "title": "Stop Treating CSS Container Queries Like Traditional Media Queries",
       "image": "http://files.smashing.media/articles/stop-treating-css-container-queries-traditional-media-queries/stop-treating-css-container-queries-traditional-media-queries.jpg",
@@ -29,13 +11,13 @@
       "link": "https://smashingmagazine.com/2026/09/stop-treating-css-container-queries-traditional-media-queries/"
     },
     {
-      "title": " These earphones are the  sonic equivalent of sunburn ",
-      "image": "https://cdn.mos.cms.futurecdn.net/46d4m7qNHiWe4peVmiDuPX-1920-80.jpg",
-      "summary": "The Noble Vanguard doesn't sound good and costs $330.",
+      "title": "Why the best resume may be the wrong resume for a design team",
+      "image": "https://placehold.co/600x400",
+      "summary": "What design leadership gets wrong about experience, expertise, and innovation on a team.\nContinue reading on UX Collective »",
       "category": "UI/UX",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://www.creativebloq.com/tech/headphones-earbuds/noble-vanguard-earphones-review-the-sonic-equivalent-of-a-sunburn"
+      "link": "https://uxdesign.cc/why-the-best-resume-may-be-the-wrong-resume-for-a-design-team-c019b8568662?source=rss----138adf9c44c---4"
     },
     {
       "title": "Building A UX ROI Case That Survives The Boardroom",
@@ -47,13 +29,31 @@
       "link": "https://smashingmagazine.com/2026/09/building-ux-roi-case-survives-boardroom/"
     },
     {
-      "title": "Designers lost their unit of measurement. That’s why we’re struggling.",
+      "title": "The origins, side B — birth of the un-cool",
       "image": "https://placehold.co/600x400",
-      "summary": "If screens don’t work as a unit of measurement, what does instead?\nContinue reading on UX Collective »",
+      "summary": "Software adoption followed crises of complexity… and then it kept growing\nContinue reading on UX Collective »",
       "category": "UI/UX",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://uxdesign.cc/designers-lost-their-unit-of-measurement-thats-why-we-re-struggling-b3c6beeea74f?source=rss----138adf9c44c---4"
+      "link": "https://uxdesign.cc/the-origins-side-b-birth-of-the-un-cool-d1baf83948c8?source=rss----138adf9c44c---4"
+    },
+    {
+      "title": " How to make wooden pumpkins using the Bambu Lab R1 laser ",
+      "image": "https://cdn.mos.cms.futurecdn.net/eyJ59taRToGwMt9fpDyfAH-1920-80.jpg",
+      "summary": "This is such a simple project that makes a bold autumnal statement.",
+      "category": "Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://www.creativebloq.com/creative-inspiration/digital-crafting/how-to-make-wooden-pumpkins-using-the-bambu-lab-r1-laser"
+    },
+    {
+      "title": " Amazon's October Prime Day day deals have started! These are the best offers for creatives ",
+      "image": "https://cdn.mos.cms.futurecdn.net/tiMoYhBphSdyUHxKtCqA9f-1920-80.jpg",
+      "summary": "Get set for a week's worth of deals from Amazon.",
+      "category": "Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://www.creativebloq.com/tech/amazons-october-prime-day-day-deals-have-started-these-are-the-best-offers-for-creatives"
     }
   ]
 }
