@@ -1,14 +1,32 @@
 {
-  "lastUpdated": "2026-09-24T03:17:22.418Z",
+  "lastUpdated": "2026-09-25T03:35:05.229Z",
   "articles": [
     {
-      "title": "Stop Treating CSS Container Queries Like Traditional Media Queries",
-      "image": "http://files.smashing.media/articles/stop-treating-css-container-queries-traditional-media-queries/stop-treating-css-container-queries-traditional-media-queries.jpg",
-      "summary": "Despite broad browser support, container queries remain surprisingly underused and frequently misunderstood. Let’s look at how they differ from media queries, when to reach for each, and how container queries help reusable components respond naturally to the contexts in which they appear. - CSS - Tools - Techniques",
+      "title": "Building A UX ROI Case That Survives The Boardroom",
+      "image": "http://files.smashing.media/articles/building-ux-roi-case-survives-boardroom/building-ux-roi-case-survives-boardroom.jpg",
+      "summary": "Strong UX ideas do not secure investment on their own. Through a worked example, Alex Williams breaks down how to define business value, calculate costs, test causality, and build a credible case for the return on a design initiative. - UX - Design - Business",
+      "category": "UI/UX",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://smashingmagazine.com/2026/09/building-ux-roi-case-survives-boardroom/"
+    },
+    {
+      "title": " How a studio created an \"impossible\" animated symphony using Autodesk's AI-driven mocap tech ",
+      "image": "https://cdn.mos.cms.futurecdn.net/447XYXxxo5osoFKMU7tKE9-1920-80.png",
+      "summary": "Flow Studio allowed Daughter of the Inner Stars to blend live narration and original animation driven by human performers.",
       "category": "AI Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://smashingmagazine.com/2026/09/stop-treating-css-container-queries-traditional-media-queries/"
+      "link": "https://www.creativebloq.com/art/animation/how-a-studio-created-an-impossible-animated-symphony-using-autodesks-ai-driven-mocap-tech"
+    },
+    {
+      "title": "What the Bible got right about AI",
+      "image": "https://placehold.co/600x400",
+      "summary": "What the Bible got right about AI",
+      "category": "AI Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://uxdesign.cc/what-the-bible-got-right-about-ai-340d32b82b5c?source=rss----138adf9c44c---4"
     },
     {
       "title": "Why the best resume may be the wrong resume for a design team",
@@ -20,40 +38,22 @@
       "link": "https://uxdesign.cc/why-the-best-resume-may-be-the-wrong-resume-for-a-design-team-c019b8568662?source=rss----138adf9c44c---4"
     },
     {
-      "title": "Building A UX ROI Case That Survives The Boardroom",
-      "image": "http://files.smashing.media/articles/building-ux-roi-case-survives-boardroom/building-ux-roi-case-survives-boardroom.jpg",
-      "summary": "Strong UX ideas do not secure investment on their own. Through a worked example, Alex Williams breaks down how to define business value, calculate costs, test causality, and build a credible case for the return on a design initiative. - UX - Design - Business",
-      "category": "UI/UX",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://smashingmagazine.com/2026/09/building-ux-roi-case-survives-boardroom/"
-    },
-    {
-      "title": "The origins, side B — birth of the un-cool",
-      "image": "https://placehold.co/600x400",
-      "summary": "Software adoption followed crises of complexity… and then it kept growing\nContinue reading on UX Collective »",
-      "category": "UI/UX",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://uxdesign.cc/the-origins-side-b-birth-of-the-un-cool-d1baf83948c8?source=rss----138adf9c44c---4"
-    },
-    {
-      "title": " How to make wooden pumpkins using the Bambu Lab R1 laser ",
-      "image": "https://cdn.mos.cms.futurecdn.net/eyJ59taRToGwMt9fpDyfAH-1920-80.jpg",
-      "summary": "This is such a simple project that makes a bold autumnal statement.",
+      "title": " Amazon's early Prime Day deals include massive discounts on coffee makers of every kind ",
+      "image": "https://cdn.mos.cms.futurecdn.net/2oXTQXi4gdiLXA5rMv99Wm-1920-80.jpg",
+      "summary": "Time to upgrade your morning setup.",
       "category": "Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://www.creativebloq.com/creative-inspiration/digital-crafting/how-to-make-wooden-pumpkins-using-the-bambu-lab-r1-laser"
+      "link": "https://www.creativebloq.com/design/product-design/amazons-early-prime-day-deals-include-massive-discounts-on-coffee-makers-of-every-kind"
     },
     {
-      "title": " Amazon's October Prime Day day deals have started! These are the best offers for creatives ",
-      "image": "https://cdn.mos.cms.futurecdn.net/tiMoYhBphSdyUHxKtCqA9f-1920-80.jpg",
-      "summary": "Get set for a week's worth of deals from Amazon.",
-      "category": "Design",
+      "title": "Stop Treating CSS Container Queries Like Traditional Media Queries",
+      "image": "http://files.smashing.media/articles/stop-treating-css-container-queries-traditional-media-queries/stop-treating-css-container-queries-traditional-media-queries.jpg",
+      "summary": "Despite broad browser support, container queries remain surprisingly underused and frequently misunderstood. Let’s look at how they differ from media queries, when to reach for each, and how container queries help reusable components respond naturally to the contexts in which they appear. - CSS - Tools - Techniques",
+      "category": "AI Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://www.creativebloq.com/tech/amazons-october-prime-day-day-deals-have-started-these-are-the-best-offers-for-creatives"
+      "link": "https://smashingmagazine.com/2026/09/stop-treating-css-container-queries-traditional-media-queries/"
     }
   ]
 }
