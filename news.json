@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-25T03:35:05.229Z",
+  "lastUpdated": "2026-09-26T03:40:29.473Z",
   "articles": [
     {
       "title": "Building A UX ROI Case That Survives The Boardroom",
@@ -11,40 +11,13 @@
       "link": "https://smashingmagazine.com/2026/09/building-ux-roi-case-survives-boardroom/"
     },
     {
-      "title": " How a studio created an \"impossible\" animated symphony using Autodesk's AI-driven mocap tech ",
-      "image": "https://cdn.mos.cms.futurecdn.net/447XYXxxo5osoFKMU7tKE9-1920-80.png",
-      "summary": "Flow Studio allowed Daughter of the Inner Stars to blend live narration and original animation driven by human performers.",
-      "category": "AI Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://www.creativebloq.com/art/animation/how-a-studio-created-an-impossible-animated-symphony-using-autodesks-ai-driven-mocap-tech"
-    },
-    {
-      "title": "What the Bible got right about AI",
-      "image": "https://placehold.co/600x400",
-      "summary": "What the Bible got right about AI",
-      "category": "AI Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://uxdesign.cc/what-the-bible-got-right-about-ai-340d32b82b5c?source=rss----138adf9c44c---4"
-    },
-    {
-      "title": "Why the best resume may be the wrong resume for a design team",
-      "image": "https://placehold.co/600x400",
-      "summary": "What design leadership gets wrong about experience, expertise, and innovation on a team.\nContinue reading on UX Collective »",
-      "category": "UI/UX",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://uxdesign.cc/why-the-best-resume-may-be-the-wrong-resume-for-a-design-team-c019b8568662?source=rss----138adf9c44c---4"
-    },
-    {
-      "title": " Amazon's early Prime Day deals include massive discounts on coffee makers of every kind ",
-      "image": "https://cdn.mos.cms.futurecdn.net/2oXTQXi4gdiLXA5rMv99Wm-1920-80.jpg",
-      "summary": "Time to upgrade your morning setup.",
+      "title": " Ace Combat 8: Wings of Theve review – bigger skies, more drama, same old rhythm, and I'm mostly fine with that ",
+      "image": "https://cdn.mos.cms.futurecdn.net/HLEprb3tuzUmJfJXNji9ac-1920-80.jpg",
+      "summary": "Project Aces doesn't reinvent the series anime sim-cade formula, but polishes it dramatically in Unreal Engine 5.",
       "category": "Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://www.creativebloq.com/design/product-design/amazons-early-prime-day-deals-include-massive-discounts-on-coffee-makers-of-every-kind"
+      "link": "https://www.creativebloq.com/entertainment/gaming/ace-combat-8-wings-of-theve-review-bigger-skies-more-drama-same-old-rhythm-and-im-mostly-fine-with-that"
     },
     {
       "title": "Stop Treating CSS Container Queries Like Traditional Media Queries",
@@ -54,6 +27,33 @@
       "style": "Unknown",
       "mood": "Neutral",
       "link": "https://smashingmagazine.com/2026/09/stop-treating-css-container-queries-traditional-media-queries/"
+    },
+    {
+      "title": "Is this the line for burgers?",
+      "image": "https://placehold.co/600x400",
+      "summary": "On something already in the scene solving a problem outside its brief\nContinue reading on UX Collective »",
+      "category": "UI/UX",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://uxdesign.cc/is-this-the-line-for-burgers-9730dd45999d?source=rss----138adf9c44c---4"
+    },
+    {
+      "title": " This $30 phone charger gives speeds to rival wall plugs, and it's down to $23 ",
+      "image": "https://cdn.mos.cms.futurecdn.net/9bY3zVGW5rMwBDzUzDCiXh-1920-80.jpg",
+      "summary": "The Sharge Mini 2 power bank gives you a full battery and looks good doing it.",
+      "category": "Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://www.creativebloq.com/tech/headphones-earbuds/this-usd30-phone-charger-gives-speeds-to-rival-wall-plugs-and-its-down-to-usd23"
+    },
+    {
+      "title": "What the Bible got right about AI",
+      "image": "https://placehold.co/600x400",
+      "summary": "What the Bible got right about AI",
+      "category": "AI Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://uxdesign.cc/what-the-bible-got-right-about-ai-340d32b82b5c?source=rss----138adf9c44c---4"
     }
   ]
 }
