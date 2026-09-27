@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-09-26T03:40:29.473Z",
+  "lastUpdated": "2026-09-27T03:49:25.540Z",
   "articles": [
+    {
+      "title": "Is this the line for burgers?",
+      "image": "https://placehold.co/600x400",
+      "summary": "On something already in the scene solving a problem outside its brief\nContinue reading on UX Collective »",
+      "category": "UI/UX",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://uxdesign.cc/is-this-the-line-for-burgers-9730dd45999d?source=rss----138adf9c44c---4"
+    },
     {
       "title": "Building A UX ROI Case That Survives The Boardroom",
       "image": "http://files.smashing.media/articles/building-ux-roi-case-survives-boardroom/building-ux-roi-case-survives-boardroom.jpg",
@@ -11,13 +20,13 @@
       "link": "https://smashingmagazine.com/2026/09/building-ux-roi-case-survives-boardroom/"
     },
     {
-      "title": " Ace Combat 8: Wings of Theve review – bigger skies, more drama, same old rhythm, and I'm mostly fine with that ",
-      "image": "https://cdn.mos.cms.futurecdn.net/HLEprb3tuzUmJfJXNji9ac-1920-80.jpg",
-      "summary": "Project Aces doesn't reinvent the series anime sim-cade formula, but polishes it dramatically in Unreal Engine 5.",
-      "category": "Design",
+      "title": "What the Bible got right about AI",
+      "image": "https://placehold.co/600x400",
+      "summary": "What the Bible got right about AI",
+      "category": "AI Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://www.creativebloq.com/entertainment/gaming/ace-combat-8-wings-of-theve-review-bigger-skies-more-drama-same-old-rhythm-and-im-mostly-fine-with-that"
+      "link": "https://uxdesign.cc/what-the-bible-got-right-about-ai-340d32b82b5c?source=rss----138adf9c44c---4"
     },
     {
       "title": "Stop Treating CSS Container Queries Like Traditional Media Queries",
@@ -29,31 +38,22 @@
       "link": "https://smashingmagazine.com/2026/09/stop-treating-css-container-queries-traditional-media-queries/"
     },
     {
-      "title": "Is this the line for burgers?",
-      "image": "https://placehold.co/600x400",
-      "summary": "On something already in the scene solving a problem outside its brief\nContinue reading on UX Collective »",
-      "category": "UI/UX",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://uxdesign.cc/is-this-the-line-for-burgers-9730dd45999d?source=rss----138adf9c44c---4"
-    },
-    {
-      "title": " This $30 phone charger gives speeds to rival wall plugs, and it's down to $23 ",
-      "image": "https://cdn.mos.cms.futurecdn.net/9bY3zVGW5rMwBDzUzDCiXh-1920-80.jpg",
-      "summary": "The Sharge Mini 2 power bank gives you a full battery and looks good doing it.",
-      "category": "Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://www.creativebloq.com/tech/headphones-earbuds/this-usd30-phone-charger-gives-speeds-to-rival-wall-plugs-and-its-down-to-usd23"
-    },
-    {
-      "title": "What the Bible got right about AI",
-      "image": "https://placehold.co/600x400",
-      "summary": "What the Bible got right about AI",
+      "title": " The secret to Stuntman: Hollywood’s success is Hollywood itself ",
+      "image": "https://cdn.mos.cms.futurecdn.net/KNMC4t45cyUQV8XacHeYug-1920-80.png",
+      "summary": "After playing the stunt sim, Saber's raid of Universal’s best movie IPs, from Back to the Future and Jurassic World, feels like a stroke of genius.",
       "category": "AI Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://uxdesign.cc/what-the-bible-got-right-about-ai-340d32b82b5c?source=rss----138adf9c44c---4"
+      "link": "https://www.creativebloq.com/3d/video-game-design/the-secret-to-stuntman-hollywoods-success-is-hollywood-itself"
+    },
+    {
+      "title": " The chair that puts the 'luxury' in budget ergonomic office chairs has $80 off in Amazon's early Prime Day sale ",
+      "image": "https://cdn.mos.cms.futurecdn.net/jEs9ntpuYmvLVqQzPVSvbW-1920-80.jpg",
+      "summary": "And there's $50 off a cheaper office chair from the same brand.",
+      "category": "UI/UX",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://www.creativebloq.com/tech/chairs-desks/the-chair-that-puts-the-luxury-in-budget-ergonomic-office-chairs-has-usd80-off-in-amazons-early-prime-day-sale"
     }
   ]
 }
