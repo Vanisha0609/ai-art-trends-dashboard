@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-27T03:49:25.540Z",
+  "lastUpdated": "2026-09-28T03:49:12.175Z",
   "articles": [
     {
       "title": "Is this the line for burgers?",
@@ -11,6 +11,15 @@
       "link": "https://uxdesign.cc/is-this-the-line-for-burgers-9730dd45999d?source=rss----138adf9c44c---4"
     },
     {
+      "title": " We’ve got to talk about laptop battery life because this is getting ridiculous and not in a good way ",
+      "image": "https://cdn.mos.cms.futurecdn.net/RtM7fc4wtakonLsAExmzeT-1920-80.jpg",
+      "summary": "We’ve got to talk about laptop battery life because this is getting ridiculous and not in a good way",
+      "category": "Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://www.creativebloq.com/tech/laptops/weve-got-to-talk-about-laptop-battery-life-because-this-is-getting-ridiculous-and-not-in-a-good-way"
+    },
+    {
       "title": "Building A UX ROI Case That Survives The Boardroom",
       "image": "http://files.smashing.media/articles/building-ux-roi-case-survives-boardroom/building-ux-roi-case-survives-boardroom.jpg",
       "summary": "Strong UX ideas do not secure investment on their own. Through a worked example, Alex Williams breaks down how to define business value, calculate costs, test causality, and build a credible case for the return on a design initiative. - UX - Design - Business",
@@ -20,13 +29,22 @@
       "link": "https://smashingmagazine.com/2026/09/building-ux-roi-case-survives-boardroom/"
     },
     {
-      "title": "What the Bible got right about AI",
-      "image": "https://placehold.co/600x400",
-      "summary": "What the Bible got right about AI",
-      "category": "AI Design",
+      "title": " Marvel's Wolverine review: visually spectacular, but frustratingly safe ",
+      "image": "https://cdn.mos.cms.futurecdn.net/oaQx7Z2PQQEhisbPRZMNvF-1920-80.jpg",
+      "summary": "Grrr, Grrrrr, Rrrrrgh, Grraahh, Rrraaargh, Gnnnh… JEAN!… Snarf.",
+      "category": "Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://uxdesign.cc/what-the-bible-got-right-about-ai-340d32b82b5c?source=rss----138adf9c44c---4"
+      "link": "https://www.creativebloq.com/entertainment/gaming/marvels-wolverine-review-visually-spectacular-but-frustratingly-safe"
+    },
+    {
+      "title": "How we save entry-level UX work that teaches craft in the time of AI. Our field depends on this.",
+      "image": "https://placehold.co/600x400",
+      "summary": "How we save entry-level UX work that teaches craft in the time of AI. Our field depends on this.",
+      "category": "UI/UX",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://uxdesign.cc/how-we-save-entry-level-ux-work-that-teaches-craft-in-the-time-of-ai-our-field-depends-on-this-e1684a0d67eb?source=rss----138adf9c44c---4"
     },
     {
       "title": "Stop Treating CSS Container Queries Like Traditional Media Queries",
@@ -36,24 +54,6 @@
       "style": "Unknown",
       "mood": "Neutral",
       "link": "https://smashingmagazine.com/2026/09/stop-treating-css-container-queries-traditional-media-queries/"
-    },
-    {
-      "title": " The secret to Stuntman: Hollywood’s success is Hollywood itself ",
-      "image": "https://cdn.mos.cms.futurecdn.net/KNMC4t45cyUQV8XacHeYug-1920-80.png",
-      "summary": "After playing the stunt sim, Saber's raid of Universal’s best movie IPs, from Back to the Future and Jurassic World, feels like a stroke of genius.",
-      "category": "AI Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://www.creativebloq.com/3d/video-game-design/the-secret-to-stuntman-hollywoods-success-is-hollywood-itself"
-    },
-    {
-      "title": " The chair that puts the 'luxury' in budget ergonomic office chairs has $80 off in Amazon's early Prime Day sale ",
-      "image": "https://cdn.mos.cms.futurecdn.net/jEs9ntpuYmvLVqQzPVSvbW-1920-80.jpg",
-      "summary": "And there's $50 off a cheaper office chair from the same brand.",
-      "category": "UI/UX",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://www.creativebloq.com/tech/chairs-desks/the-chair-that-puts-the-luxury-in-budget-ergonomic-office-chairs-has-usd80-off-in-amazons-early-prime-day-sale"
     }
   ]
 }
