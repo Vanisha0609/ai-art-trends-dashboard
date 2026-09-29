@@ -1,50 +1,32 @@
 {
-  "lastUpdated": "2026-09-28T03:49:12.175Z",
+  "lastUpdated": "2026-09-29T04:23:43.865Z",
   "articles": [
     {
-      "title": "Is this the line for burgers?",
-      "image": "https://placehold.co/600x400",
-      "summary": "On something already in the scene solving a problem outside its brief\nContinue reading on UX Collective »",
-      "category": "UI/UX",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://uxdesign.cc/is-this-the-line-for-burgers-9730dd45999d?source=rss----138adf9c44c---4"
-    },
-    {
-      "title": " We’ve got to talk about laptop battery life because this is getting ridiculous and not in a good way ",
-      "image": "https://cdn.mos.cms.futurecdn.net/RtM7fc4wtakonLsAExmzeT-1920-80.jpg",
-      "summary": "We’ve got to talk about laptop battery life because this is getting ridiculous and not in a good way",
+      "title": " These 9 kitchen items are icons of design, and they all have big discounts in Amazon's early Prime Big Deals ",
+      "image": "https://cdn.mos.cms.futurecdn.net/PNjHVcapXbCyiyDkjXSy9o-1920-80.jpg",
+      "summary": "There's up to 30% off kitchen design masterpieces.",
       "category": "Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://www.creativebloq.com/tech/laptops/weve-got-to-talk-about-laptop-battery-life-because-this-is-getting-ridiculous-and-not-in-a-good-way"
+      "link": "https://www.creativebloq.com/design/product-design/these-9-kitchen-items-are-icons-of-design-and-they-all-have-big-discounts-in-amazons-early-prime-big-deals"
     },
     {
-      "title": "Building A UX ROI Case That Survives The Boardroom",
-      "image": "http://files.smashing.media/articles/building-ux-roi-case-survives-boardroom/building-ux-roi-case-survives-boardroom.jpg",
-      "summary": "Strong UX ideas do not secure investment on their own. Through a worked example, Alex Williams breaks down how to define business value, calculate costs, test causality, and build a credible case for the return on a design initiative. - UX - Design - Business",
-      "category": "UI/UX",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://smashingmagazine.com/2026/09/building-ux-roi-case-survives-boardroom/"
-    },
-    {
-      "title": " Marvel's Wolverine review: visually spectacular, but frustratingly safe ",
-      "image": "https://cdn.mos.cms.futurecdn.net/oaQx7Z2PQQEhisbPRZMNvF-1920-80.jpg",
-      "summary": "Grrr, Grrrrr, Rrrrrgh, Grraahh, Rrraaargh, Gnnnh… JEAN!… Snarf.",
-      "category": "Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://www.creativebloq.com/entertainment/gaming/marvels-wolverine-review-visually-spectacular-but-frustratingly-safe"
-    },
-    {
-      "title": "How we save entry-level UX work that teaches craft in the time of AI. Our field depends on this.",
+      "title": "The strategic designer: navigating the Jevons paradox in the AI age",
       "image": "https://placehold.co/600x400",
-      "summary": "How we save entry-level UX work that teaches craft in the time of AI. Our field depends on this.",
+      "summary": "From specialist makers to strategic orchestrators: why compressing execution time increases the demand for design vision, systems thinking…\nContinue reading on UX Collective »",
       "category": "UI/UX",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://uxdesign.cc/how-we-save-entry-level-ux-work-that-teaches-craft-in-the-time-of-ai-our-field-depends-on-this-e1684a0d67eb?source=rss----138adf9c44c---4"
+      "link": "https://uxdesign.cc/the-strategic-designer-navigating-the-jevons-paradox-in-the-ai-age-e06aa836f9d8?source=rss----138adf9c44c---4"
+    },
+    {
+      "title": " The Wacom Intuos Pro is back to its lowest price ever with $80 off at Amazon ",
+      "image": "https://cdn.mos.cms.futurecdn.net/pe4979AUzreZRjCkcURBYZ-1920-80.jpg",
+      "summary": "There's no need to wait until Prime Day for a deal on the best pen tablet for artists.",
+      "category": "AI Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://www.creativebloq.com/art/digital-art/the-wacom-intuos-pro-is-back-to-its-lowest-price-ever-with-usd80-off-at-amazon"
     },
     {
       "title": "Stop Treating CSS Container Queries Like Traditional Media Queries",
@@ -54,6 +36,24 @@
       "style": "Unknown",
       "mood": "Neutral",
       "link": "https://smashingmagazine.com/2026/09/stop-treating-css-container-queries-traditional-media-queries/"
+    },
+    {
+      "title": "The next larger context",
+      "image": "https://placehold.co/600x400",
+      "summary": "Designing beyond the interface, the product, and the prompt\nContinue reading on UX Collective »",
+      "category": "UI/UX",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://uxdesign.cc/the-next-larger-context-4dd0c91a7c5b?source=rss----138adf9c44c---4"
+    },
+    {
+      "title": "Building A UX ROI Case That Survives The Boardroom",
+      "image": "http://files.smashing.media/articles/building-ux-roi-case-survives-boardroom/building-ux-roi-case-survives-boardroom.jpg",
+      "summary": "Strong UX ideas do not secure investment on their own. Through a worked example, Alex Williams breaks down how to define business value, calculate costs, test causality, and build a credible case for the return on a design initiative. - UX - Design - Business",
+      "category": "UI/UX",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://smashingmagazine.com/2026/09/building-ux-roi-case-survives-boardroom/"
     }
   ]
 }
