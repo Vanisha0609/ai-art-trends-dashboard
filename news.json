@@ -1,33 +1,6 @@
 {
-  "lastUpdated": "2026-09-29T04:23:43.865Z",
+  "lastUpdated": "2026-09-30T04:07:06.407Z",
   "articles": [
-    {
-      "title": " These 9 kitchen items are icons of design, and they all have big discounts in Amazon's early Prime Big Deals ",
-      "image": "https://cdn.mos.cms.futurecdn.net/PNjHVcapXbCyiyDkjXSy9o-1920-80.jpg",
-      "summary": "There's up to 30% off kitchen design masterpieces.",
-      "category": "Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://www.creativebloq.com/design/product-design/these-9-kitchen-items-are-icons-of-design-and-they-all-have-big-discounts-in-amazons-early-prime-big-deals"
-    },
-    {
-      "title": "The strategic designer: navigating the Jevons paradox in the AI age",
-      "image": "https://placehold.co/600x400",
-      "summary": "From specialist makers to strategic orchestrators: why compressing execution time increases the demand for design vision, systems thinking…\nContinue reading on UX Collective »",
-      "category": "UI/UX",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://uxdesign.cc/the-strategic-designer-navigating-the-jevons-paradox-in-the-ai-age-e06aa836f9d8?source=rss----138adf9c44c---4"
-    },
-    {
-      "title": " The Wacom Intuos Pro is back to its lowest price ever with $80 off at Amazon ",
-      "image": "https://cdn.mos.cms.futurecdn.net/pe4979AUzreZRjCkcURBYZ-1920-80.jpg",
-      "summary": "There's no need to wait until Prime Day for a deal on the best pen tablet for artists.",
-      "category": "AI Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://www.creativebloq.com/art/digital-art/the-wacom-intuos-pro-is-back-to-its-lowest-price-ever-with-usd80-off-at-amazon"
-    },
     {
       "title": "Stop Treating CSS Container Queries Like Traditional Media Queries",
       "image": "http://files.smashing.media/articles/stop-treating-css-container-queries-traditional-media-queries/stop-treating-css-container-queries-traditional-media-queries.jpg",
@@ -38,13 +11,13 @@
       "link": "https://smashingmagazine.com/2026/09/stop-treating-css-container-queries-traditional-media-queries/"
     },
     {
-      "title": "The next larger context",
-      "image": "https://placehold.co/600x400",
-      "summary": "Designing beyond the interface, the product, and the prompt\nContinue reading on UX Collective »",
+      "title": " Whimsymaxxing is the latest cure for the autumn blues ",
+      "image": "https://cdn.mos.cms.futurecdn.net/gyq6LqDe6SQ5kAkMcDqFF7-1920-80.jpg",
+      "summary": "Embrace creative joy with these quirky craft supplies.",
       "category": "UI/UX",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://uxdesign.cc/the-next-larger-context-4dd0c91a7c5b?source=rss----138adf9c44c---4"
+      "link": "https://www.creativebloq.com/art/art-supplies/whimsymaxxing-is-the-latest-cure-for-the-autumn-blues"
     },
     {
       "title": "Building A UX ROI Case That Survives The Boardroom",
@@ -54,6 +27,33 @@
       "style": "Unknown",
       "mood": "Neutral",
       "link": "https://smashingmagazine.com/2026/09/building-ux-roi-case-survives-boardroom/"
+    },
+    {
+      "title": " Bambu Lab’s massive Halloween sale is all treat, with up to 30% of 3D printing  supplies ",
+      "image": "https://cdn.mos.cms.futurecdn.net/QSbyfWMo7Rnx8LHgTyAhTF-1920-80.jpg",
+      "summary": "There are frightfully good deals on Halloween decorations too.",
+      "category": "3D Art",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://www.creativebloq.com/3d/3d-printing/bambu-labs-massive-halloween-sale-is-all-treat-with-up-to-30-percent-of-3d-printing-supplies"
+    },
+    {
+      "title": "If you want to design for underserved users, look at farmers’ markets",
+      "image": "https://placehold.co/600x400",
+      "summary": "The bottom third model, and why your help patterns miss the users who need them most\nContinue reading on UX Collective »",
+      "category": "UI/UX",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://uxdesign.cc/if-you-want-to-design-for-underserved-users-look-at-farmers-markets-eefaedb35607?source=rss----138adf9c44c---4"
+    },
+    {
+      "title": "How to de-slopify your designs",
+      "image": "https://placehold.co/600x400",
+      "summary": "How to de-slopify your designs",
+      "category": "Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://uxdesign.cc/how-to-de-slopify-your-designs-4c40c57c1dc9?source=rss----138adf9c44c---4"
     }
   ]
 }
