@@ -1,50 +1,32 @@
 {
-  "lastUpdated": "2026-10-01T04:19:10.770Z",
+  "lastUpdated": "2026-10-02T04:12:04.644Z",
   "articles": [
     {
-      "title": "Stop Treating CSS Container Queries Like Traditional Media Queries",
-      "image": "http://files.smashing.media/articles/stop-treating-css-container-queries-traditional-media-queries/stop-treating-css-container-queries-traditional-media-queries.jpg",
-      "summary": "Despite broad browser support, container queries remain surprisingly underused and frequently misunderstood. Let’s look at how they differ from media queries, when to reach for each, and how container queries help reusable components respond naturally to the contexts in which they appear. - CSS - Tools - Techniques",
-      "category": "AI Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://smashingmagazine.com/2026/09/stop-treating-css-container-queries-traditional-media-queries/"
-    },
-    {
-      "title": " You can now use ChatGPT and Claude to speed up 3D art in Cinema 4D ",
-      "image": "https://cdn.mos.cms.futurecdn.net/DT46hrKgj3M2G2y2xf3KA3-1920-80.jpg",
-      "summary": "Maxon's latest update brings AI assistants to its 3D modelling and animation software.",
-      "category": "AI Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://www.creativebloq.com/ai/you-can-now-use-chatgpt-and-claude-to-speed-up-3d-art-in-cinema-4d"
-    },
-    {
-      "title": "Five-step color balancing with GenAI",
+      "title": "Stop blaming the model for slow AI. Using Doherty’s threshold as a guideline.",
       "image": "https://placehold.co/600x400",
-      "summary": "Gemini & Qualitative Data Color Scheme Design\nContinue reading on UX Collective »",
+      "summary": "Stop blaming the model for slow AI. Using Doherty’s threshold as a guideline.",
       "category": "UI/UX",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://uxdesign.cc/five-step-color-balancing-with-genai-60ab1ca5635e?source=rss----138adf9c44c---4"
+      "link": "https://uxdesign.cc/stop-blaming-the-model-for-slow-ai-heres-how-to-design-for-it-doherty-s-threshold-as-a-guideline-5fa6d52e23fc?source=rss----138adf9c44c---4"
     },
     {
-      "title": " The next James Bond actor won't be who you think ",
-      "image": "https://cdn.mos.cms.futurecdn.net/YJjM49a2puUB7sRaZQoEpK-1920-80.jpg",
-      "summary": "The Bond brand is bigger than any celebrity.",
-      "category": "Design",
+      "title": " Imagine spending $8.4 million on a Pokemon card ",
+      "image": "https://cdn.mos.cms.futurecdn.net/qdLba2EzRCAeHbDdY6vvpi-1920-80.jpg",
+      "summary": "Raincoat Pikachu becomes the second most valuable card in history.",
+      "category": "AI Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://www.creativebloq.com/entertainment/the-next-james-bond-actor-wont-be-who-you-think"
+      "link": "https://www.creativebloq.com/entertainment/toys-collectibles/imagine-spending-usd8-4-million-on-a-pokemon-card"
     },
     {
-      "title": "Federal pressure may force design education to rethink its identity",
-      "image": "https://placehold.co/600x400",
-      "summary": "Federal pressure may force design education to rethink its identity",
-      "category": "Design",
+      "title": " One of Anycubic's best resin 3D printers has $230 off in Amazon's early Prime Day sale ",
+      "image": "https://cdn.mos.cms.futurecdn.net/CNeFXq9m3N62Vi3bEE99LL-1920-80.jpg",
+      "summary": "Whether you want to go big or fast, these deals have you covered.",
+      "category": "3D Art",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://uxdesign.cc/federal-pressure-may-force-design-education-to-rethink-its-identity-22d4ec56b1c2?source=rss----138adf9c44c---4"
+      "link": "https://www.creativebloq.com/3d/3d-printing/one-of-anycubics-best-resin-3d-printers-has-usd230-off-in-amazons-early-prime-day-sale"
     },
     {
       "title": "Under Autumn’s Spell (October 2026 Wallpapers Edition)",
@@ -54,6 +36,24 @@
       "style": "Unknown",
       "mood": "Neutral",
       "link": "https://smashingmagazine.com/2026/09/desktop-wallpaper-calendars-october-2026/"
+    },
+    {
+      "title": "Design’s consensus was AI’s first casualty",
+      "image": "https://placehold.co/600x400",
+      "summary": "The same evidence about AI is being read two opposite ways, and designers are left choosing between them without a clear consensus to lean…\nContinue reading on UX Collective »",
+      "category": "UI/UX",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://uxdesign.cc/designs-consensus-was-ai-s-first-casualty-8143c1bada80?source=rss----138adf9c44c---4"
+    },
+    {
+      "title": "Stop Treating CSS Container Queries Like Traditional Media Queries",
+      "image": "http://files.smashing.media/articles/stop-treating-css-container-queries-traditional-media-queries/stop-treating-css-container-queries-traditional-media-queries.jpg",
+      "summary": "Despite broad browser support, container queries remain surprisingly underused and frequently misunderstood. Let’s look at how they differ from media queries, when to reach for each, and how container queries help reusable components respond naturally to the contexts in which they appear. - CSS - Tools - Techniques",
+      "category": "AI Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://smashingmagazine.com/2026/09/stop-treating-css-container-queries-traditional-media-queries/"
     }
   ]
 }
