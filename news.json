@@ -1,32 +1,41 @@
 {
-  "lastUpdated": "2026-10-02T04:12:04.644Z",
+  "lastUpdated": "2026-10-03T03:54:46.192Z",
   "articles": [
     {
-      "title": "Stop blaming the model for slow AI. Using Doherty’s threshold as a guideline.",
-      "image": "https://placehold.co/600x400",
-      "summary": "Stop blaming the model for slow AI. Using Doherty’s threshold as a guideline.",
-      "category": "UI/UX",
+      "title": " Nothing Headphone (1) Pro review: better headphones, but should you upgrade? ",
+      "image": "https://cdn.mos.cms.futurecdn.net/oJKdBSuJ5PRGSM94r8HGuB-1920-80.jpg",
+      "summary": "Nothing's flagship over-ear headphones are a clear step up. Whether the £349 upgrade is worth it depends on what you're coming from.",
+      "category": "Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://uxdesign.cc/stop-blaming-the-model-for-slow-ai-heres-how-to-design-for-it-doherty-s-threshold-as-a-guideline-5fa6d52e23fc?source=rss----138adf9c44c---4"
+      "link": "https://www.creativebloq.com/tech/headphones-earbuds/nothing-headphone-1-pro-review-better-headphones-but-should-you-upgrade"
     },
     {
-      "title": " Imagine spending $8.4 million on a Pokemon card ",
-      "image": "https://cdn.mos.cms.futurecdn.net/qdLba2EzRCAeHbDdY6vvpi-1920-80.jpg",
-      "summary": "Raincoat Pikachu becomes the second most valuable card in history.",
+      "title": "Stop Treating CSS Container Queries Like Traditional Media Queries",
+      "image": "http://files.smashing.media/articles/stop-treating-css-container-queries-traditional-media-queries/stop-treating-css-container-queries-traditional-media-queries.jpg",
+      "summary": "Despite broad browser support, container queries remain surprisingly underused and frequently misunderstood. Let’s look at how they differ from media queries, when to reach for each, and how container queries help reusable components respond naturally to the contexts in which they appear. - CSS - Tools - Techniques",
       "category": "AI Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://www.creativebloq.com/entertainment/toys-collectibles/imagine-spending-usd8-4-million-on-a-pokemon-card"
+      "link": "https://smashingmagazine.com/2026/09/stop-treating-css-container-queries-traditional-media-queries/"
     },
     {
-      "title": " One of Anycubic's best resin 3D printers has $230 off in Amazon's early Prime Day sale ",
-      "image": "https://cdn.mos.cms.futurecdn.net/CNeFXq9m3N62Vi3bEE99LL-1920-80.jpg",
-      "summary": "Whether you want to go big or fast, these deals have you covered.",
+      "title": "In/tension modeling: what gives us the right?",
+      "image": "https://placehold.co/600x400",
+      "summary": "In/tension modeling: what gives us the right?",
+      "category": "Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://uxdesign.cc/in-tension-modeling-what-gives-us-the-right-01740248eb45?source=rss----138adf9c44c---4"
+    },
+    {
+      "title": " The best multicolour 3D printer for beginners has $130 off in Amazon's early Prime Day sale ",
+      "image": "https://cdn.mos.cms.futurecdn.net/wiNwX3R3CLFsZvNe4RETRS-1920-80.jpg",
+      "summary": "The Anycubic Kobra X is now just $329.99.",
       "category": "3D Art",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://www.creativebloq.com/3d/3d-printing/one-of-anycubics-best-resin-3d-printers-has-usd230-off-in-amazons-early-prime-day-sale"
+      "link": "https://www.creativebloq.com/3d/3d-printing/the-best-multicolour-3d-printer-for-beginners-has-usd130-off-in-amazons-early-prime-day-sale"
     },
     {
       "title": "Under Autumn’s Spell (October 2026 Wallpapers Edition)",
@@ -38,22 +47,13 @@
       "link": "https://smashingmagazine.com/2026/09/desktop-wallpaper-calendars-october-2026/"
     },
     {
-      "title": "Design’s consensus was AI’s first casualty",
+      "title": "Stop blaming the model for slow AI. Using Doherty’s threshold as a guideline.",
       "image": "https://placehold.co/600x400",
-      "summary": "The same evidence about AI is being read two opposite ways, and designers are left choosing between them without a clear consensus to lean…\nContinue reading on UX Collective »",
+      "summary": "Stop blaming the model for slow AI. Using Doherty’s threshold as a guideline.",
       "category": "UI/UX",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://uxdesign.cc/designs-consensus-was-ai-s-first-casualty-8143c1bada80?source=rss----138adf9c44c---4"
-    },
-    {
-      "title": "Stop Treating CSS Container Queries Like Traditional Media Queries",
-      "image": "http://files.smashing.media/articles/stop-treating-css-container-queries-traditional-media-queries/stop-treating-css-container-queries-traditional-media-queries.jpg",
-      "summary": "Despite broad browser support, container queries remain surprisingly underused and frequently misunderstood. Let’s look at how they differ from media queries, when to reach for each, and how container queries help reusable components respond naturally to the contexts in which they appear. - CSS - Tools - Techniques",
-      "category": "AI Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://smashingmagazine.com/2026/09/stop-treating-css-container-queries-traditional-media-queries/"
+      "link": "https://uxdesign.cc/stop-blaming-the-model-for-slow-ai-heres-how-to-design-for-it-doherty-s-threshold-as-a-guideline-5fa6d52e23fc?source=rss----138adf9c44c---4"
     }
   ]
 }
