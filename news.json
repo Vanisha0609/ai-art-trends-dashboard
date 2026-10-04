@@ -1,14 +1,23 @@
 {
-  "lastUpdated": "2026-10-03T03:54:46.192Z",
+  "lastUpdated": "2026-10-04T04:27:34.576Z",
   "articles": [
     {
-      "title": " Nothing Headphone (1) Pro review: better headphones, but should you upgrade? ",
-      "image": "https://cdn.mos.cms.futurecdn.net/oJKdBSuJ5PRGSM94r8HGuB-1920-80.jpg",
-      "summary": "Nothing's flagship over-ear headphones are a clear step up. Whether the £349 upgrade is worth it depends on what you're coming from.",
+      "title": " Pixar just released a handmade stopmotion Thelma & Louise with fruit – and a nod to GTA VI ",
+      "image": "https://cdn.mos.cms.futurecdn.net/bL7EeRAokoQZZfGtymGm8K-1920-80.jpg",
+      "summary": "You would never guess Fruit & Nut came from Pixar.",
+      "category": "UI/UX",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://www.creativebloq.com/art/animation/pixars-latest-film-is-a-psychedelic-hand-made-thelma-and-louise-with-fruit-and-a-nod-to-gta-vi"
+    },
+    {
+      "title": "The feed I produce myself",
+      "image": "https://placehold.co/600x400",
+      "summary": "The feed I produce myself",
       "category": "Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://www.creativebloq.com/tech/headphones-earbuds/nothing-headphone-1-pro-review-better-headphones-but-should-you-upgrade"
+      "link": "https://uxdesign.cc/the-feed-i-produce-myself-11e4192f394c?source=rss----138adf9c44c---4"
     },
     {
       "title": "Stop Treating CSS Container Queries Like Traditional Media Queries",
@@ -20,24 +29,6 @@
       "link": "https://smashingmagazine.com/2026/09/stop-treating-css-container-queries-traditional-media-queries/"
     },
     {
-      "title": "In/tension modeling: what gives us the right?",
-      "image": "https://placehold.co/600x400",
-      "summary": "In/tension modeling: what gives us the right?",
-      "category": "Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://uxdesign.cc/in-tension-modeling-what-gives-us-the-right-01740248eb45?source=rss----138adf9c44c---4"
-    },
-    {
-      "title": " The best multicolour 3D printer for beginners has $130 off in Amazon's early Prime Day sale ",
-      "image": "https://cdn.mos.cms.futurecdn.net/wiNwX3R3CLFsZvNe4RETRS-1920-80.jpg",
-      "summary": "The Anycubic Kobra X is now just $329.99.",
-      "category": "3D Art",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://www.creativebloq.com/3d/3d-printing/the-best-multicolour-3d-printer-for-beginners-has-usd130-off-in-amazons-early-prime-day-sale"
-    },
-    {
       "title": "Under Autumn’s Spell (October 2026 Wallpapers Edition)",
       "image": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0fdda8cd-7c63-4b61-86f6-f3188d312aaf/oct-20-magical-october-preview-opt.png",
       "summary": "October is just around the corner, which means it’s time for some new desktop wallpapers! Designed by the community for the community, they’re here to brighten your screens, and maybe spark some creativity along the way.",
@@ -47,13 +38,22 @@
       "link": "https://smashingmagazine.com/2026/09/desktop-wallpaper-calendars-october-2026/"
     },
     {
-      "title": "Stop blaming the model for slow AI. Using Doherty’s threshold as a guideline.",
-      "image": "https://placehold.co/600x400",
-      "summary": "Stop blaming the model for slow AI. Using Doherty’s threshold as a guideline.",
-      "category": "UI/UX",
+      "title": " How thatgamecompany turned Van Gogh paintings into playable spaces ",
+      "image": "https://cdn.mos.cms.futurecdn.net/6GQDqUUxgsKHNq6wiHuM54-1920-80.jpg",
+      "summary": "Yingxian Lu reveals how the brushstroke tech predated the story, and the letters shaped Sky's Dear Van Gogh season.",
+      "category": "AI Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://uxdesign.cc/stop-blaming-the-model-for-slow-ai-heres-how-to-design-for-it-doherty-s-threshold-as-a-guideline-5fa6d52e23fc?source=rss----138adf9c44c---4"
+      "link": "https://www.creativebloq.com/3d/video-game-design/how-thatgamecompany-turned-van-gogh-paintings-into-playable-spaces"
+    },
+    {
+      "title": "In/tension modeling: what gives us the right?",
+      "image": "https://placehold.co/600x400",
+      "summary": "In/tension modeling: what gives us the right?",
+      "category": "Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://uxdesign.cc/in-tension-modeling-what-gives-us-the-right-01740248eb45?source=rss----138adf9c44c---4"
     }
   ]
 }
