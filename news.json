@@ -1,32 +1,14 @@
 {
-  "lastUpdated": "2026-10-04T04:27:34.576Z",
+  "lastUpdated": "2026-10-05T04:12:50.712Z",
   "articles": [
     {
-      "title": " Pixar just released a handmade stopmotion Thelma & Louise with fruit – and a nod to GTA VI ",
-      "image": "https://cdn.mos.cms.futurecdn.net/bL7EeRAokoQZZfGtymGm8K-1920-80.jpg",
-      "summary": "You would never guess Fruit & Nut came from Pixar.",
-      "category": "UI/UX",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://www.creativebloq.com/art/animation/pixars-latest-film-is-a-psychedelic-hand-made-thelma-and-louise-with-fruit-and-a-nod-to-gta-vi"
-    },
-    {
-      "title": "The feed I produce myself",
-      "image": "https://placehold.co/600x400",
-      "summary": "The feed I produce myself",
+      "title": " I visited the Lucas Museum of Narrative Art, and it's not just about Star Wars ",
+      "image": "https://cdn.mos.cms.futurecdn.net/KHZNt4YsDzwa732cv3jLQR-1920-80.jpg",
+      "summary": "Finally, a place where comics, games and fine art share a wall.",
       "category": "Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://uxdesign.cc/the-feed-i-produce-myself-11e4192f394c?source=rss----138adf9c44c---4"
-    },
-    {
-      "title": "Stop Treating CSS Container Queries Like Traditional Media Queries",
-      "image": "http://files.smashing.media/articles/stop-treating-css-container-queries-traditional-media-queries/stop-treating-css-container-queries-traditional-media-queries.jpg",
-      "summary": "Despite broad browser support, container queries remain surprisingly underused and frequently misunderstood. Let’s look at how they differ from media queries, when to reach for each, and how container queries help reusable components respond naturally to the contexts in which they appear. - CSS - Tools - Techniques",
-      "category": "AI Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://smashingmagazine.com/2026/09/stop-treating-css-container-queries-traditional-media-queries/"
+      "link": "https://www.creativebloq.com/art/traditional-art/i-visited-the-lucas-museum-of-narrative-art-and-its-not-just-about-star-wars"
     },
     {
       "title": "Under Autumn’s Spell (October 2026 Wallpapers Edition)",
@@ -38,22 +20,40 @@
       "link": "https://smashingmagazine.com/2026/09/desktop-wallpaper-calendars-october-2026/"
     },
     {
-      "title": " How thatgamecompany turned Van Gogh paintings into playable spaces ",
-      "image": "https://cdn.mos.cms.futurecdn.net/6GQDqUUxgsKHNq6wiHuM54-1920-80.jpg",
-      "summary": "Yingxian Lu reveals how the brushstroke tech predated the story, and the letters shaped Sky's Dear Van Gogh season.",
+      "title": "Stop Treating CSS Container Queries Like Traditional Media Queries",
+      "image": "http://files.smashing.media/articles/stop-treating-css-container-queries-traditional-media-queries/stop-treating-css-container-queries-traditional-media-queries.jpg",
+      "summary": "Despite broad browser support, container queries remain surprisingly underused and frequently misunderstood. Let’s look at how they differ from media queries, when to reach for each, and how container queries help reusable components respond naturally to the contexts in which they appear. - CSS - Tools - Techniques",
       "category": "AI Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://www.creativebloq.com/3d/video-game-design/how-thatgamecompany-turned-van-gogh-paintings-into-playable-spaces"
+      "link": "https://smashingmagazine.com/2026/09/stop-treating-css-container-queries-traditional-media-queries/"
     },
     {
-      "title": "In/tension modeling: what gives us the right?",
+      "title": "The feed I produce myself",
       "image": "https://placehold.co/600x400",
-      "summary": "In/tension modeling: what gives us the right?",
+      "summary": "The feed I produce myself",
       "category": "Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://uxdesign.cc/in-tension-modeling-what-gives-us-the-right-01740248eb45?source=rss----138adf9c44c---4"
+      "link": "https://uxdesign.cc/the-feed-i-produce-myself-11e4192f394c?source=rss----138adf9c44c---4"
+    },
+    {
+      "title": "The building was there first",
+      "image": "https://placehold.co/600x400",
+      "summary": "A style’s real output isn’t what it makes. It’s the category it installs in whoever looks.\nContinue reading on UX Collective »",
+      "category": "UI/UX",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://uxdesign.cc/the-building-was-there-first-26c6c4e49ba8?source=rss----138adf9c44c---4"
+    },
+    {
+      "title": " These aesthetically delightful retro vinyl players have up to 50% off at Amazon ",
+      "image": "https://cdn.mos.cms.futurecdn.net/Yh7YQwzJKhtc4oQrbMwyrV-1920-80.jpg",
+      "summary": "Plug into 2026's analogue revival with a timeless-looking turntable.",
+      "category": "Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://www.creativebloq.com/entertainment/toys-collectibles/these-aesthetically-pleasing-retro-vinyl-players-have-up-to-50-percent-off-at-amazon"
     }
   ]
 }
