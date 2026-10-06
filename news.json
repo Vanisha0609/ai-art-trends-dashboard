@@ -1,14 +1,23 @@
 {
-  "lastUpdated": "2026-10-05T04:12:50.712Z",
+  "lastUpdated": "2026-10-06T05:01:01.100Z",
   "articles": [
     {
-      "title": " I visited the Lucas Museum of Narrative Art, and it's not just about Star Wars ",
-      "image": "https://cdn.mos.cms.futurecdn.net/KHZNt4YsDzwa732cv3jLQR-1920-80.jpg",
-      "summary": "Finally, a place where comics, games and fine art share a wall.",
-      "category": "Design",
+      "title": "Is Meta’s new AI agent easier to trust because it’s cute?",
+      "image": "https://placehold.co/600x400",
+      "summary": "Muse comes with an avatar you design and a keyring gadget. Few people would hand Meta their passwords, yet it topped the US App Store.\nContinue reading on UX Collective »",
+      "category": "UI/UX",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://www.creativebloq.com/art/traditional-art/i-visited-the-lucas-museum-of-narrative-art-and-its-not-just-about-star-wars"
+      "link": "https://uxdesign.cc/is-metas-new-ai-agent-easier-to-trust-because-it-s-cute-c8de13aefc6f?source=rss----138adf9c44c---4"
+    },
+    {
+      "title": " Early Prime Day Apple deals just rewound this year's big price hikes with up to $200 off Macs ",
+      "image": "https://cdn.mos.cms.futurecdn.net/SMwBiE8v3c9kUFEAezPsPU-1920-80.jpg",
+      "summary": "MacBooks, iPads, AirPods and Apple Watches are the cheapest they've been since the big price hike in June.",
+      "category": "AI Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://www.creativebloq.com/tech/laptops/early-prime-day-apple-deals-just-rewound-this-years-big-price-hikes-with-up-to-usd200-off-macs"
     },
     {
       "title": "Under Autumn’s Spell (October 2026 Wallpapers Edition)",
@@ -20,6 +29,24 @@
       "link": "https://smashingmagazine.com/2026/09/desktop-wallpaper-calendars-october-2026/"
     },
     {
+      "title": " LIVE: October Prime Day 2026 3D printing deals - save up to 50% ",
+      "image": "https://cdn.mos.cms.futurecdn.net/iqdjidEkcByZ7fQjoWJrbc-1920-80.png",
+      "summary": "We're seeing Amazon Prime Day offers on Anycubic, Creality, Elegoo, and Bambu Lab machines.",
+      "category": "3D Art",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://www.creativebloq.com/live/news/october-prime-day-2026-3d-printing-deals"
+    },
+    {
+      "title": "AI skill atrophy: Are we forgetting how to think?",
+      "image": "https://placehold.co/600x400",
+      "summary": "The hidden cost of outsourcing our thinking to AI.\nContinue reading on UX Collective »",
+      "category": "UI/UX",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://uxdesign.cc/ai-skill-atrophy-cognitive-offloading-1afbf92eb496?source=rss----138adf9c44c---4"
+    },
+    {
       "title": "Stop Treating CSS Container Queries Like Traditional Media Queries",
       "image": "http://files.smashing.media/articles/stop-treating-css-container-queries-traditional-media-queries/stop-treating-css-container-queries-traditional-media-queries.jpg",
       "summary": "Despite broad browser support, container queries remain surprisingly underused and frequently misunderstood. Let’s look at how they differ from media queries, when to reach for each, and how container queries help reusable components respond naturally to the contexts in which they appear. - CSS - Tools - Techniques",
@@ -27,33 +54,6 @@
       "style": "Unknown",
       "mood": "Neutral",
       "link": "https://smashingmagazine.com/2026/09/stop-treating-css-container-queries-traditional-media-queries/"
-    },
-    {
-      "title": "The feed I produce myself",
-      "image": "https://placehold.co/600x400",
-      "summary": "The feed I produce myself",
-      "category": "Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://uxdesign.cc/the-feed-i-produce-myself-11e4192f394c?source=rss----138adf9c44c---4"
-    },
-    {
-      "title": "The building was there first",
-      "image": "https://placehold.co/600x400",
-      "summary": "A style’s real output isn’t what it makes. It’s the category it installs in whoever looks.\nContinue reading on UX Collective »",
-      "category": "UI/UX",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://uxdesign.cc/the-building-was-there-first-26c6c4e49ba8?source=rss----138adf9c44c---4"
-    },
-    {
-      "title": " These aesthetically delightful retro vinyl players have up to 50% off at Amazon ",
-      "image": "https://cdn.mos.cms.futurecdn.net/Yh7YQwzJKhtc4oQrbMwyrV-1920-80.jpg",
-      "summary": "Plug into 2026's analogue revival with a timeless-looking turntable.",
-      "category": "Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://www.creativebloq.com/entertainment/toys-collectibles/these-aesthetically-pleasing-retro-vinyl-players-have-up-to-50-percent-off-at-amazon"
     }
   ]
 }
