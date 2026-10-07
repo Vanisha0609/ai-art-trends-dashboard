@@ -1,23 +1,23 @@
 {
-  "lastUpdated": "2026-10-06T05:01:01.100Z",
+  "lastUpdated": "2026-10-07T04:28:05.049Z",
   "articles": [
     {
-      "title": "Is Meta’s new AI agent easier to trust because it’s cute?",
+      "title": "Jev: How to use it for better, faster, and cheaper user decisions in UX",
       "image": "https://placehold.co/600x400",
-      "summary": "Muse comes with an avatar you design and a keyring gadget. Few people would hand Meta their passwords, yet it topped the US App Store.\nContinue reading on UX Collective »",
+      "summary": "Jev: How to use it for better, faster, and cheaper user decisions in UX",
       "category": "UI/UX",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://uxdesign.cc/is-metas-new-ai-agent-easier-to-trust-because-it-s-cute-c8de13aefc6f?source=rss----138adf9c44c---4"
+      "link": "https://uxdesign.cc/jev-how-to-use-it-for-better-faster-and-cheaper-user-decisions-in-ux-0e9907d2b6f7?source=rss----138adf9c44c---4"
     },
     {
-      "title": " Early Prime Day Apple deals just rewound this year's big price hikes with up to $200 off Macs ",
-      "image": "https://cdn.mos.cms.futurecdn.net/SMwBiE8v3c9kUFEAezPsPU-1920-80.jpg",
-      "summary": "MacBooks, iPads, AirPods and Apple Watches are the cheapest they've been since the big price hike in June.",
-      "category": "AI Design",
+      "title": "A Practical Guide To Naming Things",
+      "image": "http://files.smashing.media/articles/how-name-things-choose-accordion-icons/how-name-things.jpg",
+      "summary": "A practical guide to naming UI components, with useful resources, naming conventions, and structures.",
+      "category": "UI/UX",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://www.creativebloq.com/tech/laptops/early-prime-day-apple-deals-just-rewound-this-years-big-price-hikes-with-up-to-usd200-off-macs"
+      "link": "https://smashingmagazine.com/2026/10/how-name-things/"
     },
     {
       "title": "Under Autumn’s Spell (October 2026 Wallpapers Edition)",
@@ -29,31 +29,31 @@
       "link": "https://smashingmagazine.com/2026/09/desktop-wallpaper-calendars-october-2026/"
     },
     {
-      "title": " LIVE: October Prime Day 2026 3D printing deals - save up to 50% ",
-      "image": "https://cdn.mos.cms.futurecdn.net/iqdjidEkcByZ7fQjoWJrbc-1920-80.png",
-      "summary": "We're seeing Amazon Prime Day offers on Anycubic, Creality, Elegoo, and Bambu Lab machines.",
-      "category": "3D Art",
+      "title": " Get those extra ports you need with up to 25% off these versatile docks ",
+      "image": "https://cdn.mos.cms.futurecdn.net/6qwXSGBQks5wviHVKQRu96-1920-80.jpg",
+      "summary": "Our top pick offers blazing-fast Thunderbolt 5 speeds.",
+      "category": "Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://www.creativebloq.com/live/news/october-prime-day-2026-3d-printing-deals"
+      "link": "https://www.creativebloq.com/tech/peripherals/get-those-extra-ports-you-need-with-up-to-25-percent-off-these-versatile-docks"
     },
     {
-      "title": "AI skill atrophy: Are we forgetting how to think?",
+      "title": "Why designers need to stop reporting and start recommending at work",
       "image": "https://placehold.co/600x400",
-      "summary": "The hidden cost of outsourcing our thinking to AI.\nContinue reading on UX Collective »",
+      "summary": "Sticky notes don’t help your team. They need your direction\nContinue reading on UX Collective »",
       "category": "UI/UX",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://uxdesign.cc/ai-skill-atrophy-cognitive-offloading-1afbf92eb496?source=rss----138adf9c44c---4"
+      "link": "https://uxdesign.cc/why-designers-need-to-stop-reporting-and-start-recommending-at-work-6fa861f58097?source=rss----138adf9c44c---4"
     },
     {
-      "title": "Stop Treating CSS Container Queries Like Traditional Media Queries",
-      "image": "http://files.smashing.media/articles/stop-treating-css-container-queries-traditional-media-queries/stop-treating-css-container-queries-traditional-media-queries.jpg",
-      "summary": "Despite broad browser support, container queries remain surprisingly underused and frequently misunderstood. Let’s look at how they differ from media queries, when to reach for each, and how container queries help reusable components respond naturally to the contexts in which they appear. - CSS - Tools - Techniques",
-      "category": "AI Design",
+      "title": " One of the most impressive sub-$200 earphones of 2026 just got reduced by 20% to $152 ",
+      "image": "https://cdn.mos.cms.futurecdn.net/CS3yfsiYGsMMurBufit694-1920-80.jpg",
+      "summary": "This may be the perfect 'neutral with bass-boost' IEM, and it's now great value.",
+      "category": "Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://smashingmagazine.com/2026/09/stop-treating-css-container-queries-traditional-media-queries/"
+      "link": "https://www.creativebloq.com/tech/headphones-earbuds/one-of-the-most-impressive-sub-usd200-earphones-of-2026-just-got-reduced-by-20-percent-to-usd152"
     }
   ]
 }
