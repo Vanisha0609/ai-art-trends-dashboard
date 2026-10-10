@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-09T04:42:17.114Z",
+  "lastUpdated": "2026-10-10T04:27:55.157Z",
   "articles": [
     {
       "title": "Under Autumn’s Spell (October 2026 Wallpapers Edition)",
@@ -20,24 +20,6 @@
       "link": "https://smashingmagazine.com/2026/10/how-name-things/"
     },
     {
-      "title": " KeyShot 2026 review: fast, easy 3D rendering and with AI tools you might actually use ",
-      "image": "https://cdn.mos.cms.futurecdn.net/Wiazc2RkJ5yXNeZL3GWPTX-1920-80.jpg",
-      "summary": "AI Shots brings generative AI into the heart of the rendering workflow.",
-      "category": "AI Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://www.creativebloq.com/3d/keyshot-2026-review-fast-easy-3d-rendering-and-with-ai-tools-you-might-actually-use"
-    },
-    {
-      "title": "Are synthetic users (really) the future of UX research?",
-      "image": "https://placehold.co/600x400",
-      "summary": "Are synthetic users (really) the future of UX research?",
-      "category": "UI/UX",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://uxdesign.cc/are-synthetic-users-really-the-future-of-ux-research-fd76fcb479ec?source=rss----138adf9c44c---4"
-    },
-    {
       "title": "Tesler’s Law: complexity moved to a different part of the journey",
       "image": "https://placehold.co/600x400",
       "summary": "Tesler’s Law: complexity moved to a different part of the journey",
@@ -47,13 +29,31 @@
       "link": "https://uxdesign.cc/teslers-law-complexity-survived-the-chat-field-it-just-moved-to-a-different-place-in-the-journey-8a63f099f490?source=rss----138adf9c44c---4"
     },
     {
-      "title": " Phantom Blade Zero's dark wuxia world feels like a playable kung fu movie ",
-      "image": "https://cdn.mos.cms.futurecdn.net/mLLc2aVgS47fEUSUXLz6kb-1920-80.jpg",
-      "summary": "The Chinese Unreal Engine 5 'kungfupunk' action strikes a beautiful balance between cinematic blockbuster and hardcore mastery.",
+      "title": "Designing for an idea before it exists",
+      "image": "https://placehold.co/600x400",
+      "summary": "On empty seats, metaphors, and the useful parts that don’t quite fit\nContinue reading on UX Collective »",
       "category": "UI/UX",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://www.creativebloq.com/features/phantom-blade-zero-is-an-unreal-engine-5-game-that-feels-like-a-playable-kung-fu-movie"
+      "link": "https://uxdesign.cc/designing-for-an-idea-before-it-exists-ecd8cb19999a?source=rss----138adf9c44c---4"
+    },
+    {
+      "title": " Tested: The Mac Studio M5 Max claims its crown as the best of all Apple computers ",
+      "image": "https://cdn.mos.cms.futurecdn.net/vqfRj5Qr5sD3GLkS6dP5WD-1920-80.jpg",
+      "summary": "The king of all desktop Macs is now more regal.",
+      "category": "AI Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://www.creativebloq.com/reviews/tested-the-mac-studio-m5-max-claims-its-crown-as-the-best-of-all-apple-computers"
+    },
+    {
+      "title": " Wait, the best multicolour 3D printer for beginners is now even cheaper than it was in Amazon's Prime Day sale earlier this week! ",
+      "image": "https://cdn.mos.cms.futurecdn.net/wiNwX3R3CLFsZvNe4RETRS-1920-80.jpg",
+      "summary": "The Anycubic Kobra X has $160 off an is now just $299.99.",
+      "category": "AI Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://www.creativebloq.com/deals/wait-the-best-multicolour-3d-printer-for-beginners-is-now-even-cheaper-than-it-was-in-amazons-prime-day-sale-earlier-this-week"
     }
   ]
 }
