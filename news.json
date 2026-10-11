@@ -1,24 +1,6 @@
 {
-  "lastUpdated": "2026-10-10T04:27:55.157Z",
+  "lastUpdated": "2026-10-11T04:10:25.931Z",
   "articles": [
-    {
-      "title": "Under Autumn’s Spell (October 2026 Wallpapers Edition)",
-      "image": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0fdda8cd-7c63-4b61-86f6-f3188d312aaf/oct-20-magical-october-preview-opt.png",
-      "summary": "October is just around the corner, which means it’s time for some new desktop wallpapers! Designed by the community for the community, they’re here to brighten your screens, and maybe spark some creativity along the way.",
-      "category": "Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://smashingmagazine.com/2026/09/desktop-wallpaper-calendars-october-2026/"
-    },
-    {
-      "title": "A Practical Guide To Naming Things",
-      "image": "http://files.smashing.media/articles/how-name-things-choose-accordion-icons/how-name-things.jpg",
-      "summary": "A practical guide to naming UI components, with useful resources, naming conventions, and structures. You’ll find more [useful guides](https://www.smashingmagazine.com/category/guides/) and [online workshops](https://smashingconf.com/online-workshops) here on Smashing Magazine, so make sure to browse and explore.",
-      "category": "UI/UX",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://smashingmagazine.com/2026/10/how-name-things/"
-    },
     {
       "title": "Tesler’s Law: complexity moved to a different part of the journey",
       "image": "https://placehold.co/600x400",
@@ -27,6 +9,15 @@
       "style": "Unknown",
       "mood": "Neutral",
       "link": "https://uxdesign.cc/teslers-law-complexity-survived-the-chat-field-it-just-moved-to-a-different-place-in-the-journey-8a63f099f490?source=rss----138adf9c44c---4"
+    },
+    {
+      "title": " New Balance’s Steve Jobs homage is so subtle you might have missed it ",
+      "image": "https://cdn.mos.cms.futurecdn.net/k3dYgBH3hy7Jh43jo6w6pZ-1920-80.jpg",
+      "summary": "It’s a quiet reference for those who know.",
+      "category": "UI/UX",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://www.creativebloq.com/news/new-balances-steve-jobs-homage-is-so-subtle-you-might-have-missed-it"
     },
     {
       "title": "Designing for an idea before it exists",
@@ -38,22 +29,31 @@
       "link": "https://uxdesign.cc/designing-for-an-idea-before-it-exists-ecd8cb19999a?source=rss----138adf9c44c---4"
     },
     {
-      "title": " Tested: The Mac Studio M5 Max claims its crown as the best of all Apple computers ",
-      "image": "https://cdn.mos.cms.futurecdn.net/vqfRj5Qr5sD3GLkS6dP5WD-1920-80.jpg",
-      "summary": "The king of all desktop Macs is now more regal.",
-      "category": "AI Design",
+      "title": "Under Autumn’s Spell (October 2026 Wallpapers Edition)",
+      "image": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0fdda8cd-7c63-4b61-86f6-f3188d312aaf/oct-20-magical-october-preview-opt.png",
+      "summary": "October is just around the corner, which means it’s time for some new desktop wallpapers! Designed by the community for the community, they’re here to brighten your screens, and maybe spark some creativity along the way.",
+      "category": "Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://www.creativebloq.com/reviews/tested-the-mac-studio-m5-max-claims-its-crown-as-the-best-of-all-apple-computers"
+      "link": "https://smashingmagazine.com/2026/09/desktop-wallpaper-calendars-october-2026/"
     },
     {
-      "title": " Wait, the best multicolour 3D printer for beginners is now even cheaper than it was in Amazon's Prime Day sale earlier this week! ",
-      "image": "https://cdn.mos.cms.futurecdn.net/wiNwX3R3CLFsZvNe4RETRS-1920-80.jpg",
-      "summary": "The Anycubic Kobra X has $160 off an is now just $299.99.",
+      "title": " The pen that went viral with those anti-AI ads has 30% off right now ",
+      "image": "https://cdn.mos.cms.futurecdn.net/zERNgzeQP5mLzRxaEwMqw9-1920-80.jpg",
+      "summary": "Rediscover the focus and creativity that comes with handwriting with the iconic pen used by James Bond.",
       "category": "AI Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://www.creativebloq.com/deals/wait-the-best-multicolour-3d-printer-for-beginners-is-now-even-cheaper-than-it-was-in-amazons-prime-day-sale-earlier-this-week"
+      "link": "https://www.creativebloq.com/deals/the-pen-that-went-viral-with-those-anti-ai-ads-has-27-percent-off-right-now"
+    },
+    {
+      "title": "A Practical Guide To Naming Things",
+      "image": "http://files.smashing.media/articles/how-name-things-choose-accordion-icons/how-name-things.jpg",
+      "summary": "A practical guide to naming UI components, with useful resources, naming conventions, and structures. You’ll find more [useful guides](https://www.smashingmagazine.com/category/guides/) and [online workshops](https://smashingconf.com/online-workshops) here on Smashing Magazine, so make sure to browse and explore.",
+      "category": "UI/UX",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://smashingmagazine.com/2026/10/how-name-things/"
     }
   ]
 }
