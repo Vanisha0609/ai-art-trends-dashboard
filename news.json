@@ -1,24 +1,6 @@
 {
-  "lastUpdated": "2026-10-11T04:10:25.931Z",
+  "lastUpdated": "2026-10-12T04:28:35.314Z",
   "articles": [
-    {
-      "title": "Tesler’s Law: complexity moved to a different part of the journey",
-      "image": "https://placehold.co/600x400",
-      "summary": "Tesler’s Law: complexity moved to a different part of the journey",
-      "category": "Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://uxdesign.cc/teslers-law-complexity-survived-the-chat-field-it-just-moved-to-a-different-place-in-the-journey-8a63f099f490?source=rss----138adf9c44c---4"
-    },
-    {
-      "title": " New Balance’s Steve Jobs homage is so subtle you might have missed it ",
-      "image": "https://cdn.mos.cms.futurecdn.net/k3dYgBH3hy7Jh43jo6w6pZ-1920-80.jpg",
-      "summary": "It’s a quiet reference for those who know.",
-      "category": "UI/UX",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://www.creativebloq.com/news/new-balances-steve-jobs-homage-is-so-subtle-you-might-have-missed-it"
-    },
     {
       "title": "Designing for an idea before it exists",
       "image": "https://placehold.co/600x400",
@@ -29,22 +11,31 @@
       "link": "https://uxdesign.cc/designing-for-an-idea-before-it-exists-ecd8cb19999a?source=rss----138adf9c44c---4"
     },
     {
-      "title": "Under Autumn’s Spell (October 2026 Wallpapers Edition)",
-      "image": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0fdda8cd-7c63-4b61-86f6-f3188d312aaf/oct-20-magical-october-preview-opt.png",
-      "summary": "October is just around the corner, which means it’s time for some new desktop wallpapers! Designed by the community for the community, they’re here to brighten your screens, and maybe spark some creativity along the way.",
+      "title": "Tesler’s Law: complexity moved to a different part of the journey",
+      "image": "https://placehold.co/600x400",
+      "summary": "Tesler’s Law: complexity moved to a different part of the journey",
       "category": "Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://smashingmagazine.com/2026/09/desktop-wallpaper-calendars-october-2026/"
+      "link": "https://uxdesign.cc/teslers-law-complexity-survived-the-chat-field-it-just-moved-to-a-different-place-in-the-journey-8a63f099f490?source=rss----138adf9c44c---4"
     },
     {
-      "title": " The pen that went viral with those anti-AI ads has 30% off right now ",
-      "image": "https://cdn.mos.cms.futurecdn.net/zERNgzeQP5mLzRxaEwMqw9-1920-80.jpg",
-      "summary": "Rediscover the focus and creativity that comes with handwriting with the iconic pen used by James Bond.",
+      "title": " The Coca-Cola rebrand is still causing confusion three months on ",
+      "image": "https://cdn.mos.cms.futurecdn.net/5fsRM6ZVoVfrEoUHG9efNG-1920-80.webp",
+      "summary": "Design fail or all part of the plan?",
       "category": "AI Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://www.creativebloq.com/deals/the-pen-that-went-viral-with-those-anti-ai-ads-has-27-percent-off-right-now"
+      "link": "https://www.creativebloq.com/news/the-coca-cola-rebrand-is-still-causing-confusion-three-months-on"
+    },
+    {
+      "title": " \"Creativity isn’t a job you clock out of\": 5 questions with Chloé Templeman ",
+      "image": "https://cdn.mos.cms.futurecdn.net/vCSy8FYB5ovZUJWZZCAoAo-1920-80.jpg",
+      "summary": "Pearlfisher's executive creative director discusses pet peeves and the 24/7 drive of the creative mind.",
+      "category": "Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://www.creativebloq.com/features/creativity-isnt-a-job-you-clock-out-of-5-questions-with-chloe-templeman"
     },
     {
       "title": "A Practical Guide To Naming Things",
@@ -54,6 +45,15 @@
       "style": "Unknown",
       "mood": "Neutral",
       "link": "https://smashingmagazine.com/2026/10/how-name-things/"
+    },
+    {
+      "title": "Under Autumn’s Spell (October 2026 Wallpapers Edition)",
+      "image": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0fdda8cd-7c63-4b61-86f6-f3188d312aaf/oct-20-magical-october-preview-opt.png",
+      "summary": "October is just around the corner, which means it’s time for some new desktop wallpapers! Designed by the community for the community, they’re here to brighten your screens, and maybe spark some creativity along the way.",
+      "category": "Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://smashingmagazine.com/2026/09/desktop-wallpaper-calendars-october-2026/"
     }
   ]
 }
