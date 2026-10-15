@@ -1,14 +1,23 @@
 {
-  "lastUpdated": "2026-10-14T03:39:11.825Z",
+  "lastUpdated": "2026-10-15T03:20:03.234Z",
   "articles": [
     {
-      "title": "How to talk about a design that looks worse on paper",
-      "image": "https://placehold.co/600x400",
-      "summary": "Why it took Microsoft 5 years to roll out an ‘obvious fix’\nContinue reading on UX Collective »",
-      "category": "UI/UX",
+      "title": "Under Autumn’s Spell (October 2026 Wallpapers Edition)",
+      "image": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0fdda8cd-7c63-4b61-86f6-f3188d312aaf/oct-20-magical-october-preview-opt.png",
+      "summary": "October is just around the corner, which means it’s time for some new desktop wallpapers! Designed by the community for the community, they’re here to brighten your screens, and maybe spark some creativity along the way.",
+      "category": "Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://uxdesign.cc/how-to-talk-about-a-design-that-looks-worse-on-paper-da73da6d7b57?source=rss----138adf9c44c---4"
+      "link": "https://smashingmagazine.com/2026/09/desktop-wallpaper-calendars-october-2026/"
+    },
+    {
+      "title": "Nobody wants your AI app",
+      "image": "https://placehold.co/600x400",
+      "summary": "Nobody wants your AI app",
+      "category": "AI Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://uxdesign.cc/nobody-wants-your-ai-app-cff8629064a4?source=rss----138adf9c44c---4"
     },
     {
       "title": "A Practical Guide To Naming Things",
@@ -20,40 +29,31 @@
       "link": "https://smashingmagazine.com/2026/10/how-name-things/"
     },
     {
-      "title": "Taste is not a design methodology",
+      "title": "What I told the CFO when he asked why design matters",
       "image": "https://placehold.co/600x400",
-      "summary": "Taste is not a design methodology",
+      "summary": "What I told the CFO when he asked why design matters",
       "category": "Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://uxdesign.cc/taste-is-not-a-design-methodology-e02b37aea148?source=rss----138adf9c44c---4"
+      "link": "https://uxdesign.cc/what-i-told-the-cfo-when-he-asked-why-design-matters-ceadb07c929e?source=rss----138adf9c44c---4"
     },
     {
-      "title": "Under Autumn’s Spell (October 2026 Wallpapers Edition)",
-      "image": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0fdda8cd-7c63-4b61-86f6-f3188d312aaf/oct-20-magical-october-preview-opt.png",
-      "summary": "October is just around the corner, which means it’s time for some new desktop wallpapers! Designed by the community for the community, they’re here to brighten your screens, and maybe spark some creativity along the way.",
+      "title": " GTA 3’s original cover was axed after 9/11, and its artist disputes the story ",
+      "image": "https://cdn.mos.cms.futurecdn.net/8ZrJf8LogK3N2tGJkuXUgD-1920-80.jpg",
+      "summary": "Was the iconic Grand Theft Auto cover design – as being used for GTA 6 – really a 'rush job'?",
       "category": "Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://smashingmagazine.com/2026/09/desktop-wallpaper-calendars-october-2026/"
+      "link": "https://www.creativebloq.com/news/gta-3s-original-cover-was-axed-after-9-11-and-its-artist-disputes-the-story"
     },
     {
-      "title": " This tiny portable SSD that transforms iPhone videography has $150 off ",
-      "image": "https://cdn.mos.cms.futurecdn.net/ELMjfQ62vJkBXSsFb4Kndm-1920-80.jpg",
-      "summary": "The Lexar Professional Go is down to $229 at B&H Photo.",
-      "category": "Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://www.creativebloq.com/deals/this-tiny-portable-ssd-that-transforms-iphone-videography-has-usd150-off"
-    },
-    {
-      "title": " Dragon Quest's creator made a game with AI in 30 minutes, and it’s a bit of a wake-up call ",
-      "image": "https://cdn.mos.cms.futurecdn.net/2RKozbdd7DCiBEENuUtAAC-1920-80.jpg",
-      "summary": "Yuji Horii's experiment shows what's possible, but is it good?",
+      "title": " Toy Story: Retro Roundup! + Toy Story 3 Complete Edition review: a wonderfully playful collection with a point to prove ",
+      "image": "https://cdn.mos.cms.futurecdn.net/weMDWDTco6Nu9rNj3feKqX-1920-80.jpg",
+      "summary": "A reminder that good ideas can hide in plain sight.",
       "category": "AI Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://www.creativebloq.com/news/dragon-quests-creator-made-a-game-with-ai-in-30-minutes-and-its-a-bit-of-a-wake-up-call"
+      "link": "https://www.creativebloq.com/reviews/toy-story-retro-roundup-toy-story-3-complete-edition-review-why-you-need-to-buy-the-bundle"
     }
   ]
 }
