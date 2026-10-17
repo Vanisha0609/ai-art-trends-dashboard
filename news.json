@@ -1,32 +1,14 @@
 {
-  "lastUpdated": "2026-10-16T03:15:36.726Z",
+  "lastUpdated": "2026-10-17T03:06:33.668Z",
   "articles": [
     {
-      "title": "Human in the loop means making sure the human is not out of the loop",
-      "image": "https://placehold.co/600x400",
-      "summary": "Human in the loop means making sure the human is not out of the loop",
-      "category": "Design",
+      "title": " Tesla's 'flying car' is as convincing as the Cybertruck being a boat ",
+      "image": "https://cdn.mos.cms.futurecdn.net/RpCBLkBFXHzH9HJN8q8qWJ-1920-80.jpg",
+      "summary": "Can the Roadster's gymnastics help Elon Musk's brand regain momentum?",
+      "category": "AI Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://uxdesign.cc/designing-for-ai-human-in-the-loop-means-making-sure-the-human-is-not-out-of-the-loop-e38826309c91?source=rss----138adf9c44c---4"
-    },
-    {
-      "title": "Under Autumn’s Spell (October 2026 Wallpapers Edition)",
-      "image": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0fdda8cd-7c63-4b61-86f6-f3188d312aaf/oct-20-magical-october-preview-opt.png",
-      "summary": "October is just around the corner, which means it’s time for some new desktop wallpapers! Designed by the community for the community, they’re here to brighten your screens, and maybe spark some creativity along the way.",
-      "category": "Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://smashingmagazine.com/2026/09/desktop-wallpaper-calendars-october-2026/"
-    },
-    {
-      "title": " With $150 off, this 27in 4K monitor just became a great buy for creative work at home ",
-      "image": "https://cdn.mos.cms.futurecdn.net/L2M9a5QvgVs5KrAqvzH9oL-1920-80.jpg",
-      "summary": "This Dell UltraSharp 4K display is reduced by almost 20%.",
-      "category": "Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://www.creativebloq.com/news/with-usd150-off-this-27in-4k-monitor-just-became-a-great-buy-for-creative-work-at-home"
+      "link": "https://www.creativebloq.com/news/teslas-flying-car-is-as-convincing-as-the-cybertruck-being-a-boat"
     },
     {
       "title": "I ran a 7-week AI workshop for designers (that wasn’t really about AI)",
@@ -38,6 +20,33 @@
       "link": "https://uxdesign.cc/i-ran-a-7-week-ai-workshop-for-designers-that-wasnt-really-about-ai-804035e7b328?source=rss----138adf9c44c---4"
     },
     {
+      "title": " Are you triggered by GTA 6's giant Paris advert? ",
+      "image": "https://cdn.mos.cms.futurecdn.net/JWz9DzjvcQj8jQM4jxJBGP-1920-80.jpg",
+      "summary": "Rockstar's iconic cover art has had its guns removed.",
+      "category": "Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://www.creativebloq.com/news/are-you-triggered-by-the-design-problem-with-gta-6s-giant-paris-advert"
+    },
+    {
+      "title": "Is Your Organization Messing Up AI Adoption?",
+      "image": "http://files.smashing.media/articles/is-your-organization-messing-up-ai-adoption/is-your-organization-messing-up-ai-adoption.jpg",
+      "summary": "What can digital transformation teach us about AI adoption? Paul Boag revisits his book Digital Adaptation to show how lessons from the past can help organizations navigate the challenges of AI today. - AI - Workflow - Business",
+      "category": "AI Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://smashingmagazine.com/2026/10/is-your-organization-messing-up-ai-adoption/"
+    },
+    {
+      "title": "Human in the loop means making sure the human is not out of the loop",
+      "image": "https://placehold.co/600x400",
+      "summary": "Human in the loop means making sure the human is not out of the loop",
+      "category": "Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://uxdesign.cc/designing-for-ai-human-in-the-loop-means-making-sure-the-human-is-not-out-of-the-loop-e38826309c91?source=rss----138adf9c44c---4"
+    },
+    {
       "title": "A Practical Guide To Naming Things",
       "image": "http://files.smashing.media/articles/how-name-things-choose-accordion-icons/how-name-things.jpg",
       "summary": "A practical guide to naming UI components, with useful resources, naming conventions, and structures. You’ll find more [useful guides](https://www.smashingmagazine.com/category/guides/) and [online workshops](https://smashingconf.com/online-workshops) here on Smashing Magazine, so make sure to browse and explore.",
@@ -45,15 +54,6 @@
       "style": "Unknown",
       "mood": "Neutral",
       "link": "https://smashingmagazine.com/2026/10/how-name-things/"
-    },
-    {
-      "title": " The new GTA VI trailer looks too good to be real, but graphics aren't even its biggest achievement ",
-      "image": "https://cdn.mos.cms.futurecdn.net/r8gioMKNtqhdKuvzE3bhac-1920-80.jpg",
-      "summary": "Photorealism is no longer enough.",
-      "category": "AI Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://www.creativebloq.com/news/the-new-gta-vi-trailer-looks-too-good-to-be-real-but-graphics-arent-its-biggest-achievement"
     }
   ]
 }
