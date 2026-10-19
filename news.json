@@ -1,23 +1,50 @@
 {
-  "lastUpdated": "2026-10-18T03:09:15.429Z",
+  "lastUpdated": "2026-10-19T03:23:04.185Z",
   "articles": [
-    {
-      "title": " With over $400 off, there's finally a decent deal on the 2026 M5 Pro MacBook Pro ",
-      "image": "https://cdn.mos.cms.futurecdn.net/HaVw9MbEyeQZZkjwNnRJyG-1920-80.jpg",
-      "summary": "Beat the RAM crunch with the best MacBook Pro deal in months.",
-      "category": "Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://www.creativebloq.com/deals/with-over-usd400-off-theres-finally-a-decent-deal-on-the-2026-m5-pro-macbook-pro"
-    },
     {
       "title": "Is Your Organization Messing Up AI Adoption?",
       "image": "http://files.smashing.media/articles/is-your-organization-messing-up-ai-adoption/is-your-organization-messing-up-ai-adoption.jpg",
-      "summary": "What can digital transformation teach us about AI adoption? Paul Boag revisits his book Digital Adaptation to show how lessons from the past can help organizations navigate the challenges of AI today. - AI - Workflow - Business",
+      "summary": "What can digital transformation teach us about AI adoption? Paul Boag revisits his book Digital Adaptation to show how lessons from the past can help organizations navigate the challenges of AI today.",
       "category": "AI Design",
       "style": "Unknown",
       "mood": "Neutral",
       "link": "https://smashingmagazine.com/2026/10/is-your-organization-messing-up-ai-adoption/"
+    },
+    {
+      "title": "Design in the material you ship",
+      "image": "https://placehold.co/600x400",
+      "summary": "Design in the material you ship",
+      "category": "Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://uxdesign.cc/design-in-the-material-you-ship-7adf198388ee?source=rss----138adf9c44c---4"
+    },
+    {
+      "title": " Lily Allen’s provocative poster is a massive middle finger to the Grammys ",
+      "image": "https://cdn.mos.cms.futurecdn.net/BhT6oTWDqiKTPmSFZh2gu6-1920-80.jpg",
+      "summary": "It’s wonderfully unserious.",
+      "category": "Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://www.creativebloq.com/news/lily-allens-provocative-poster-is-a-massive-middle-finger-to-the-grammys"
+    },
+    {
+      "title": " I pushed Nvidia’s RTX Spark to its limits in our favourite creative laptop ",
+      "image": "https://cdn.mos.cms.futurecdn.net/aX4jntubkPXgrzfH65Yvqf-1920-80.jpg",
+      "summary": "Will this spark something?",
+      "category": "Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://www.creativebloq.com/reviews/i-pushed-nvidias-rtx-spark-to-its-limits-in-our-favourite-creative-laptop"
+    },
+    {
+      "title": "How to build a brand foundation with AI without losing your craft",
+      "image": "https://placehold.co/600x400",
+      "summary": "Here is how to use Claude and a handful of guardrails to build a design system that developers respect and clients can actually ship.\nContinue reading on UX Collective »",
+      "category": "UI/UX",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://uxdesign.cc/how-to-build-a-brand-foundation-with-ai-without-losing-your-craft-d616b05cb838?source=rss----138adf9c44c---4"
     },
     {
       "title": "A Practical Guide To Naming Things",
@@ -27,33 +54,6 @@
       "style": "Unknown",
       "mood": "Neutral",
       "link": "https://smashingmagazine.com/2026/10/how-name-things/"
-    },
-    {
-      "title": " This mechanical keyboard is astonishingly thin, and you can reserve one for $1 ",
-      "image": "https://cdn.mos.cms.futurecdn.net/3YLWkwdt2HtigZt9bwwssf-1920-80.jpg",
-      "summary": "How Andrew Emerson made a keyboard that's just 4.75mm thick",
-      "category": "Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://www.creativebloq.com/news/this-mechanical-keyboard-is-astonishingly-thin-and-you-can-reserve-one-for-usd1"
-    },
-    {
-      "title": "I ran a 7-week AI workshop for designers (that wasn’t really about AI)",
-      "image": "https://placehold.co/600x400",
-      "summary": "It was about what a designer really needed to know about shipping to production, and what people truly wanted from online learning\nContinue reading on UX Collective »",
-      "category": "UI/UX",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://uxdesign.cc/i-ran-a-7-week-ai-workshop-for-designers-that-wasnt-really-about-ai-804035e7b328?source=rss----138adf9c44c---4"
-    },
-    {
-      "title": "Human in the loop means making sure the human is not out of the loop",
-      "image": "https://placehold.co/600x400",
-      "summary": "Human in the loop means making sure the human is not out of the loop",
-      "category": "Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://uxdesign.cc/designing-for-ai-human-in-the-loop-means-making-sure-the-human-is-not-out-of-the-loop-e38826309c91?source=rss----138adf9c44c---4"
     }
   ]
 }
