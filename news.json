@@ -1,23 +1,14 @@
 {
-  "lastUpdated": "2026-10-20T03:31:50.869Z",
+  "lastUpdated": "2026-10-21T03:25:37.693Z",
   "articles": [
     {
-      "title": " Stupid Never Dies review: the Spider-Verse visual blast can't hide the grind ",
-      "image": "https://cdn.mos.cms.futurecdn.net/jFmPbgrcNzuUt3nYGD3PVN-1920-80.jpg",
-      "summary": "The zombie-punk art riot looks the part, but can become repetitive.",
-      "category": "Design",
+      "title": "AI doesn’t care about your job title",
+      "image": "https://placehold.co/600x400",
+      "summary": "AI doesn’t care about your job title",
+      "category": "AI Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://www.creativebloq.com/reviews/stupid-never-dies-review-smashes-anime-pop-art-and-punk-into-one-fine-mess"
-    },
-    {
-      "title": " Sketchbook special! Issue 272 of ImagineFX ",
-      "image": "https://cdn.mos.cms.futurecdn.net/zvoMQh6QJ42XN3pYcQ9ZXh-1920-80.jpg",
-      "summary": "Practical inspiration for your art projects",
-      "category": "Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://www.creativebloq.com/news/sketchbook-special-issue-272-of-imaginefx-clone"
+      "link": "https://uxdesign.cc/ai-doesnt-care-about-your-job-title-c08dd4fdf8d8?source=rss----138adf9c44c---4"
     },
     {
       "title": "Is Your Organization Messing Up AI Adoption?",
@@ -29,31 +20,40 @@
       "link": "https://smashingmagazine.com/2026/10/is-your-organization-messing-up-ai-adoption/"
     },
     {
-      "title": "Human attention is the new old bottleneck. We have to design for it even more.",
+      "title": "Embracing Playful Imperfection With The CSS `random()` Function",
+      "image": "http://files.smashing.media/articles/embracing-playful-imperfection-css-random-function/embracing-playful-imperfection-css-random-function.jpg",
+      "summary": "Design systems thrive on consistency, so where does randomness fit in? Through playful demos of organic typography, bouncing letters, and splayed cards, Brecht De Ruyte shows how the new CSS `random()` function brings a little imperfection to the web without JavaScript libraries or preprocessor loops that generate hundreds of lines of static CSS.",
+      "category": "Typography",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://smashingmagazine.com/2026/10/embracing-playful-imperfection-css-random-function/"
+    },
+    {
+      "title": "Let AI have the average user: Why User Research should focus on bad days",
       "image": "https://placehold.co/600x400",
-      "summary": "Human attention is the new old bottleneck. We have to design for it even more.",
+      "summary": "Nn/g found that synthetic research captures common responses. The bad days are still up to you.\nContinue reading on UX Collective »",
+      "category": "UI/UX",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://uxdesign.cc/let-ai-have-the-average-user-why-user-research-should-focus-on-bad-days-e7bba55f855f?source=rss----138adf9c44c---4"
+    },
+    {
+      "title": " DaVinci Resolve Studio just got a very rare 20% discount ",
+      "image": "https://cdn.mos.cms.futurecdn.net/h23QF4gaRHC4knWbuDyw6H-1920-80.jpg",
+      "summary": "Get the full studio version of the pro video editing software for just $236.",
       "category": "Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://uxdesign.cc/anthropic-october-2026-study-human-attention-is-the-new-old-bottleneck-d7bc4642668a?source=rss----138adf9c44c---4"
+      "link": "https://www.creativebloq.com/deals/davinci-resolve-studio-just-got-a-super-rare-20-percent-discount"
     },
     {
-      "title": "A Practical Guide To Naming Things",
-      "image": "http://files.smashing.media/articles/how-name-things-choose-accordion-icons/how-name-things.jpg",
-      "summary": "A practical guide to naming UI components, with useful resources, naming conventions, and structures. You’ll find more [useful guides](https://www.smashingmagazine.com/category/guides/) and [online workshops](https://smashingconf.com/online-workshops) here on Smashing Magazine, so make sure to browse and explore.",
-      "category": "UI/UX",
+      "title": " Cricut StickerPix Print + Cut review: a playful, professional printer with a hidden cost ",
+      "image": "https://cdn.mos.cms.futurecdn.net/msoZ6YuzUe9ZSTbpD3p8oV-1920-80.jpg",
+      "summary": "Cricut has made printing stickers and professional photos incredibly easy – now about those refills…",
+      "category": "Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://smashingmagazine.com/2026/10/how-name-things/"
-    },
-    {
-      "title": "Playing the sanshin without a sound",
-      "image": "https://placehold.co/600x400",
-      "summary": "The slot machine and the checklist: a dilemma in feedback design.\nContinue reading on UX Collective »",
-      "category": "UI/UX",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://uxdesign.cc/playing-the-sanshin-without-a-sound-3ac88df6f65c?source=rss----138adf9c44c---4"
+      "link": "https://www.creativebloq.com/reviews/cricut-stickerpix-print-cut-review-a-playful-and-purposeful-printer-with-a-costly-catch"
     }
   ]
 }
