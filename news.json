@@ -1,14 +1,23 @@
 {
-  "lastUpdated": "2026-10-21T03:25:37.693Z",
+  "lastUpdated": "2026-10-22T03:24:45.070Z",
   "articles": [
     {
-      "title": "AI doesn’t care about your job title",
+      "title": "Can you take AI at its word?",
       "image": "https://placehold.co/600x400",
-      "summary": "AI doesn’t care about your job title",
-      "category": "AI Design",
+      "summary": "AI agents explain their own work fluently, and sometimes wrongly. Designers stopped trusting that kind of account from people long ago.\nContinue reading on UX Collective »",
+      "category": "UI/UX",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://uxdesign.cc/ai-doesnt-care-about-your-job-title-c08dd4fdf8d8?source=rss----138adf9c44c---4"
+      "link": "https://uxdesign.cc/can-you-take-ai-at-its-word-06126b976245?source=rss----138adf9c44c---4"
+    },
+    {
+      "title": " Autodesk reveals how The Cat in the Hat was made in the new Made to Make series ",
+      "image": "https://cdn.mos.cms.futurecdn.net/zbHrVCRZ5P5596m2QuYGoT-1920-80.jpg",
+      "summary": "The series goes behind the scenes to show the tools that made Warner's new animated movie possible.",
+      "category": "Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://www.creativebloq.com/news/autodesk-reveals-how-the-cat-in-the-hat-was-made-in-the-new-made-to-make-series-"
     },
     {
       "title": "Is Your Organization Messing Up AI Adoption?",
@@ -20,6 +29,15 @@
       "link": "https://smashingmagazine.com/2026/10/is-your-organization-messing-up-ai-adoption/"
     },
     {
+      "title": "A founder with a tool is not a founder with a clue",
+      "image": "https://placehold.co/600x400",
+      "summary": "A founder with a tool is not a founder with a clue",
+      "category": "Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://uxdesign.cc/a-founder-with-a-tool-is-not-a-founder-with-a-clue-65bccb0dc2f8?source=rss----138adf9c44c---4"
+    },
+    {
       "title": "Embracing Playful Imperfection With The CSS `random()` Function",
       "image": "http://files.smashing.media/articles/embracing-playful-imperfection-css-random-function/embracing-playful-imperfection-css-random-function.jpg",
       "summary": "Design systems thrive on consistency, so where does randomness fit in? Through playful demos of organic typography, bouncing letters, and splayed cards, Brecht De Ruyte shows how the new CSS `random()` function brings a little imperfection to the web without JavaScript libraries or preprocessor loops that generate hundreds of lines of static CSS.",
@@ -29,31 +47,13 @@
       "link": "https://smashingmagazine.com/2026/10/embracing-playful-imperfection-css-random-function/"
     },
     {
-      "title": "Let AI have the average user: Why User Research should focus on bad days",
-      "image": "https://placehold.co/600x400",
-      "summary": "Nn/g found that synthetic research captures common responses. The bad days are still up to you.\nContinue reading on UX Collective »",
-      "category": "UI/UX",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://uxdesign.cc/let-ai-have-the-average-user-why-user-research-should-focus-on-bad-days-e7bba55f855f?source=rss----138adf9c44c---4"
-    },
-    {
-      "title": " DaVinci Resolve Studio just got a very rare 20% discount ",
-      "image": "https://cdn.mos.cms.futurecdn.net/h23QF4gaRHC4knWbuDyw6H-1920-80.jpg",
-      "summary": "Get the full studio version of the pro video editing software for just $236.",
+      "title": " This Pac-Man snow blower makes me want a robot I don't need ",
+      "image": "https://cdn.mos.cms.futurecdn.net/H8jNTWoya4CQJi8HY3gtAb-1920-80.jpg",
+      "summary": "How Yarbo is playing on my gaming nostalgia.",
       "category": "Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://www.creativebloq.com/deals/davinci-resolve-studio-just-got-a-super-rare-20-percent-discount"
-    },
-    {
-      "title": " Cricut StickerPix Print + Cut review: a playful, professional printer with a hidden cost ",
-      "image": "https://cdn.mos.cms.futurecdn.net/msoZ6YuzUe9ZSTbpD3p8oV-1920-80.jpg",
-      "summary": "Cricut has made printing stickers and professional photos incredibly easy – now about those refills…",
-      "category": "Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://www.creativebloq.com/reviews/cricut-stickerpix-print-cut-review-a-playful-and-purposeful-printer-with-a-costly-catch"
+      "link": "https://www.creativebloq.com/news/this-pac-man-snow-blower-makes-me-want-a-robot-i-dont-need"
     }
   ]
 }
