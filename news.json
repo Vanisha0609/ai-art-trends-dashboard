@@ -1,24 +1,6 @@
 {
-  "lastUpdated": "2026-10-22T03:24:45.070Z",
+  "lastUpdated": "2026-10-23T03:30:01.725Z",
   "articles": [
-    {
-      "title": "Can you take AI at its word?",
-      "image": "https://placehold.co/600x400",
-      "summary": "AI agents explain their own work fluently, and sometimes wrongly. Designers stopped trusting that kind of account from people long ago.\nContinue reading on UX Collective »",
-      "category": "UI/UX",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://uxdesign.cc/can-you-take-ai-at-its-word-06126b976245?source=rss----138adf9c44c---4"
-    },
-    {
-      "title": " Autodesk reveals how The Cat in the Hat was made in the new Made to Make series ",
-      "image": "https://cdn.mos.cms.futurecdn.net/zbHrVCRZ5P5596m2QuYGoT-1920-80.jpg",
-      "summary": "The series goes behind the scenes to show the tools that made Warner's new animated movie possible.",
-      "category": "Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://www.creativebloq.com/news/autodesk-reveals-how-the-cat-in-the-hat-was-made-in-the-new-made-to-make-series-"
-    },
     {
       "title": "Is Your Organization Messing Up AI Adoption?",
       "image": "http://files.smashing.media/articles/is-your-organization-messing-up-ai-adoption/is-your-organization-messing-up-ai-adoption.jpg",
@@ -27,6 +9,15 @@
       "style": "Unknown",
       "mood": "Neutral",
       "link": "https://smashingmagazine.com/2026/10/is-your-organization-messing-up-ai-adoption/"
+    },
+    {
+      "title": "Buy vs. build is now also a UX decision, especially in enterprise",
+      "image": "https://placehold.co/600x400",
+      "summary": "Buy vs. build is now also a UX decision, especially in enterprise",
+      "category": "UI/UX",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://uxdesign.cc/buy-versus-build-is-now-also-a-ux-decision-especially-in-enterprise-6b4345715c63?source=rss----138adf9c44c---4"
     },
     {
       "title": "A founder with a tool is not a founder with a clue",
@@ -47,13 +38,22 @@
       "link": "https://smashingmagazine.com/2026/10/embracing-playful-imperfection-css-random-function/"
     },
     {
-      "title": " This Pac-Man snow blower makes me want a robot I don't need ",
-      "image": "https://cdn.mos.cms.futurecdn.net/H8jNTWoya4CQJi8HY3gtAb-1920-80.jpg",
-      "summary": "How Yarbo is playing on my gaming nostalgia.",
-      "category": "Design",
+      "title": " Dispatch's new Deluxe Edition lets you play the whole game as storyboard animatics ",
+      "image": "https://cdn.mos.cms.futurecdn.net/uMGRNA2HtNoLdkfoKsc48E-1920-80.png",
+      "summary": "AdHoc Studio’s anniversary update adds Commentary Mode and a Storyboard Mode that plays the whole game as its original rough animatics.",
+      "category": "UI/UX",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://www.creativebloq.com/news/this-pac-man-snow-blower-makes-me-want-a-robot-i-dont-need"
+      "link": "https://www.creativebloq.com/news/dispatchs-new-deluxe-edition-lets-you-play-the-whole-game-as-storyboard-animatics"
+    },
+    {
+      "title": " There's suddenly $1,000 off this absolute beast of a creative laptop cut out for heavy video editing and 3D rendering ",
+      "image": "https://cdn.mos.cms.futurecdn.net/ZR5bQjMEAqTHxyiUppZk4N-1920-80.jpg",
+      "summary": "And B&H has 3 cheaper deals also worth considering for travel and content creation on the go.",
+      "category": "3D Art",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://www.creativebloq.com/deals/theres-suddenly-usd1-000-off-this-absolute-beast-of-a-creative-laptop-cut-out-for-heavy-video-editing-and-3d-rendering"
     }
   ]
 }
