@@ -1,32 +1,23 @@
 {
-  "lastUpdated": "2026-10-23T03:30:01.725Z",
+  "lastUpdated": "2026-10-24T03:24:10.598Z",
   "articles": [
     {
-      "title": "Is Your Organization Messing Up AI Adoption?",
-      "image": "http://files.smashing.media/articles/is-your-organization-messing-up-ai-adoption/is-your-organization-messing-up-ai-adoption.jpg",
-      "summary": "What can digital transformation teach us about AI adoption? Paul Boag revisits his book Digital Adaptation to show how lessons from the past can help organizations navigate the challenges of AI today.",
-      "category": "AI Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://smashingmagazine.com/2026/10/is-your-organization-messing-up-ai-adoption/"
-    },
-    {
-      "title": "Buy vs. build is now also a UX decision, especially in enterprise",
+      "title": "Entering Atomic Design from the screen",
       "image": "https://placehold.co/600x400",
-      "summary": "Buy vs. build is now also a UX decision, especially in enterprise",
-      "category": "UI/UX",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://uxdesign.cc/buy-versus-build-is-now-also-a-ux-decision-especially-in-enterprise-6b4345715c63?source=rss----138adf9c44c---4"
-    },
-    {
-      "title": "A founder with a tool is not a founder with a clue",
-      "image": "https://placehold.co/600x400",
-      "summary": "A founder with a tool is not a founder with a clue",
+      "summary": "Entering Atomic Design from the screen",
       "category": "Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://uxdesign.cc/a-founder-with-a-tool-is-not-a-founder-with-a-clue-65bccb0dc2f8?source=rss----138adf9c44c---4"
+      "link": "https://uxdesign.cc/entering-atomic-design-from-the-screen-bae744ecc288?source=rss----138adf9c44c---4"
+    },
+    {
+      "title": "Accordion Icons: Which Work Best?",
+      "image": "http://files.smashing.media/articles/how-name-things-choose-accordion-icons/accordion-icons-which-work-best.jpg",
+      "summary": "A closer look at accordion icons, why split menus are harmful, and why it’s better not to have icons and text labels link to different actions. Plus, why the caret is the safest icon choice. You’ll find more [useful guides](https://www.smashingmagazine.com/category/guides/) and [online workshops](https://smashingconf.com/online-workshops) here on Smashing Magazine, so make sure to browse and explore.",
+      "category": "UI/UX",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://smashingmagazine.com/2026/10/accordion-icons-which-work-best/"
     },
     {
       "title": "Embracing Playful Imperfection With The CSS `random()` Function",
@@ -38,22 +29,31 @@
       "link": "https://smashingmagazine.com/2026/10/embracing-playful-imperfection-css-random-function/"
     },
     {
-      "title": " Dispatch's new Deluxe Edition lets you play the whole game as storyboard animatics ",
-      "image": "https://cdn.mos.cms.futurecdn.net/uMGRNA2HtNoLdkfoKsc48E-1920-80.png",
-      "summary": "AdHoc Studio’s anniversary update adds Commentary Mode and a Storyboard Mode that plays the whole game as its original rough animatics.",
-      "category": "UI/UX",
+      "title": " GameMaker will let indie developers sell their games for free from 2027 ",
+      "image": "https://cdn.mos.cms.futurecdn.net/BnH98iTpkn8Jn57vAw4Ecf-1920-80.jpg",
+      "summary": "Developers will be able to sell GMRT games on desktop, mobile, web and GX Games without a Professional licence.",
+      "category": "Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://www.creativebloq.com/news/dispatchs-new-deluxe-edition-lets-you-play-the-whole-game-as-storyboard-animatics"
+      "link": "https://www.creativebloq.com/news/gamemaker-will-let-indie-developers-sell-their-games-for-free-from-2027"
     },
     {
-      "title": " There's suddenly $1,000 off this absolute beast of a creative laptop cut out for heavy video editing and 3D rendering ",
-      "image": "https://cdn.mos.cms.futurecdn.net/ZR5bQjMEAqTHxyiUppZk4N-1920-80.jpg",
-      "summary": "And B&H has 3 cheaper deals also worth considering for travel and content creation on the go.",
-      "category": "3D Art",
+      "title": "Supersonic dreams: how post-war France invented the future, and then stopped",
+      "image": "https://placehold.co/600x400",
+      "summary": "Supersonic dreams: how post-war France invented the future, and then stopped",
+      "category": "Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://www.creativebloq.com/deals/theres-suddenly-usd1-000-off-this-absolute-beast-of-a-creative-laptop-cut-out-for-heavy-video-editing-and-3d-rendering"
+      "link": "https://uxdesign.cc/supersonic-dreams-how-post-war-france-invented-the-future-and-then-stopped-fe2cb26dc7cc?source=rss----138adf9c44c---4"
+    },
+    {
+      "title": " Headphones and speakers in a single device? The TDM Neo look wild ",
+      "image": "https://cdn.mos.cms.futurecdn.net/RJufriMpVFx96xXT7LtESa-1920-80.jpg",
+      "summary": "But are they worth the price?",
+      "category": "Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://www.creativebloq.com/news/headphones-and-speakers-in-a-single-device-the-tdm-neo-look-wild"
     }
   ]
 }
