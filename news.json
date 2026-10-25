@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-24T03:24:10.598Z",
+  "lastUpdated": "2026-10-25T03:19:51.464Z",
   "articles": [
     {
       "title": "Entering Atomic Design from the screen",
@@ -20,24 +20,6 @@
       "link": "https://smashingmagazine.com/2026/10/accordion-icons-which-work-best/"
     },
     {
-      "title": "Embracing Playful Imperfection With The CSS `random()` Function",
-      "image": "http://files.smashing.media/articles/embracing-playful-imperfection-css-random-function/embracing-playful-imperfection-css-random-function.jpg",
-      "summary": "Design systems thrive on consistency, so where does randomness fit in? Through playful demos of organic typography, bouncing letters, and splayed cards, Brecht De Ruyte shows how the new CSS `random()` function brings a little imperfection to the web without JavaScript libraries or preprocessor loops that generate hundreds of lines of static CSS.",
-      "category": "Typography",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://smashingmagazine.com/2026/10/embracing-playful-imperfection-css-random-function/"
-    },
-    {
-      "title": " GameMaker will let indie developers sell their games for free from 2027 ",
-      "image": "https://cdn.mos.cms.futurecdn.net/BnH98iTpkn8Jn57vAw4Ecf-1920-80.jpg",
-      "summary": "Developers will be able to sell GMRT games on desktop, mobile, web and GX Games without a Professional licence.",
-      "category": "Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://www.creativebloq.com/news/gamemaker-will-let-indie-developers-sell-their-games-for-free-from-2027"
-    },
-    {
       "title": "Supersonic dreams: how post-war France invented the future, and then stopped",
       "image": "https://placehold.co/600x400",
       "summary": "Supersonic dreams: how post-war France invented the future, and then stopped",
@@ -47,13 +29,31 @@
       "link": "https://uxdesign.cc/supersonic-dreams-how-post-war-france-invented-the-future-and-then-stopped-fe2cb26dc7cc?source=rss----138adf9c44c---4"
     },
     {
-      "title": " Headphones and speakers in a single device? The TDM Neo look wild ",
-      "image": "https://cdn.mos.cms.futurecdn.net/RJufriMpVFx96xXT7LtESa-1920-80.jpg",
-      "summary": "But are they worth the price?",
+      "title": " These premium earbuds have a game-changing feature that Apple AirPods will never get ",
+      "image": "https://cdn.mos.cms.futurecdn.net/nckdxqQutwdM5iFvTdnfbL-1920-80.jpg",
+      "summary": "The Sennheiser MOMENTUM True Wireless 5 offer sleek build, active-noise cancellation and could last a lot longer than rivals.",
+      "category": "UI/UX",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://www.creativebloq.com/deals/these-premium-earbuds-have-a-game-changing-feature-that-apple-airpods-will-never-get"
+    },
+    {
+      "title": "Embracing Playful Imperfection With The CSS `random()` Function",
+      "image": "http://files.smashing.media/articles/embracing-playful-imperfection-css-random-function/embracing-playful-imperfection-css-random-function.jpg",
+      "summary": "Design systems thrive on consistency, so where does randomness fit in? Through playful demos of organic typography, bouncing letters, and splayed cards, Brecht De Ruyte shows how the new CSS `random()` function brings a little imperfection to the web without JavaScript libraries or preprocessor loops that generate hundreds of lines of static CSS.",
+      "category": "Typography",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://smashingmagazine.com/2026/10/embracing-playful-imperfection-css-random-function/"
+    },
+    {
+      "title": " How Ben & Jerry's became a beacon of brand bravery ",
+      "image": "https://cdn.mos.cms.futurecdn.net/c4Gr9cVx5FoQeeYPUULnf9-1920-80.jpg",
+      "summary": "We caught up with the brand's Chief Marketing Officer to find out how Ben & Jerry's puts its values into practice.",
       "category": "Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://www.creativebloq.com/news/headphones-and-speakers-in-a-single-device-the-tdm-neo-look-wild"
+      "link": "https://www.creativebloq.com/news/how-ben-and-jerrys-became-a-beacon-of-brand-bravery"
     }
   ]
 }
