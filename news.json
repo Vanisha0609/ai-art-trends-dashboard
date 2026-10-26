@@ -1,14 +1,32 @@
 {
-  "lastUpdated": "2026-10-25T03:19:51.464Z",
+  "lastUpdated": "2026-10-26T03:21:22.643Z",
   "articles": [
     {
-      "title": "Entering Atomic Design from the screen",
-      "image": "https://placehold.co/600x400",
-      "summary": "Entering Atomic Design from the screen",
+      "title": " Phantom Blade Zero review: dark wuxia martial arts masters with an apprentice's execution ",
+      "image": "https://cdn.mos.cms.futurecdn.net/RUGT6oFNSgzq8DJMwNXfnG-1920-80.jpg",
+      "summary": "S-Game's Unreal Engine 5 'kungfupunk' debut can't help but get tangled in frustrating design choices.",
+      "category": "UI/UX",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://www.creativebloq.com/reviews/phantom-blade-zero-review-dark-wuxia-martial-arts-masters-with-an-apprentices-execution"
+    },
+    {
+      "title": " These beautiful buds bring expertly tuned audiophile sound to wireless inner-ear headphones ",
+      "image": "https://cdn.mos.cms.futurecdn.net/EpKeaqpHCFiZZP6BJX9JBK-1920-80.jpg",
+      "summary": "The Status Pro X GoldenSound Edition offer a specialist signature tuning that targets a more acoustic-friendly and realistic presentation.",
       "category": "Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://uxdesign.cc/entering-atomic-design-from-the-screen-bae744ecc288?source=rss----138adf9c44c---4"
+      "link": "https://www.creativebloq.com/deals/these-beautiful-buds-bring-audiophile-sound-quality-to-wireless-inner-ear-headphones"
+    },
+    {
+      "title": "Nobody asked for the sparkle button",
+      "image": "https://placehold.co/600x400",
+      "summary": "Nobody asked for the sparkle button",
+      "category": "Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://uxdesign.cc/nobody-asked-for-the-sparkle-button-ae54ab5065c6?source=rss----138adf9c44c---4"
     },
     {
       "title": "Accordion Icons: Which Work Best?",
@@ -20,24 +38,6 @@
       "link": "https://smashingmagazine.com/2026/10/accordion-icons-which-work-best/"
     },
     {
-      "title": "Supersonic dreams: how post-war France invented the future, and then stopped",
-      "image": "https://placehold.co/600x400",
-      "summary": "Supersonic dreams: how post-war France invented the future, and then stopped",
-      "category": "Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://uxdesign.cc/supersonic-dreams-how-post-war-france-invented-the-future-and-then-stopped-fe2cb26dc7cc?source=rss----138adf9c44c---4"
-    },
-    {
-      "title": " These premium earbuds have a game-changing feature that Apple AirPods will never get ",
-      "image": "https://cdn.mos.cms.futurecdn.net/nckdxqQutwdM5iFvTdnfbL-1920-80.jpg",
-      "summary": "The Sennheiser MOMENTUM True Wireless 5 offer sleek build, active-noise cancellation and could last a lot longer than rivals.",
-      "category": "UI/UX",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://www.creativebloq.com/deals/these-premium-earbuds-have-a-game-changing-feature-that-apple-airpods-will-never-get"
-    },
-    {
       "title": "Embracing Playful Imperfection With The CSS `random()` Function",
       "image": "http://files.smashing.media/articles/embracing-playful-imperfection-css-random-function/embracing-playful-imperfection-css-random-function.jpg",
       "summary": "Design systems thrive on consistency, so where does randomness fit in? Through playful demos of organic typography, bouncing letters, and splayed cards, Brecht De Ruyte shows how the new CSS `random()` function brings a little imperfection to the web without JavaScript libraries or preprocessor loops that generate hundreds of lines of static CSS.",
@@ -47,13 +47,13 @@
       "link": "https://smashingmagazine.com/2026/10/embracing-playful-imperfection-css-random-function/"
     },
     {
-      "title": " How Ben & Jerry's became a beacon of brand bravery ",
-      "image": "https://cdn.mos.cms.futurecdn.net/c4Gr9cVx5FoQeeYPUULnf9-1920-80.jpg",
-      "summary": "We caught up with the brand's Chief Marketing Officer to find out how Ben & Jerry's puts its values into practice.",
-      "category": "Design",
+      "title": "The context advantage of human UX",
+      "image": "https://placehold.co/600x400",
+      "summary": "Context is today’s human advantage, but it is also the raw material AI is rapidly learning to absorb.\nContinue reading on UX Collective »",
+      "category": "UI/UX",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://www.creativebloq.com/news/how-ben-and-jerrys-became-a-beacon-of-brand-bravery"
+      "link": "https://uxdesign.cc/the-context-advantage-of-human-ux-design-thinking-39883603c337?source=rss----138adf9c44c---4"
     }
   ]
 }
