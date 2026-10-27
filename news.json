@@ -1,41 +1,32 @@
 {
-  "lastUpdated": "2026-10-26T03:21:22.643Z",
+  "lastUpdated": "2026-10-27T03:49:26.143Z",
   "articles": [
     {
-      "title": " Phantom Blade Zero review: dark wuxia martial arts masters with an apprentice's execution ",
-      "image": "https://cdn.mos.cms.futurecdn.net/RUGT6oFNSgzq8DJMwNXfnG-1920-80.jpg",
-      "summary": "S-Game's Unreal Engine 5 'kungfupunk' debut can't help but get tangled in frustrating design choices.",
-      "category": "UI/UX",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://www.creativebloq.com/reviews/phantom-blade-zero-review-dark-wuxia-martial-arts-masters-with-an-apprentices-execution"
-    },
-    {
-      "title": " These beautiful buds bring expertly tuned audiophile sound to wireless inner-ear headphones ",
-      "image": "https://cdn.mos.cms.futurecdn.net/EpKeaqpHCFiZZP6BJX9JBK-1920-80.jpg",
-      "summary": "The Status Pro X GoldenSound Edition offer a specialist signature tuning that targets a more acoustic-friendly and realistic presentation.",
-      "category": "Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://www.creativebloq.com/deals/these-beautiful-buds-bring-audiophile-sound-quality-to-wireless-inner-ear-headphones"
-    },
-    {
-      "title": "Nobody asked for the sparkle button",
+      "title": "Does Apple’s HomeView reduce effort, or ask for our attention?",
       "image": "https://placehold.co/600x400",
-      "summary": "Nobody asked for the sparkle button",
+      "summary": "Does Apple’s HomeView reduce effort, or ask for our attention?",
       "category": "Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://uxdesign.cc/nobody-asked-for-the-sparkle-button-ae54ab5065c6?source=rss----138adf9c44c---4"
+      "link": "https://uxdesign.cc/does-apples-homeview-reduce-effort-or-ask-for-our-attention-ad7e892d17e2?source=rss----138adf9c44c---4"
     },
     {
-      "title": "Accordion Icons: Which Work Best?",
-      "image": "http://files.smashing.media/articles/how-name-things-choose-accordion-icons/accordion-icons-which-work-best.jpg",
-      "summary": "A closer look at accordion icons, why split menus are harmful, and why it’s better not to have icons and text labels link to different actions. Plus, why the caret is the safest icon choice. You’ll find more [useful guides](https://www.smashingmagazine.com/category/guides/) and [online workshops](https://smashingconf.com/online-workshops) here on Smashing Magazine, so make sure to browse and explore.",
+      "title": " Commuters appalled by accidental optical illusion ad ",
+      "image": "https://cdn.mos.cms.futurecdn.net/MfQnZrNzxWKgyPgH77WzGU-1920-80.jpg",
+      "summary": "TFL has claimed it’s the work of flyposting.",
+      "category": "AI Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://www.creativebloq.com/news/commuters-appalled-by-accidental-optical-illusion-ad"
+    },
+    {
+      "title": "Building an AI-ready design system library: Code → Figma with MCP.",
+      "image": "https://placehold.co/600x400",
+      "summary": "Building an AI-ready design system library: Code → Figma with MCP.",
       "category": "UI/UX",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://smashingmagazine.com/2026/10/accordion-icons-which-work-best/"
+      "link": "https://uxdesign.cc/building-an-ai-ready-design-system-library-code-figma-with-mcp-ec5d9e8c90d2?source=rss----138adf9c44c---4"
     },
     {
       "title": "Embracing Playful Imperfection With The CSS `random()` Function",
@@ -47,13 +38,22 @@
       "link": "https://smashingmagazine.com/2026/10/embracing-playful-imperfection-css-random-function/"
     },
     {
-      "title": "The context advantage of human UX",
-      "image": "https://placehold.co/600x400",
-      "summary": "Context is today’s human advantage, but it is also the raw material AI is rapidly learning to absorb.\nContinue reading on UX Collective »",
+      "title": " XPPen’s new Magic Pro 13 is an Android drawing tablet that turns into a pen display ",
+      "image": "https://cdn.mos.cms.futurecdn.net/RoEmXN966Ky7dme6LmQmVL-1920-80.jpg",
+      "summary": "It’s $899, it has a 3K 120Hz screen, and it’s gunning for Wacom’s MovinkPad Pro 14.",
+      "category": "Illustration",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://www.creativebloq.com/news/xppens-new-magic-pro-13-is-an-android-drawing-tablet-that-turns-into-a-pen-display"
+    },
+    {
+      "title": "Accordion Icons: Which Work Best?",
+      "image": "http://files.smashing.media/articles/how-name-things-choose-accordion-icons/accordion-icons-which-work-best.jpg",
+      "summary": "A closer look at accordion icons, why split menus are harmful, and why it’s better not to have icons and text labels link to different actions. Plus, why the caret is the safest icon choice. You’ll find more [useful guides](https://www.smashingmagazine.com/category/guides/) and [online workshops](https://smashingconf.com/online-workshops) here on Smashing Magazine, so make sure to browse and explore.",
       "category": "UI/UX",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://uxdesign.cc/the-context-advantage-of-human-ux-design-thinking-39883603c337?source=rss----138adf9c44c---4"
+      "link": "https://smashingmagazine.com/2026/10/accordion-icons-which-work-best/"
     }
   ]
 }
