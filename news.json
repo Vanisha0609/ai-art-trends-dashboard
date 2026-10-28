@@ -1,32 +1,32 @@
 {
-  "lastUpdated": "2026-10-27T03:49:26.143Z",
+  "lastUpdated": "2026-10-28T04:08:26.897Z",
   "articles": [
     {
-      "title": "Does Apple’s HomeView reduce effort, or ask for our attention?",
+      "title": "The time AI saves designers usually disappears. Here’s how to keep it.",
       "image": "https://placehold.co/600x400",
-      "summary": "Does Apple’s HomeView reduce effort, or ask for our attention?",
-      "category": "Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://uxdesign.cc/does-apples-homeview-reduce-effort-or-ask-for-our-attention-ad7e892d17e2?source=rss----138adf9c44c---4"
-    },
-    {
-      "title": " Commuters appalled by accidental optical illusion ad ",
-      "image": "https://cdn.mos.cms.futurecdn.net/MfQnZrNzxWKgyPgH77WzGU-1920-80.jpg",
-      "summary": "TFL has claimed it’s the work of flyposting.",
-      "category": "AI Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://www.creativebloq.com/news/commuters-appalled-by-accidental-optical-illusion-ad"
-    },
-    {
-      "title": "Building an AI-ready design system library: Code → Figma with MCP.",
-      "image": "https://placehold.co/600x400",
-      "summary": "Building an AI-ready design system library: Code → Figma with MCP.",
+      "summary": "What a survey of 521 UX professionals found about AI in UX\nContinue reading on UX Collective »",
       "category": "UI/UX",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://uxdesign.cc/building-an-ai-ready-design-system-library-code-figma-with-mcp-ec5d9e8c90d2?source=rss----138adf9c44c---4"
+      "link": "https://uxdesign.cc/the-time-ai-saves-designers-usually-disappears-heres-how-to-keep-it-61eb38e1ed69?source=rss----138adf9c44c---4"
+    },
+    {
+      "title": " This monitor light has lightened my mood – and it's down to $35! ",
+      "image": "https://cdn.mos.cms.futurecdn.net/QdbqfBZ45H6bZHwBEtmt5H-1920-80.jpg",
+      "summary": "Adding soft light to my desktop is a game-changer for my working day.",
+      "category": "Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://www.creativebloq.com/news/this-monitor-light-has-lightened-my-mood-and-its-down-to-usd35"
+    },
+    {
+      "title": "Accordion Icons: Which Work Best?",
+      "image": "http://files.smashing.media/articles/how-name-things-choose-accordion-icons/accordion-icons-which-work-best.jpg",
+      "summary": "A closer look at accordion icons, why split menus are harmful, and why it’s better not to have icons and text labels link to different actions. Plus, why the caret is the safest icon choice. You’ll find more [useful guides](https://www.smashingmagazine.com/category/guides/) and [online workshops](https://smashingconf.com/online-workshops) here on Smashing Magazine, so make sure to browse and explore.",
+      "category": "UI/UX",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://smashingmagazine.com/2026/10/accordion-icons-which-work-best/"
     },
     {
       "title": "Embracing Playful Imperfection With The CSS `random()` Function",
@@ -38,22 +38,22 @@
       "link": "https://smashingmagazine.com/2026/10/embracing-playful-imperfection-css-random-function/"
     },
     {
-      "title": " XPPen’s new Magic Pro 13 is an Android drawing tablet that turns into a pen display ",
-      "image": "https://cdn.mos.cms.futurecdn.net/RoEmXN966Ky7dme6LmQmVL-1920-80.jpg",
-      "summary": "It’s $899, it has a 3K 120Hz screen, and it’s gunning for Wacom’s MovinkPad Pro 14.",
-      "category": "Illustration",
+      "title": "Going nowhere fast",
+      "image": "https://placehold.co/600x400",
+      "summary": "Going nowhere fast",
+      "category": "Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://www.creativebloq.com/news/xppens-new-magic-pro-13-is-an-android-drawing-tablet-that-turns-into-a-pen-display"
+      "link": "https://uxdesign.cc/going-nowhere-fast-7436dd29c54f?source=rss----138adf9c44c---4"
     },
     {
-      "title": "Accordion Icons: Which Work Best?",
-      "image": "http://files.smashing.media/articles/how-name-things-choose-accordion-icons/accordion-icons-which-work-best.jpg",
-      "summary": "A closer look at accordion icons, why split menus are harmful, and why it’s better not to have icons and text labels link to different actions. Plus, why the caret is the safest icon choice. You’ll find more [useful guides](https://www.smashingmagazine.com/category/guides/) and [online workshops](https://smashingconf.com/online-workshops) here on Smashing Magazine, so make sure to browse and explore.",
-      "category": "UI/UX",
+      "title": " Bambu Lab’s Black Friday sale has started already with up to 20% off 3D printers ",
+      "image": "https://cdn.mos.cms.futurecdn.net/9bPGaxJ2jw46r5sXvmcH4N-1920-80.jpg",
+      "summary": "Find the year's best prices on 3D printers for both beginners and pros.",
+      "category": "3D Art",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://smashingmagazine.com/2026/10/accordion-icons-which-work-best/"
+      "link": "https://www.creativebloq.com/deals/bambu-labs-black-friday-sale-has-started-already-with-up-to-20-percent-off-3d-printers"
     }
   ]
 }
