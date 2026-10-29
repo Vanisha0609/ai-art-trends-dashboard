@@ -1,23 +1,14 @@
 {
-  "lastUpdated": "2026-10-28T04:08:26.897Z",
+  "lastUpdated": "2026-10-29T04:30:47.076Z",
   "articles": [
     {
-      "title": "The time AI saves designers usually disappears. Here’s how to keep it.",
+      "title": "How I stopped dreading AI and started studying it full-time",
       "image": "https://placehold.co/600x400",
-      "summary": "What a survey of 521 UX professionals found about AI in UX\nContinue reading on UX Collective »",
-      "category": "UI/UX",
+      "summary": "How I stopped dreading AI and started studying it full-time",
+      "category": "AI Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://uxdesign.cc/the-time-ai-saves-designers-usually-disappears-heres-how-to-keep-it-61eb38e1ed69?source=rss----138adf9c44c---4"
-    },
-    {
-      "title": " This monitor light has lightened my mood – and it's down to $35! ",
-      "image": "https://cdn.mos.cms.futurecdn.net/QdbqfBZ45H6bZHwBEtmt5H-1920-80.jpg",
-      "summary": "Adding soft light to my desktop is a game-changer for my working day.",
-      "category": "Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://www.creativebloq.com/news/this-monitor-light-has-lightened-my-mood-and-its-down-to-usd35"
+      "link": "https://uxdesign.cc/how-i-stopped-dreading-ai-and-started-studying-it-full-time-fee7afc2b967?source=rss----138adf9c44c---4"
     },
     {
       "title": "Accordion Icons: Which Work Best?",
@@ -29,6 +20,33 @@
       "link": "https://smashingmagazine.com/2026/10/accordion-icons-which-work-best/"
     },
     {
+      "title": " Joe & Mac Retro Collection (Switch 2) review: the '90s caveman roundup inherits its flaws as well as its fun ",
+      "image": "https://cdn.mos.cms.futurecdn.net/ocYhtfkYt3LHsHo7WtT57H-1920-80.jpg",
+      "summary": "These three SNES platformers show there's fun in evolution; I just wish we could see more of it.",
+      "category": "Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://www.creativebloq.com/reviews/joe-and-mac-retro-collection-switch-2-review-i-came-for-the-cavemen-but-the-sequels-are-the-real-draw"
+    },
+    {
+      "title": " They did it! Sennheiser HD 480 Pro are the best closed-back headphones I’ve heard (and it's not even close) ",
+      "image": "https://cdn.mos.cms.futurecdn.net/LxMdWpi9Cqe3JMF9LM58UR-1920-80.jpg",
+      "summary": "The comfort and build are supreme, too.",
+      "category": "UI/UX",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://www.creativebloq.com/reviews/they-did-it-sennheiser-hd-480-pro-is-the-best-closed-back-headphone-ive-heard-and-its-not-even-close"
+    },
+    {
+      "title": "Designing for AI deep research: lessons from Google, Perplexity and Microsoft",
+      "image": "https://placehold.co/600x400",
+      "summary": "6 UX questions for AI research tasks that take time\nContinue reading on UX Collective »",
+      "category": "UI/UX",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://uxdesign.cc/designing-for-ai-deep-research-lessons-from-google-perplexity-and-microsoft-b32fa2f21e7e?source=rss----138adf9c44c---4"
+    },
+    {
       "title": "Embracing Playful Imperfection With The CSS `random()` Function",
       "image": "http://files.smashing.media/articles/embracing-playful-imperfection-css-random-function/embracing-playful-imperfection-css-random-function.jpg",
       "summary": "Design systems thrive on consistency, so where does randomness fit in? Through playful demos of organic typography, bouncing letters, and splayed cards, Brecht De Ruyte shows how the new CSS `random()` function brings a little imperfection to the web without JavaScript libraries or preprocessor loops that generate hundreds of lines of static CSS.",
@@ -36,24 +54,6 @@
       "style": "Unknown",
       "mood": "Neutral",
       "link": "https://smashingmagazine.com/2026/10/embracing-playful-imperfection-css-random-function/"
-    },
-    {
-      "title": "Going nowhere fast",
-      "image": "https://placehold.co/600x400",
-      "summary": "Going nowhere fast",
-      "category": "Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://uxdesign.cc/going-nowhere-fast-7436dd29c54f?source=rss----138adf9c44c---4"
-    },
-    {
-      "title": " Bambu Lab’s Black Friday sale has started already with up to 20% off 3D printers ",
-      "image": "https://cdn.mos.cms.futurecdn.net/9bPGaxJ2jw46r5sXvmcH4N-1920-80.jpg",
-      "summary": "Find the year's best prices on 3D printers for both beginners and pros.",
-      "category": "3D Art",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://www.creativebloq.com/deals/bambu-labs-black-friday-sale-has-started-already-with-up-to-20-percent-off-3d-printers"
     }
   ]
 }
