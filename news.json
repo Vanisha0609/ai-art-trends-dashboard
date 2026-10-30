@@ -1,15 +1,6 @@
 {
-  "lastUpdated": "2026-10-29T04:30:47.076Z",
+  "lastUpdated": "2026-10-30T04:30:27.220Z",
   "articles": [
-    {
-      "title": "How I stopped dreading AI and started studying it full-time",
-      "image": "https://placehold.co/600x400",
-      "summary": "How I stopped dreading AI and started studying it full-time",
-      "category": "AI Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://uxdesign.cc/how-i-stopped-dreading-ai-and-started-studying-it-full-time-fee7afc2b967?source=rss----138adf9c44c---4"
-    },
     {
       "title": "Accordion Icons: Which Work Best?",
       "image": "http://files.smashing.media/articles/how-name-things-choose-accordion-icons/accordion-icons-which-work-best.jpg",
@@ -20,22 +11,40 @@
       "link": "https://smashingmagazine.com/2026/10/accordion-icons-which-work-best/"
     },
     {
-      "title": " Joe & Mac Retro Collection (Switch 2) review: the '90s caveman roundup inherits its flaws as well as its fun ",
-      "image": "https://cdn.mos.cms.futurecdn.net/ocYhtfkYt3LHsHo7WtT57H-1920-80.jpg",
-      "summary": "These three SNES platformers show there's fun in evolution; I just wish we could see more of it.",
+      "title": "Embracing Playful Imperfection With The CSS `random()` Function",
+      "image": "http://files.smashing.media/articles/embracing-playful-imperfection-css-random-function/embracing-playful-imperfection-css-random-function.jpg",
+      "summary": "Design systems thrive on consistency, so where does randomness fit in? Through playful demos of organic typography, bouncing letters, and splayed cards, Brecht De Ruyte shows how the new CSS `random()` function brings a little imperfection to the web without JavaScript libraries or preprocessor loops that generate hundreds of lines of static CSS.",
+      "category": "Typography",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://smashingmagazine.com/2026/10/embracing-playful-imperfection-css-random-function/"
+    },
+    {
+      "title": " Apple’s touchscreen MacBook Pro makes more sense than you might think ",
+      "image": "https://cdn.mos.cms.futurecdn.net/NQfGmZgMz4NqPs3bEWNZuC-1920-80.jpg",
+      "summary": "My first impressions of the MacBook Pro with PROLED XDR Display were more positive than I expected.",
       "category": "Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://www.creativebloq.com/reviews/joe-and-mac-retro-collection-switch-2-review-i-came-for-the-cavemen-but-the-sequels-are-the-real-draw"
+      "link": "https://www.creativebloq.com/news/apples-touchscreen-macbook-pro-makes-more-sense-than-you-might-think"
     },
     {
-      "title": " They did it! Sennheiser HD 480 Pro are the best closed-back headphones I’ve heard (and it's not even close) ",
-      "image": "https://cdn.mos.cms.futurecdn.net/LxMdWpi9Cqe3JMF9LM58UR-1920-80.jpg",
-      "summary": "The comfort and build are supreme, too.",
-      "category": "UI/UX",
+      "title": "How I stopped dreading AI and started studying it full-time",
+      "image": "https://placehold.co/600x400",
+      "summary": "How I stopped dreading AI and started studying it full-time",
+      "category": "AI Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://www.creativebloq.com/reviews/they-did-it-sennheiser-hd-480-pro-is-the-best-closed-back-headphone-ive-heard-and-its-not-even-close"
+      "link": "https://uxdesign.cc/how-i-stopped-dreading-ai-and-started-studying-it-full-time-fee7afc2b967?source=rss----138adf9c44c---4"
+    },
+    {
+      "title": " The new Atelico AI Engine gives game NPCs memories ",
+      "image": "https://cdn.mos.cms.futurecdn.net/ALRfZwHTXJjz4KqLE7KkEk-1920-80.jpg",
+      "summary": "The on-device toolkit aims to change how games are played, not replace the people who make them.",
+      "category": "AI Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://www.creativebloq.com/news/the-new-atelico-ai-engine-gives-game-npcs-memories"
     },
     {
       "title": "Designing for AI deep research: lessons from Google, Perplexity and Microsoft",
@@ -45,15 +54,6 @@
       "style": "Unknown",
       "mood": "Neutral",
       "link": "https://uxdesign.cc/designing-for-ai-deep-research-lessons-from-google-perplexity-and-microsoft-b32fa2f21e7e?source=rss----138adf9c44c---4"
-    },
-    {
-      "title": "Embracing Playful Imperfection With The CSS `random()` Function",
-      "image": "http://files.smashing.media/articles/embracing-playful-imperfection-css-random-function/embracing-playful-imperfection-css-random-function.jpg",
-      "summary": "Design systems thrive on consistency, so where does randomness fit in? Through playful demos of organic typography, bouncing letters, and splayed cards, Brecht De Ruyte shows how the new CSS `random()` function brings a little imperfection to the web without JavaScript libraries or preprocessor loops that generate hundreds of lines of static CSS.",
-      "category": "Typography",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://smashingmagazine.com/2026/10/embracing-playful-imperfection-css-random-function/"
     }
   ]
 }
