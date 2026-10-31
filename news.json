@@ -1,14 +1,23 @@
 {
-  "lastUpdated": "2026-10-30T04:30:27.220Z",
+  "lastUpdated": "2026-10-31T04:12:22.835Z",
   "articles": [
     {
-      "title": "Accordion Icons: Which Work Best?",
-      "image": "http://files.smashing.media/articles/how-name-things-choose-accordion-icons/accordion-icons-which-work-best.jpg",
-      "summary": "A closer look at accordion icons, why split menus are harmful, and why it’s better not to have icons and text labels link to different actions. Plus, why the caret is the safest icon choice. You’ll find more [useful guides](https://www.smashingmagazine.com/category/guides/) and [online workshops](https://smashingconf.com/online-workshops) here on Smashing Magazine, so make sure to browse and explore.",
-      "category": "UI/UX",
+      "title": " GTA 6's latest gameplay reveal is filthy, and South Park is helping Rockstar sell it ",
+      "image": "https://cdn.mos.cms.futurecdn.net/HxDW724MTCxqoXaWMmhyBc-1920-80.jpg",
+      "summary": "The most entertaining bit of game marketing I've seen in a long time.",
+      "category": "AI Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://smashingmagazine.com/2026/10/accordion-icons-which-work-best/"
+      "link": "https://www.creativebloq.com/news/gta-6s-latest-gameplay-reveal-is-filthy-and-south-park-is-helping-rockstar-sell-it"
+    },
+    {
+      "title": " How this artist turned childhood nightmares into video game monsters ",
+      "image": "https://cdn.mos.cms.futurecdn.net/hPSB2cEHwtW4AtueSRHE9L-1920-80.jpg",
+      "summary": "Just in time for Halloween, John Kenn Mortensen talks dark fantasy, drawing by hand and bringing his distinctive illustrations to FLASK.",
+      "category": "Illustration",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://www.creativebloq.com/features/how-this-artist-turned-childhood-nightmares-into-video-game-monsters"
     },
     {
       "title": "Embracing Playful Imperfection With The CSS `random()` Function",
@@ -20,13 +29,22 @@
       "link": "https://smashingmagazine.com/2026/10/embracing-playful-imperfection-css-random-function/"
     },
     {
-      "title": " Apple’s touchscreen MacBook Pro makes more sense than you might think ",
-      "image": "https://cdn.mos.cms.futurecdn.net/NQfGmZgMz4NqPs3bEWNZuC-1920-80.jpg",
-      "summary": "My first impressions of the MacBook Pro with PROLED XDR Display were more positive than I expected.",
-      "category": "Design",
+      "title": "Accordion Icons: Which Work Best?",
+      "image": "http://files.smashing.media/articles/how-name-things-choose-accordion-icons/accordion-icons-which-work-best.jpg",
+      "summary": "A closer look at accordion icons, why split menus are harmful, and why it’s better not to have icons and text labels link to different actions. Plus, why the caret is the safest icon choice. You’ll find more [useful guides](https://www.smashingmagazine.com/category/guides/) and [online workshops](https://smashingconf.com/online-workshops) here on Smashing Magazine, so make sure to browse and explore.",
+      "category": "UI/UX",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://www.creativebloq.com/news/apples-touchscreen-macbook-pro-makes-more-sense-than-you-might-think"
+      "link": "https://smashingmagazine.com/2026/10/accordion-icons-which-work-best/"
+    },
+    {
+      "title": "The people using AI should set its strategy",
+      "image": "https://placehold.co/600x400",
+      "summary": "The people using AI should set its strategy",
+      "category": "AI Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://uxdesign.cc/the-people-using-ai-should-set-its-strategy-473c7f2ebb94?source=rss----138adf9c44c---4"
     },
     {
       "title": "How I stopped dreading AI and started studying it full-time",
@@ -36,24 +54,6 @@
       "style": "Unknown",
       "mood": "Neutral",
       "link": "https://uxdesign.cc/how-i-stopped-dreading-ai-and-started-studying-it-full-time-fee7afc2b967?source=rss----138adf9c44c---4"
-    },
-    {
-      "title": " The new Atelico AI Engine gives game NPCs memories ",
-      "image": "https://cdn.mos.cms.futurecdn.net/ALRfZwHTXJjz4KqLE7KkEk-1920-80.jpg",
-      "summary": "The on-device toolkit aims to change how games are played, not replace the people who make them.",
-      "category": "AI Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://www.creativebloq.com/news/the-new-atelico-ai-engine-gives-game-npcs-memories"
-    },
-    {
-      "title": "Designing for AI deep research: lessons from Google, Perplexity and Microsoft",
-      "image": "https://placehold.co/600x400",
-      "summary": "6 UX questions for AI research tasks that take time\nContinue reading on UX Collective »",
-      "category": "UI/UX",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://uxdesign.cc/designing-for-ai-deep-research-lessons-from-google-perplexity-and-microsoft-b32fa2f21e7e?source=rss----138adf9c44c---4"
     }
   ]
 }
