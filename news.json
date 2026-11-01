@@ -1,41 +1,32 @@
 {
-  "lastUpdated": "2026-10-31T04:12:22.835Z",
+  "lastUpdated": "2026-11-01T04:32:23.774Z",
   "articles": [
     {
-      "title": " GTA 6's latest gameplay reveal is filthy, and South Park is helping Rockstar sell it ",
-      "image": "https://cdn.mos.cms.futurecdn.net/HxDW724MTCxqoXaWMmhyBc-1920-80.jpg",
-      "summary": "The most entertaining bit of game marketing I've seen in a long time.",
-      "category": "AI Design",
+      "title": " How a séance shaped this beautiful psychic platform rebrand ",
+      "image": "https://cdn.mos.cms.futurecdn.net/AX8nrcwcJWeLwL9xrxc2om-1920-80.png",
+      "summary": "Mother Design’s Jo Tulej discusses the team’s unconventional approach to design.",
+      "category": "Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://www.creativebloq.com/news/gta-6s-latest-gameplay-reveal-is-filthy-and-south-park-is-helping-rockstar-sell-it"
+      "link": "https://www.creativebloq.com/features/how-a-seance-shaped-this-beautiful-psychic-app-rebrand"
     },
     {
-      "title": " How this artist turned childhood nightmares into video game monsters ",
-      "image": "https://cdn.mos.cms.futurecdn.net/hPSB2cEHwtW4AtueSRHE9L-1920-80.jpg",
-      "summary": "Just in time for Halloween, John Kenn Mortensen talks dark fantasy, drawing by hand and bringing his distinctive illustrations to FLASK.",
-      "category": "Illustration",
+      "title": "A Spark Of Color In November’s Gray (2026 Wallpapers Edition)",
+      "image": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8edeb776-d8d5-4b5b-867f-6964f7addcd6/nov-17-colorful-autumn-preview-opt.png",
+      "summary": "Let’s kick of November with a new collection of desktop wallpapers! Designed by creatives from across the globe, the wallpapers come in a variety of screen resolutions and can be downloaded for free. Enjoy!",
+      "category": "Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://www.creativebloq.com/features/how-this-artist-turned-childhood-nightmares-into-video-game-monsters"
+      "link": "https://smashingmagazine.com/2026/10/desktop-wallpaper-calendars-november-2026/"
     },
     {
-      "title": "Embracing Playful Imperfection With The CSS `random()` Function",
-      "image": "http://files.smashing.media/articles/embracing-playful-imperfection-css-random-function/embracing-playful-imperfection-css-random-function.jpg",
-      "summary": "Design systems thrive on consistency, so where does randomness fit in? Through playful demos of organic typography, bouncing letters, and splayed cards, Brecht De Ruyte shows how the new CSS `random()` function brings a little imperfection to the web without JavaScript libraries or preprocessor loops that generate hundreds of lines of static CSS.",
-      "category": "Typography",
+      "title": " How to make these easy Halloween crafts with Cricut ",
+      "image": "https://cdn.mos.cms.futurecdn.net/JqREmFLAz7nj4fj8enPcKd-1920-80.png",
+      "summary": "Glow-in-the-dark vinyl might be my new favourite material",
+      "category": "Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://smashingmagazine.com/2026/10/embracing-playful-imperfection-css-random-function/"
-    },
-    {
-      "title": "Accordion Icons: Which Work Best?",
-      "image": "http://files.smashing.media/articles/how-name-things-choose-accordion-icons/accordion-icons-which-work-best.jpg",
-      "summary": "A closer look at accordion icons, why split menus are harmful, and why it’s better not to have icons and text labels link to different actions. Plus, why the caret is the safest icon choice. You’ll find more [useful guides](https://www.smashingmagazine.com/category/guides/) and [online workshops](https://smashingconf.com/online-workshops) here on Smashing Magazine, so make sure to browse and explore.",
-      "category": "UI/UX",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://smashingmagazine.com/2026/10/accordion-icons-which-work-best/"
+      "link": "https://www.creativebloq.com/how-to/how-to-make-these-easy-halloween-crafts-with-cricut"
     },
     {
       "title": "The people using AI should set its strategy",
@@ -45,6 +36,15 @@
       "style": "Unknown",
       "mood": "Neutral",
       "link": "https://uxdesign.cc/the-people-using-ai-should-set-its-strategy-473c7f2ebb94?source=rss----138adf9c44c---4"
+    },
+    {
+      "title": "Accordion Icons: Which Work Best?",
+      "image": "http://files.smashing.media/articles/how-name-things-choose-accordion-icons/accordion-icons-which-work-best.jpg",
+      "summary": "A closer look at accordion icons, why split menus are harmful, and why it’s better not to have icons and text labels link to different actions. Plus, why the caret is the safest icon choice. You’ll find more [useful guides](https://www.smashingmagazine.com/category/guides/) and [online workshops](https://smashingconf.com/online-workshops) here on Smashing Magazine, so make sure to browse and explore.",
+      "category": "UI/UX",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://smashingmagazine.com/2026/10/accordion-icons-which-work-best/"
     },
     {
       "title": "How I stopped dreading AI and started studying it full-time",
