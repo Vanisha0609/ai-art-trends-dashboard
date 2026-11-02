@@ -1,41 +1,23 @@
 {
-  "lastUpdated": "2026-11-01T04:32:23.774Z",
+  "lastUpdated": "2026-11-02T04:35:14.225Z",
   "articles": [
     {
-      "title": " How a séance shaped this beautiful psychic platform rebrand ",
-      "image": "https://cdn.mos.cms.futurecdn.net/AX8nrcwcJWeLwL9xrxc2om-1920-80.png",
-      "summary": "Mother Design’s Jo Tulej discusses the team’s unconventional approach to design.",
-      "category": "Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://www.creativebloq.com/features/how-a-seance-shaped-this-beautiful-psychic-app-rebrand"
-    },
-    {
-      "title": "A Spark Of Color In November’s Gray (2026 Wallpapers Edition)",
-      "image": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8edeb776-d8d5-4b5b-867f-6964f7addcd6/nov-17-colorful-autumn-preview-opt.png",
-      "summary": "Let’s kick of November with a new collection of desktop wallpapers! Designed by creatives from across the globe, the wallpapers come in a variety of screen resolutions and can be downloaded for free. Enjoy!",
-      "category": "Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://smashingmagazine.com/2026/10/desktop-wallpaper-calendars-november-2026/"
-    },
-    {
-      "title": " How to make these easy Halloween crafts with Cricut ",
-      "image": "https://cdn.mos.cms.futurecdn.net/JqREmFLAz7nj4fj8enPcKd-1920-80.png",
-      "summary": "Glow-in-the-dark vinyl might be my new favourite material",
-      "category": "Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://www.creativebloq.com/how-to/how-to-make-these-easy-halloween-crafts-with-cricut"
-    },
-    {
-      "title": "The people using AI should set its strategy",
+      "title": "When colors pass but palettes fail",
       "image": "https://placehold.co/600x400",
-      "summary": "The people using AI should set its strategy",
+      "summary": "The accessibility challenge of generative AI diverging color palettes.\nContinue reading on UX Collective »",
+      "category": "UI/UX",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://uxdesign.cc/when-colors-pass-but-palettes-fail-55b7210f8e4d?source=rss----138adf9c44c---4"
+    },
+    {
+      "title": "How to design transparent AI cost controls",
+      "image": "https://placehold.co/600x400",
+      "summary": "How to design transparent AI cost controls",
       "category": "AI Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://uxdesign.cc/the-people-using-ai-should-set-its-strategy-473c7f2ebb94?source=rss----138adf9c44c---4"
+      "link": "https://uxdesign.cc/how-to-design-transparent-ai-cost-controls-a44fd52b9104?source=rss----138adf9c44c---4"
     },
     {
       "title": "Accordion Icons: Which Work Best?",
@@ -47,13 +29,31 @@
       "link": "https://smashingmagazine.com/2026/10/accordion-icons-which-work-best/"
     },
     {
-      "title": "How I stopped dreading AI and started studying it full-time",
-      "image": "https://placehold.co/600x400",
-      "summary": "How I stopped dreading AI and started studying it full-time",
+      "title": "A Spark Of Color In November’s Gray (2026 Wallpapers Edition)",
+      "image": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8edeb776-d8d5-4b5b-867f-6964f7addcd6/nov-17-colorful-autumn-preview-opt.png",
+      "summary": "Let’s kick of November with a new collection of desktop wallpapers! Designed by creatives from across the globe, the wallpapers come in a variety of screen resolutions and can be downloaded for free. Enjoy!",
+      "category": "Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://smashingmagazine.com/2026/10/desktop-wallpaper-calendars-november-2026/"
+    },
+    {
+      "title": " From Pepsi Man to WendyQuest, why are brands making video games again? ",
+      "image": "https://cdn.mos.cms.futurecdn.net/NDicPYzamCZS2n8MNnG8N4-1920-80.jpg",
+      "summary": "A burger chain's pixel-art RPG has gamers excited.",
       "category": "AI Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://uxdesign.cc/how-i-stopped-dreading-ai-and-started-studying-it-full-time-fee7afc2b967?source=rss----138adf9c44c---4"
+      "link": "https://www.creativebloq.com/news/from-pepsi-man-to-wendyquest-why-are-brands-making-video-games-again"
+    },
+    {
+      "title": " If smart glasses take off, I predict a new golden age for the billboard ",
+      "image": "https://cdn.mos.cms.futurecdn.net/vc3kfe7v9q894FPcDKLqzY-1920-80.jpg",
+      "summary": "As they lift our gaze from our phones, we'll start looking up.",
+      "category": "Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://www.creativebloq.com/news/if-smart-glasses-take-off-i-predict-a-new-golden-age-for-the-billboard"
     }
   ]
 }
