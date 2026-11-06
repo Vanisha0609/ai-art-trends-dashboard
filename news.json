@@ -1,50 +1,41 @@
 {
-  "lastUpdated": "2026-11-05T05:16:00.440Z",
+  "lastUpdated": "2026-11-06T05:15:35.290Z",
   "articles": [
     {
-      "title": "A Spark Of Color In November’s Gray (2026 Wallpapers Edition)",
-      "image": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8edeb776-d8d5-4b5b-867f-6964f7addcd6/nov-17-colorful-autumn-preview-opt.png",
-      "summary": "Let’s kick of November with a new collection of desktop wallpapers! Designed by creatives from across the globe, the wallpapers come in a variety of screen resolutions and can be downloaded for free. Enjoy!",
+      "title": "Native is a floor, not a ceiling",
+      "image": "https://placehold.co/600x400",
+      "summary": "Native is a floor, not a ceiling",
       "category": "Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://smashingmagazine.com/2026/10/desktop-wallpaper-calendars-november-2026/"
+      "link": "https://uxdesign.cc/native-is-a-floor-not-a-ceiling-09bc4f27ddce?source=rss----138adf9c44c---4"
     },
     {
-      "title": "In a world of panic, calm and certainty win",
+      "title": "Berrypicking still beats the single answer for search, even in the world of AI",
       "image": "https://placehold.co/600x400",
-      "summary": "In a world of panic, calm and certainty win",
+      "summary": "Berrypicking still beats the single answer for search, even in the world of AI",
       "category": "AI Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://uxdesign.cc/in-a-world-of-panic-calm-and-certainty-win-525c17dd927f?source=rss----138adf9c44c---4"
+      "link": "https://uxdesign.cc/berrypicking-still-beats-the-single-answer-for-search-even-in-the-world-of-ai-6d7174099500?source=rss----138adf9c44c---4"
     },
     {
-      "title": "AI can generate the interface. What makes it worth caring about?",
-      "image": "https://placehold.co/600x400",
-      "summary": "AI can generate the interface. What makes it worth caring about?",
+      "title": "Making Immersive LLM Chat Experiences More Accessible",
+      "image": "http://files.smashing.media/articles/making-immersive-llm-chat-experiences-more-accessible/making-immersive-llm-chat-experiences-more-accessible.jpg",
+      "summary": "As LLM chat patterns become more widespread, making them accessible is essential to ensuring everyone can access the information, tools, and opportunities they offer. Drawing on his work improving these interfaces, Eric Bailey shares practical ways to make chat-based experiences on the web more accessible and usable for people who rely on assistive technology.",
       "category": "AI Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://uxdesign.cc/ai-can-generate-the-interface-what-makes-it-worth-caring-about-a5f3a3e81986?source=rss----138adf9c44c---4"
+      "link": "https://smashingmagazine.com/2026/11/making-immersive-llm-chat-experiences-more-accessible/"
     },
     {
-      "title": " The Legend of Zelda: Ocarina of Time reviews are in, and critics agree on one thing ",
-      "image": "https://cdn.mos.cms.futurecdn.net/6eiurWsv3aagD4udotZBmT-1920-80.jpg",
-      "summary": "Nintendo has worked its magic on a 28-year-old classic.",
+      "title": " “If we loved him, we had a movie”: the directors who had to make the Cat in the Hat likeable ",
+      "image": "https://cdn.mos.cms.futurecdn.net/FX8MFguhnU5sWS5xGFsbjn-1920-80.jpg",
+      "summary": "Alessandro Carloni and Erica Rivinoja on reinventing a book everyone thinks they know, and the one problem that could have sunk the whole film.",
       "category": "Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://www.creativebloq.com/news/the-legend-of-zelda-ocarina-of-time-switch-2-reviews-are-in-and-critics-agree-on-one-thing"
-    },
-    {
-      "title": " This super-comfy higher-end budget ergonomic office chair has $70 off for Black Friday ",
-      "image": "https://cdn.mos.cms.futurecdn.net/xn4uYAPiXiEyscuXddsTGc-1920-80.jpg",
-      "summary": "The Doro C300 Pro offers comfort, ergonomics and great arm rest adjustments.",
-      "category": "AI Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://www.creativebloq.com/deals/this-super-comfy-higher-end-budget-ergonomic-office-chair-has-usd70-off-for-black-friday"
+      "link": "https://www.creativebloq.com/news/the-cat-in-the-hat-2026-warner-bros-animation-3d-look"
     },
     {
       "title": "Modern CSS Might Make Your Front-End More Complex",
@@ -54,6 +45,15 @@
       "style": "Unknown",
       "mood": "Neutral",
       "link": "https://smashingmagazine.com/2026/11/modern-css-might-make-your-front-end-more-complex/"
+    },
+    {
+      "title": " Some of the best-rated markers for art are reduced by up to 26% for Black Friday ",
+      "image": "https://cdn.mos.cms.futurecdn.net/fw36ZbbDorxHj2KK7ftQZV-1920-80.jpg",
+      "summary": "Ohuhu's sets are a Creative Bloq favourite, suitable for both kids and pro artists.",
+      "category": "UI/UX",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://www.creativebloq.com/deals/some-of-the-best-rated-markers-for-art-are-reduced-by-up-to-26-percent-for-black-friday"
     }
   ]
 }
