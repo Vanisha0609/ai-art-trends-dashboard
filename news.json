@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-11-07T04:45:59.004Z",
+  "lastUpdated": "2026-11-08T04:36:35.991Z",
   "articles": [
+    {
+      "title": "Otherwise you’re just a machine",
+      "image": "https://placehold.co/600x400",
+      "summary": "Otherwise you’re just a machine",
+      "category": "Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://uxdesign.cc/otherwise-youre-just-a-machine-a9d3b21179b5?source=rss----138adf9c44c---4"
+    },
     {
       "title": "After the AI bubble: a manifesto",
       "image": "https://placehold.co/600x400",
@@ -9,15 +18,6 @@
       "style": "Unknown",
       "mood": "Neutral",
       "link": "https://uxdesign.cc/after-the-ai-bubble-a-manifesto-2e3157387662?source=rss----138adf9c44c---4"
-    },
-    {
-      "title": " The Cybertruck is dead – what went wrong? ",
-      "image": "https://cdn.mos.cms.futurecdn.net/qqUtoDUR4wwTsFEgXW4uaP-1920-80.jpg",
-      "summary": "Elon Musk is winding down production, and I won’t be shedding a tear.",
-      "category": "Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://www.creativebloq.com/news/its-over-babe-the-cybertruck-era-is-dead"
     },
     {
       "title": "Making Immersive LLM Chat Experiences More Accessible",
@@ -29,6 +29,15 @@
       "link": "https://smashingmagazine.com/2026/11/making-immersive-llm-chat-experiences-more-accessible/"
     },
     {
+      "title": " The world's biggest library of scanned 3D assets is now free – and it seems that this time it's for good ",
+      "image": "https://cdn.mos.cms.futurecdn.net/mVrAbh34Wuirzqbt3u9YyJ-1920-80.jpg",
+      "summary": "Epic Games' Quixel Megascans has thousands of 3D models, decals and materials.",
+      "category": "UI/UX",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://www.creativebloq.com/news/the-worlds-biggest-library-of-scanned-assets-for-3d-artists-is-now-free-and-it-seems-that-this-time-its-for-good"
+    },
+    {
       "title": "A New Community For In-House UX People",
       "image": "http://files.smashing.media/articles/ux-insiders-community-in-house-ux-people/ux-insiders-community-in-house-ux-people.jpg",
       "summary": "We’ve been working on something new! We’ve teamed up for a **new small community** for people doing UX-inside organizations — with weekly calls and a shared library of the business cases, templates, and research plans that have actually worked for other folks. [Jump to details](https://uxinsiders.boagworld.com/).",
@@ -38,22 +47,13 @@
       "link": "https://smashingmagazine.com/2026/11/ux-insiders-community-in-house-ux-people/"
     },
     {
-      "title": " Maxon aims to make 3D creation feel more natural with ZBrush and Cinema4D for the PROLED XDR MacBook and Apple Vision pro ",
-      "image": "https://cdn.mos.cms.futurecdn.net/TwCd5w4q4d2NE6vCmzSmh6-1920-80.jpg",
-      "summary": "Touch support and Spatial Preview will introduce new ways to create, sculpt and explore 3D work.",
-      "category": "AI Design",
+      "title": " Apple sit down, Sony just won the wired headphone trend ",
+      "image": "https://cdn.mos.cms.futurecdn.net/wvDLRoEEE6o5iNuxXirXQd-1920-80.jpg",
+      "summary": "Grab your Walkman, we’re going back to the ‘80s.",
+      "category": "Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://www.creativebloq.com/news/maxon-aims-to-make-3d-creation-feel-more-natural-with-zbrush-and-cinema4d-for-the-proled-xdr-macbook-and-apple-vision-pro"
-    },
-    {
-      "title": "Berrypicking still beats the single answer for search, even in the world of AI",
-      "image": "https://placehold.co/600x400",
-      "summary": "Berrypicking still beats the single answer for search, even in the world of AI",
-      "category": "AI Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://uxdesign.cc/berrypicking-still-beats-the-single-answer-for-search-even-in-the-world-of-ai-6d7174099500?source=rss----138adf9c44c---4"
+      "link": "https://www.creativebloq.com/news/apple-sit-down-sony-just-won-the-wired-headphone-trend"
     }
   ]
 }
