@@ -1,15 +1,6 @@
 {
-  "lastUpdated": "2026-11-08T04:36:35.991Z",
+  "lastUpdated": "2026-11-09T04:47:07.316Z",
   "articles": [
-    {
-      "title": "Otherwise you’re just a machine",
-      "image": "https://placehold.co/600x400",
-      "summary": "Otherwise you’re just a machine",
-      "category": "Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://uxdesign.cc/otherwise-youre-just-a-machine-a9d3b21179b5?source=rss----138adf9c44c---4"
-    },
     {
       "title": "After the AI bubble: a manifesto",
       "image": "https://placehold.co/600x400",
@@ -18,6 +9,15 @@
       "style": "Unknown",
       "mood": "Neutral",
       "link": "https://uxdesign.cc/after-the-ai-bubble-a-manifesto-2e3157387662?source=rss----138adf9c44c---4"
+    },
+    {
+      "title": " The ergonomic chair that got a rare 5-star Creative Bloq review is 10% cheaper for Black Friday ",
+      "image": "https://cdn.mos.cms.futurecdn.net/vrCCdqvre52CRRM6uxQHWS-1920-80.jpg",
+      "summary": "With its ergonomic features, it's the best chair deal I can find right now.",
+      "category": "AI Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://www.creativebloq.com/deals/the-ergonomic-chair-that-got-a-rare-5-star-creative-bloq-review-is-10-percent-cheaper-for-black-friday"
     },
     {
       "title": "Making Immersive LLM Chat Experiences More Accessible",
@@ -29,13 +29,13 @@
       "link": "https://smashingmagazine.com/2026/11/making-immersive-llm-chat-experiences-more-accessible/"
     },
     {
-      "title": " The world's biggest library of scanned 3D assets is now free – and it seems that this time it's for good ",
-      "image": "https://cdn.mos.cms.futurecdn.net/mVrAbh34Wuirzqbt3u9YyJ-1920-80.jpg",
-      "summary": "Epic Games' Quixel Megascans has thousands of 3D models, decals and materials.",
-      "category": "UI/UX",
+      "title": "Otherwise you’re just a machine",
+      "image": "https://placehold.co/600x400",
+      "summary": "Otherwise you’re just a machine",
+      "category": "Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://www.creativebloq.com/news/the-worlds-biggest-library-of-scanned-assets-for-3d-artists-is-now-free-and-it-seems-that-this-time-its-for-good"
+      "link": "https://uxdesign.cc/otherwise-youre-just-a-machine-a9d3b21179b5?source=rss----138adf9c44c---4"
     },
     {
       "title": "A New Community For In-House UX People",
@@ -47,13 +47,13 @@
       "link": "https://smashingmagazine.com/2026/11/ux-insiders-community-in-house-ux-people/"
     },
     {
-      "title": " Apple sit down, Sony just won the wired headphone trend ",
-      "image": "https://cdn.mos.cms.futurecdn.net/wvDLRoEEE6o5iNuxXirXQd-1920-80.jpg",
-      "summary": "Grab your Walkman, we’re going back to the ‘80s.",
-      "category": "Design",
+      "title": " How to make a detailed 3D landscape using Photoshop, Cinema 4D and ZBrush ",
+      "image": "https://cdn.mos.cms.futurecdn.net/iA2JZXRJPqKYVr8vd7zQSC-1920-80.jpg",
+      "summary": "Sci-fi and fantasy artist Calder Moore breaks down his process for creating a dark fantasy landscape into clear manageable tasks.",
+      "category": "AI Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://www.creativebloq.com/news/apple-sit-down-sony-just-won-the-wired-headphone-trend"
+      "link": "https://www.creativebloq.com/how-to/how-to-make-a-detailed-3d-landscape-using-photoshop-with-cinema-4d-and-zbrush"
     }
   ]
 }
