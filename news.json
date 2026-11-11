@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2026-11-10T06:00:57.519Z",
+  "lastUpdated": "2026-11-11T04:49:52.195Z",
   "articles": [
+    {
+      "title": "Making Immersive LLM Chat Experiences More Accessible",
+      "image": "http://files.smashing.media/articles/making-immersive-llm-chat-experiences-more-accessible/making-immersive-llm-chat-experiences-more-accessible.jpg",
+      "summary": "As LLM chat patterns become more widespread, making them accessible is essential to ensuring everyone can access the information, tools, and opportunities they offer. Drawing on his work improving these interfaces, Eric Bailey shares practical ways to make chat-based experiences on the web more accessible and usable for people who rely on assistive technology.",
+      "category": "AI Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://smashingmagazine.com/2026/11/making-immersive-llm-chat-experiences-more-accessible/"
+    },
+    {
+      "title": "AI Prototyping inside your design system. A hands-on guide for design & product teams.",
+      "image": "https://placehold.co/600x400",
+      "summary": "AI Prototyping inside your design system. A hands-on guide for design & product teams.",
+      "category": "UI/UX",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://uxdesign.cc/ai-prototyping-inside-your-design-system-a-hands-on-guide-for-design-product-teams-44825904c08d?source=rss----138adf9c44c---4"
+    },
+    {
+      "title": " Adobe's approach to AI has pleasantly surprised me ",
+      "image": "https://cdn.mos.cms.futurecdn.net/ttBN7BsyV6bomjQexAAeV6-1920-80.jpg",
+      "summary": "Why the Adobe MAX 2026 opening keynote has me feeling cautiously hopeful.",
+      "category": "Tools",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://www.creativebloq.com/features/adobes-approach-to-ai-has-pleasantly-surprised-me"
+    },
     {
       "title": "A New Community For In-House UX People",
       "image": "http://files.smashing.media/articles/ux-insiders-community-in-house-ux-people/ux-insiders-community-in-house-ux-people.jpg",
@@ -11,49 +38,22 @@
       "link": "https://smashingmagazine.com/2026/11/ux-insiders-community-in-house-ux-people/"
     },
     {
-      "title": "Design by numbers, Teaching AI prototyping, Context is the new UI",
+      "title": " £568 off makes this a great budget PC for creatives as well as gamers ",
+      "image": "https://cdn.mos.cms.futurecdn.net/9L7jmSTUE52gyod77hJzHH-1920-80.jpg",
+      "summary": "The Acer NITRO 20 N20-101 is now as cheap as a budget laptop.",
+      "category": "Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://www.creativebloq.com/deals/gbp568-off-makes-this-a-great-budget-pc-for-creatives-as-well-as-gamers"
+    },
+    {
+      "title": "What being the new kid taught me about persuasion as a designer",
       "image": "https://placehold.co/600x400",
-      "summary": "Design by numbers, Teaching AI prototyping, Context is the new UI",
+      "summary": "People don’t say yes to ideas. They say yes to who they get to be.\nContinue reading on UX Collective »",
       "category": "UI/UX",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://uxdesign.cc/design-by-numbers-teaching-ai-prototyping-context-is-the-new-ui-c88a432a8df8?source=rss----138adf9c44c---4"
-    },
-    {
-      "title": " The best multicolour 3D printer for beginners is at a record low price for Black Friday ",
-      "image": "https://cdn.mos.cms.futurecdn.net/VjaaMztRzdPnA58uDHr3uZ-1920-80.jpg",
-      "summary": "The Anycubic Kobra X is now just $299.99.",
-      "category": "3D Art",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://www.creativebloq.com/deals/the-best-multicolour-3d-printer-for-beginners-is-at-a-record-low-price-for-black-friday"
-    },
-    {
-      "title": "What a ruler leaves out",
-      "image": "https://placehold.co/600x400",
-      "summary": "On designing tools as rules — and what they quietly subtract from the world\nContinue reading on UX Collective »",
-      "category": "UI/UX",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://uxdesign.cc/what-a-ruler-leaves-out-9250724a7f85?source=rss----138adf9c44c---4"
-    },
-    {
-      "title": " Disney's AI deal with Adobe is raising eyebrows ",
-      "image": "https://cdn.mos.cms.futurecdn.net/NShziMFKjRrarwNkXAnjuc-1920-80.jpg",
-      "summary": "But could it be the best solution for both companies?",
-      "category": "Tools",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://www.creativebloq.com/news/disneys-ai-deal-with-adobe-is-raising-eyebrows"
-    },
-    {
-      "title": "Making Immersive LLM Chat Experiences More Accessible",
-      "image": "http://files.smashing.media/articles/making-immersive-llm-chat-experiences-more-accessible/making-immersive-llm-chat-experiences-more-accessible.jpg",
-      "summary": "As LLM chat patterns become more widespread, making them accessible is essential to ensuring everyone can access the information, tools, and opportunities they offer. Drawing on his work improving these interfaces, Eric Bailey shares practical ways to make chat-based experiences on the web more accessible and usable for people who rely on assistive technology.",
-      "category": "AI Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://smashingmagazine.com/2026/11/making-immersive-llm-chat-experiences-more-accessible/"
+      "link": "https://uxdesign.cc/what-being-the-new-kid-taught-me-about-persuasion-as-a-designer-c731818f91d9?source=rss----138adf9c44c---4"
     }
   ]
 }
