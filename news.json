@@ -1,32 +1,14 @@
 {
-  "lastUpdated": "2026-11-11T04:49:52.195Z",
+  "lastUpdated": "2026-11-12T05:51:44.767Z",
   "articles": [
     {
-      "title": "Making Immersive LLM Chat Experiences More Accessible",
-      "image": "http://files.smashing.media/articles/making-immersive-llm-chat-experiences-more-accessible/making-immersive-llm-chat-experiences-more-accessible.jpg",
-      "summary": "As LLM chat patterns become more widespread, making them accessible is essential to ensuring everyone can access the information, tools, and opportunities they offer. Drawing on his work improving these interfaces, Eric Bailey shares practical ways to make chat-based experiences on the web more accessible and usable for people who rely on assistive technology.",
+      "title": " So, what are the best AI video generators, and how do they compare on price? ",
+      "image": "https://cdn.mos.cms.futurecdn.net/SATszKasT2s5mVyDk4ACK4-1920-80.jpg",
+      "summary": "We look at the hidden costs of the top 5 options.",
       "category": "AI Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://smashingmagazine.com/2026/11/making-immersive-llm-chat-experiences-more-accessible/"
-    },
-    {
-      "title": "AI Prototyping inside your design system. A hands-on guide for design & product teams.",
-      "image": "https://placehold.co/600x400",
-      "summary": "AI Prototyping inside your design system. A hands-on guide for design & product teams.",
-      "category": "UI/UX",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://uxdesign.cc/ai-prototyping-inside-your-design-system-a-hands-on-guide-for-design-product-teams-44825904c08d?source=rss----138adf9c44c---4"
-    },
-    {
-      "title": " Adobe's approach to AI has pleasantly surprised me ",
-      "image": "https://cdn.mos.cms.futurecdn.net/ttBN7BsyV6bomjQexAAeV6-1920-80.jpg",
-      "summary": "Why the Adobe MAX 2026 opening keynote has me feeling cautiously hopeful.",
-      "category": "Tools",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://www.creativebloq.com/features/adobes-approach-to-ai-has-pleasantly-surprised-me"
+      "link": "https://www.creativebloq.com/features/so-what-are-the-best-ai-video-generators-and-how-do-they-compare-on-price"
     },
     {
       "title": "A New Community For In-House UX People",
@@ -38,22 +20,40 @@
       "link": "https://smashingmagazine.com/2026/11/ux-insiders-community-in-house-ux-people/"
     },
     {
-      "title": " £568 off makes this a great budget PC for creatives as well as gamers ",
-      "image": "https://cdn.mos.cms.futurecdn.net/9L7jmSTUE52gyod77hJzHH-1920-80.jpg",
-      "summary": "The Acer NITRO 20 N20-101 is now as cheap as a budget laptop.",
+      "title": "Every click has a price now. Who designs how that “feels”?",
+      "image": "https://placehold.co/600x400",
+      "summary": "Every click has a price now. Who designs how that “feels”?",
       "category": "Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://www.creativebloq.com/deals/gbp568-off-makes-this-a-great-budget-pc-for-creatives-as-well-as-gamers"
+      "link": "https://uxdesign.cc/every-click-has-a-price-now-who-designs-how-that-feels-e3f00b6cabb8?source=rss----138adf9c44c---4"
     },
     {
-      "title": "What being the new kid taught me about persuasion as a designer",
-      "image": "https://placehold.co/600x400",
-      "summary": "People don’t say yes to ideas. They say yes to who they get to be.\nContinue reading on UX Collective »",
-      "category": "UI/UX",
+      "title": "Making Immersive LLM Chat Experiences More Accessible",
+      "image": "http://files.smashing.media/articles/making-immersive-llm-chat-experiences-more-accessible/making-immersive-llm-chat-experiences-more-accessible.jpg",
+      "summary": "As LLM chat patterns become more widespread, making them accessible is essential to ensuring everyone can access the information, tools, and opportunities they offer. Drawing on his work improving these interfaces, Eric Bailey shares practical ways to make chat-based experiences on the web more accessible and usable for people who rely on assistive technology.",
+      "category": "AI Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://uxdesign.cc/what-being-the-new-kid-taught-me-about-persuasion-as-a-designer-c731818f91d9?source=rss----138adf9c44c---4"
+      "link": "https://smashingmagazine.com/2026/11/making-immersive-llm-chat-experiences-more-accessible/"
+    },
+    {
+      "title": " Adobe MAX 2026 Sneaks: Project Link Up is making design playful again ",
+      "image": "https://cdn.mos.cms.futurecdn.net/uuAGGWst5eFVLY3Lmk8zKT-1920-80.jpg",
+      "summary": "I sit down with Hailin Jin, Adobe's research lead for imaging and design, to discuss how the project could revolutionise vector design.",
+      "category": "Tools",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://www.creativebloq.com/features/adobe-max-2026-sneaks-project-link-up-is-making-design-playful-again"
+    },
+    {
+      "title": "Why are we cloning Photoshop?",
+      "image": "https://placehold.co/600x400",
+      "summary": "Why are we cloning Photoshop?",
+      "category": "Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://uxdesign.cc/why-are-we-cloning-photoshop-52e6e165eef7?source=rss----138adf9c44c---4"
     }
   ]
 }
