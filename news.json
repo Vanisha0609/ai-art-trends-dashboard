@@ -1,14 +1,32 @@
 {
-  "lastUpdated": "2026-11-12T05:51:44.767Z",
+  "lastUpdated": "2026-11-13T05:12:58.953Z",
   "articles": [
     {
-      "title": " So, what are the best AI video generators, and how do they compare on price? ",
-      "image": "https://cdn.mos.cms.futurecdn.net/SATszKasT2s5mVyDk4ACK4-1920-80.jpg",
-      "summary": "We look at the hidden costs of the top 5 options.",
+      "title": " Don’t go anywhere without these 8 essential creative travel gadgets ",
+      "image": "https://cdn.mos.cms.futurecdn.net/TjympcuzbSvBnE6QLxWMtB-1920-80.jpg",
+      "summary": "These affordable travel accessories could help you out of a fix.",
+      "category": "Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://www.creativebloq.com/deals/dont-go-anywhere-without-these-8-essential-creative-travel-gadgets"
+    },
+    {
+      "title": " These are 13 of the best earphones on the market – and they’re all discounted for early Black Friday ",
+      "image": "https://cdn.mos.cms.futurecdn.net/Wh4VxXiNjKTe8RgAufz3Vk-1920-80.jpg",
+      "summary": "Linsoul’s IEM sale is truly impressive –I own 10 of these sets!",
+      "category": "Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://www.creativebloq.com/deals/these-are-13-of-the-best-earphones-on-the-market-and-theyre-all-discounted-for-early-black-friday"
+    },
+    {
+      "title": "Should You Actually Add AI To That? A Four-Question Audit For Product Teams",
+      "image": "http://files.smashing.media/articles/should-you-add-au-audit-product-teams/should-you-add-ai-audit-product-teams.jpg",
+      "summary": "An AI feature can save users time on a task, only for them to spend it checking the results. This practical audit helps product teams decide where AI earns its place and what users need to verify its output.",
       "category": "AI Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://www.creativebloq.com/features/so-what-are-the-best-ai-video-generators-and-how-do-they-compare-on-price"
+      "link": "https://smashingmagazine.com/2026/11/should-you-add-ai-audit-product-teams/"
     },
     {
       "title": "A New Community For In-House UX People",
@@ -20,40 +38,22 @@
       "link": "https://smashingmagazine.com/2026/11/ux-insiders-community-in-house-ux-people/"
     },
     {
-      "title": "Every click has a price now. Who designs how that “feels”?",
+      "title": "AI is the new old design material",
       "image": "https://placehold.co/600x400",
-      "summary": "Every click has a price now. Who designs how that “feels”?",
-      "category": "Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://uxdesign.cc/every-click-has-a-price-now-who-designs-how-that-feels-e3f00b6cabb8?source=rss----138adf9c44c---4"
-    },
-    {
-      "title": "Making Immersive LLM Chat Experiences More Accessible",
-      "image": "http://files.smashing.media/articles/making-immersive-llm-chat-experiences-more-accessible/making-immersive-llm-chat-experiences-more-accessible.jpg",
-      "summary": "As LLM chat patterns become more widespread, making them accessible is essential to ensuring everyone can access the information, tools, and opportunities they offer. Drawing on his work improving these interfaces, Eric Bailey shares practical ways to make chat-based experiences on the web more accessible and usable for people who rely on assistive technology.",
+      "summary": "AI is the new old design material",
       "category": "AI Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://smashingmagazine.com/2026/11/making-immersive-llm-chat-experiences-more-accessible/"
+      "link": "https://uxdesign.cc/ai-is-the-new-old-design-material-0e7f83540c9a?source=rss----138adf9c44c---4"
     },
     {
-      "title": " Adobe MAX 2026 Sneaks: Project Link Up is making design playful again ",
-      "image": "https://cdn.mos.cms.futurecdn.net/uuAGGWst5eFVLY3Lmk8zKT-1920-80.jpg",
-      "summary": "I sit down with Hailin Jin, Adobe's research lead for imaging and design, to discuss how the project could revolutionise vector design.",
-      "category": "Tools",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://www.creativebloq.com/features/adobe-max-2026-sneaks-project-link-up-is-making-design-playful-again"
-    },
-    {
-      "title": "Why are we cloning Photoshop?",
+      "title": "The AI mind tax that afflicts those who use AI best",
       "image": "https://placehold.co/600x400",
-      "summary": "Why are we cloning Photoshop?",
-      "category": "Design",
+      "summary": "The AI mind tax that afflicts those who use AI best",
+      "category": "AI Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://uxdesign.cc/why-are-we-cloning-photoshop-52e6e165eef7?source=rss----138adf9c44c---4"
+      "link": "https://uxdesign.cc/the-ai-mind-tax-that-afflicts-those-who-use-ai-best-3eb67ff167d0?source=rss----138adf9c44c---4"
     }
   ]
 }
