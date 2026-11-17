@@ -1,14 +1,32 @@
 {
-  "lastUpdated": "2026-11-16T04:53:07.900Z",
+  "lastUpdated": "2026-11-17T06:40:42.259Z",
   "articles": [
     {
-      "title": " With up to $300 off, these early MacBook Black Friday deals might be as good as they're going to get ",
-      "image": "https://cdn.mos.cms.futurecdn.net/Geq8aXXLEEdVD7RLNrxTSE-1920-80.jpg",
-      "summary": "The MacBook Air finally offers decent value again.",
-      "category": "AI Design",
+      "title": " Robert Pattinson as James Bond says a lot about Amazon's plans for 007 ",
+      "image": "https://cdn.mos.cms.futurecdn.net/rhpxFW8RFgb28TvFfrGkg8-1920-80.jpg",
+      "summary": "And as a fan, I'm a little shaken.",
+      "category": "Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://www.creativebloq.com/deals/with-up-to-usd300-off-these-early-macbook-black-friday-deals-might-be-as-good-as-they-get"
+      "link": "https://www.creativebloq.com/news/robert-pattinson-as-james-bond-says-a-lot-about-amazons-plans-for-007"
+    },
+    {
+      "title": "Why bother paying for software anymore?",
+      "image": "https://placehold.co/600x400",
+      "summary": "And why design is the answer AI bros didn’t expect.\nContinue reading on UX Collective »",
+      "category": "UI/UX",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://uxdesign.cc/why-bother-paying-for-software-anymore-e1f76093f772?source=rss----138adf9c44c---4"
+    },
+    {
+      "title": "UI edge cases: A reference guide",
+      "image": "https://placehold.co/600x400",
+      "summary": "UI edge cases: A reference guide",
+      "category": "UI/UX",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://uxdesign.cc/ui-edge-cases-a-reference-guide-e778061588ef?source=rss----138adf9c44c---4"
     },
     {
       "title": "A New Community For In-House UX People",
@@ -29,31 +47,13 @@
       "link": "https://smashingmagazine.com/2026/11/should-you-add-ai-audit-product-teams/"
     },
     {
-      "title": "Decision theatre or decision design?",
-      "image": "https://placehold.co/600x400",
-      "summary": "Decision theatre or decision design?",
-      "category": "Design",
+      "title": " Master fantasy book illustration with issue 273 of ImagineFX ",
+      "image": "https://cdn.mos.cms.futurecdn.net/TcGuNvTS36m72Z3bBQpYRj-1920-80.jpg",
+      "summary": "Practical inspiration for your art projects",
+      "category": "Illustration",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://uxdesign.cc/decision-theatre-or-decision-design-f1604f178685?source=rss----138adf9c44c---4"
-    },
-    {
-      "title": " I trusted Adobe Firefly because it was the safe AI option, now I'm not so sure ",
-      "image": "https://cdn.mos.cms.futurecdn.net/uUbpTvaqSDLvaVs2dTRkZJ-1920-80.jpg",
-      "summary": "Firefly is the safer AI image generator, but with OpenAI, ByteDance and Kling now in the mix, I'm questioning what that promise actually covers.",
-      "category": "Tools",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://www.creativebloq.com/news/i-trusted-adobe-firefly-because-it-was-the-safe-ai-option-now-im-not-so-sure"
-    },
-    {
-      "title": "Schrödinger’s Huang: Nvidia could not be everything to everybody",
-      "image": "https://placehold.co/600x400",
-      "summary": "A cautionary tale for Asian capital attempting to operate technology businesses on both sides of the Pacific simultaneously\nContinue reading on UX Collective »",
-      "category": "UI/UX",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://uxdesign.cc/schr%C3%B6dingers-huang-d1da36bff88c?source=rss----138adf9c44c---4"
+      "link": "https://www.creativebloq.com/news/master-fantasy-book-illustration-with-issue-273-of-imaginefx"
     }
   ]
 }
