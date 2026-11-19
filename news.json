@@ -1,15 +1,6 @@
 {
-  "lastUpdated": "2026-11-18T05:59:17.234Z",
+  "lastUpdated": "2026-11-19T05:59:52.686Z",
   "articles": [
-    {
-      "title": " I tried the Funbox kids' 3D printer with my daughter – but would I recommend it? ",
-      "image": "https://cdn.mos.cms.futurecdn.net/cZUJhPPinPYfS3GBZVw9eN-1920-80.jpg",
-      "summary": "The UGEE Funbox does most of what it promises, but it might not be for everyone.",
-      "category": "3D Art",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://www.creativebloq.com/reviews/i-tried-this-kids-3d-printer-with-my-daughter-but-would-i-recommend-it"
-    },
     {
       "title": "AI Sped Up The Build: How Can Accessibility Testing Keep Up?",
       "image": "http://files.smashing.media/articles/ai-sped-up-build-how-can-accessibility-testing-keep-up/ai-sped-up-build-how-can-accessibility-testing-keep-up.jpg",
@@ -20,22 +11,31 @@
       "link": "https://smashingmagazine.com/2026/11/ai-sped-up-build-how-can-accessibility-testing-keep-up/"
     },
     {
-      "title": "Everyone knows sparkles mean AI. Use them to make design audits easier",
+      "title": "Too Claudified",
       "image": "https://placehold.co/600x400",
-      "summary": "How to decipher your PM’s AI-generated mockup without losing hours\nContinue reading on UX Collective »",
+      "summary": "A client rejected my motion work for looking machine-made. I’d published the diagnosis five months earlier.\nContinue reading on UX Collective »",
       "category": "UI/UX",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://uxdesign.cc/everyone-knows-sparkles-mean-ai-use-them-to-make-design-audits-easier-bdacc76cef11?source=rss----138adf9c44c---4"
+      "link": "https://uxdesign.cc/too-claudified-9af067298b2a?source=rss----138adf9c44c---4"
     },
     {
-      "title": " With up to 31% off karaoke machines for Black Friday, you’ll be singing this Christmas ",
-      "image": "https://cdn.mos.cms.futurecdn.net/D7fg8fTyXcyc4R4Qrs9DBB-1920-80.jpg",
-      "summary": "From family entertainment to work parties, prepare for epic festive singalongs.",
+      "title": " Get up to 57% off Nintendo Switch games with these 19 Black Friday deals ",
+      "image": "https://cdn.mos.cms.futurecdn.net/eFybbuAtC5r45d74k4yyyY-1920-80.jpg",
+      "summary": "Early savings include both Switch and Switch 2 game deals.",
+      "category": "Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://www.creativebloq.com/deals/get-up-to-57-percent-off-nintendo-switch-games-with-these-19-black-friday-deals"
+    },
+    {
+      "title": " I was skeptical of this office chair designed for women, but it's a revelation ",
+      "image": "https://cdn.mos.cms.futurecdn.net/uBJtK8gaRKA9rpzy6PoUTA-1920-80.jpg",
+      "summary": "Unlike the pink Biro, I can see why the Musso E80 Muse Femmeposture exists.",
       "category": "AI Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://www.creativebloq.com/deals/with-up-to-31-percent-off-karaoke-machines-for-black-friday-youll-be-singing-this-christmas"
+      "link": "https://www.creativebloq.com/reviews/i-was-skeptical-of-this-office-chair-designed-for-women-but-its-a-revelation"
     },
     {
       "title": "Meet AI 2027 Conference (Dec 1)",
@@ -47,13 +47,13 @@
       "link": "https://smashingmagazine.com/2026/11/online-smashingconf-ai-2027/"
     },
     {
-      "title": "What is a researcher’s worth?",
+      "title": "If AI works from anywhere, why are we commuting to watch it?",
       "image": "https://placehold.co/600x400",
-      "summary": "What is a researcher’s worth?",
-      "category": "Design",
+      "summary": "If AI works from anywhere, why are we commuting to watch it?",
+      "category": "AI Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://uxdesign.cc/what-is-a-researchers-worth-ea14c95c6d12?source=rss----138adf9c44c---4"
+      "link": "https://uxdesign.cc/if-ai-works-from-anywhere-why-are-we-commuting-to-watch-it-f903012aaa86?source=rss----138adf9c44c---4"
     }
   ]
 }
