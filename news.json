@@ -1,14 +1,14 @@
 {
-  "lastUpdated": "2026-11-20T05:49:19.118Z",
+  "lastUpdated": "2026-11-21T05:44:11.650Z",
   "articles": [
     {
-      "title": "Send the Firefighters to the Fires",
-      "image": "https://placehold.co/600x400",
-      "summary": "Send the Firefighters to the Fires",
-      "category": "Design",
+      "title": " These 8BitDo Tomb Raider controllers have made me rethink collectable gaming hardware ",
+      "image": "https://cdn.mos.cms.futurecdn.net/jk6X29bJs93o8xSBtSYxZ7-1920-80.jpg",
+      "summary": "8BitDo’s Tomb Raider 30th Anniversary Ultimate 3 and Pro 3 are collectables you’ll actually want to use, and the unboxing alone is a treat.",
+      "category": "AI Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://uxdesign.cc/send-the-firefighters-to-the-fires-6cd7b1893ae7?source=rss----138adf9c44c---4"
+      "link": "https://www.creativebloq.com/news/these-8bitdo-tomb-raider-controllers-have-made-me-rethink-collectable-gaming-hardware"
     },
     {
       "title": "Meet AI 2027 Conference (Dec 1)",
@@ -20,15 +20,6 @@
       "link": "https://smashingmagazine.com/2026/11/online-smashingconf-ai-2027/"
     },
     {
-      "title": "Everyone’s got the tools. Not everyone’s got the tricks.",
-      "image": "https://placehold.co/600x400",
-      "summary": "What skateboarding history can remind designers about tools, repertoire and improvisation.\nContinue reading on UX Collective »",
-      "category": "UI/UX",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://uxdesign.cc/everyones-got-the-tools-not-everyone-s-got-the-tricks-986a5c154924?source=rss----138adf9c44c---4"
-    },
-    {
       "title": "AI Sped Up The Build: How Can Accessibility Testing Keep Up?",
       "image": "http://files.smashing.media/articles/ai-sped-up-build-how-can-accessibility-testing-keep-up/ai-sped-up-build-how-can-accessibility-testing-keep-up.jpg",
       "summary": "AI has sped up how teams design and build, but quality assurance (QA) testing hasn’t kept pace, and the web may be getting less accessible. Drawing on new research, Andrew Chung explains what separates the teams whose accessibility efforts are keeping up, and how to embed human judgment into AI-enabled workflows without slowing delivery.",
@@ -38,22 +29,31 @@
       "link": "https://smashingmagazine.com/2026/11/ai-sped-up-build-how-can-accessibility-testing-keep-up/"
     },
     {
-      "title": " Huion’s early Black Friday sale takes up to $328 off the best drawing tablets ",
-      "image": "https://cdn.mos.cms.futurecdn.net/W4zM6vDjVBkRwAFhL2X5yn-1920-80.jpg",
-      "summary": "I’ve rounded up the best early Huion Black Friday deals I've reviewed, from $27 pen tablets to pro displays.",
-      "category": "UI/UX",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://www.creativebloq.com/deals/huions-early-black-friday-sale-takes-up-to-usd328-off-the-best-drawing-tablets"
-    },
-    {
-      "title": " Nintendo Switch Black Friday deals already include rare discounts on the Switch 2 ",
-      "image": "https://cdn.mos.cms.futurecdn.net/FmZ8MfitWaGrcyQ9b9C8pa-1920-80.jpg",
-      "summary": "And there's up to 57% off on games.",
+      "title": " Nintendo Switch 2 has a super rare $30 discount ahead of Black Friday ",
+      "image": "https://cdn.mos.cms.futurecdn.net/nM92BFNdsdDGmJheDyKwn7-1920-80.jpg",
+      "summary": "And it might be the only decent deal we see.",
       "category": "Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://www.creativebloq.com/deals/nintendo-switch-black-friday-deals-already-include-rare-discounts-on-the-switch-2"
+      "link": "https://www.creativebloq.com/deals/the-nintendo-switch-2-has-a-rare-usd30-discount-ahead-of-black-friday"
+    },
+    {
+      "title": "Everyone’s got the tools. Not everyone’s got the tricks.",
+      "image": "https://placehold.co/600x400",
+      "summary": "What skateboarding history can remind designers about tools, repertoire and improvisation.\nContinue reading on UX Collective »",
+      "category": "UI/UX",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://uxdesign.cc/everyones-got-the-tools-not-everyone-s-got-the-tricks-986a5c154924?source=rss----138adf9c44c---4"
+    },
+    {
+      "title": "Send the Firefighters to the Fires",
+      "image": "https://placehold.co/600x400",
+      "summary": "Send the Firefighters to the Fires",
+      "category": "Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://uxdesign.cc/send-the-firefighters-to-the-fires-6cd7b1893ae7?source=rss----138adf9c44c---4"
     }
   ]
 }
