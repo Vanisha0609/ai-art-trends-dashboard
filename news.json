@@ -1,23 +1,14 @@
 {
-  "lastUpdated": "2026-11-21T05:44:11.650Z",
+  "lastUpdated": "2026-11-22T05:14:16.544Z",
   "articles": [
     {
-      "title": " These 8BitDo Tomb Raider controllers have made me rethink collectable gaming hardware ",
-      "image": "https://cdn.mos.cms.futurecdn.net/jk6X29bJs93o8xSBtSYxZ7-1920-80.jpg",
-      "summary": "8BitDo’s Tomb Raider 30th Anniversary Ultimate 3 and Pro 3 are collectables you’ll actually want to use, and the unboxing alone is a treat.",
-      "category": "AI Design",
+      "title": "The judge used to be the user",
+      "image": "https://placehold.co/600x400",
+      "summary": "AI collapsed the slow middle of building models. The people who once defined correct went with it.\nContinue reading on UX Collective »",
+      "category": "UI/UX",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://www.creativebloq.com/news/these-8bitdo-tomb-raider-controllers-have-made-me-rethink-collectable-gaming-hardware"
-    },
-    {
-      "title": "Meet AI 2027 Conference (Dec 1)",
-      "image": "http://files.smashing.media/articles/ai-conf/ai-conf-powered-by.png",
-      "summary": "Roll up your sleeves! Meet shiny new [AI 2027 Conference](https://smashingconf.com/ai-2027-conference), a friendly online conference on AI-ready design systems, AI + Figma and AI design patterns. What to expect in 2027 and where teams are getting AI right. [Jump to tickets.](https://smashingconf.com/ai-2027-conference/registration)",
-      "category": "Tools",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://smashingmagazine.com/2026/11/online-smashingconf-ai-2027/"
+      "link": "https://uxdesign.cc/the-judge-used-to-be-the-user-0a958f24bb32?source=rss----138adf9c44c---4"
     },
     {
       "title": "AI Sped Up The Build: How Can Accessibility Testing Keep Up?",
@@ -29,15 +20,6 @@
       "link": "https://smashingmagazine.com/2026/11/ai-sped-up-build-how-can-accessibility-testing-keep-up/"
     },
     {
-      "title": " Nintendo Switch 2 has a super rare $30 discount ahead of Black Friday ",
-      "image": "https://cdn.mos.cms.futurecdn.net/nM92BFNdsdDGmJheDyKwn7-1920-80.jpg",
-      "summary": "And it might be the only decent deal we see.",
-      "category": "Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://www.creativebloq.com/deals/the-nintendo-switch-2-has-a-rare-usd30-discount-ahead-of-black-friday"
-    },
-    {
       "title": "Everyone’s got the tools. Not everyone’s got the tricks.",
       "image": "https://placehold.co/600x400",
       "summary": "What skateboarding history can remind designers about tools, repertoire and improvisation.\nContinue reading on UX Collective »",
@@ -47,13 +29,31 @@
       "link": "https://uxdesign.cc/everyones-got-the-tools-not-everyone-s-got-the-tricks-986a5c154924?source=rss----138adf9c44c---4"
     },
     {
-      "title": "Send the Firefighters to the Fires",
-      "image": "https://placehold.co/600x400",
-      "summary": "Send the Firefighters to the Fires",
+      "title": " How SNTIENT 2.0 put a ruined city outside a bedroom-sized set ",
+      "image": "https://cdn.mos.cms.futurecdn.net/T4wpBiBTkuQoHutaCZLhZZ-1920-80.jpg",
+      "summary": "Unreal Engine and an LED wall enabled a tiny film set to create a vast dystopian world.",
+      "category": "UI/UX",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://www.creativebloq.com/news/how-sntient-2-0-put-a-ruined-city-outside-a-bedroom-sized-set"
+    },
+    {
+      "title": " Get up to 45% off top art supplies from Posca pens to Prismacolour pencils ",
+      "image": "https://cdn.mos.cms.futurecdn.net/9hU3KJJiatWLHeSwFBFWt5-1920-80.jpg",
+      "summary": "Michaels’ massive Black Friday sales event is already underway.",
       "category": "Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://uxdesign.cc/send-the-firefighters-to-the-fires-6cd7b1893ae7?source=rss----138adf9c44c---4"
+      "link": "https://www.creativebloq.com/deals/get-up-to-45-percent-off-top-art-supplies-from-posca-pens-to-prismacolour-pencils"
+    },
+    {
+      "title": "Meet AI 2027 Conference (Dec 1)",
+      "image": "http://files.smashing.media/articles/ai-conf/ai-conf-powered-by.png",
+      "summary": "Roll up your sleeves! Meet shiny new [AI 2027 Conference](https://smashingconf.com/ai-2027-conference), a friendly online conference on AI-ready design systems, AI + Figma and AI design patterns. What to expect in 2027 and where teams are getting AI right. [Jump to tickets.](https://smashingconf.com/ai-2027-conference/registration)",
+      "category": "Tools",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://smashingmagazine.com/2026/11/online-smashingconf-ai-2027/"
     }
   ]
 }
