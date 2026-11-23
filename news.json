@@ -1,15 +1,6 @@
 {
-  "lastUpdated": "2026-11-22T05:14:16.544Z",
+  "lastUpdated": "2026-11-23T05:53:37.439Z",
   "articles": [
-    {
-      "title": "The judge used to be the user",
-      "image": "https://placehold.co/600x400",
-      "summary": "AI collapsed the slow middle of building models. The people who once defined correct went with it.\nContinue reading on UX Collective »",
-      "category": "UI/UX",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://uxdesign.cc/the-judge-used-to-be-the-user-0a958f24bb32?source=rss----138adf9c44c---4"
-    },
     {
       "title": "AI Sped Up The Build: How Can Accessibility Testing Keep Up?",
       "image": "http://files.smashing.media/articles/ai-sped-up-build-how-can-accessibility-testing-keep-up/ai-sped-up-build-how-can-accessibility-testing-keep-up.jpg",
@@ -20,31 +11,31 @@
       "link": "https://smashingmagazine.com/2026/11/ai-sped-up-build-how-can-accessibility-testing-keep-up/"
     },
     {
-      "title": "Everyone’s got the tools. Not everyone’s got the tricks.",
+      "title": " “It’s not meant to replace your creativity”: Adobe’s AI pitch hasn’t changed in two years, but the tools have ",
+      "image": "https://cdn.mos.cms.futurecdn.net/uuAGGWst5eFVLY3Lmk8zKT-1920-80.jpg",
+      "summary": "Vice President Deepa Subramaniam discusses the empowerment of creative choice.",
+      "category": "Tools",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://www.creativebloq.com/features/its-not-meant-to-replace-your-creativity-adobes-ai-pitch-hasnt-changed-in-two-years-but-the-tools-have"
+    },
+    {
+      "title": "Lessons from 3D scanning St John’s Co-Cathedral",
       "image": "https://placehold.co/600x400",
-      "summary": "What skateboarding history can remind designers about tools, repertoire and improvisation.\nContinue reading on UX Collective »",
+      "summary": "Lessons from 3D scanning St John’s Co-Cathedral",
+      "category": "3D Art",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://uxdesign.cc/lessons-from-3d-scanning-st-johns-co-cathedral-700911d61cfe?source=rss----138adf9c44c---4"
+    },
+    {
+      "title": "Seven things AI killed while you were measuring productivity",
+      "image": "https://placehold.co/600x400",
+      "summary": "Why 80% of executives see no AI impact — and why they’re looking in the wrong place.\nContinue reading on UX Collective »",
       "category": "UI/UX",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://uxdesign.cc/everyones-got-the-tools-not-everyone-s-got-the-tricks-986a5c154924?source=rss----138adf9c44c---4"
-    },
-    {
-      "title": " How SNTIENT 2.0 put a ruined city outside a bedroom-sized set ",
-      "image": "https://cdn.mos.cms.futurecdn.net/T4wpBiBTkuQoHutaCZLhZZ-1920-80.jpg",
-      "summary": "Unreal Engine and an LED wall enabled a tiny film set to create a vast dystopian world.",
-      "category": "UI/UX",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://www.creativebloq.com/news/how-sntient-2-0-put-a-ruined-city-outside-a-bedroom-sized-set"
-    },
-    {
-      "title": " Get up to 45% off top art supplies from Posca pens to Prismacolour pencils ",
-      "image": "https://cdn.mos.cms.futurecdn.net/9hU3KJJiatWLHeSwFBFWt5-1920-80.jpg",
-      "summary": "Michaels’ massive Black Friday sales event is already underway.",
-      "category": "Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://www.creativebloq.com/deals/get-up-to-45-percent-off-top-art-supplies-from-posca-pens-to-prismacolour-pencils"
+      "link": "https://uxdesign.cc/seven-things-ai-killed-while-you-were-measuring-productivity-b4499232ac3d?source=rss----138adf9c44c---4"
     },
     {
       "title": "Meet AI 2027 Conference (Dec 1)",
@@ -54,6 +45,15 @@
       "style": "Unknown",
       "mood": "Neutral",
       "link": "https://smashingmagazine.com/2026/11/online-smashingconf-ai-2027/"
+    },
+    {
+      "title": " GTA 6 is proof that human creativity is still the most impressive technology we have ",
+      "image": "https://cdn.mos.cms.futurecdn.net/AQZ7LCHB3skKwP5viMdmyi-1920-80.jpg",
+      "summary": "AI tools promise to conjure whole worlds from a prompt. Three weeks in Rockstar’s Leonida showed me what thousands of human decisions really look like.",
+      "category": "AI Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://www.creativebloq.com/news/gta-6-is-proof-that-human-creativity-is-still-the-most-impressive-technology-we-have"
     }
   ]
 }
