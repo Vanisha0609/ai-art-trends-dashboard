@@ -1,41 +1,32 @@
 {
-  "lastUpdated": "2026-11-23T05:53:37.439Z",
+  "lastUpdated": "2026-11-24T08:31:49.100Z",
   "articles": [
     {
-      "title": "AI Sped Up The Build: How Can Accessibility Testing Keep Up?",
-      "image": "http://files.smashing.media/articles/ai-sped-up-build-how-can-accessibility-testing-keep-up/ai-sped-up-build-how-can-accessibility-testing-keep-up.jpg",
-      "summary": "AI has sped up how teams design and build, but quality assurance (QA) testing hasn’t kept pace, and the web may be getting less accessible. Drawing on new research, Andrew Chung explains what separates the teams whose accessibility efforts are keeping up, and how to embed human judgment into AI-enabled workflows without slowing delivery.",
+      "title": " \"I don’t erase mistakes, I paint over them\" – artist Fredrik Löfgren Eriksson on finding inspiration from Magic: The Gathering ",
+      "image": "https://cdn.mos.cms.futurecdn.net/brWjdhzr4R6otaiik43oQb-1920-80.jpg",
+      "summary": "Everything helps to create depth in this chaotic fantasy scene.",
+      "category": "AI Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://www.creativebloq.com/how-to/i-dont-erase-mistakes-i-paint-over-them-artist-fredrik-lofgren-eriksson-on-finding-inspiration-from-magic-the-gathering"
+    },
+    {
+      "title": "Is product design a people industry or a tech industry?",
+      "image": "https://placehold.co/600x400",
+      "summary": "The field talks about users and hires for prototyping. When money runs short, one half gets treated as optional.\nContinue reading on UX Collective »",
       "category": "UI/UX",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://smashingmagazine.com/2026/11/ai-sped-up-build-how-can-accessibility-testing-keep-up/"
+      "link": "https://uxdesign.cc/is-product-design-a-people-industry-or-a-tech-industry-b8f9acc8cb6d?source=rss----138adf9c44c---4"
     },
     {
-      "title": " “It’s not meant to replace your creativity”: Adobe’s AI pitch hasn’t changed in two years, but the tools have ",
-      "image": "https://cdn.mos.cms.futurecdn.net/uuAGGWst5eFVLY3Lmk8zKT-1920-80.jpg",
-      "summary": "Vice President Deepa Subramaniam discusses the empowerment of creative choice.",
-      "category": "Tools",
+      "title": " Can Ray Gunn's early concept art win people over to the movie's divisive style? ",
+      "image": "https://cdn.mos.cms.futurecdn.net/JXrXfe45eGwo7Pa6CNZCjK-1920-80.jpg",
+      "summary": "The art book is available to view online now.",
+      "category": "AI Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://www.creativebloq.com/features/its-not-meant-to-replace-your-creativity-adobes-ai-pitch-hasnt-changed-in-two-years-but-the-tools-have"
-    },
-    {
-      "title": "Lessons from 3D scanning St John’s Co-Cathedral",
-      "image": "https://placehold.co/600x400",
-      "summary": "Lessons from 3D scanning St John’s Co-Cathedral",
-      "category": "3D Art",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://uxdesign.cc/lessons-from-3d-scanning-st-johns-co-cathedral-700911d61cfe?source=rss----138adf9c44c---4"
-    },
-    {
-      "title": "Seven things AI killed while you were measuring productivity",
-      "image": "https://placehold.co/600x400",
-      "summary": "Why 80% of executives see no AI impact — and why they’re looking in the wrong place.\nContinue reading on UX Collective »",
-      "category": "UI/UX",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://uxdesign.cc/seven-things-ai-killed-while-you-were-measuring-productivity-b4499232ac3d?source=rss----138adf9c44c---4"
+      "link": "https://www.creativebloq.com/news/the-ray-gunn-art-book-is-free-to-view-online-now"
     },
     {
       "title": "Meet AI 2027 Conference (Dec 1)",
@@ -47,13 +38,22 @@
       "link": "https://smashingmagazine.com/2026/11/online-smashingconf-ai-2027/"
     },
     {
-      "title": " GTA 6 is proof that human creativity is still the most impressive technology we have ",
-      "image": "https://cdn.mos.cms.futurecdn.net/AQZ7LCHB3skKwP5viMdmyi-1920-80.jpg",
-      "summary": "AI tools promise to conjure whole worlds from a prompt. Three weeks in Rockstar’s Leonida showed me what thousands of human decisions really look like.",
-      "category": "AI Design",
+      "title": "Don’t make me read",
+      "image": "https://placehold.co/600x400",
+      "summary": "These newest findings on how people (don’t) read on the internet can help you build your next great thing.\nContinue reading on UX Collective »",
+      "category": "UI/UX",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://www.creativebloq.com/news/gta-6-is-proof-that-human-creativity-is-still-the-most-impressive-technology-we-have"
+      "link": "https://uxdesign.cc/dont-make-me-read-a6821e418bb1?source=rss----138adf9c44c---4"
+    },
+    {
+      "title": "AI Sped Up The Build: How Can Accessibility Testing Keep Up?",
+      "image": "http://files.smashing.media/articles/ai-sped-up-build-how-can-accessibility-testing-keep-up/ai-sped-up-build-how-can-accessibility-testing-keep-up.jpg",
+      "summary": "AI has sped up how teams design and build, but quality assurance (QA) testing hasn’t kept pace, and the web may be getting less accessible. Drawing on new research, Andrew Chung explains what separates the teams whose accessibility efforts are keeping up, and how to embed human judgment into AI-enabled workflows without slowing delivery.",
+      "category": "UI/UX",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://smashingmagazine.com/2026/11/ai-sped-up-build-how-can-accessibility-testing-keep-up/"
     }
   ]
 }
