@@ -1,32 +1,41 @@
 {
-  "lastUpdated": "2026-11-24T08:31:49.100Z",
+  "lastUpdated": "2026-11-25T07:05:56.110Z",
   "articles": [
     {
-      "title": " \"I don’t erase mistakes, I paint over them\" – artist Fredrik Löfgren Eriksson on finding inspiration from Magic: The Gathering ",
-      "image": "https://cdn.mos.cms.futurecdn.net/brWjdhzr4R6otaiik43oQb-1920-80.jpg",
-      "summary": "Everything helps to create depth in this chaotic fantasy scene.",
+      "title": " Robert Pattinson's James Bond will be different – should the brands be different too? ",
+      "image": "https://cdn.mos.cms.futurecdn.net/kWgTSYzpTAGKN7rsmQ5tKe-1920-80.jpg",
+      "summary": "Product placement might not be the same under Pattinson's tenure.",
+      "category": "Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://www.creativebloq.com/news/robert-pattinsons-james-bond-will-be-different-should-the-brands-be-different-too"
+    },
+    {
+      "title": " “It’s such an obvious partnership” – how D&D and World of Warcraft finally joined forces, according to the lead designer ",
+      "image": "https://cdn.mos.cms.futurecdn.net/yi7YFVDBF7znHQvDbiSs9J-1920-80.jpg",
+      "summary": "Senior Games designer James Wyatt explains how 50+ artists were blended into one Azeroth for D&D: World of Warcraft.",
       "category": "AI Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://www.creativebloq.com/how-to/i-dont-erase-mistakes-i-paint-over-them-artist-fredrik-lofgren-eriksson-on-finding-inspiration-from-magic-the-gathering"
+      "link": "https://www.creativebloq.com/features/its-such-an-obvious-partnership-how-d-and-d-and-world-of-warcraft-finally-joined-forces"
     },
     {
-      "title": "Is product design a people industry or a tech industry?",
+      "title": "Four hidden dimensions of effective teams",
       "image": "https://placehold.co/600x400",
-      "summary": "The field talks about users and hires for prototyping. When money runs short, one half gets treated as optional.\nContinue reading on UX Collective »",
+      "summary": "Four hidden dimensions of effective teams",
+      "category": "Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://uxdesign.cc/four-hidden-dimensions-of-effective-teams-be268c61cf44?source=rss----138adf9c44c---4"
+    },
+    {
+      "title": "AI Sped Up The Build: How Can Accessibility Testing Keep Up?",
+      "image": "http://files.smashing.media/articles/ai-sped-up-build-how-can-accessibility-testing-keep-up/ai-sped-up-build-how-can-accessibility-testing-keep-up.jpg",
+      "summary": "AI has sped up how teams design and build, but quality assurance (QA) testing hasn’t kept pace, and the web may be getting less accessible. Drawing on new research, Andrew Chung explains what separates the teams whose accessibility efforts are keeping up, and how to embed human judgment into AI-enabled workflows without slowing delivery.",
       "category": "UI/UX",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://uxdesign.cc/is-product-design-a-people-industry-or-a-tech-industry-b8f9acc8cb6d?source=rss----138adf9c44c---4"
-    },
-    {
-      "title": " Can Ray Gunn's early concept art win people over to the movie's divisive style? ",
-      "image": "https://cdn.mos.cms.futurecdn.net/JXrXfe45eGwo7Pa6CNZCjK-1920-80.jpg",
-      "summary": "The art book is available to view online now.",
-      "category": "AI Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://www.creativebloq.com/news/the-ray-gunn-art-book-is-free-to-view-online-now"
+      "link": "https://smashingmagazine.com/2026/11/ai-sped-up-build-how-can-accessibility-testing-keep-up/"
     },
     {
       "title": "Meet AI 2027 Conference (Dec 1)",
@@ -38,22 +47,13 @@
       "link": "https://smashingmagazine.com/2026/11/online-smashingconf-ai-2027/"
     },
     {
-      "title": "Don’t make me read",
+      "title": "Futures thinking as an everyday design practice",
       "image": "https://placehold.co/600x400",
-      "summary": "These newest findings on how people (don’t) read on the internet can help you build your next great thing.\nContinue reading on UX Collective »",
-      "category": "UI/UX",
+      "summary": "Futures thinking as an everyday design practice",
+      "category": "Design",
       "style": "Unknown",
       "mood": "Neutral",
-      "link": "https://uxdesign.cc/dont-make-me-read-a6821e418bb1?source=rss----138adf9c44c---4"
-    },
-    {
-      "title": "AI Sped Up The Build: How Can Accessibility Testing Keep Up?",
-      "image": "http://files.smashing.media/articles/ai-sped-up-build-how-can-accessibility-testing-keep-up/ai-sped-up-build-how-can-accessibility-testing-keep-up.jpg",
-      "summary": "AI has sped up how teams design and build, but quality assurance (QA) testing hasn’t kept pace, and the web may be getting less accessible. Drawing on new research, Andrew Chung explains what separates the teams whose accessibility efforts are keeping up, and how to embed human judgment into AI-enabled workflows without slowing delivery.",
-      "category": "UI/UX",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://smashingmagazine.com/2026/11/ai-sped-up-build-how-can-accessibility-testing-keep-up/"
+      "link": "https://uxdesign.cc/futures-thinking-as-an-everyday-design-practice-465146ee6db8?source=rss----138adf9c44c---4"
     }
   ]
 }
