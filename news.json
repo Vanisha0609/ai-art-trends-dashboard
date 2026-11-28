@@ -1,24 +1,6 @@
 {
-  "lastUpdated": "2026-11-27T06:51:36.865Z",
+  "lastUpdated": "2026-11-28T06:25:13.991Z",
   "articles": [
-    {
-      "title": " Stranger Than Heaven could be RGG Studio's answer to prestige TV's multilingual period epics ",
-      "image": "https://cdn.mos.cms.futurecdn.net/xxpqXeUbWVJJJptyEtbsyZ-1920-80.png",
-      "summary": "I've played three eras of RGG Studio's new crime epic and asked its director and art director how they built a multilingual, cinematic journey through five decades of Japanese history.",
-      "category": "UI/UX",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://www.creativebloq.com/features/stranger-than-heaven-could-be-rgg-studios-answer-to-prestige-tvs-multilingual-period-epics"
-    },
-    {
-      "title": "Machines are trying to get gut feelings while you’re telling me to ignore mine",
-      "image": "https://placehold.co/600x400",
-      "summary": "Machines are trying to get gut feelings while you’re telling me to ignore mine",
-      "category": "Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://uxdesign.cc/machines-are-trying-to-get-gut-feelings-while-youre-telling-me-to-ignore-mine-17095e56f22d?source=rss----138adf9c44c---4"
-    },
     {
       "title": "Meet AI 2027 Conference (Dec 1)",
       "image": "http://files.smashing.media/articles/ai-conf/ai-conf-powered-by.png",
@@ -29,24 +11,6 @@
       "link": "https://smashingmagazine.com/2026/11/online-smashingconf-ai-2027/"
     },
     {
-      "title": "Things you’re not supposed to say on LinkedIn",
-      "image": "https://placehold.co/600x400",
-      "summary": "What happens to how people write about work when readers can hire (or fire) them?\nContinue reading on UX Collective »",
-      "category": "UI/UX",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://uxdesign.cc/things-youre-not-supposed-to-say-on-linkedin-a9c2ec2a0185?source=rss----138adf9c44c---4"
-    },
-    {
-      "title": " The brilliant new iPad mini is $100 off for Black Friday ",
-      "image": "https://cdn.mos.cms.futurecdn.net/5zvCEhvL7gPycnwm84t3Qg-1920-80.jpg",
-      "summary": "It could be the perfect tablet for creatives on the go.",
-      "category": "Design",
-      "style": "Unknown",
-      "mood": "Neutral",
-      "link": "https://www.creativebloq.com/news/the-brilliant-new-ipad-mini-is-usd100-off-for-black-friday"
-    },
-    {
       "title": "AI Sped Up The Build: How Can Accessibility Testing Keep Up?",
       "image": "http://files.smashing.media/articles/ai-sped-up-build-how-can-accessibility-testing-keep-up/ai-sped-up-build-how-can-accessibility-testing-keep-up.jpg",
       "summary": "AI has sped up how teams design and build, but quality assurance (QA) testing hasn’t kept pace, and the web may be getting less accessible. Drawing on new research, Andrew Chung explains what separates the teams whose accessibility efforts are keeping up, and how to embed human judgment into AI-enabled workflows without slowing delivery.",
@@ -54,6 +18,42 @@
       "style": "Unknown",
       "mood": "Neutral",
       "link": "https://smashingmagazine.com/2026/11/ai-sped-up-build-how-can-accessibility-testing-keep-up/"
+    },
+    {
+      "title": " 6 Christmas gifts for designers, all discounted for Black Friday ",
+      "image": "https://cdn.mos.cms.futurecdn.net/ziBxrjKFvKjkjcRvtnXepc-1920-80.jpg",
+      "summary": "Treat the creative in your life with these Black Friday deals, all under $200/£200.",
+      "category": "Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://www.creativebloq.com/deals/6-christmas-gifts-for-designers-all-discounted-for-black-friday"
+    },
+    {
+      "title": " The best Black Friday deals for the writer in your life ",
+      "image": "https://cdn.mos.cms.futurecdn.net/DjfyHhxbaF8K4H4n6Hu6iG-1920-80.jpg",
+      "summary": "Even the most serious and literary author will find something to enjoy here.",
+      "category": "Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://www.creativebloq.com/news/the-best-black-friday-deals-for-the-writer-in-your-life"
+    },
+    {
+      "title": "How I use AI as a solo designer",
+      "image": "https://placehold.co/600x400",
+      "summary": "How I use AI as a solo designer",
+      "category": "AI Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://uxdesign.cc/how-do-i-use-ai-as-a-solo-designer-956a3954614e?source=rss----138adf9c44c---4"
+    },
+    {
+      "title": "Machines are trying to get gut feelings while you’re telling me to ignore mine",
+      "image": "https://placehold.co/600x400",
+      "summary": "Machines are trying to get gut feelings while you’re telling me to ignore mine",
+      "category": "Design",
+      "style": "Unknown",
+      "mood": "Neutral",
+      "link": "https://uxdesign.cc/machines-are-trying-to-get-gut-feelings-while-youre-telling-me-to-ignore-mine-17095e56f22d?source=rss----138adf9c44c---4"
     }
   ]
 }
